@@ -1,0 +1,1935 @@
+{
+  "party_id": "pp",
+  "codings": [
+    {
+      "id": "ECO1",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "E01",
+          "page": 5,
+          "quote": "Reducción del 25%; 35% para pymes antes de 2029. Medir horas y costes reales, no número de normas derogadas."
+        },
+        {
+          "unit_id": null,
+          "page": 5,
+          "quote": "Riesgos: trasladar controles al final sin recursos de inspección, subvencionar proyectos que se harían igualmente o privilegiar grandes solicitantes."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "E01 fija una reducción cuantificada de cargas (25%, 35% en pymes). El traslado de controles al final se deduce del párrafo de riesgos, por eso confianza media."
+    },
+    {
+      "id": "ECO2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta empresas públicas ni participaciones estatales; E03 y E04 son incentivos y reservas de insumos."
+    },
+    {
+      "id": "ECO3",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "R02",
+          "page": 19,
+          "quote": "Defensa de fondos y reciprocidad. Son resultados negociados en la UE, no decisiones unilaterales de España."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "R02 pide reciprocidad comercial en la PAC, una versión parcial de protección. No hay rechazo a acuerdos comerciales ni preferencia nacional en compras."
+    },
+    {
+      "id": "ECO4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta participación de trabajadores en decisiones o beneficios empresariales."
+    },
+    {
+      "id": "FIS1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "F01",
+          "page": 6,
+          "quote": "Deflactación, mayores mínimos y protección del SMI. Falta tarifa completa para calcular distribución y coste."
+        },
+        {
+          "unit_id": null,
+          "page": 2,
+          "quote": "Hay coincidencias en impuestos, vivienda y nuclear; existen diferencias en arraigo, clima y organización territorial."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Alta"
+      },
+      "rationale": "F01 propone deflactación y subida de mínimos, que la nota del catálogo cuenta como rebaja general. Aparece en conclusiones ejecutivas."
+    },
+    {
+      "id": "FIS2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona impuesto de patrimonio ni de grandes fortunas."
+    },
+    {
+      "id": "FIS3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona el impuesto de sucesiones y donaciones."
+    },
+    {
+      "id": "FIS4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre gravámenes a beneficios extraordinarios. EN02 retira el impuesto del 7% a la electricidad, que es otro instrumento."
+    },
+    {
+      "id": "FIS5",
+      "value": 1,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IN01",
+          "page": 16,
+          "quote": "Revisar gasto y estructura es posible; una auditoría completa con ahorros realizables exige alcance y recursos."
+        },
+        {
+          "unit_id": null,
+          "page": 24,
+          "quote": "La reducción de estructura administrativa debe proteger precisamente las plantillas que tramitan vivienda, prestaciones, contratos y evaluaciones."
+        },
+        {
+          "unit_id": null,
+          "page": 2,
+          "quote": "Los ahorros de una auditoría, el crecimiento y la lucha contra el fraude no son financiación garantizada antes de verificarse."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Alta",
+        "E": "Media"
+      },
+      "rationale": "Auditoría de gasto en 100 días y reducción de estructura administrativa. El mismo programa amplía plantillas (S01, J02) y no cuantifica supresiones, por eso 1."
+    },
+    {
+      "id": "FIS6",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "F03",
+          "page": 6,
+          "quote": "Tipo cero temporal ampliado. Definir cesta, fin de la medida y traslado efectivo a precios."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Alta"
+      },
+      "rationale": "F03 propone IVA cero temporal en alimentos; la nota del catálogo puntúa la versión temporal como 1."
+    },
+    {
+      "id": "FIS7",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "F04",
+          "page": 6,
+          "quote": "Amortización inmediata e incentivos anticipados. Separar aplazamiento de recaudación de pérdida permanente."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "F04 rebaja la carga de sociedades vía amortización e incentivos a la inversión; el informe no documenta una bajada del tipo."
+    },
+    {
+      "id": "EMP1",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 7,
+          "quote": "No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus."
+        }
+      ],
+      "viability": {},
+      "rationale": "Null por regla: 'No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus.'"
+    },
+    {
+      "id": "EMP2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "F01 menciona 'protección del SMI' dentro del IRPF; el informe no documenta posición sobre la cuantía del salario mínimo."
+    },
+    {
+      "id": "EMP3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 7,
+          "quote": "No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus."
+        }
+      ],
+      "viability": {},
+      "rationale": "Sin evidencia sobre coste del despido. El informe dice: 'No se atribuye al PP una derogación íntegra de la reforma laboral'."
+    },
+    {
+      "id": "EMP4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre sindicatos o negociación colectiva; la mención a sindicatos en la ficha 03 es del analista."
+    },
+    {
+      "id": "EMP5",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "L01",
+          "page": 7,
+          "quote": "Exención inicial y segundo año condicionado a ingresos. Verificar supervivencia empresarial, no solo altas."
+        },
+        {
+          "unit_id": "L02",
+          "page": 7,
+          "quote": "Umbral de 85.000 euros. El ahorro administrativo puede convivir con la pérdida de deducción del IVA soportado."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Alta"
+      },
+      "rationale": "Exención de cuota limitada al inicio y segundo año según ingresos, más franquicia de IVA: versión parcial, no cuota reducida general para bajos ingresos."
+    },
+    {
+      "id": "PEN1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "P01",
+          "page": 8,
+          "quote": "Continuidad de una regla ya existente, no incremento nuevo atribuible por completo al programa."
+        },
+        {
+          "unit_id": null,
+          "page": 8,
+          "quote": "La dirección lo eleva a compromiso prioritario."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Alta",
+        "E": "Alta"
+      },
+      "rationale": "Revalorización con IPC como compromiso prioritario; continuidad de la Ley 21/2021. Aparece en conclusiones ejecutivas."
+    },
+    {
+      "id": "PEN2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 8,
+          "quote": "No se presupone acuerdo sobre edad de retiro o modelo mixto."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe no atribuye al PP un modelo mixto ni capitalización: 'No se presupone acuerdo sobre edad de retiro o modelo mixto.'"
+    },
+    {
+      "id": "PEN3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": "P02",
+          "page": 8,
+          "quote": "Incentivos fiscales a compatibilizar actividad y pensión."
+        },
+        {
+          "unit_id": null,
+          "page": 8,
+          "quote": "No se presupone acuerdo sobre edad de retiro o modelo mixto."
+        }
+      ],
+      "viability": {},
+      "rationale": "P02 incentiva prolongar la actividad de forma voluntaria; el informe no documenta posición sobre la edad legal de jubilación."
+    },
+    {
+      "id": "PEN4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta subidas de pensiones mínimas o no contributivas por encima del IPC."
+    },
+    {
+      "id": "VIV1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V04",
+          "page": 9,
+          "quote": "Derogación de la Ley de Vivienda e incentivos a permanencia. Separar cambios de ley de la evolución del alquiler."
+        },
+        {
+          "unit_id": null,
+          "page": 9,
+          "quote": "Respaldo prioritario de Feijóo y equipo económico."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "V04 propone derogar la Ley de Vivienda; la nota del catálogo lo puntúa -2."
+    },
+    {
+      "id": "VIV2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V02",
+          "page": 9,
+          "quote": "Agilización y plazo de tres meses. Requiere administraciones territoriales, suelo servido y controles legales efectivos."
+        },
+        {
+          "unit_id": "V03",
+          "page": 9,
+          "quote": "IVA del 4% para primera compra joven y apoyo al ahorro."
+        },
+        {
+          "unit_id": null,
+          "page": 9,
+          "quote": "Respaldo prioritario de Feijóo y equipo económico."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Suelo, licencias en tres meses, IVA del 4% y derogación de la regulación del alquiler: enfoque de oferta y fiscalidad."
+    },
+    {
+      "id": "VIV3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "J03",
+          "page": 15,
+          "quote": "Requiere decisión judicial y clasificación correcta del supuesto. No es una expulsión administrativa universal."
+        },
+        {
+          "unit_id": null,
+          "page": 9,
+          "quote": "La recuperación judicial en 48 horas se evalúa en justicia; no confundir ocupación, allanamiento e impago de alquiler."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "J03 'Recuperación en 48 h' es una unidad propia del programa, por vía judicial."
+    },
+    {
+      "id": "VIV4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta expropiación ni movilización forzosa de viviendas vacías."
+    },
+    {
+      "id": "VIV5",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona pisos turísticos."
+    },
+    {
+      "id": "VIV6",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 9,
+          "quote": "Vox coincide en oferta y derogación, con diferencias en prioridad por nacionalidad."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe señala 'diferencias en prioridad por nacionalidad' con otro partido, pero no documenta una propuesta del PP sobre acceso a vivienda o ayudas por nacionalidad."
+    },
+    {
+      "id": "VIV7",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V01",
+          "page": 9,
+          "quote": "Objetivo agregado de legislatura, no un millón de viviendas públicas. Equivale a 250.000 anuales si se reparte en cuatro años."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Baja"
+      },
+      "rationale": "Un millón de viviendas como objetivo total público-privado; la nota del catálogo lo puntúa 1."
+    },
+    {
+      "id": "SAN1",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre conciertos sanitarios con empresas privadas."
+    },
+    {
+      "id": "SAN2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre acceso sanitario de inmigrantes en situación irregular."
+    },
+    {
+      "id": "SAN3",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "S03",
+          "page": 10,
+          "quote": "Plan de largo plazo. Anuncio previo: 10.000 profesionales y 700 millones/año; no es crédito presupuestario aprobado."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "Amplía salud mental (plan 2027-2037); el informe no menciona dentista ni óptica, por eso versión parcial."
+    },
+    {
+      "id": "SAN4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 10,
+          "quote": "El texto de paliativos no basta para afirmar una derogación expresa de la ley de eutanasia."
+        }
+      ],
+      "viability": {},
+      "rationale": "Null por regla: 'El texto de paliativos no basta para afirmar una derogación expresa de la ley de eutanasia.'"
+    },
+    {
+      "id": "EDU1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "ED03",
+          "page": 11,
+          "quote": "Ampliar estabilidad de conciertos y elección. Costear plaza y transporte y controlar selección del alumnado."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "ED03 amplía la estabilidad de los conciertos y la libertad de elección: lo contrario de la afirmación."
+    },
+    {
+      "id": "EDU2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre lengua vehicular o elección de castellano; ED02 menciona 'lenguas' solo como detalle de la PAU."
+    },
+    {
+      "id": "EDU3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "ED01",
+          "page": 11,
+          "quote": "Sustituir LOMLOE y reforzar lectoescritura/cálculo son decisiones distintas: la primera no garantiza la segunda."
+        },
+        {
+          "unit_id": null,
+          "page": 11,
+          "quote": "Los criterios de aprobación más exigentes deben acompañarse de apoyos: sin ellos pueden cambiar la repetición sin mejorar aprendizaje."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "ED01 sustituye la LOMLOE; el párrafo de efectos describe criterios de aprobación más exigentes."
+    },
+    {
+      "id": "EDU4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "ED04 cita becas sin cuantía ni alcance; indicio muy débil, sin posición sobre gratuidad universitaria."
+    },
+    {
+      "id": "EDU5",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta veto parental a contenidos."
+    },
+    {
+      "id": "FAM1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "FA01",
+          "page": 12,
+          "quote": "Unificar deducciones y hacerlas reembolsables puede llegar a hogares sin cuota de IRPF. Falta cuantía y escala completas."
+        },
+        {
+          "unit_id": null,
+          "page": 12,
+          "quote": "Prioridad nacional ratificada; faltan acuerdos de cofinanciación por comunidad."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Crédito familiar mensual reembolsable, que la nota del catálogo cuenta como 2. Falta la cuantía."
+    },
+    {
+      "id": "FAM2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 12,
+          "quote": "Las propuestas de gestación y reproducción no se convierten por inferencia en una posición completa sobre aborto."
+        }
+      ],
+      "viability": {},
+      "rationale": "Null por regla: 'Las propuestas de gestación y reproducción no se convierten por inferencia en una posición completa sobre aborto.'"
+    },
+    {
+      "id": "FAM3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "FA02",
+          "page": 12,
+          "quote": "Meta de fin de legislatura; cofinanciación estatal/autonómica al 50%. Gratis no equivale a plaza disponible."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Educación 0-3 gratuita como meta de legislatura, cofinanciada al 50%."
+    },
+    {
+      "id": "FAM4",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "FA03",
+          "page": 12,
+          "quote": "Ampliación y organización del tiempo. Sin duración final ni calendario, no hay compromiso único cuantificable."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "Propone ampliar permisos sin duración ni pago al 100%: versión parcial."
+    },
+    {
+      "id": "SOC1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "SO01",
+          "page": 13,
+          "quote": "Integrar IMV y subsidios con empleo/formación. Es anuncio ratificado, no un reglamento operativo ni un ahorro probado."
+        },
+        {
+          "unit_id": null,
+          "page": 13,
+          "quote": "Respaldo adicional a activación de Urrutia (16/11), además de Feijóo."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Renta de activación que integra IMV con empleo; la nota del catálogo la cuenta como 2. Mencionada en conclusiones ejecutivas."
+    },
+    {
+      "id": "SOC2",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "SO01",
+          "page": 13,
+          "quote": "Integrar IMV y subsidios con empleo/formación. Es anuncio ratificado, no un reglamento operativo ni un ahorro probado."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "La renta de activación condiciona la prestación al empleo, lo opuesto a una renta incondicional. No hay rechazo explícito a la renta básica."
+    },
+    {
+      "id": "SOC3",
+      "value": -1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "SO04",
+          "page": 13,
+          "quote": "Revisión de la autodeterminación registral. Trámite legal y posibles controversias de derechos; efectos no reducibles a coste."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "SO04 revisa la autodeterminación registral; el informe dice 'revisión', no derogación, por eso -1."
+    },
+    {
+      "id": "SOC4",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 15,
+          "quote": "La protección frente a violencia de género debe evaluarse por acceso y seguridad, no solo por dispositivos."
+        }
+      ],
+      "viability": {},
+      "rationale": "Indicio indirecto: la ficha de justicia del PP mantiene el término violencia de género y medidas de protección. No hay unidad sobre la ley."
+    },
+    {
+      "id": "SOC5",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "La ficha 09 incluye 'igualdad' en el título, pero ninguna unidad ni párrafo documenta políticas de igualdad entre mujeres y hombres."
+    },
+    {
+      "id": "INM1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IM03",
+          "page": 14,
+          "quote": "Restringir regularizaciones y condicionar renovaciones. La viabilidad depende del texto y de derechos aplicables."
+        },
+        {
+          "unit_id": null,
+          "page": 14,
+          "quote": "Posición oficial y prioridad de Feijóo."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "IM03 restringe regularizaciones: lo contrario de una regularización extraordinaria. Conserva el arraigo como excepcional."
+    },
+    {
+      "id": "INM2",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IM04",
+          "page": 14,
+          "quote": "Más exigencias y cooperación exterior. Ninguna ley española obliga por sí sola a otro Estado a readmitir."
+        },
+        {
+          "unit_id": "IM01",
+          "page": 14,
+          "quote": "Es un plazo de identificación, no garantía de resolver asilo o ejecutar todas las devoluciones en siete días."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Más retornos e identificación en 7 días, con garantías; la nota del catálogo lo puntúa 1. No hay expulsión sistemática."
+    },
+    {
+      "id": "INM3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IM02",
+          "page": 14,
+          "quote": "Contratación por sectores y cooperación de origen. Empleadores, consulados y reconocimiento de competencias son determinantes."
+        },
+        {
+          "unit_id": null,
+          "page": 14,
+          "quote": "Los cupos deben conectarse con las necesidades de construcción y cuidados del propio programa."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "IM02 'Cupos laborales' con contratación por sectores y cooperación de origen."
+    },
+    {
+      "id": "INM4",
+      "value": 2,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 14,
+          "quote": "La prohibición de prendas requiere un examen específico de proporcionalidad, no una conclusión automática."
+        }
+      ],
+      "viability": {},
+      "rationale": "La ficha de inmigración del PP analiza una 'prohibición de prendas'; se deduce del párrafo, sin unidad propia."
+    },
+    {
+      "id": "INM5",
+      "value": 2,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IM04",
+          "page": 14,
+          "quote": "Más exigencias y cooperación exterior. Ninguna ley española obliga por sí sola a otro Estado a readmitir."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "La unidad 'Retornos y nacionalidad' propone 'más exigencias'; el informe no detalla los requisitos de nacionalidad, por eso confianza media."
+    },
+    {
+      "id": "INM6",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre acogida de refugiados ni vías legales de llegada."
+    },
+    {
+      "id": "SEG1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "J04",
+          "page": 15,
+          "quote": "Endurecimientos y ampliaciones penales. Aprobar una pena no demuestra reducción de delitos."
+        },
+        {
+          "unit_id": "J01",
+          "page": 15,
+          "quote": "Procesos más ágiles. Para reducir demora hay que dotar juzgados, fiscalías, registros y asistencia jurídica."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "J04 endurece penas y J01 trata la multirreincidencia."
+    },
+    {
+      "id": "SEG2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la Ley de Seguridad Ciudadana."
+    },
+    {
+      "id": "SEG3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "J02",
+          "page": 15,
+          "quote": "Más capacidad policial y judicial, equiparación y profesión de riesgo. Coste salarial y previsional recurrente."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "J02: más plantilla policial, equiparación salarial y profesión de riesgo."
+    },
+    {
+      "id": "SEG4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona nuevas cárceles."
+    },
+    {
+      "id": "INS1",
+      "value": 1,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IN02",
+          "page": 16,
+          "quote": "Reformas de nombramientos y autonomía. Separar aprobación legal, mayorías de designación y control constitucional."
+        },
+        {
+          "unit_id": null,
+          "page": 16,
+          "quote": "La dirección presenta regeneración como prioridad; Gamarra tiene responsabilidad sectorial."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "IN02 reforma nombramientos y autonomía del CGPJ y la Fiscalía; el informe no precisa que los jueces elijan a la mayoría, por eso 1."
+    },
+    {
+      "id": "INS2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona monarquía ni república."
+    },
+    {
+      "id": "INS3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta penas o imprescriptibilidad de la corrupción; la regeneración se describe como transparencia, nombramientos e incompatibilidades."
+    },
+    {
+      "id": "INS4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta cambios de proporcionalidad electoral; la reforma censal del 16/11 trata del voto de desplazados por ETA."
+    },
+    {
+      "id": "INS5",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta reducción de políticos, asesores o cargos de confianza."
+    },
+    {
+      "id": "INS6",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona aforamientos."
+    },
+    {
+      "id": "TER1",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 22,
+          "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox."
+        },
+        {
+          "unit_id": null,
+          "page": 30,
+          "quote": "Discrepancias sobre arraigo, clima, autonomías y enfoque de protección social."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe describe al PP con orientación de 'Estado autonómico' y discrepancia sobre autonomías; no hay unidad de recentralización. Indicio indirecto."
+    },
+    {
+      "id": "TER2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "T04",
+          "page": 17,
+          "quote": "Cambios penales y reversión de decisiones legislativas. No anulan automáticamente resoluciones judiciales firmes."
+        },
+        {
+          "unit_id": null,
+          "page": 17,
+          "quote": "Una derogación no puede presumirse retroactiva para empeorar situaciones penales firmes."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "T04 'Unidad y amnistía' propone revertir decisiones legislativas; el párrafo habla de derogación."
+    },
+    {
+      "id": "TER3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición explícita sobre referéndum de independencia; T04 trata cambios penales sin mencionarlo."
+    },
+    {
+      "id": "TER4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona Estado plurinacional ni federal."
+    },
+    {
+      "id": "TER5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "T01",
+          "page": 17,
+          "quote": "Modelo multilateral y fondo transitorio. Falta una tabla de recursos y resultados por comunidad."
+        },
+        {
+          "unit_id": null,
+          "page": 17,
+          "quote": "La Declaración de Zaragoza de enero, firmada por dirigentes territoriales, es evidencia de apoyo a la multilateralidad."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Modelo multilateral de financiación respaldado por la Declaración de Zaragoza. Aparece en conclusiones ejecutivas."
+    },
+    {
+      "id": "ENE1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "EN01",
+          "page": 18,
+          "quote": "Tramitar extensiones en 100 días no equivale a obtener todas las autorizaciones en ese plazo."
+        },
+        {
+          "unit_id": null,
+          "page": 2,
+          "quote": "Hay coincidencias en impuestos, vivienda y nuclear; existen diferencias en arraigo, clima y organización territorial."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "EN01 tramita extensiones nucleares en 100 días. Aparece en conclusiones ejecutivas."
+    },
+    {
+      "id": "ENE2",
+      "value": -1,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "EN04",
+          "page": 18,
+          "quote": "Ajustar el ritmo de transición y mejorar resiliencia. No permite dejar de cumplir compromisos europeos vinculantes."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "EN04 ajusta el ritmo de la transición sin abandonar compromisos: versión parcial de lo contrario."
+    },
+    {
+      "id": "ENE3",
+      "value": -1,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 18,
+          "quote": "Vox coincide en nuclear, pero su postura climática no es idéntica al compromiso del PP con descarbonización."
+        },
+        {
+          "unit_id": "EN04",
+          "page": 18,
+          "quote": "Ajustar el ritmo de transición y mejorar resiliencia. No permite dejar de cumplir compromisos europeos vinculantes."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "El informe atribuye al PP un compromiso con la descarbonización y solo un ajuste de ritmo; no hay propuesta de salir del Pacto Verde."
+    },
+    {
+      "id": "ENE4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta una empresa pública de energía."
+    },
+    {
+      "id": "ENE5",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "EN02",
+          "page": 18,
+          "quote": "Retirar impuesto del 7% y cambiar apoyos sociales. El efecto final depende de traslado a precios y financiación."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Retira un impuesto eléctrico del 7%; no hay medidas sobre carburantes, por eso versión parcial."
+    },
+    {
+      "id": "AGR1",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona Mercosur; R02 habla de reciprocidad sin oponerse a acuerdos concretos."
+    },
+    {
+      "id": "AGR2",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "R03",
+          "page": 19,
+          "quote": "Modernización, reutilización y otras infraestructuras. Comparar ahorro real de agua, energía y efecto sobre cuencas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "R03 propone infraestructuras hidráulicas y modernización; no menciona trasvases ni embalses de forma explícita."
+    },
+    {
+      "id": "AGR3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 19,
+          "quote": "mayores divergencias en regulación ambiental, caza, litoral y política comercial."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe cita divergencias sobre caza sin indicar la dirección de la posición del PP; no menciona toros."
+    },
+    {
+      "id": "AGR4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta prioridad a pequeñas explotaciones o agroecología; R04 apoya a jóvenes agricultores."
+    },
+    {
+      "id": "INF1",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta transporte gratuito ni abono único."
+    },
+    {
+      "id": "INF2",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IF02",
+          "page": 20,
+          "quote": "Priorizar mantenimiento y seguridad. Requiere inventario de activos, diagnóstico y contratos ejecutables."
+        },
+        {
+          "unit_id": "IF01",
+          "page": 20,
+          "quote": "300.000 millones de inversión pública y privada. No son 300.000 millones de gasto estatal en una legislatura."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Prioriza mantenimiento (IF02) y Cercanías (IF03), pero mantiene un plan de 300.000 millones en nuevas obras: versión parcial."
+    },
+    {
+      "id": "INF3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la prohibición de coches de combustión en 2035."
+    },
+    {
+      "id": "TEC1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IA04",
+          "page": 21,
+          "quote": "Verificación de edad y restricciones en redes. Eficacia técnica, privacidad y compatibilidad europea son condicionantes."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "IA04 propone verificación de edad y restricciones en redes para menores."
+    },
+    {
+      "id": "TEC2",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 21,
+          "quote": "Existe espacio transversal para digitalización y alfabetización, no necesariamente para toda restricción de plataformas."
+        }
+      ],
+      "viability": {},
+      "rationale": "Las restricciones a plataformas documentadas se limitan a menores (TEC1); no hay impuestos ni regulación general de grandes tecnológicas."
+    },
+    {
+      "id": "TEC3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IA01",
+          "page": 21,
+          "quote": "Automatizar trámites y reconocer derechos de oficio. La responsabilidad y la revisión humana no desaparecen."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "IA01 'Administración con IA' automatiza trámites. La digitalización aparece en conclusiones ejecutivas."
+    },
+    {
+      "id": "TEC4",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre efectivo ni euro digital."
+    },
+    {
+      "id": "EXT1",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "EX01",
+          "page": 22,
+          "quote": "Ley plurianual y modernización. El programa revisado no permite atribuir una cifra total cerrada y financiada al conjunto."
+        },
+        {
+          "unit_id": null,
+          "page": 22,
+          "quote": "Incrementar presupuesto no garantiza entregas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Ley plurianual de defensa con más presupuesto, sin cifra ni objetivo OTAN explícito."
+    },
+    {
+      "id": "EXT2",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "EX03",
+          "page": 22,
+          "quote": "Continuidad de apoyo y relaciones europeas/transatlánticas. Separar posición diplomática de resultado externo."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "EX03 mantiene el apoyo a Ucrania; el informe no precisa material militar, por eso confianza media."
+    },
+    {
+      "id": "EXT3",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona Israel."
+    },
+    {
+      "id": "EXT4",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 22,
+          "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox."
+        },
+        {
+          "unit_id": "EX02",
+          "page": 22,
+          "quote": "Defender PAC, cohesión y competitividad. Negociar es controlable; conseguir toda la asignación pretendida no lo es."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "El informe atribuye al PP una orientación europeísta y defensa del presupuesto europeo; no hay propuesta de recuperar soberanía."
+    },
+    {
+      "id": "EXT5",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "EX03",
+          "page": 22,
+          "quote": "Continuidad de apoyo y relaciones europeas/transatlánticas. Separar posición diplomática de resultado externo."
+        },
+        {
+          "unit_id": "EX01",
+          "page": 22,
+          "quote": "Ley plurianual y modernización. El programa revisado no permite atribuir una cifra total cerrada y financiada al conjunto."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Continuidad de las relaciones transatlánticas y ley plurianual de defensa: lo contrario de salir o reducir la implicación en la OTAN."
+    },
+    {
+      "id": "EXT6",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 22,
+          "quote": "En Gibraltar, Sáhara y relaciones con terceros, distinguir revisión política, facultades jurídicas y consentimiento de otros actores."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe menciona una 'revisión política' sobre el Sáhara sin indicar su dirección."
+    },
+    {
+      "id": "CUL1",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "CU02",
+          "page": 23,
+          "quote": "Cambios de marco y uso institucional. Requieren evaluar derechos, competencias y estabilidad más allá del mandato."
+        },
+        {
+          "unit_id": null,
+          "page": 30,
+          "quote": "Disenso relevante en alquiler, orientación fiscal, LOMLOE, memoria y derechos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "CU02 'Memoria y lenguas' propone cambios de marco; el informe no dice derogación expresa, por eso 1."
+    },
+    {
+      "id": "CUL2",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "CU02",
+          "page": 23,
+          "quote": "Cambios de marco y uso institucional. Requieren evaluar derechos, competencias y estabilidad más allá del mandato."
+        },
+        {
+          "unit_id": null,
+          "page": 23,
+          "quote": "Patrimonio, deporte de base y protección del consumidor admiten acuerdos más amplios que memoria, lengua parlamentaria o gobernanza de medios."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "CU02 cambia el uso institucional de las lenguas y el informe lo sitúa entre los puntos disputados ('lengua parlamentaria'); la dirección restrictiva se deduce."
+    },
+    {
+      "id": "CUL3",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "CU03",
+          "page": 23,
+          "quote": "Reforma de gobernanza y profesionalización. Sustituir responsables no prueba independencia o pluralismo."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "CU03 reforma la gobernanza de RTVE y organismos; no propone reducirla ni privatizarla. La nota del catálogo cuenta reforzar la independencia como contrario."
+    },
+    {
+      "id": "CUL4",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "CU01",
+          "page": 23,
+          "quote": "Apoyo cultural e incentivos. Publicar criterios de selección y cobertura territorial, no solo cuantía adjudicada."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "CU01 da apoyo cultural e incentivos al mecenazgo; no hay acceso gratuito ni más ayudas directas cuantificadas."
+    }
+  ],
+  "extra_statements": [
+    {
+      "id": "X_pp_1",
+      "ambito": 2,
+      "texto": "Los jóvenes de 18 a 35 años deberían pagar mucho menos IRPF, o nada, durante sus primeros años de trabajo.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "F02",
+          "page": 6,
+          "quote": "18-35 años: rebajas 100/75/50/25% en los cuatro primeros ejercicios. Precisar cuota, transición y límites."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "F02 rebaja el IRPF a jóvenes un 100/75/50/25% en los cuatro primeros ejercicios."
+    },
+    {
+      "id": "X_pp_2",
+      "ambito": 5,
+      "texto": "Los jóvenes que compran su primera vivienda deberían pagar un IVA reducido del 4%.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V03",
+          "page": 9,
+          "quote": "IVA del 4% para primera compra joven y apoyo al ahorro."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "V03 fija IVA del 4% en la primera compra joven, con ahorro bonificado y avales."
+    },
+    {
+      "id": "X_pp_3",
+      "ambito": 4,
+      "texto": "Quienes sigan trabajando tras cumplir la edad de jubilación deberían recibir incentivos fiscales para compatibilizar salario y pensión.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "P02",
+          "page": 8,
+          "quote": "Incentivos fiscales a compatibilizar actividad y pensión."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "P02 'Jubilación activa' con incentivos fiscales."
+    },
+    {
+      "id": "X_pp_4",
+      "ambito": 12,
+      "texto": "Si el Parlamento no aprueba presupuestos durante dos años seguidos, deberían convocarse elecciones generales de forma automática.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IN04",
+          "page": 16,
+          "quote": "Añadir una disolución automática altera un marco constitucional que hoy prevé prórroga presupuestaria."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "IN04 'Dos prórrogas: elecciones' propone disolución automática; viabilidad Baja en los tres escenarios."
+    },
+    {
+      "id": "X_pp_5",
+      "ambito": 12,
+      "texto": "Un nuevo Gobierno debería auditar todo el gasto y la estructura de la Administración en sus primeros cien días.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IN01",
+          "page": 16,
+          "quote": "Revisar gasto y estructura es posible; una auditoría completa con ahorros realizables exige alcance y recursos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Alta",
+        "E": "Media"
+      },
+      "rationale": "IN01 'Auditoría en 100 días'; los ahorros de auditoría figuran en conclusiones ejecutivas."
+    },
+    {
+      "id": "X_pp_6",
+      "ambito": 9,
+      "texto": "La Administración debería conceder de oficio las prestaciones sociales a quien tenga derecho, usando los datos que ya tiene.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "SO02",
+          "page": 13,
+          "quote": "Reconocimiento con datos disponibles. Puede reducir exclusión administrativa; necesita bases legales, calidad y recurso humano."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "SO02 'Prestaciones de oficio'; IA01 reconoce derechos de oficio."
+    },
+    {
+      "id": "X_pp_7",
+      "ambito": 3,
+      "texto": "Los autónomos y pequeños negocios que facturen menos de 85.000 euros al año no deberían tener que cobrar IVA.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "L02",
+          "page": 7,
+          "quote": "Umbral de 85.000 euros. El ahorro administrativo puede convivir con la pérdida de deducción del IVA soportado."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Alta"
+      },
+      "rationale": "L02 adopta la franquicia europea de IVA con umbral de 85.000 euros."
+    },
+    {
+      "id": "X_pp_8",
+      "ambito": 7,
+      "texto": "La prueba de acceso a la universidad debería ser común en toda España, con los mismos contenidos y criterios de corrección.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "ED02",
+          "page": 11,
+          "quote": "Acuerdo con comunidades y universidades; requiere concretar contenidos, corrección, lenguas y adaptaciones."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "ED02 'PAU común'."
+    },
+    {
+      "id": "X_pp_9",
+      "ambito": 6,
+      "texto": "La atención primaria debería reforzarse con miles de médicos adicionales, unos 4.500 más en toda España.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "S01",
+          "page": 10,
+          "quote": "La métrica debe ser incremento neto de efectivos y jornadas, descontando jubilaciones y cambios entre territorios."
+        },
+        {
+          "unit_id": null,
+          "page": 25,
+          "quote": "Incremento anunciado en primaria."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "S01 'Primaria: 4.500 médicos'; personal sanitario figura en conclusiones ejecutivas."
+    },
+    {
+      "id": "X_pp_10",
+      "ambito": 16,
+      "texto": "España debería aprobar un plan de infraestructuras a quince años con unos 300.000 millones de inversión pública y privada.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IF01",
+          "page": 20,
+          "quote": "300.000 millones de inversión pública y privada. No son 300.000 millones de gasto estatal en una legislatura."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "IF01 'Plan a 15 años' de 300.000 millones públicos y privados."
+    },
+    {
+      "id": "X_pp_11",
+      "ambito": 8,
+      "texto": "Los gastos de contratar cuidadores profesionales para personas dependientes deberían desgravar en el IRPF.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "FA04",
+          "page": 12,
+          "quote": "Más financiación estatal y deducción del 40% de cuidado profesional. Necesita elegibilidad y gasto fiscal explícitos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "FA04 propone una deducción del 40% por cuidado profesional."
+    },
+    {
+      "id": "X_pp_12",
+      "ambito": 10,
+      "texto": "Los inmigrantes que llegan de forma irregular deberían ser identificados en un plazo máximo de siete días.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IM01",
+          "page": 14,
+          "quote": "Es un plazo de identificación, no garantía de resolver asilo o ejecutar todas las devoluciones en siete días."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "IM01 'Identificación en 7 días'; la inmigración es prioridad declarada."
+    }
+  ],
+  "salience_by_ambito": [
+    {
+      "ambito": 1,
+      "salience": "media",
+      "reason": "4 unidades (E01-E04); sin mención en conclusiones ejecutivas ni prioridad declarada."
+    },
+    {
+      "ambito": 2,
+      "salience": "alta",
+      "reason": "4 unidades (F01-F04); rebajas fiscales y coste en conclusiones ejecutivas 1, 2, 5 y 7; respaldo explícito de la dirección."
+    },
+    {
+      "ambito": 3,
+      "salience": "media",
+      "reason": "4 unidades (L01-L04); sin mención en conclusiones ejecutivas; 'Posición oficial'."
+    },
+    {
+      "ambito": 4,
+      "salience": "alta",
+      "reason": "4 unidades (P01-P04); 'La dirección lo eleva a compromiso prioritario'; indexación en conclusión ejecutiva 3."
+    },
+    {
+      "ambito": 5,
+      "salience": "alta",
+      "reason": "4 unidades (V01-V04); 'Respaldo prioritario de Feijóo'; vivienda en conclusiones ejecutivas 2 y 5."
+    },
+    {
+      "ambito": 6,
+      "salience": "alta",
+      "reason": "4 unidades (S01-S04); salud y personal sanitario en conclusiones ejecutivas 4 y 6; patrocinio de Fúnez."
+    },
+    {
+      "ambito": 7,
+      "salience": "media",
+      "reason": "4 unidades (ED01-ED04); 'formación' en conclusión ejecutiva 6; ratificación sectorial de Galiana."
+    },
+    {
+      "ambito": 8,
+      "salience": "alta",
+      "reason": "4 unidades (FA01-FA04); 'Prioridad nacional ratificada'."
+    },
+    {
+      "ambito": 9,
+      "salience": "alta",
+      "reason": "4 unidades (SO01-SO04); activación y protección social en conclusiones ejecutivas 4 y 6; anuncio de Feijóo y respaldo de Urrutia."
+    },
+    {
+      "ambito": 10,
+      "salience": "alta",
+      "reason": "4 unidades (IM01-IM04); 'Posición oficial y prioridad de Feijóo'; arraigo en conclusión ejecutiva 5."
+    },
+    {
+      "ambito": 11,
+      "salience": "media",
+      "reason": "4 unidades (J01-J04); sin mención en conclusiones ejecutivas; 'Respaldo nacional'."
+    },
+    {
+      "ambito": 12,
+      "salience": "alta",
+      "reason": "4 unidades (IN01-IN04); 'La dirección presenta regeneración como prioridad'; pacto judicial y auditoría en conclusiones ejecutivas 6 y 7."
+    },
+    {
+      "ambito": 13,
+      "salience": "alta",
+      "reason": "4 unidades (T01-T04); financiación territorial y organización territorial en conclusiones ejecutivas 4 y 5; Declaración de Zaragoza."
+    },
+    {
+      "ambito": 14,
+      "salience": "alta",
+      "reason": "4 unidades (EN01-EN04); Almaraz, nuclear y clima en conclusiones ejecutivas 3 y 5."
+    },
+    {
+      "ambito": 15,
+      "salience": "media",
+      "reason": "4 unidades (R01-R04); ratificación sectorial del 16/11, 'prioridad de campaña' en respaldo interno; sin mención en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 16,
+      "salience": "media",
+      "reason": "4 unidades (IF01-IF04); 'mantenimiento' y 'obras' en conclusiones ejecutivas 2 y 6; cifra de 300.000 millones."
+    },
+    {
+      "ambito": 17,
+      "salience": "media",
+      "reason": "4 unidades (IA01-IA04); 'digitalización' en conclusión ejecutiva 6; 'Respaldo programático formal'."
+    },
+    {
+      "ambito": 18,
+      "salience": "media",
+      "reason": "4 unidades (EX01-EX04); sin mención en conclusiones ejecutivas ni prioridad declarada."
+    },
+    {
+      "ambito": 19,
+      "salience": "media",
+      "reason": "4 unidades (CU01-CU04); 'no hay evidencia suficiente para medir prioridad interna de todas las medidas culturales'."
+    }
+  ]
+}

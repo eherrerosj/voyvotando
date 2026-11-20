@@ -1,0 +1,185 @@
+[
+ {
+  "id": "Q07",
+  "texto_antes": "El impuesto de sociedades debería bajar para atraer inversión.",
+  "texto_nuevo": "El impuesto de sociedades no debería bajar, ni siquiera para atraer inversión.",
+  "motivo": "Negación exacta: 'no debería bajar' es el complemento de 'debería bajar' y conserva el argumento de la inversión. Podemos y FA (suelos efectivos del 19% y 20%) pasan a +2; PP (amortización inmediata, rebaja parcial) a -1; Vox y SALF a -2. Polaridad D pasa a I.",
+  "palabras_texto_nuevo": 12,
+  "polaridad_antes": "D",
+  "polaridad_despues": "I",
+  "posiciones_antes": {
+   "podemos": {
+    "value": -2,
+    "confidence": "alta"
+   },
+   "fa": {
+    "value": -2,
+    "confidence": "alta"
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "media"
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta"
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta"
+   }
+  },
+  "posiciones_invertidas": {
+   "podemos": {
+    "value": 2,
+    "confidence": "alta"
+   },
+   "fa": {
+    "value": 2,
+    "confidence": "alta"
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "media"
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta"
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta"
+   }
+  }
+ },
+ {
+  "id": "Q29",
+  "texto_antes": "Debería ser más difícil obtener la nacionalidad española.",
+  "texto_nuevo": "Los requisitos para obtener la nacionalidad española no deberían endurecerse.",
+  "motivo": "Negación exacta: 'no endurecer' equivale a 'no hacer más difícil'; quien quiere mantener los requisitos discrepa del texto antiguo y está de acuerdo con el nuevo. Podemos (ampliar vías) pasa a +2; PP, Vox y SALF a -2. Polaridad D pasa a I.",
+  "palabras_texto_nuevo": 10,
+  "polaridad_antes": "D",
+  "polaridad_despues": "I",
+  "posiciones_antes": {
+   "podemos": {
+    "value": -2,
+    "confidence": "alta"
+   },
+   "fa": {
+    "value": null,
+    "confidence": null
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "media"
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta"
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta"
+   }
+  },
+  "posiciones_invertidas": {
+   "podemos": {
+    "value": 2,
+    "confidence": "alta"
+   },
+   "fa": {
+    "value": null,
+    "confidence": null
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "media"
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta"
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta"
+   }
+  }
+ },
+ {
+  "id": "Q24",
+  "texto_antes": "Las ayudas como el Ingreso Mínimo Vital deberían retirarse a quien rechace ofertas de empleo adecuadas.",
+  "texto_nuevo": "Las ayudas como el Ingreso Mínimo Vital deberían mantenerse aunque quien las recibe rechace ofertas de empleo adecuadas.",
+  "motivo": "Sustituye a Q22, candidata del plan. Q22 tiene polaridad T (ningún partido de izquierda con posición), así que invertirla no mueve el reparto I/D, y negar una afirmación doble (sustituir la LOMLOE y añadir exámenes) no da una negación exacta. En Q24, 'mantener' es el complemento exacto de 'retirar'. Podemos (renta incondicionada) pasa a +2; PP y SALF a -2. Polaridad D pasa a I.",
+  "palabras_texto_nuevo": 18,
+  "polaridad_antes": "D",
+  "polaridad_despues": "I",
+  "posiciones_antes": {
+   "podemos": {
+    "value": -2,
+    "confidence": "media"
+   },
+   "fa": {
+    "value": null,
+    "confidence": null
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "media"
+   },
+   "vox": {
+    "value": null,
+    "confidence": null
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta"
+   }
+  },
+  "posiciones_invertidas": {
+   "podemos": {
+    "value": 2,
+    "confidence": "media"
+   },
+   "fa": {
+    "value": null,
+    "confidence": null
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "media"
+   },
+   "vox": {
+    "value": null,
+    "confidence": null
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta"
+   }
+  }
+ }
+]

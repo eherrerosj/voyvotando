@@ -1,0 +1,1281 @@
+{
+ "party_id": "podemos",
+ "coder": "v1-ciego",
+ "codings": [
+  {
+   "id": "Q01",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-17-03",
+     "page": 41,
+     "quote": "Condicionar centros de datos a",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-15-02",
+     "page": 37,
+     "quote": "agroecología y moratorias sobre",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El informe no recoge una propuesta de desregulación general. Sí documenta nuevas condiciones previas a empresas (centros de datos, moratorias en grandes explotaciones), indicio indirecto de lo contrario."
+  },
+  {
+   "id": "Q02",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-01-01",
+     "page": 8,
+     "quote": "Operadores públicos en mercados",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-02",
+     "page": 8,
+     "quote": "Banco público que reúna ICO, CDTI y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-03",
+     "page": 8,
+     "quote": "Red pública de supermercados y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Repsol se incorporaría mediante compra de acciones.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidades explícitas de operadores públicos en mercados esenciales, banca pública, red pública de supermercados y compra de mayoría en Repsol. Aparece en las conclusiones ejecutivas."
+  },
+  {
+   "id": "Q03",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "Modificar la escala estatal del IRPF;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "Los cambios buscan mayor progresividad y recaudar para servicios.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "retirar incentivos a planes de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El informe no indica rebaja del IRPF para la mayoría: describe cambios de escala para más progresividad y recaudación y la retirada de incentivos. No precisa la dirección de los tipos, de ahí la confianza baja."
+  },
+  {
+   "id": "Q04",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-02-01",
+     "page": 9,
+     "quote": "Impuesto estatal permanente",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-01",
+     "page": 9,
+     "quote": "patrimonios superiores a 100",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: impuesto estatal permanente sobre grandes patrimonios coordinado con Patrimonio."
+  },
+  {
+   "id": "Q05",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-06-05",
+     "page": 19,
+     "quote": "Elevar financiación hasta 2.900 euros",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-07-01",
+     "page": 21,
+     "quote": "Financiación educativa del 7% del",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 46,
+     "quote": "El programa combina prestaciones, servicios universales, contratación pública y adquisición de activos.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El programa amplía gasto, servicios y organismos públicos (sanidad, educación, banca pública, cuidados). Es lo contrario de reducir gasto y Administración; se deduce del conjunto de unidades."
+  },
+  {
+   "id": "Q06",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el impuesto de sucesiones. Las menciones a herencias (POD-08-07) se refieren al reconocimiento civil de cuidadores."
+  },
+  {
+   "id": "Q07",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-02-05",
+     "page": 10,
+     "quote": "Mínimo del 19% sobre beneficios;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-05",
+     "page": 10,
+     "quote": "mínimos y tipos superiores para",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone un mínimo del 19% y tipos superiores para oligopolios: subir, no bajar, Sociedades."
+  },
+  {
+   "id": "Q08",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-03-02",
+     "page": 12,
+     "quote": "Primer paso de 35 horas y objetivo de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-03-02",
+     "page": 12,
+     "quote": "30 durante la legislatura, sin rebaja",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "Las 30 horas de Podemos tienen menor convergencia acreditada.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Objetivo de 30 horas en la legislatura sin rebaja salarial, por debajo del umbral de 32. Las horas figuran en las conclusiones ejecutivas."
+  },
+  {
+   "id": "Q09",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-03-04",
+     "page": 12,
+     "quote": "indemnización de 45 días y mayores",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-03-04",
+     "page": 12,
+     "quote": "garantías de readmisión y despido.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: indemnización de 45 días y más garantías de readmisión."
+  },
+  {
+   "id": "Q10",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "retirar incentivos a planes de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-04-05",
+     "page": 15,
+     "quote": "Integrar mutualidades alternativas y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "No hay posición sobre cuentas obligatorias de capitalización. Retirar incentivos a planes de pensiones e integrar mutualidades alternativas en la Seguridad Social apuntan en sentido contrario."
+  },
+  {
+   "id": "Q11",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-04-01",
+     "page": 14,
+     "quote": "Jubilación ordinaria a los 63 años;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 46,
+     "quote": "La jubilación a los 63 años, la eliminación retroactiva de penalizaciones",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: jubilación ordinaria a los 63 años, por debajo de 65."
+  },
+  {
+   "id": "Q12",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-05-01",
+     "page": 16,
+     "quote": "Rebajar rentas un 40% con condición",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "La rebaja íntegra del 40 % de Podemos necesitaría un acuerdo adicional.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 56,
+     "quote": "Montero anunció condiciones de investidura",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone rebajar por ley las rentas un 40% con referencia a la media de zona, más que un tope. Es condición de investidura y sale en las conclusiones ejecutivas."
+  },
+  {
+   "id": "Q13",
+   "value": -2,
+   "confidence": "media",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-05-01",
+     "page": 16,
+     "quote": "Rebajar rentas un 40% con condición",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-07",
+     "page": 10,
+     "quote": "Fiscalidad de viviendas vacías,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El programa apuesta por intervenir el mercado (rebaja de rentas, expropiación de uso, límites de compra) y por gravar más los inmuebles. No propone liberar suelo ni bajar impuestos."
+  },
+  {
+   "id": "Q14",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-05-04",
+     "page": 16,
+     "quote": "lanzamientos sin alternativa próxima",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-04",
+     "page": 16,
+     "quote": "y persecución del acoso y desalojo",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El informe no menciona la ocupación ilegal. La unidad amplía la protección frente a lanzamientos sin alternativa y persigue el desalojo extrajudicial, indicio indirecto contrario al desalojo exprés."
+  },
+  {
+   "id": "Q15",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-05-03",
+     "page": 16,
+     "quote": "Se propone expropiar el uso, no necesariamente la",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-03",
+     "page": 16,
+     "quote": "encima de diez en grandes tenedores",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Expropiación del uso de viviendas de grandes tenedores para alquiler público o regulado; la nota la cuenta como +2."
+  },
+  {
+   "id": "Q16",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-05-05",
+     "page": 17,
+     "quote": "Eliminar usos turísticos residenciales",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-05",
+     "page": 17,
+     "quote": "durante la emergencia, con retirada",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: eliminar usos turísticos residenciales durante la emergencia con retirada de licencias."
+  },
+  {
+   "id": "Q17",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "Acceso efectivo a educación, salud,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "empleo y protección de familias",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-07",
+     "page": 17,
+     "quote": "protección frente a discriminación.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone acceso efectivo de las familias migrantes a derechos y protección, y protección frente a discriminación en el alquiler. Es lo contrario de una prioridad por nacionalidad."
+  },
+  {
+   "id": "Q18",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-06-03",
+     "page": 19,
+     "quote": "Gestión sanitaria pública directa;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "ni un acuerdo con otros partidos sobre gestión exclusivamente directa.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Gestión sanitaria pública directa con reversión de concesiones; el informe habla de gestión exclusivamente directa. No detalla conciertos ni derivaciones."
+  },
+  {
+   "id": "Q19",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "Acceso efectivo a educación, salud,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-06-02",
+     "page": 19,
+     "quote": "Universalidad y ampliación de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone universalidad sanitaria y acceso efectivo de las familias migrantes a la salud. No distingue situación administrativa."
+  },
+  {
+   "id": "Q20",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-07-01",
+     "page": 21,
+     "quote": "La absorción voluntaria de centros y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "La expansión pública y los límites a centros privados son instrumentos separables y negociables de forma distinta.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Expansión de la red pública con absorción voluntaria de centros y límites a centros privados. Es una versión gradual, sin supresión explícita de conciertos."
+  },
+  {
+   "id": "Q21",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la lengua vehicular en comunidades con lengua cooficial."
+  },
+  {
+   "id": "Q22",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la LOMLOE, exámenes externos o promoción de curso."
+  },
+  {
+   "id": "Q23",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-09-03",
+     "page": 25,
+     "quote": "Blindaje constitucional del aborto y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone blindar el aborto en la Constitución; la nota lo cuenta como +2."
+  },
+  {
+   "id": "Q24",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-09-01",
+     "page": 25,
+     "quote": "Reforzar el IMV con el horizonte de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-09-01",
+     "page": 25,
+     "quote": "una renta universal incondicionada.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "Propone reforzar el IMV con horizonte de renta universal incondicionada, lo contrario de condicionarlo a aceptar empleo. Sin cuantía ni calendario."
+  },
+  {
+   "id": "Q25",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-09-04",
+     "page": 25,
+     "quote": "LGTBIQA+, reconocimiento registral y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Apoya derechos LGTBIQA+ y reconocimiento registral. El informe no precisa que sea por autodeclaración."
+  },
+  {
+   "id": "Q26",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la ley de violencia de género ni su sustitución. Las unidades de asistencia a víctimas no precisan el marco legal."
+  },
+  {
+   "id": "Q27",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-10-04",
+     "page": 27,
+     "quote": "Vía permanente de regularización,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 28,
+     "quote": "La vía permanente propuesta debe distinguirse de la regularización extraordinaria existente.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone una vía permanente de regularización; la nota la cuenta como +2."
+  },
+  {
+   "id": "Q28",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-10-02",
+     "page": 27,
+     "quote": "Sustituir la Ley de Extranjería y cerrar",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-10-02",
+     "page": 27,
+     "quote": "CIE mediante alternativas",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone sustituir la Ley de Extranjería y cerrar los CIE, además de regularización permanente. Es lo contrario de la expulsión sistemática."
+  },
+  {
+   "id": "Q29",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-10-03",
+     "page": 27,
+     "quote": "Ampliar vías de nacionalidad y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone ampliar las vías de acceso a la nacionalidad, incluida la atribución por nacimiento con condiciones."
+  },
+  {
+   "id": "Q30",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre endurecer penas de prisión ni sobre reincidencia."
+  },
+  {
+   "id": "Q31",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-11-05",
+     "page": 29,
+     "quote": "Reformar seguridad ciudadana y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-11-05",
+     "page": 29,
+     "quote": "protección de protesta; límites a",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone reformar la regulación de seguridad ciudadana y protesta. El informe dice reformar, no sustituir por una ley nueva."
+  },
+  {
+   "id": "Q32",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-11-06",
+     "page": 30,
+     "quote": "Regular cultivo, tenencia y usos de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-11-06",
+     "page": 30,
+     "quote": "usos medicinal y recreativo tienen requisitos diferentes y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: regular cultivo, tenencia y usos de cannabis, también recreativos."
+  },
+  {
+   "id": "Q33",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-12-03",
+     "page": 31,
+     "quote": "judicial; nueva mayoría para el turno",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-03",
+     "page": 31,
+     "quote": "judicial del CGPJ y horizonte de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone una nueva mayoría para el turno judicial del CGPJ, que mantiene la elección parlamentaria (negativo según la nota). El horizonte de elección directa no se aclara."
+  },
+  {
+   "id": "Q34",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-12-01",
+     "page": 31,
+     "quote": "Proceso hacia una constitución",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-01",
+     "page": 31,
+     "quote": "republicana, consulta sobre forma de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: consulta sobre la forma de Estado y proceso hacia una constitución republicana."
+  },
+  {
+   "id": "Q35",
+   "value": -1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "Senado de orientación federal, con",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "igual representación de comunidades",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Propone transformar el Senado en cámara federal, no suprimirlo; la nota lo cuenta como -1."
+  },
+  {
+   "id": "Q36",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 33,
+     "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "Senado de orientación federal, con",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "El programa tiene orientación federal y plurinacional, negativa según la nota. Algunas medidas coordinan (reparto obligatorio de menores), por lo que la confianza es baja."
+  },
+  {
+   "id": "Q37",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre asumir deuda autonómica. Dice que \"el programa no desarrolla aquí un modelo fiscal autonómico completo y cuantificado.\""
+  },
+  {
+   "id": "Q38",
+   "value": 2,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 33,
+     "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {},
+   "rationale": "El informe atribuye al programa la plurinacionalidad. No tiene unidad propia."
+  },
+  {
+   "id": "Q39",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la ley de amnistía."
+  },
+  {
+   "id": "Q40",
+   "value": -1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-14-09",
+     "page": 36,
+     "quote": "Cierre nuclear conforme al calendario",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-14-09",
+     "page": 36,
+     "quote": "vigente, gestión de residuos y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Cierre nuclear conforme al calendario vigente; la nota lo cuenta como -1."
+  },
+  {
+   "id": "Q41",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-14-03",
+     "page": 34,
+     "quote": "aspiración del 65%, neutralidad en",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-14-03",
+     "page": 34,
+     "quote": "Objetivos más exigentes pueden orientar inversión y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone objetivos climáticos más exigentes (aspiración del 65% en 2030, neutralidad en 2040). Es lo contrario de frenar las normas climáticas."
+  },
+  {
+   "id": "Q42",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre impuestos a electricidad o carburantes. Contener tarifas (POD-14-02) es regulación de precios y los gravámenes de alta huella (POD-02-03) no nombran energía ni carburantes."
+  },
+  {
+   "id": "Q43",
+   "value": -1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-15-07",
+     "page": 38,
+     "quote": "retirada de apoyos a tauromaquia.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-15-07",
+     "page": 38,
+     "quote": "El fin de ayudas no implica una prohibición",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone retirar apoyos a la tauromaquia (negativo según la nota), sin prohibición inmediata. No hay posición sobre la caza."
+  },
+  {
+   "id": "Q44",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el acuerdo UE-Mercosur. Los requisitos a importaciones (POD-15-04) y las reformas comerciales (POD-18-07) no lo nombran."
+  },
+  {
+   "id": "Q45",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-16-01",
+     "page": 39,
+     "quote": "Gratuidad de transporte público en",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-16-01",
+     "page": 39,
+     "quote": "todos los niveles administrativos y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: gratuidad del transporte público en todos los niveles administrativos."
+  },
+  {
+   "id": "Q46",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la prohibición de venta de coches de combustión en 2035."
+  },
+  {
+   "id": "Q47",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-01-05",
+     "page": 8,
+     "quote": "fiscales de plataformas y protección",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-05",
+     "page": 8,
+     "quote": "bases fiscales, también transfronterizas.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Refuerza las obligaciones fiscales de las plataformas, incluidas bases transfronterizas. Es más control del cumplimiento que un impuesto nuevo, de ahí +1."
+  },
+  {
+   "id": "Q48",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre límites al pago en efectivo."
+  },
+  {
+   "id": "Q49",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-18-02",
+     "page": 42,
+     "quote": "Revertir aumentos militares, congelar",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "Viabilidad relativa media para un compromiso contra el objetivo militar del 5 %",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone revertir aumentos y congelar el gasto militar; la nota lo cuenta como -2. La defensa sale en las conclusiones ejecutivas."
+  },
+  {
+   "id": "Q50",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre recuperar competencias de la UE. La mención a la soberanía en el ámbito 18 no se vincula a competencias europeas."
+  },
+  {
+   "id": "Q51",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-18-01",
+     "page": 42,
+     "quote": "Salida de OTAN, revisión de presencia",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-18-01",
+     "page": 42,
+     "quote": "La salida de la OTAN es jurídicamente posible mediante",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita del programa estatal de Podemos: salida de la OTAN y neutralidad. La paz es prioridad del programa."
+  },
+  {
+   "id": "Q52",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "POD-12-08",
+     "page": 32,
+     "quote": "Desarrollar memoria, archivos,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-08",
+     "page": 32,
+     "quote": "reparación de víctimas y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone desarrollar la memoria, los archivos y la reparación de víctimas, lo contrario de derogar la ley."
+  },
+  {
+   "id": "Q53",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el uso de lenguas cooficiales en instituciones del Estado. La diversidad lingüística solo aparece en cuotas audiovisuales (POD-19-04)."
+  }
+ ]
+}

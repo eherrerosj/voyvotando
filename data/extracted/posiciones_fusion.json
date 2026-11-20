@@ -1,0 +1,6562 @@
+{
+ "Q01": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": null,
+   "v1": -1,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": 0,
+   "confidence": "baja",
+   "flag": null,
+   "v0": 0,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "E05",
+     "page": 6,
+     "quote": "Simplificación y pagos puntuales ofrecen un posible terreno transversal; la cogestión obligatoria o el control de rentas requiere negociación separada.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Menores cargas administrativas pueden coexistir con nuevas obligaciones laborales, ambientales o de participación.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "E04",
+     "page": 5,
+     "quote": "Régimen 20 y coordinación administrativa.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "R03",
+     "page": 23,
+     "quote": "Menos carga administrativa y apoyo a producción sostenible.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "E01",
+     "page": 5,
+     "quote": "Reducción del 25%; 35% para pymes antes de 2029.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 5,
+     "quote": "Riesgos: trasladar controles al final sin recursos de inspección",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "EC01",
+     "page": 6,
+     "quote": "Revisar obligaciones y eliminar tres normas por cada nueva.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Reducir revisiones previas puede trasladar trabajo a inspecciones posteriores.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Figaredo ratificó desregulación y rebajas fiscales el 4/11",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "VIII.6",
+     "page": 8,
+     "quote": "Derogar dos regulaciones empresariales por cada nueva que se apruebe",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VIII.3",
+     "page": 12,
+     "quote": "Permitir licencia de actividad en veinticuatro horas mediante declaración responsable",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q02": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-01-01",
+     "page": 8,
+     "quote": "Operadores públicos en mercados",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-02",
+     "page": 8,
+     "quote": "Banco público que reúna ICO, CDTI y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-03",
+     "page": 8,
+     "quote": "Red pública de supermercados y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Repsol se incorporaría mediante compra de acciones.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "E02",
+     "page": 5,
+     "quote": "Creación o refuerzo empresarial en sectores seleccionados.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "E03",
+     "page": 5,
+     "quote": "Ampliar el papel del ICO y estudiar instrumentos de banca pública y",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN02",
+     "page": 24,
+     "quote": "Entrada del 30% en nuevos proyectos dentro del perímetro",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 2,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "E05",
+     "page": 5,
+     "quote": "Utilizar participaciones públicas para autonomía productiva.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": -1,
+   "confidence": "media",
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [
+    {
+     "unit_id": "GOV",
+     "page": 34,
+     "quote": "entidades públicas de 452 a trescientas, transfiriendo funciones útiles"
+    },
+    {
+     "unit_id": "",
+     "page": 48,
+     "quote": "Entes, empresas y fundaciones sin función | 3.000"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "baja"
+  }
+ },
+ "Q03": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "Modificar la escala estatal del IRPF;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "Los cambios buscan mayor progresividad y recaudar para servicios.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "retirar incentivos a planes de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "F06",
+     "page": 8,
+     "quote": "Aproximar capital y trabajo; rebajar IRPF a salarios hasta 27.000",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "F06",
+     "page": 8,
+     "quote": "euros y elevar al 52% el marginal desde 300.000.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 1,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "F04",
+     "page": 6,
+     "quote": "Deducción reembolsable y prestación de crianza; exención efectiva del SMI.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "F02",
+     "page": 6,
+     "quote": "Elevar tramos altos del ahorro, con marginal del 35% por encima de 300.000",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "F01",
+     "page": 6,
+     "quote": "Deflactación, mayores mínimos y protección del SMI.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "F02",
+     "page": 6,
+     "quote": "18-35 años: rebajas 100/75/50/25% en los cuatro primeros",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Alta"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "FI01",
+     "page": 7,
+     "quote": "Rebaja y simplificación con modulación familiar.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La plataforma reúne rebajas fiscales",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "III.1",
+     "page": 9,
+     "quote": "Elevar el mínimo anunciado a 15.000 euros en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "No debe presentarse el calendario de mínimos del IRPF como incondicional",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "alta"
+  }
+ },
+ "Q04": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-02-01",
+     "page": 9,
+     "quote": "Impuesto estatal permanente",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-01",
+     "page": 9,
+     "quote": "patrimonios superiores a 100",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "F01",
+     "page": 7,
+     "quote": "Suelo del 2% sobre patrimonios superiores a un millón y del 3% por",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "III.6",
+     "page": 9,
+     "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "media"
+  }
+ },
+ "Q05": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-06-05",
+     "page": 19,
+     "quote": "Elevar financiación hasta 2.900 euros",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-07-01",
+     "page": 21,
+     "quote": "Financiación educativa del 7% del",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 46,
+     "quote": "El programa combina prestaciones, servicios universales, contratación pública y adquisición de activos.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 14,
+     "quote": "Alcanzar el 8% del PIB sanitario público y reforzar plantillas.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 16,
+     "quote": "Objetivo del 7% del PIB en 2030.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "M02",
+     "page": 20,
+     "quote": "Ampliar personal y acortar citas, registro y entrevistas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -1,
+   "confidence": "media",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 11,
+     "quote": "Acercar gasto sanitario público al 7% del PIB, reforzar atención primaria y",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 39,
+     "quote": "Crianza, sanidad, educación y cuidados generan gasto permanente",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 39,
+     "quote": "Nuevas autoridades, registros, prestaciones y leyes compiten por los mismos especialistas",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "F01",
+     "page": 6,
+     "quote": "Presentar un plan en primavera de 2027 y reducir déficit y deuda,",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IN01",
+     "page": 16,
+     "quote": "Revisar gasto y estructura es posible",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 24,
+     "quote": "La reducción de estructura administrativa debe proteger precisamente las plantillas que tramitan vivienda, prestaciones, contratos y evaluaciones.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 32,
+     "quote": "Reducir personal o instituciones antes de conocer su función puede debilitar supervisión y tramitación.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Alta",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "FI03",
+     "page": 7,
+     "quote": "Revisión de gasto y retirada progresiva de determinadas",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 25,
+     "quote": "Figaredo propone revisar grandes partidas y expresa ambición de recorte",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "No equivale simplemente a reducir el Estado: también propone vivienda protegida, inversión, personal y nuevas comprobaciones administrativas.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "GOV",
+     "page": 34,
+     "quote": "reducir secretarías de Estado de treinta y cinco a quince, direcciones generales de 128 a setenta, altos cargos de 823 a 450",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VII.15",
+     "page": 38,
+     "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Los 57.000 M€ atribuidos a duplicidades autonómicas representan el 64,4% de las fuentes.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  }
+ },
+ "Q06": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "F02",
+     "page": 7,
+     "quote": "Tramos marginales del 75% entre 5 y 10 millones y 100% por encima",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "III.6",
+     "page": 9,
+     "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "media"
+  }
+ },
+ "Q07": {
+  "podemos": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-02-05",
+     "page": 10,
+     "quote": "Mínimo del 19% sobre beneficios;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-05",
+     "page": 10,
+     "quote": "mínimos y tipos superiores para",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "F05",
+     "page": 8,
+     "quote": "Suelo efectivo del 20% para grandes empresas y revisión de",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "F04",
+     "page": 6,
+     "quote": "Amortización inmediata e incentivos anticipados.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "FI02",
+     "page": 7,
+     "quote": "Rebajas sin tipo cerrado en el programa.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "III.5",
+     "page": 9,
+     "quote": "Bajar el tipo general al 20% en dos años, aplicar 15% al beneficio reinvertido",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q08": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-03-02",
+     "page": 12,
+     "quote": "Primer paso de 35 horas y objetivo de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-03-02",
+     "page": 12,
+     "quote": "30 durante la legislatura, sin rebaja",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "Las 30 horas de Podemos tienen menor convergencia acreditada.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "L03",
+     "page": 9,
+     "quote": "37,5 horas en 2026 y avance posterior hacia 32, sin rebaja salarial.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "El plazo de 37,5 horas en 2026 es muy estrecho frente a la constitución de las Cámaras el 23 de diciembre.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "L01",
+     "page": 7,
+     "quote": "Legislar 37,5 horas; avanzar hacia 35 mediante negociación colectiva.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "37,5 horas por ley y 35 por negociación",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 7,
+     "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 51,
+     "quote": "Votación sobre la devolución de la reforma de jornada. 10/09/2025. Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "salience": "baja"
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 7,
+     "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 51,
+     "quote": "Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "salience": "baja"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q09": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-03-04",
+     "page": 12,
+     "quote": "indemnización de 45 días y mayores",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-03-04",
+     "page": 12,
+     "quote": "garantías de readmisión y despido.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "L06",
+     "page": 10,
+     "quote": "Reforzar reparación, control y derechos laborales.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 10,
+     "quote": "La escala de cogestión, el diseño del despido y la financiación de la protección son puntos abiertos a negociación",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 2,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "L03",
+     "page": 7,
+     "quote": "Cambiar reparación por despido, salarios de tramitación y plazos.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 0,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 0,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "VIII.2",
+     "page": 13,
+     "quote": "Sustituir modalidades por un contrato indefinido único con indemnización creciente entre doce y treinta y tres días.",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VIII.2",
+     "page": 13,
+     "quote": "El programa presenta la aportación como adicional a la indemnización.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q10": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "retirar incentivos a planes de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-04-05",
+     "page": 15,
+     "quote": "Integrar mutualidades alternativas y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "fa": {
+   "value": -1,
+   "confidence": "media",
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [
+    {
+     "unit_id": "P04",
+     "page": 11,
+     "quote": "Reforzar protección pública y blindaje constitucional."
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "V.3",
+     "page": 15,
+     "quote": "Destinar el 2% del salario a una cuenta individual heredable, con comisión máxima del 0,3%, para menores de 45 años.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q11": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-04-01",
+     "page": 14,
+     "quote": "Jubilación ordinaria a los 63 años;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 46,
+     "quote": "La jubilación a los 63 años, la eliminación retroactiva de penalizaciones",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "P02",
+     "page": 11,
+     "quote": "Generalizar esa edad y adaptar supuestos penosos o carreras largas.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "El objetivo figura entre las explicaciones prioritarias de campaña y encuentra apoyo doctrinal en IU.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "baja",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "P04",
+     "page": 8,
+     "quote": "Mejorar incapacidad oncológica y retorno gradual; evaluar jubilación por",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "P04",
+     "page": 8,
+     "quote": "No equivale a eliminar de forma general todos los coeficientes de",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "P02",
+     "page": 8,
+     "quote": "Incentivos fiscales a compatibilizar actividad y pensión.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 8,
+     "quote": "Un incentivo a prolongar actividad puede aumentar oferta de trabajo",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "V.5",
+     "page": 16,
+     "quote": "permitir jubilación sin penalización con cuarenta años cotizados",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "II.5",
+     "page": 31,
+     "quote": "permitir jubilación a los sesenta sin penalización",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Alta"
+   },
+   "salience": "media"
+  }
+ },
+ "Q12": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-05-01",
+     "page": 16,
+     "quote": "Rebajar rentas un 40% con condición",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "La rebaja íntegra del 40 % de Podemos necesitaría un acuerdo adicional.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 56,
+     "quote": "Montero anunció condiciones de investidura",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "V05",
+     "page": 13,
+     "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "Vivienda es una prioridad explícita de la coalición.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "V07",
+     "page": 10,
+     "quote": "Mayor duración y protección, seguros, intermediación e incentivos fiscales.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V07",
+     "page": 10,
+     "quote": "Separar lo vigente del nuevo compromiso de prórrogas, cuyo decreto tuvo",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 10,
+     "quote": "los controles pueden proteger a inquilinos cubiertos",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "V04",
+     "page": 9,
+     "quote": "Derogación de la Ley de Vivienda e incentivos a permanencia.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "Vox coincide en oferta y derogación",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 43,
+     "quote": "Ley 12/2023 por el derecho a la vivienda",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q13": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-05-01",
+     "page": 16,
+     "quote": "Rebajar rentas un 40% con condición",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-07",
+     "page": 10,
+     "quote": "Fiscalidad de viviendas vacías,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "V05",
+     "page": 13,
+     "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "F03",
+     "page": 7,
+     "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "media",
+   "flag": null,
+   "v0": 0,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "V03",
+     "page": 9,
+     "quote": "Banco de suelo, industrialización, FP de construcción y agilización urbanística.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V08",
+     "page": 10,
+     "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V02",
+     "page": 9,
+     "quote": "Llegar a 100.000 viviendas estatales mediante adquisición y construcción;",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "V02",
+     "page": 9,
+     "quote": "Agilización y plazo de tres meses.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "V03",
+     "page": 9,
+     "quote": "IVA del 4% para primera compra joven y apoyo al ahorro.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "Respaldo prioritario de Feijóo y equipo económico.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "VI01",
+     "page": 10,
+     "quote": "Reforma de suelo, permisos, menores cargas y financiación.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "VI04",
+     "page": 10,
+     "quote": "IVA cero en obra nueva e ITP bonificado en usada.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "I.1",
+     "page": 17,
+     "quote": "Eliminar ITP y AJD en primera vivienda; IVA del 4% reintegrado en el IRPF, suelo público sin precio y licencias rápidas.",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "I.5",
+     "page": 18,
+     "quote": "Resolver obras menores en un mes, mayores en dos y grandes desarrollos en tres; silencio positivo",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  }
+ },
+ "Q14": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-05-04",
+     "page": 16,
+     "quote": "lanzamientos sin alternativa próxima",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-04",
+     "page": 16,
+     "quote": "y persecución del acoso y desalojo",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "J05",
+     "page": 18,
+     "quote": "Digitalizar procesos y agilizar procedimientos sobre ocupación. No prometer",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "J05",
+     "page": 18,
+     "quote": "desalojo automático en 48 horas para toda disputa: importan el tipo de caso y",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "J03",
+     "page": 15,
+     "quote": "Requiere decisión judicial y clasificación correcta del supuesto.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "La recuperación judicial en 48 horas se evalúa en justicia",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "VI05",
+     "page": 10,
+     "quote": "Desalojo inferior a 24 horas y respuesta penal.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 16,
+     "quote": "El desalojo universal en 24 horas tiene problemas distintos de un supuesto flagrante.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "I.3",
+     "page": 17,
+     "quote": "Desalojo policial en 48 horas con denuncia y título de propiedad",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  }
+ },
+ "Q15": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-05-03",
+     "page": 16,
+     "quote": "Se propone expropiar el uso, no necesariamente la",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-03",
+     "page": 16,
+     "quote": "encima de diez en grandes tenedores",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "V02",
+     "page": 12,
+     "quote": "Expropiación compensada de parque corporativo: fases para más de",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "La expropiación se describe como compensada: no debe analizarse como adquisición gratuita ni como retirada indiscriminada de viviendas a familias.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "V09",
+     "page": 10,
+     "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q16": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-05-05",
+     "page": 17,
+     "quote": "Eliminar usos turísticos residenciales",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-05",
+     "page": 17,
+     "quote": "durante la emergencia, con retirada",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "V06",
+     "page": 13,
+     "quote": "Extinguir licencias turísticas en tres años en zonas tensionadas y",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "V09",
+     "page": 10,
+     "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V08",
+     "page": 10,
+     "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "regular pisos turísticos",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "I.9",
+     "page": 18,
+     "quote": "registro turístico sin prohibiciones",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "baja"
+  }
+ },
+ "Q17": {
+  "podemos": {
+   "value": -2,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "Acceso efectivo a educación, salud,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "empleo y protección de familias",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-07",
+     "page": 17,
+     "quote": "protección frente a discriminación.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": null,
+   "v1": 1,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "VI06",
+     "page": 10,
+     "quote": "Prioridad en ayudas y vivienda; residencia legal para alquilar.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "PS02",
+     "page": 14,
+     "quote": "Preferencia en servicios, vivienda y prestaciones.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "PS01",
+     "page": 14,
+     "quote": "Reservar el IMV a españoles.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "Prioridad nacional tiene ratificación de la dirección",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IV.10",
+     "page": 29,
+     "quote": "Exigir cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  }
+ },
+ "Q18": {
+  "podemos": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-06-03",
+     "page": 19,
+     "quote": "Gestión sanitaria pública directa;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "ni un acuerdo con otros partidos sobre gestión exclusivamente directa.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "S05",
+     "page": 15,
+     "quote": "Cambiar el marco de colaboración y avanzar en integración de",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 15,
+     "quote": "La orientación hacia gestión pública está documentada en el texto común y en IU.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 11,
+     "quote": "personal, y priorizar gestión pública directa.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "SA03",
+     "page": 11,
+     "quote": "Plan nacional, derivación interterritorial y colaboración privada",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "VI.2",
+     "page": 19,
+     "quote": "superado el plazo, elegir centro público o privado financiado por el SNS",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VI.6",
+     "page": 19,
+     "quote": "Ofrecer cita médica en 48 horas o pagar una consulta privada",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q19": {
+  "podemos": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "Acceso efectivo a educación, salud,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-06-02",
+     "page": 19,
+     "quote": "Universalidad y ampliación de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "SA05",
+     "page": 11,
+     "quote": "Cobertura limitada a urgencias graves para residentes",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 26,
+     "quote": "Limitarla a urgencia grave exige modificar ese marco y resolver excepciones",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "VI.7",
+     "page": 20,
+     "quote": "Reservar tarjeta a españoles y residentes legales con cotización o cobertura, garantizar urgencias para todos",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q20": {
+  "podemos": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "POD-07-01",
+     "page": 21,
+     "quote": "La absorción voluntaria de centros y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "La expansión pública y los límites a centros privados son instrumentos separables y negociables de forma distinta.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 16,
+     "quote": "Reorientar progresivamente recursos hacia provisión pública.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 11,
+     "quote": "Ampliar estabilidad de conciertos y elección.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 12,
+     "quote": "Elección de centro, distrito único, becas y FP.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "IX.6",
+     "page": 24,
+     "quote": "mediante un cheque utilizable en centros públicos, concertados o privados",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q21": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "MT03",
+     "page": 18,
+     "quote": "Revisar requisitos lingüísticos en plazas y garantizar educación",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "El compromiso de escolarización en castellano debe conciliarse con la cooficialidad y los derechos educativos.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IX.2",
+     "page": 22,
+     "quote": "Garantizar a las familias la exigibilidad de enseñanza en castellano en cualquier territorio",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q22": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "ED01",
+     "page": 11,
+     "quote": "Sustituir LOMLOE y reforzar lectoescritura/cálculo",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "Los criterios de aprobación más exigentes deben acompañarse de apoyos",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "ED02",
+     "page": 11,
+     "quote": "Acuerdo con comunidades y universidades; requiere concretar",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "ED02",
+     "page": 12,
+     "quote": "Sustituir LOMLOE, reforzar disciplina, limitar móviles y",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 12,
+     "quote": "Contenidos comunes, reválidas y EVAU única.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "Aprobar una ley educativa para veinte años por dos tercios",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "pruebas externas al terminar cada etapa y una selectividad única",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.5",
+     "page": 23,
+     "quote": "Condicionar titulación al aprendizaje",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q23": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-09-03",
+     "page": 25,
+     "quote": "Blindaje constitucional del aborto y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "S08",
+     "page": 15,
+     "quote": "Mejor acceso efectivo, prevención y protección de derechos.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IG02",
+     "page": 16,
+     "quote": "Protección constitucional del aborto y mejoras asistenciales.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "FA05",
+     "page": 13,
+     "quote": "Protección desde concepción hasta muerte natural, conciencia",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 13,
+     "quote": "Tampoco procede traducir la medida 98 en un articulado completo de aborto o eutanasia que el programa no detalla.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q24": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-09-01",
+     "page": 25,
+     "quote": "Reforzar el IMV con el horizonte de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-09-01",
+     "page": 25,
+     "quote": "una renta universal incondicionada.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "SO01",
+     "page": 13,
+     "quote": "Integrar IMV y subsidios con empleo/formación.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 13,
+     "quote": "definir ofertas adecuadas y causas justificadas antes de sancionar.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 34,
+     "quote": "Compatibilidades, retirada de ayudas, definición de oferta adecuada y protección en discapacidad, cuidados o falta real de empleo.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "VIII.10",
+     "page": 27,
+     "quote": "Extinguir la prestación tras rechazar dos ofertas adecuadas",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q25": {
+  "podemos": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 2,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "POD-09-04",
+     "page": 25,
+     "quote": "LGTBIQA+, reconocimiento registral y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "baja",
+   "flag": "dif1",
+   "v0": 2,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IG04",
+     "page": 19,
+     "quote": "Desplegar protección LGTBI y reconocimiento de personas no",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "IG04",
+     "page": 19,
+     "quote": "Definir efectos registrales, interoperabilidad, privacidad y",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": 1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "SO04",
+     "page": 13,
+     "quote": "Revisión de la autodeterminación registral.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q26": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -2,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "media",
+   "flag": "un_nulo",
+   "v0": -2,
+   "v1": null,
+   "evidence": [
+    {
+     "unit_id": "IG03",
+     "page": 16,
+     "quote": "Prevención, violencia vicaria, riesgos, reparación y apoyo a víctimas."
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 15,
+     "quote": "La protección frente a violencia de género debe evaluarse por acceso y seguridad, no solo por dispositivos.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {},
+   "salience": "baja"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "PS04",
+     "page": 14,
+     "quote": "Sustituir las denominadas leyes de género y ampliar",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "La cobertura de otras víctimas puede estudiarse separadamente de la derogación del modelo vigente.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q27": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-10-04",
+     "page": 27,
+     "quote": "Vía permanente de regularización,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 28,
+     "quote": "La vía permanente propuesta debe distinguirse de la regularización extraordinaria existente.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "M01",
+     "page": 20,
+     "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "IM03",
+     "page": 14,
+     "quote": "Restringir regularizaciones y condicionar renovaciones.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "suprimir el arraigo no es igual que conservarlo como excepcional",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "IN01",
+     "page": 15,
+     "quote": "Suprimir vías de arraigo y prohibir regularizaciones amplias.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Suprimir arraigos tampoco elimina las obligaciones de asilo",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "IV.2",
+     "page": 28,
+     "quote": "Derogar la regularización de 2026, revisar individualmente autorizaciones concedidas y prohibir regularizaciones masivas mediante ley orgánica.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q28": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-10-02",
+     "page": 27,
+     "quote": "Sustituir la Ley de Extranjería y cerrar",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-10-02",
+     "page": 27,
+     "quote": "CIE mediante alternativas",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "M03",
+     "page": 20,
+     "quote": "Revisar centros, retornos y vías de protección.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "Eliminar internamiento exige diseñar alternativas; no equivale por sí mismo a eliminar toda obligación de retorno.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "M01",
+     "page": 20,
+     "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IM04",
+     "page": 14,
+     "quote": "Más exigencias y cooperación exterior.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "Posición oficial y prioridad de Feijóo.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IN02",
+     "page": 15,
+     "quote": "Expedientes de salida y readmisión. El compromiso general no",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 27,
+     "quote": "Por ello, la entrega universal e inmediata no tiene una probabilidad defendible",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 35,
+     "quote": "Migración: procedimientos y readmisión antes de fijar una tasa universal de salida.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IV.1",
+     "page": 28,
+     "quote": "Identificar, ordenar y ejecutar expulsiones en 48 horas, cumplir todas las órdenes en noventa días",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  }
+ },
+ "Q29": {
+  "podemos": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-10-03",
+     "page": 27,
+     "quote": "Ampliar vías de nacionalidad y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IM04",
+     "page": 14,
+     "quote": "Más exigencias y cooperación exterior.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IN05",
+     "page": 15,
+     "quote": "Endurecer adquisición, revisar fraude y favorecer retorno de",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "IV.5",
+     "page": 29,
+     "quote": "exigir diez años de residencia legal, examen, ausencia de antecedentes e independencia de ayudas para la nacionalidad",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IV.6",
+     "page": 29,
+     "quote": "nacionalidad a dobles nacionales por terrorismo, crimen organizado o delitos sexuales graves",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  }
+ },
+ "Q30": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "J04",
+     "page": 15,
+     "quote": "Endurecimientos y ampliaciones penales.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "J01",
+     "page": 15,
+     "quote": "Procesos más ágiles.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "SJ03",
+     "page": 16,
+     "quote": "Reducir edad penal y ampliar prisión permanente revisable.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Tampoco se puede asumir que endurecer penas o restringir atención sanitaria produzca el beneficio neto anunciado.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "II.2",
+     "page": 30,
+     "quote": "ampliar prisión permanente revisable a violaciones de menores o con lesiones graves y excluir suspensión tras tres condenas",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q31": {
+  "podemos": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "POD-11-05",
+     "page": 29,
+     "quote": "Reformar seguridad ciudadana y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-11-05",
+     "page": 29,
+     "quote": "protección de protesta; límites a",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "J01",
+     "page": 21,
+     "quote": "Reformar seguridad ciudadana y delitos de expresión.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "J02",
+     "page": 18,
+     "quote": "Sustituir la Ley Orgánica 4/2015, con garantías y medios como cámaras",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q32": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-11-06",
+     "page": 30,
+     "quote": "Regular cultivo, tenencia y usos de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-11-06",
+     "page": 30,
+     "quote": "usos medicinal y recreativo tienen requisitos diferentes y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q33": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-12-03",
+     "page": 31,
+     "quote": "judicial; nueva mayoría para el turno",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-03",
+     "page": 31,
+     "quote": "judicial del CGPJ y horizonte de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -1,
+   "confidence": "media",
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [
+    {
+     "unit_id": "IN02",
+     "page": 22,
+     "quote": "Modificar reglas de elección y desbloqueo."
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "No se debe resumir como una propuesta para elegir a todos por mayoría absoluta."
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IN02",
+     "page": 16,
+     "quote": "Reformas de nombramientos y autonomía.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "ID01",
+     "page": 17,
+     "quote": "Elección judicial de doce vocales y mayor autonomía fiscal.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 2,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "VII.9",
+     "page": 36,
+     "quote": "Blindar constitucionalmente un CGPJ elegido por jueces, antigüedad o sorteo",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VII.9",
+     "page": 36,
+     "quote": "todavía abiertos entre tres mecanismos distintos",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q34": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-12-01",
+     "page": 31,
+     "quote": "Proceso hacia una constitución",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-01",
+     "page": 31,
+     "quote": "republicana, consulta sobre forma de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": 2,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IN04",
+     "page": 22,
+     "quote": "Transformación del modelo de Estado y de determinadas garantías.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 35,
+     "quote": "Modelo republicano; cambios en partes",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q35": {
+  "podemos": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "Senado de orientación federal, con",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "igual representación de comunidades",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 20,
+     "quote": "Regular cooperación y conferencias; orientar el Senado a representación",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "VII.15",
+     "page": 38,
+     "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Eliminar Senado o Tribunal Constitucional, blindar determinadas reglas y alterar obligaciones europeas exige procedimientos adicionales.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  }
+ },
+ "Q36": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 33,
+     "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "Senado de orientación federal, con",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "baja"
+  },
+  "fa": {
+   "value": -1,
+   "confidence": "media",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 23,
+     "quote": "Servicios territoriales, insularidad y desarrollo federal.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Los mínimos fiscales y la capacidad de decisión territorial pueden entrar en tensión dentro del mismo programa.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "baja",
+   "flag": "dif1",
+   "v0": -1,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 20,
+     "quote": "Regular cooperación y conferencias; orientar el Senado a representación",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "T05",
+     "page": 20,
+     "quote": "Mejorar atención en lenguas cooficiales y tratamientos territoriales",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "T01",
+     "page": 20,
+     "quote": "Nuevo modelo con 21.000 millones adicionales anunciados.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": "adjudicar",
+   "v0": -1,
+   "v1": 1,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 18,
+     "quote": "La plataforma contiene propuestas uniformizadoras y de coordinación, pero no desarrolla una reforma completa de supresión del sistema autonómico.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "MT01",
+     "page": 18,
+     "quote": "Reducir brechas territoriales en sanidad, educación, seguridad",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 12,
+     "quote": "Contenidos comunes, reválidas y EVAU única.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "IX.2",
+     "page": 22,
+     "quote": "atribuir a la Alta Inspección estatal capacidad sancionadora",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "Fijar contenidos mínimos comunes al cien por cien",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VI.1",
+     "page": 19,
+     "quote": "Compra sanitaria centralizada obligatoria",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q37": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 23,
+     "quote": "Reestructurar obligaciones y fijar mínimos tributarios. La quita entre",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "T02",
+     "page": 23,
+     "quote": "administraciones cambia reparto interno; no elimina",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 20,
+     "quote": "Asunción estatal de 83.000 millones de deuda autonómica.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 0,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 17,
+     "quote": "Responsabilidad autonómica y reestructuración multilateral.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "III.11",
+     "page": 39,
+     "quote": "oponerse a condonaciones de deuda entre administraciones, salvo catástrofes",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Alta",
+    "E": "Alta"
+   },
+   "salience": "media"
+  }
+ },
+ "Q38": {
+  "podemos": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 33,
+     "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {},
+   "salience": "baja"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "un_nulo",
+   "v0": 2,
+   "v1": null,
+   "evidence": [
+    {
+     "unit_id": "IN04",
+     "page": 22,
+     "quote": "Transformación del modelo de Estado y de determinadas garantías."
+    },
+    {
+     "unit_id": "T04",
+     "page": 23,
+     "quote": "Servicios territoriales, insularidad y desarrollo federal."
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": 1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q39": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 17,
+     "quote": "Cambios penales y reversión de decisiones legislativas.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 17,
+     "quote": "Una derogación no puede presumirse retroactiva para empeorar situaciones penales firmes.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "VII.3",
+     "page": 35,
+     "quote": "Reformar la Constitución para prohibir amnistías",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q40": {
+  "podemos": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-14-09",
+     "page": 36,
+     "quote": "Cierre nuclear conforme al calendario",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-14-09",
+     "page": 36,
+     "quote": "vigente, gestión de residuos y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 24,
+     "quote": "Mantener el cierre de Almaraz en 2027-2028 según el programa.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN04",
+     "page": 24,
+     "quote": "autorización vigente llega al 8/06/2030; cambiarla requiere una",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "El cierre anunciado de Almaraz en 2027-2028 no coincide con la autorización vigente hasta junio de 2030.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "EN03",
+     "page": 21,
+     "quote": "Mantener horizonte de cierre en 2035. La autorización vigente de Almaraz",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 18,
+     "quote": "Tramitar extensiones en 100 días",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 18,
+     "quote": "Eliminar un calendario político no sustituye esos requisitos.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Almaraz ya tiene permiso hasta junio de 2030.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 19,
+     "quote": "Mantener centrales y revisar cierres.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q41": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-14-03",
+     "page": 34,
+     "quote": "aspiración del 65%, neutralidad en",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-14-03",
+     "page": 34,
+     "quote": "Objetivos más exigentes pueden orientar inversión y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 24,
+     "quote": "Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN05",
+     "page": 25,
+     "quote": "Objetivo anual del 3,5% del PIB.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 21,
+     "quote": "Alcanzar el 81% de generación renovable en 2030.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "CL01",
+     "page": 22,
+     "quote": "Ley de adaptación, refugios, alerta y medios contra incendios.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": "adjudicar",
+   "v0": -1,
+   "v1": 1,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 19,
+     "quote": "Revertir restricciones del Pacto Verde y ZBE.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "X.2",
+     "page": 41,
+     "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde, incluida la normativa de restauración",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q42": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "EN02",
+     "page": 18,
+     "quote": "Retirar impuesto del 7% y cambiar apoyos sociales.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "EN03",
+     "page": 19,
+     "quote": "Menores impuestos y otras medidas de coste.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "III.7",
+     "page": 40,
+     "quote": "Establecer permanentemente IVA del 4% en electricidad y agua y eliminar el impuesto sobre la producción eléctrica.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "salience": "media"
+  }
+ },
+ "Q43": {
+  "podemos": {
+   "value": -1,
+   "confidence": "alta",
+   "flag": "dif1",
+   "v0": -2,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "POD-15-07",
+     "page": 38,
+     "quote": "retirada de apoyos a tauromaquia.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-15-07",
+     "page": 38,
+     "quote": "El fin de ayudas no implica una prohibición",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "CU01",
+     "page": 24,
+     "quote": "Conservación, fiscalidad cultural, patrimonio rural y",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "CU01",
+     "page": 24,
+     "quote": "tauromaquia. Priorizar bienes, acceso y mantenimiento.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "RU05",
+     "page": 20,
+     "quote": "Prevención, actividad cinegética y protección agraria frente a",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q44": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "media",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "RU01",
+     "page": 20,
+     "quote": "Revisar acuerdos y exigir condiciones equivalentes.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "La oposición a un acuerdo no prueba que todos sus sectores ganen con su retirada.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "X.2",
+     "page": 41,
+     "quote": "Bloquear Mercosur",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q45": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-16-01",
+     "page": 39,
+     "quote": "Gratuidad de transporte público en",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-16-01",
+     "page": 39,
+     "quote": "todos los niveles administrativos y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "TR01",
+     "page": 27,
+     "quote": "Tarifas y abonos de Cercanías con condiciones por edad.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "TR01",
+     "page": 27,
+     "quote": "prometer todo trayecto por el precio de un abono parcial.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "baja",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "TR03",
+     "page": 24,
+     "quote": "Financiación estable, integración, ayudas y movilidad activa. La tarifa no",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q46": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "baja",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 19,
+     "quote": "Revertir restricciones del Pacto Verde y ZBE.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "baja"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q47": {
+  "podemos": {
+   "value": 1,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "POD-01-05",
+     "page": 8,
+     "quote": "fiscales de plataformas y protección",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-05",
+     "page": 8,
+     "quote": "bases fiscales, también transfronterizas.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 34,
+     "quote": "Servicios digitales: 15%",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "D08",
+     "page": 34,
+     "quote": "Gravamen del 50% pagadero en acciones para",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "F03",
+     "page": 6,
+     "quote": "Fiscalidad digital/IA, consumos intensivos en carbono de lujo y brechas",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 25,
+     "quote": "negociables por separado de impuestos o restricciones a plataformas.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q48": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "III.13",
+     "page": 8,
+     "quote": "Proteger constitucionalmente pagos y cobros en efectivo sin límite, eliminar el tope nacional de 1.000 euros",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q49": {
+  "podemos": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-18-02",
+     "page": 42,
+     "quote": "Revertir aumentos militares, congelar",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "Viabilidad relativa media para un compromiso contra el objetivo militar del 5 %",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "X01",
+     "page": 30,
+     "quote": "Rechazar la senda de aumento y reorientar seguridad.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "media",
+   "flag": "un_nulo",
+   "v0": null,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "EX05",
+     "page": 27,
+     "quote": "Modernización, cooperación, capacidades industriales, ciberseguridad y",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 27,
+     "quote": "No atribuir al programa una cifra cerrada de gasto militar que no concreta en sus compromisos.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "EX01",
+     "page": 22,
+     "quote": "Ley plurianual y modernización.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "Incrementar presupuesto no garantiza entregas.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "EX03",
+     "page": 23,
+     "quote": "Más inversión, recursos, salarios, vivienda y reconocimiento",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "EX03",
+     "page": 23,
+     "quote": "No se fija en el programa una cuota concreta del",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 0,
+   "confidence": "media",
+   "flag": null,
+   "v0": 0,
+   "v1": 0,
+   "evidence": [
+    {
+     "unit_id": "X.12",
+     "page": 44,
+     "quote": "Destinar el 2% del PIB a Defensa con prioridad industrial española",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "X.12",
+     "page": 44,
+     "quote": "La OTAN ya confirmó que España alcanzó el 2% en 2025; mantener esa referencia no equivale por sí solo a aumentar gasto.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  }
+ },
+ "Q50": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "X04",
+     "page": 30,
+     "quote": "Cambiar gobernanza fiscal y funciones monetarias.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "D08",
+     "page": 29,
+     "quote": "Requiere decisión europea, definición de base, valoración y derechos",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "EX02",
+     "page": 27,
+     "quote": "Profundizar capacidad fiscal y democracia europeas, así como prioridades",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Baja"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "media",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {},
+   "salience": "baja"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "EX05",
+     "page": 23,
+     "quote": "Cambiar reglas comerciales y otras restricciones.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Abascal y la dirección ratifican fronteras y soberanía.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 2,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "X.1",
+     "page": 42,
+     "quote": "Convocar un referéndum sobre renegociar la relación con la Unión Europea",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "X.1",
+     "page": 42,
+     "quote": "un segundo referéndum sobre salida",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "III.13",
+     "page": 8,
+     "quote": "impedir el límite europeo",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  }
+ },
+ "Q51": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": 2,
+   "evidence": [
+    {
+     "unit_id": "POD-18-01",
+     "page": 42,
+     "quote": "Salida de OTAN, revisión de presencia",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-18-01",
+     "page": 42,
+     "quote": "La salida de la OTAN es jurídicamente posible mediante",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "media",
+   "flag": "codificacion_unica",
+   "v0": null,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "EX03",
+     "page": 22,
+     "quote": "Continuidad de apoyo y relaciones europeas/transatlánticas.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q52": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "POD-12-08",
+     "page": 32,
+     "quote": "Desarrollar memoria, archivos,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-08",
+     "page": 32,
+     "quote": "reparación de víctimas y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "CU04",
+     "page": 31,
+     "quote": "Archivos, reparación y cambios en protecciones legales específicas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "alta",
+   "flag": null,
+   "v0": -2,
+   "v1": -2,
+   "evidence": [
+    {
+     "unit_id": "IN05",
+     "page": 19,
+     "quote": "Desarrollar reparación, exhumaciones y divulgación.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "CU02",
+     "page": 23,
+     "quote": "Cambios de marco y uso institucional.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Patrimonio, deporte de base y protección del consumidor admiten acuerdos más amplios que memoria, lengua parlamentaria o gobernanza de medios.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "ID05",
+     "page": 17,
+     "quote": "Cambios en memoria, expresión y protección penal de",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 17,
+     "quote": "Modificar leyes de memoria exige identificar qué disposiciones cambian, no suponer un articulado que el programa no desarrolla.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ },
+ "Q53": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": 1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "alta",
+   "flag": null,
+   "v0": 1,
+   "v1": 1,
+   "evidence": [
+    {
+     "unit_id": "T05",
+     "page": 20,
+     "quote": "Mejorar atención en lenguas cooficiales y tratamientos territoriales",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "baja",
+   "flag": null,
+   "v0": -1,
+   "v1": -1,
+   "evidence": [
+    {
+     "unit_id": "CU02",
+     "page": 23,
+     "quote": "Cambios de marco y uso institucional.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Patrimonio, deporte de base y protección del consumidor admiten acuerdos más amplios que memoria, lengua parlamentaria o gobernanza de medios.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "flag": null,
+   "v0": null,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "flag": "un_nulo",
+   "v0": -1,
+   "v1": null,
+   "evidence": [],
+   "viability": {},
+   "salience": null
+  }
+ }
+}

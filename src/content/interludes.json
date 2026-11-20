@@ -1,0 +1,110 @@
+[
+ {
+  "bloque": 1,
+  "dato": "La AIReF proyectaba el 4/11/2026 un déficit público del 2,8% del PIB en 2026 y del 2,6% en 2027. La proyección supone que se mantienen las políticas vigentes.",
+  "fuente": [
+   {
+    "informe": "pp",
+    "pagina": 24,
+    "original": "AIReF, 04/11/2026: Riesgo de incumplimiento del plan fiscal desde 2026 (referencia [6], pp p36)"
+   }
+  ]
+ },
+ {
+  "bloque": 2,
+  "dato": "Según un estudio del Banco de España del 13/06/2023, la oferta de vivienda es rígida. La construcción tarda en responder a los cambios de la demanda.",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 17,
+    "original": "Banco de España, 13/06/2023: El desajuste entre la oferta y la demanda de vivienda, y su relación con los precios (referencia [6], salf p71)"
+   },
+   {
+    "informe": "vox",
+    "pagina": 10,
+    "original": "Banco de España, 13/06/2023: Desajuste entre oferta y demanda de vivienda (referencia [23], vox p40)"
+   }
+  ]
+ },
+ {
+  "bloque": 3,
+  "dato": "El Ministerio de Sanidad publicó en 2026 su Informe Anual del Sistema Nacional de Salud 2024. Según ese informe, la tarjeta, la historia clínica y la receta ya son interoperables en el sistema.",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 20,
+    "original": "Ministerio de Sanidad, publicado en 2026 con datos de 2024: Informe Anual del Sistema Nacional de Salud 2024 (referencia [13], salf p71)"
+   },
+   {
+    "informe": "vox",
+    "pagina": 11,
+    "original": "Ministerio de Sanidad, consulta 17/11/2026: Historia Clínica Digital del SNS (referencia [25], vox p40)"
+   }
+  ]
+ },
+ {
+  "bloque": 4,
+  "dato": "Según la AIReF, en 2025 no pedía el Ingreso Mínimo Vital el 52% de los hogares que cumplían los requisitos. En el complemento de infancia, la cifra era del 71%, según su opinión de julio de 2026.",
+  "fuente": [
+   {
+    "informe": "pp",
+    "pagina": 13,
+    "original": "AIReF, 07/2026: Quinta opinión sobre el ingreso mínimo vital (referencia [13], pp p36)"
+   },
+   {
+    "informe": "fa",
+    "pagina": 19,
+    "original": "AIReF, julio de 2026: Quinta opinión sobre el ingreso mínimo vital (referencia [40], fa p50)"
+   }
+  ]
+ },
+ {
+  "bloque": 5,
+  "dato": "La Ley Orgánica 5/2000 regula la responsabilidad penal de los menores. Se aplica a jóvenes de 14 a 17 años, con un régimen propio de garantías.",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 16,
+    "original": "BOE: Ley Orgánica 5/2000 de responsabilidad penal de menores, texto consolidado (referencia [43], vox p41)"
+   }
+  ]
+ },
+ {
+  "bloque": 6,
+  "dato": "La Constitución de 1978 exige tres quintos del Congreso y del Senado para reformarse por la vía ordinaria del artículo 167. La vía del artículo 168 exige dos tercios, disolución de las Cortes y referéndum.",
+  "fuente": [
+   {
+    "informe": "psoe",
+    "pagina": 33,
+    "original": "BOE: Constitución Española, texto vigente consultado el 17/11/2026 (referencia [30], psoe p46)"
+   },
+   {
+    "informe": "salf",
+    "pagina": 73,
+    "original": "Constitución Española vigente, 29/12/1978; consolidación 20/05/2026 (referencia [41])"
+   }
+  ]
+ },
+ {
+  "bloque": 7,
+  "dato": "La Comisión Europea sitúa en diciembre de 2027 las reglas de inteligencia artificial de alto riesgo del anexo III. Las reglas para productos regulados se aplicarán desde agosto de 2028.",
+  "fuente": [
+   {
+    "informe": "pp",
+    "pagina": 21,
+    "original": "Comisión Europea, consulta 17/11/2026: Calendario actualizado de aplicación del Reglamento de IA, con las modificaciones del Digital Omnibus (referencia [30], pp p37)"
+   }
+  ]
+ },
+ {
+  "bloque": 8,
+  "dato": "La OTAN confirmó el 26/03/2026 que España alcanzó en 2025 un gasto en defensa del 2% del PIB.",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 44,
+    "original": "OTAN, 26/03/2026: Rueda de prensa del informe anual sobre el gasto español en defensa (referencia [131], salf p76)"
+   }
+  ]
+ }
+]

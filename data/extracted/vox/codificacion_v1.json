@@ -1,0 +1,1095 @@
+{
+ "party_id": "vox",
+ "coder": "v1-ciego",
+ "codings": [
+  {
+   "id": "Q01",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EC01",
+     "page": 6,
+     "quote": "Revisar obligaciones y eliminar tres normas por cada nueva.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Reducir revisiones previas puede trasladar trabajo a inspecciones posteriores.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Figaredo ratificó desregulación y rebajas fiscales el 4/11",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EC01 propone eliminar tres normas por cada nueva y EC02 añade silencio positivo. El informe asume menos revisiones previas."
+  },
+  {
+   "id": "Q02",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no documenta propuestas de empresas públicas en energía, banca o alimentación."
+  },
+  {
+   "id": "Q03",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "FI01",
+     "page": 7,
+     "quote": "Rebaja y simplificación con modulación familiar.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La plataforma reúne rebajas fiscales",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "FI01 propone una rebaja general del IRPF con modulación familiar. Faltan tipos y tramos, pero la rebaja es explícita."
+  },
+  {
+   "id": "Q04",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona un impuesto sobre patrimonio o riqueza."
+  },
+  {
+   "id": "Q05",
+   "value": 1,
+   "confidence": "media",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "FI03",
+     "page": 7,
+     "quote": "Revisión de gasto y retirada progresiva de determinadas",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 25,
+     "quote": "Figaredo propone revisar grandes partidas y expresa ambición de recorte",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "No equivale simplemente a reducir el Estado: también propone vivienda protegida, inversión, personal y nuevas comprobaciones administrativas.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Vox propone revisar gasto y retirar subvenciones de forma progresiva. También amplía personal y servicios, y no consta supresión de organismos: versión parcial."
+  },
+  {
+   "id": "Q06",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona el impuesto de sucesiones y donaciones. El ITP bonificado (VI04) es otro tributo."
+  },
+  {
+   "id": "Q07",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "FI02",
+     "page": 7,
+     "quote": "Rebajas sin tipo cerrado en el programa.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "La unidad FI02 (IVA y sociedades) propone rebajas del impuesto de sociedades sin tipo cerrado."
+  },
+  {
+   "id": "Q08",
+   "value": -2,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": true,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 7,
+     "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 51,
+     "quote": "Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "rationale": "El informe de Vox no trata la jornada. Hecho documentado en otros informes: Vox votó la devolución de la reducción a 37,5 h (10/09/2025); según la nota, -2."
+  },
+  {
+   "id": "Q09",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice de EM02: \"El texto no concreta el régimen alternativo completo.\" No documenta posición sobre coste del despido."
+  },
+  {
+   "id": "Q10",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: \"La formulación del programa no acredita una nueva edad de jubilación, una fórmula completa de cálculo ni una sustitución del sistema.\""
+  },
+  {
+   "id": "Q11",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: \"La formulación del programa no acredita una nueva edad de jubilación\". No hay posición sobre la edad ordinaria."
+  },
+  {
+   "id": "Q12",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 43,
+     "quote": "Ley 12/2023 por el derecho a la vivienda",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI03 propone derogar la Ley de Vivienda (Ley 12/2023). Según la nota, derogarla es -2."
+  },
+  {
+   "id": "Q13",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI01",
+     "page": 10,
+     "quote": "Reforma de suelo, permisos, menores cargas y financiación.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "VI04",
+     "page": 10,
+     "quote": "IVA cero en obra nueva e ITP bonificado en usada.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "La vía de Vox es suelo, permisos, menos cargas y rebajas fiscales (VI01, VI04), y deroga la ley que interviene el alquiler (VI03)."
+  },
+  {
+   "id": "Q14",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI05",
+     "page": 10,
+     "quote": "Desalojo inferior a 24 horas y respuesta penal.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 16,
+     "quote": "El desalojo universal en 24 horas tiene problemas distintos de un supuesto flagrante.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "VI05 propone desalojo en menos de 24 horas, un plazo más corto que el de 48 horas de la afirmación."
+  },
+  {
+   "id": "Q15",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona expropiar ni sancionar viviendas vacías."
+  },
+  {
+   "id": "Q16",
+   "value": 1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "regular pisos turísticos",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI03 propone \"regular pisos turísticos\" sin precisar alcance. Se codifica como versión parcial; no consta prohibición ni límite fuerte."
+  },
+  {
+   "id": "Q17",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI06",
+     "page": 10,
+     "quote": "Prioridad en ayudas y vivienda; residencia legal para alquilar.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "PS02",
+     "page": 14,
+     "quote": "Preferencia en servicios, vivienda y prestaciones.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "PS01",
+     "page": 14,
+     "quote": "Reservar el IMV a españoles.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "Prioridad nacional tiene ratificación de la dirección",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI06, PS01 y PS02 proponen prioridad por nacionalidad en vivienda, ayudas e IMV. Las conclusiones ejecutivas la destacan."
+  },
+  {
+   "id": "Q18",
+   "value": -1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "SA03",
+     "page": 11,
+     "quote": "Plan nacional, derivación interterritorial y colaboración privada",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "SA03 propone colaboración privada evaluada contra las listas de espera. Según la nota es negativo; se pone -1 por ser colaboración acotada y evaluada."
+  },
+  {
+   "id": "Q19",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "SA05",
+     "page": 11,
+     "quote": "Cobertura limitada a urgencias graves para residentes",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 26,
+     "quote": "Limitarla a urgencia grave exige modificar ese marco y resolver excepciones",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "SA05 limita la cobertura de residentes irregulares a urgencias graves. Según la nota, -2."
+  },
+  {
+   "id": "Q20",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 12,
+     "quote": "Elección de centro, distrito único, becas y FP.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El informe no habla de conciertos. ED03 propone libertad de elección de centro, indicio indirecto contrario a financiar solo la escuela pública."
+  },
+  {
+   "id": "Q21",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "MT03",
+     "page": 18,
+     "quote": "Revisar requisitos lingüísticos en plazas y garantizar educación",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "El compromiso de escolarización en castellano debe conciliarse con la cooficialidad y los derechos educativos.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "MT03 propone garantizar la educación en castellano; el informe lo llama compromiso de escolarización en castellano."
+  },
+  {
+   "id": "Q22",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "ED02",
+     "page": 12,
+     "quote": "Sustituir LOMLOE, reforzar disciplina, limitar móviles y",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 12,
+     "quote": "Contenidos comunes, reválidas y EVAU única.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "ED02 propone sustituir la LOMLOE con más disciplina; ED01 añade reválidas, es decir, exámenes externos."
+  },
+  {
+   "id": "Q23",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "FA05",
+     "page": 13,
+     "quote": "Protección desde concepción hasta muerte natural, conciencia",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 13,
+     "quote": "Tampoco procede traducir la medida 98 en un articulado completo de aborto o eutanasia que el programa no detalla.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "FA05 declara protección desde la concepción, principio contrario al aborto como derecho. El informe dice: \"Tampoco procede traducir la medida 98 en un articulado completo de aborto\"; por eso -1 y confianza baja."
+  },
+  {
+   "id": "Q24",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no vincula el IMV al rechazo de ofertas de empleo. PS01 trata solo la nacionalidad."
+  },
+  {
+   "id": "Q25",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata el cambio registral de sexo. CU02 habla solo de criterios de categoría femenina en deporte."
+  },
+  {
+   "id": "Q26",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PS04",
+     "page": 14,
+     "quote": "Sustituir las denominadas leyes de género y ampliar",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "La cobertura de otras víctimas puede estudiarse separadamente de la derogación del modelo vigente.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "PS04 propone sustituir las leyes de género y ampliar la protección a otras víctimas. El informe no detalla el modelo sustitutivo; confianza media."
+  },
+  {
+   "id": "Q27",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IN01",
+     "page": 15,
+     "quote": "Suprimir vías de arraigo y prohibir regularizaciones amplias.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Suprimir arraigos tampoco elimina las obligaciones de asilo",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IN01 propone suprimir el arraigo y prohibir regularizaciones amplias. Según la nota, -2."
+  },
+  {
+   "id": "Q28",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IN02",
+     "page": 15,
+     "quote": "Expedientes de salida y readmisión. El compromiso general no",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 27,
+     "quote": "Por ello, la entrega universal e inmediata no tiene una probabilidad defendible",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 35,
+     "quote": "Migración: procedimientos y readmisión antes de fijar una tasa universal de salida.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "IN02 compromete el retorno de los irregulares con carácter general. Las garantías individuales son condiciones del informe, no del programa."
+  },
+  {
+   "id": "Q29",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IN05",
+     "page": 15,
+     "quote": "Endurecer adquisición, revisar fraude y favorecer retorno de",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IN05 propone endurecer la adquisición de la nacionalidad."
+  },
+  {
+   "id": "Q30",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "SJ03",
+     "page": 16,
+     "quote": "Reducir edad penal y ampliar prisión permanente revisable.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Tampoco se puede asumir que endurecer penas o restringir atención sanitaria produzca el beneficio neto anunciado.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "SJ03 propone ampliar la prisión permanente revisable y rebajar la edad penal. Las conclusiones ejecutivas citan el endurecimiento de penas."
+  },
+  {
+   "id": "Q31",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona la Ley de Seguridad Ciudadana."
+  },
+  {
+   "id": "Q32",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona el cannabis. SJ02 trata el narcotráfico."
+  },
+  {
+   "id": "Q33",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "ID01",
+     "page": 17,
+     "quote": "Elección judicial de doce vocales y mayor autonomía fiscal.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "ID01 propone que los jueces elijan a doce vocales, mayoría de los veinte del CGPJ."
+  },
+  {
+   "id": "Q34",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona monarquía, república ni referéndum."
+  },
+  {
+   "id": "Q35",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe cita el Senado solo por el pacto electoral PP-Vox; no hay propuesta de suprimirlo."
+  },
+  {
+   "id": "Q36",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 18,
+     "quote": "La plataforma contiene propuestas uniformizadoras y de coordinación, pero no desarrolla una reforma completa de supresión del sistema autonómico.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "MT01",
+     "page": 18,
+     "quote": "Reducir brechas territoriales en sanidad, educación, seguridad",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 12,
+     "quote": "Contenidos comunes, reválidas y EVAU única.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El informe atribuye propuestas uniformizadoras y de coordinación sin devolución de competencias. Según la nota, +1."
+  },
+  {
+   "id": "Q37",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata la deuda autonómica ni condonaciones."
+  },
+  {
+   "id": "Q38",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona el Estado plurinacional."
+  },
+  {
+   "id": "Q39",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona la ley de amnistía. ID04 trata sedición, malversación e indultos."
+  },
+  {
+   "id": "Q40",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 19,
+     "quote": "Mantener centrales y revisar cierres.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN01 propone mantener las centrales y revisar el calendario de cierres."
+  },
+  {
+   "id": "Q41",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 19,
+     "quote": "Revertir restricciones del Pacto Verde y ZBE.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "EN04 propone revertir restricciones del Pacto Verde."
+  },
+  {
+   "id": "Q42",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EN03",
+     "page": 19,
+     "quote": "Menores impuestos y otras medidas de coste.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN03 propone menos impuestos sobre el coste energético. No precisa electricidad ni carburantes; confianza media."
+  },
+  {
+   "id": "Q43",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "CU01",
+     "page": 24,
+     "quote": "Conservación, fiscalidad cultural, patrimonio rural y",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "CU01",
+     "page": 24,
+     "quote": "tauromaquia. Priorizar bienes, acceso y mantenimiento.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "RU05",
+     "page": 20,
+     "quote": "Prevención, actividad cinegética y protección agraria frente a",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "CU01 incluye la tauromaquia en patrimonio y RU05 apoya la actividad cinegética."
+  },
+  {
+   "id": "Q44",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "RU01",
+     "page": 20,
+     "quote": "Revisar acuerdos y exigir condiciones equivalentes.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "La oposición a un acuerdo no prueba que todos sus sectores ganen con su retirada.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "RU01 pide revisar acuerdos y reciprocidad; el informe lo aplica a Mercosur y habla de oposición y retirada. Se deduce del párrafo; confianza media."
+  },
+  {
+   "id": "Q45",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona la gratuidad del transporte público."
+  },
+  {
+   "id": "Q46",
+   "value": 2,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 19,
+     "quote": "Revertir restricciones del Pacto Verde y ZBE.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "EN04 (Clima y movilidad) propone revertir restricciones del Pacto Verde. El veto de 2035 no se nombra; indicio indirecto."
+  },
+  {
+   "id": "Q47",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata impuestos a plataformas tecnológicas."
+  },
+  {
+   "id": "Q48",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata límites al pago en efectivo."
+  },
+  {
+   "id": "Q49",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EX03",
+     "page": 23,
+     "quote": "Más inversión, recursos, salarios, vivienda y reconocimiento",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "EX03",
+     "page": 23,
+     "quote": "No se fija en el programa una cuota concreta del",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EX03 propone más inversión en defensa sin cuota del PIB. Según la nota, modernizar sin cifra es 0 o +1; se pone +1."
+  },
+  {
+   "id": "Q50",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EX05",
+     "page": 23,
+     "quote": "Cambiar reglas comerciales y otras restricciones.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Abascal y la dirección ratifican fronteras y soberanía.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "EX05 pide cambiar reglas y restricciones europeas y la dirección ratifica la soberanía. No consta recuperación general de competencias: versión parcial."
+  },
+  {
+   "id": "Q51",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona salir de la OTAN."
+  },
+  {
+   "id": "Q52",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "ID05",
+     "page": 17,
+     "quote": "Cambios en memoria, expresión y protección penal de",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 17,
+     "quote": "Modificar leyes de memoria exige identificar qué disposiciones cambian, no suponer un articulado que el programa no desarrolla.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "ID05 propone cambios en las leyes de memoria sin decir que se deroguen. El informe no supone un articulado: versión parcial."
+  },
+  {
+   "id": "Q53",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: MT03 revisa requisitos lingüísticos en plazas públicas, pero el informe no trata el uso de lenguas cooficiales en el Congreso."
+  }
+ ]
+}

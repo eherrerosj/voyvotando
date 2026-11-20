@@ -1,0 +1,124 @@
+{
+  "version": "0.1",
+  "uso": "Banco candidato de afirmaciones para el quiz. Cada agente codifica el grado de acuerdo DEL PARTIDO de su informe con cada afirmación tal como está escrita. La selección final se hará después según cobertura y poder discriminante.",
+  "escala": {
+    "2": "El partido propone explícitamente esto (unidad/medida identificable o compromiso prioritario).",
+    "1": "El partido apoya una versión parcial, gradual o condicionada de esto.",
+    "0": "El informe documenta una posición intermedia, mixta o de mantenimiento que no va ni a favor ni en contra.",
+    "-1": "El partido propone una versión parcial de lo contrario.",
+    "-2": "El partido propone explícitamente lo contrario.",
+    "null": "El informe no documenta posición. El silencio NO es posición. Nunca inferir por ideología ni por lo que hacen partidos afines."
+  },
+  "afirmaciones": [
+    {"id": "ECO1", "ambito": 1, "texto": "Hay que reducir con fuerza trámites, normas y cargas a las empresas, aunque eso suponga menos controles previos.", "nota": "Desregulación administrativa (reducción de cargas, 'una entra, tres salen', silencio positivo)."},
+    {"id": "ECO2", "ambito": 1, "texto": "El Estado debería tener empresas públicas o participaciones en sectores estratégicos como energía, banca, vivienda o industria.", "nota": "Empresa pública/banca pública/participaciones. En contra: privatizar o reducir sector público empresarial."},
+    {"id": "ECO3", "ambito": 1, "texto": "España debería proteger a sus productores frente a la competencia exterior, aunque algunos productos suban de precio.", "nota": "Proteccionismo, preferencia nacional en compras, cláusulas espejo fuertes, rechazo a acuerdos comerciales."},
+    {"id": "ECO4", "ambito": 1, "texto": "Los trabajadores deberían participar en las decisiones o en los beneficios de las grandes empresas.", "nota": "Democracia económica, consejos de administración con trabajadores, reparto de beneficios."},
+
+    {"id": "FIS1", "ambito": 2, "texto": "Hay que bajar el IRPF a la mayoría de los contribuyentes.", "nota": "Rebaja general de IRPF, deflactación, subida de mínimos. Una rebaja solo a rentas bajas es +1. Subirlo a rentas altas sin bajar al resto puede ser -1."},
+    {"id": "FIS2", "ambito": 2, "texto": "Las grandes fortunas deberían pagar un impuesto específico sobre su patrimonio.", "nota": "Impuesto de patrimonio/grandes fortunas. En contra: suprimirlo."},
+    {"id": "FIS3", "ambito": 2, "texto": "El impuesto de sucesiones y donaciones debería eliminarse o reducirse al mínimo.", "nota": "En contra: armonizar al alza, impuestos a herencias altas."},
+    {"id": "FIS4", "ambito": 2, "texto": "Bancos y energéticas deberían pagar impuestos especiales sobre sus beneficios extraordinarios.", "nota": "Gravámenes temporales o permanentes sobre banca/energía/grandes empresas."},
+    {"id": "FIS5", "ambito": 2, "texto": "Hay que reducir el gasto público y el tamaño de la Administración, aunque eso implique suprimir organismos y puestos.", "nota": "Auditoría de gasto, supresión de organismos, ministerios, chiringuitos, subvenciones."},
+    {"id": "FIS6", "ambito": 2, "texto": "Los alimentos básicos deberían tener IVA cero de forma permanente.", "nota": "IVA alimentario cero o superreducido. Temporal = +1."},
+    {"id": "FIS7", "ambito": 2, "texto": "El impuesto de sociedades debería bajar para atraer inversión.", "nota": "En contra: tipo mínimo efectivo, subir sociedades a grandes empresas."},
+
+    {"id": "EMP1", "ambito": 3, "texto": "La jornada laboral máxima debería reducirse por ley sin bajar el salario.", "nota": "37,5 h, 32 h, 4 días. En contra: rechazo explícito o dejarlo a negociación."},
+    {"id": "EMP2", "ambito": 3, "texto": "El salario mínimo debería seguir subiendo con fuerza en los próximos años.", "nota": "Subida SMI hacia 60% salario medio o más. Congelar/moderar = negativo."},
+    {"id": "EMP3", "ambito": 3, "texto": "El despido debería ser más caro o más difícil para las empresas.", "nota": "Encarecer despido improcedente, readmisión, reparación íntegra. En contra: flexibilizar, mochila austriaca sin coste extra."},
+    {"id": "EMP4", "ambito": 3, "texto": "Hay que dar más poder a los sindicatos y a la negociación colectiva.", "nota": "En contra: reducir subvenciones o poder sindical, convenios de empresa sobre sectoriales."},
+    {"id": "EMP5", "ambito": 3, "texto": "Los autónomos con pocos ingresos deberían dejar de pagar cuota o pagar mucho menos.", "nota": "Exención/cuota cero/franquicia."},
+
+    {"id": "PEN1", "ambito": 4, "texto": "Las pensiones deberían subir siempre al menos lo mismo que el IPC.", "nota": "Revalorización por IPC garantizada."},
+    {"id": "PEN2", "ambito": 4, "texto": "Habría que complementar las pensiones públicas con ahorro privado o capitalización individual.", "nota": "Planes de empresa, mochila, modelo mixto. En contra: blindar sistema público exclusivamente de reparto."},
+    {"id": "PEN3", "ambito": 4, "texto": "La edad de jubilación no debería retrasarse más, o debería poder adelantarse sin penalización.", "nota": "En contra: retrasar edad, incentivar prolongación como sustituto."},
+    {"id": "PEN4", "ambito": 4, "texto": "Las pensiones mínimas y no contributivas deberían subir con fuerza, por encima del IPC.", "nota": "Equiparar mínimas a umbral de pobreza o SMI."},
+
+    {"id": "VIV1", "ambito": 5, "texto": "El Estado debería poder limitar el precio del alquiler en las zonas con precios muy altos.", "nota": "Control/topes de alquiler, índice de referencia vinculante. Derogar Ley de Vivienda = -2."},
+    {"id": "VIV2", "ambito": 5, "texto": "La mejor forma de abaratar la vivienda es liberar suelo, agilizar licencias y bajar impuestos, más que intervenir el mercado.", "nota": "Enfoque de oferta privada y fiscalidad."},
+    {"id": "VIV3", "ambito": 5, "texto": "Las viviendas ocupadas ilegalmente deberían recuperarse en un plazo máximo de 24 a 48 horas.", "nota": "Desalojo exprés de okupación."},
+    {"id": "VIV4", "ambito": 5, "texto": "El Estado debería poder expropiar o movilizar a la fuerza viviendas vacías de grandes propietarios para alquiler social.", "nota": "Expropiación, uso forzoso, recargos fuertes a vacías de grandes tenedores."},
+    {"id": "VIV5", "ambito": 5, "texto": "Habría que prohibir o limitar mucho los pisos turísticos en las zonas con escasez de vivienda.", "nota": ""},
+    {"id": "VIV6", "ambito": 5, "texto": "Los españoles deberían tener prioridad sobre los extranjeros en el acceso a vivienda pública y ayudas.", "nota": "Prioridad nacional/arraigo de nacionales en vivienda y ayudas."},
+    {"id": "VIV7", "ambito": 5, "texto": "El Estado debería construir un gran parque de vivienda pública en alquiler.", "nota": "Parque público masivo (cifras). Un objetivo total público-privado es +1."},
+
+    {"id": "SAN1", "ambito": 6, "texto": "La sanidad pública debería dejar de concertar servicios con empresas privadas.", "nota": "Revertir privatizaciones, prohibir conciertos. En contra: colaboración público-privada, libre elección con privada."},
+    {"id": "SAN2", "ambito": 6, "texto": "Los inmigrantes en situación irregular deberían tener acceso a la sanidad pública como el resto de residentes.", "nota": "Universalidad. En contra: limitar a urgencias o exigir cotización/residencia."},
+    {"id": "SAN3", "ambito": 6, "texto": "La sanidad pública debería incluir dentista, óptica y más salud mental de forma gratuita.", "nota": "Ampliación de cartera."},
+    {"id": "SAN4", "ambito": 6, "texto": "La ley de eutanasia debería mantenerse.", "nota": "Derogarla o sustituirla por solo paliativos = -2. Si el informe dice que no se puede afirmar derogación: null."},
+
+    {"id": "EDU1", "ambito": 7, "texto": "El dinero público para educación debería ir solo a la escuela pública, reduciendo los conciertos con colegios privados.", "nota": "En contra: blindar/ampliar concertada, cheque escolar, libertad de elección."},
+    {"id": "EDU2", "ambito": 7, "texto": "Las familias deberían poder elegir que sus hijos estudien en castellano en las comunidades con lengua cooficial.", "nota": "Lengua vehicular, 25% castellano, elección de lengua. En contra: inmersión lingüística."},
+    {"id": "EDU3", "ambito": 7, "texto": "La ley educativa actual (LOMLOE) debería sustituirse por otra más exigente con exámenes y repetición.", "nota": "Derogar LOMLOE, más exigencia, reválidas."},
+    {"id": "EDU4", "ambito": 7, "texto": "La universidad pública debería ser gratuita.", "nota": "Matrícula gratuita. Becas amplias = +1."},
+    {"id": "EDU5", "ambito": 7, "texto": "Los padres deberían poder vetar que sus hijos reciban ciertos contenidos sobre sexualidad o valores en el colegio.", "nota": "Pin parental / consentimiento previo. En contra: educación afectivo-sexual obligatoria."},
+
+    {"id": "FAM1", "ambito": 8, "texto": "El Estado debería pagar una ayuda económica mensual por cada hijo a todas las familias.", "nota": "Prestación universal por crianza, crédito reembolsable, cheque bebé."},
+    {"id": "FAM2", "ambito": 8, "texto": "El aborto debería seguir siendo un derecho garantizado en la sanidad pública.", "nota": "En contra: restringir, derogar ley de plazos, alternativas obligatorias. Si el informe dice que no se infiere posición: null."},
+    {"id": "FAM3", "ambito": 8, "texto": "La educación de 0 a 3 años debería ser gratuita y universal.", "nota": ""},
+    {"id": "FAM4", "ambito": 8, "texto": "Los permisos por nacimiento y cuidado deberían ampliarse claramente y estar pagados al 100%.", "nota": ""},
+
+    {"id": "SOC1", "ambito": 9, "texto": "Las ayudas sociales como el Ingreso Mínimo Vital deberían exigir buscar y aceptar empleo.", "nota": "Condicionalidad, renta de activación, sanciones. En contra: incondicionalidad, renta básica."},
+    {"id": "SOC2", "ambito": 9, "texto": "Debería existir una renta básica universal e incondicional.", "nota": ""},
+    {"id": "SOC3", "ambito": 9, "texto": "Las personas trans deberían poder cambiar su sexo en el registro con su propia declaración.", "nota": "Autodeterminación registral (Ley trans). Revisarla/derogarla = negativo."},
+    {"id": "SOC4", "ambito": 9, "texto": "La ley de violencia de género debería sustituirse por una ley de violencia intrafamiliar que no distinga por sexo.", "nota": "En contra: reforzar enfoque de género."},
+    {"id": "SOC5", "ambito": 9, "texto": "Hay que reforzar las políticas de igualdad entre mujeres y hombres (cuotas, organismos, presupuesto).", "nota": "En contra: suprimir ministerios/organismos de igualdad."},
+
+    {"id": "INM1", "ambito": 10, "texto": "Debería aprobarse una regularización extraordinaria de los inmigrantes que ya viven y trabajan en España.", "nota": "ILP de regularización. En contra: prohibir regularizaciones, suprimir arraigo."},
+    {"id": "INM2", "ambito": 10, "texto": "Los inmigrantes en situación irregular deberían ser expulsados de forma sistemática.", "nota": "Expulsiones/deportaciones masivas, remigración. Más retornos con garantías = +1."},
+    {"id": "INM3", "ambito": 10, "texto": "La inmigración debería organizarse sobre todo mediante contratos en origen y cupos según las necesidades laborales.", "nota": ""},
+    {"id": "INM4", "ambito": 10, "texto": "Debería prohibirse el burka y el niqab en los espacios públicos.", "nota": "Prohibición de prendas que cubren el rostro."},
+    {"id": "INM5", "ambito": 10, "texto": "Debería ser más difícil obtener la nacionalidad española.", "nota": "Endurecer requisitos, pérdida de nacionalidad. En contra: facilitar, ius soli."},
+    {"id": "INM6", "ambito": 10, "texto": "España debería acoger a más refugiados y abrir vías legales y seguras de llegada.", "nota": ""},
+
+    {"id": "SEG1", "ambito": 11, "texto": "Hay que endurecer las penas de prisión, sobre todo para los delincuentes reincidentes.", "nota": "Multirreincidencia, penas más altas, prisión permanente. En contra: enfoque reinsertador, alternativas a prisión."},
+    {"id": "SEG2", "ambito": 11, "texto": "La Ley de Seguridad Ciudadana ('ley mordaza') debería derogarse.", "nota": ""},
+    {"id": "SEG3", "ambito": 11, "texto": "Hacen falta más policías y guardias civiles, con mejores sueldos y medios.", "nota": "Plantillas, equiparación salarial, profesión de riesgo."},
+    {"id": "SEG4", "ambito": 11, "texto": "Habría que construir más cárceles o centros penitenciarios de máxima seguridad.", "nota": ""},
+
+    {"id": "INS1", "ambito": 12, "texto": "Los jueces deberían elegir a la mayoría de los miembros del Consejo General del Poder Judicial, no el Parlamento.", "nota": "Despolitización CGPJ/TC/Fiscalía por jueces. En contra: elección parlamentaria/democratizar la justicia."},
+    {"id": "INS2", "ambito": 12, "texto": "Debería celebrarse un referéndum para elegir entre monarquía y república.", "nota": ""},
+    {"id": "INS3", "ambito": 12, "texto": "Hay que endurecer mucho el castigo de la corrupción política (imprescriptibilidad, inhabilitación, devolución de lo robado).", "nota": ""},
+    {"id": "INS4", "ambito": 12, "texto": "La ley electoral debería cambiarse para que el reparto de escaños sea más proporcional a los votos.", "nota": ""},
+    {"id": "INS5", "ambito": 12, "texto": "Hay que reducir drásticamente el número de políticos, asesores y cargos de confianza.", "nota": ""},
+    {"id": "INS6", "ambito": 12, "texto": "Habría que eliminar los aforamientos de los políticos.", "nota": ""},
+
+    {"id": "TER1", "ambito": 13, "texto": "El Estado debería recuperar competencias de las comunidades autónomas, como educación o sanidad.", "nota": "Recentralización, supresión de autonomías. En contra: más autogobierno, federalismo."},
+    {"id": "TER2", "ambito": 13, "texto": "La ley de amnistía debería derogarse.", "nota": ""},
+    {"id": "TER3", "ambito": 13, "texto": "Cataluña o el País Vasco deberían poder votar en referéndum si quieren ser independientes.", "nota": "Derecho a decidir, referéndum pactado."},
+    {"id": "TER4", "ambito": 13, "texto": "España debería reconocerse como un Estado plurinacional o federal.", "nota": ""},
+    {"id": "TER5", "ambito": 13, "texto": "Todas las comunidades deberían financiarse con las mismas reglas, sin acuerdos bilaterales ni regímenes especiales.", "nota": "Multilateralidad, igualdad, crítica a financiación singular/cupo. En contra: financiación singular, bilateralidad."},
+
+    {"id": "ENE1", "ambito": 14, "texto": "Las centrales nucleares deberían seguir funcionando más allá del calendario de cierre previsto.", "nota": ""},
+    {"id": "ENE2", "ambito": 14, "texto": "España debería acelerar la transición ecológica aunque tenga costes a corto plazo para algunos sectores.", "nota": "En contra: frenar ritmo, priorizar coste y competitividad."},
+    {"id": "ENE3", "ambito": 14, "texto": "España debería oponerse o salirse de gran parte del Pacto Verde Europeo y la Agenda 2030.", "nota": ""},
+    {"id": "ENE4", "ambito": 14, "texto": "Debería crearse una empresa pública de energía.", "nota": ""},
+    {"id": "ENE5", "ambito": 14, "texto": "Habría que bajar o eliminar los impuestos a la electricidad y los carburantes.", "nota": ""},
+
+    {"id": "AGR1", "ambito": 15, "texto": "España debería oponerse al acuerdo comercial entre la UE y Mercosur.", "nota": ""},
+    {"id": "AGR2", "ambito": 15, "texto": "Hay que construir más embalses y trasvases de agua entre cuencas.", "nota": "Plan hidrológico, trasvases. En contra: nueva cultura del agua, no más trasvases."},
+    {"id": "AGR3", "ambito": 15, "texto": "La caza y los toros deberían protegerse como patrimonio cultural.", "nota": "En contra: prohibir/eliminar ayudas a tauromaquia, ley de bienestar animal estricta."},
+    {"id": "AGR4", "ambito": 15, "texto": "Las ayudas agrarias deberían priorizar a las pequeñas explotaciones familiares y a la agroecología frente a las grandes.", "nota": ""},
+
+    {"id": "INF1", "ambito": 16, "texto": "El transporte público debería ser gratuito o tener un abono único muy barato.", "nota": ""},
+    {"id": "INF2", "ambito": 16, "texto": "Hay que priorizar el tren de Cercanías y el mantenimiento frente a nuevas grandes obras.", "nota": ""},
+    {"id": "INF3", "ambito": 16, "texto": "La prohibición de vender coches de combustión a partir de 2035 debería retrasarse o eliminarse.", "nota": ""},
+
+    {"id": "TEC1", "ambito": 17, "texto": "El acceso de los menores a las redes sociales debería restringirse por ley con verificación de edad.", "nota": ""},
+    {"id": "TEC2", "ambito": 17, "texto": "Las grandes plataformas tecnológicas deberían pagar más impuestos y estar mucho más reguladas.", "nota": ""},
+    {"id": "TEC3", "ambito": 17, "texto": "La Administración debería usar la inteligencia artificial de forma intensiva para automatizar trámites.", "nota": ""},
+    {"id": "TEC4", "ambito": 17, "texto": "Habría que proteger por ley el dinero en efectivo y el anonimato frente al control digital.", "nota": "Defensa del efectivo, contra euro digital, privacidad frente al Estado."},
+
+    {"id": "EXT1", "ambito": 18, "texto": "España debería aumentar el gasto en defensa hasta los objetivos de la OTAN.", "nota": ""},
+    {"id": "EXT2", "ambito": 18, "texto": "España debería seguir apoyando a Ucrania, también con material militar.", "nota": ""},
+    {"id": "EXT3", "ambito": 18, "texto": "España debería romper relaciones o aplicar un embargo total de armas a Israel.", "nota": ""},
+    {"id": "EXT4", "ambito": 18, "texto": "La Unión Europea tiene demasiado poder y España debería recuperar soberanía.", "nota": "En contra: más integración europea, federalismo europeo."},
+    {"id": "EXT5", "ambito": 18, "texto": "España debería salir de la OTAN o reducir su implicación militar en ella.", "nota": ""},
+    {"id": "EXT6", "ambito": 18, "texto": "España debería defender el derecho de autodeterminación del Sáhara Occidental.", "nota": ""},
+
+    {"id": "CUL1", "ambito": 19, "texto": "La Ley de Memoria Democrática debería derogarse.", "nota": ""},
+    {"id": "CUL2", "ambito": 19, "texto": "Las lenguas cooficiales deberían poder usarse en el Congreso y en las instituciones del Estado.", "nota": ""},
+    {"id": "CUL3", "ambito": 19, "texto": "RTVE debería reducirse, privatizarse o cerrarse.", "nota": "En contra: reforzar RTVE pública independiente."},
+    {"id": "CUL4", "ambito": 19, "texto": "El Estado debería financiar más la cultura, con ayudas públicas a creadores y acceso gratuito.", "nota": ""}
+  ]
+}

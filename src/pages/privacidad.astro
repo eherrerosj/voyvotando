@@ -1,0 +1,22 @@
+---
+import Base from "../layouts/Base.astro";
+---
+<Base title="Privacidad · Voy Votando">
+  <article class="wrap priv">
+    <p class="kicker">Privacidad</p>
+    <h1 class="display title">Tus respuestas no salen de tu navegador</h1>
+    <ul>
+      <li>No hay registro, ni cookies, ni analítica, ni servidor que reciba tus respuestas.</li>
+      <li>El cálculo se hace en tu navegador. Las opiniones políticas son datos especialmente protegidos (artículo 9 del RGPD), y por eso no los tratamos.</li>
+      <li>Mientras haces el test, tus respuestas se guardan en el almacenamiento de esta pestaña para que puedas recargar sin perderlas. Se borran al cerrarla o al terminar.</li>
+      <li>El enlace de resultado lleva tus respuestas codificadas tras el símbolo #. Esa parte de la dirección no se envía a ningún servidor, pero sí la ve quien reciba el enlace.</li>
+      <li>La imagen para compartir solo muestra el podio, sin tus respuestas.</li>
+      <li>No publicamos datos agregados de uso. Además, la ley electoral prohíbe publicar sondeos del 24 al 28 de noviembre (artículo 69.7 de la LOREG).</li>
+    </ul>
+  </article>
+</Base>
+<style>
+  .priv { max-width: 820px; padding-top: 48px; padding-bottom: 80px; font-size: 18px; }
+  .title { font-size: clamp(32px, 6vw, 64px); margin: 12px 0 24px; }
+  li { margin-bottom: 12px; }
+</style>

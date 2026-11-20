@@ -1,0 +1,8 @@
+---
+import Base from "../layouts/Base.astro";
+import Results from "../components/results/Results.tsx";
+---
+<Base title="Tu resultado · Voy Votando" description="Tu afinidad con los programas de 6 partidos para el 29N, con explicación pregunta a pregunta.">
+  <Results client:load />
+  <noscript><p class="wrap">Los resultados se calculan en tu navegador y necesitan JavaScript.</p></noscript>
+</Base>

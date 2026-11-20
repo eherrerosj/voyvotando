@@ -1,0 +1,24 @@
+name: Propuesta de mejora
+description: Una idea para la web, la metodología o los datos.
+title: "[Propuesta] "
+labels: ["propuesta"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qué problema resuelve
+    validations:
+      required: true
+  - type: textarea
+    id: solucion
+    attributes:
+      label: Cómo lo resolverías
+  - type: checkboxes
+    id: reglas
+    attributes:
+      label: Reglas del proyecto
+      options:
+        - label: La propuesta no añade rastreadores, cookies, anuncios ni envío de respuestas a ningún servidor.
+          required: true
+        - label: La propuesta trata a los 6 partidos con el mismo criterio.
+          required: true

@@ -1,0 +1,2704 @@
+ANÁLISIS DE POLÍTICAS PÚBLICAS
+
+
+
+
+Frente Amplio
+Propuestas, viabilidad y escenarios de ejecución
+Elecciones generales de España | 29 de noviembre de 2026
+
+
+
+
+Qué podría cambiar realmente
+Evaluación del programa común, de sus condiciones de aplicación y de las diferencias entre organizaciones
+integrantes. El análisis separa compromiso político, evidencia externa y estimación propia.
+19 ámbitos de política pública. 108 unidades de análisis agrupadas por instrumento o problema de ejecución. No
+es una transcripción ni una auditoría individual de cada frase del programa.
+No recomienda un voto ni pronostica el resultado electoral. Las valoraciones de probabilidad son cualitativas,
+condicionadas y no calibradas estadísticamente.
+
+
+
+ Documento                               Corte de información
+
+ Informe de evaluación | Versión 1.0     17 de noviembre de 2026
+
+                                         Programa presentado el 16 de noviembre; anuncios y ratificaciones fechados por
+ Base común
+                                         separado.
+
+
+Fuentes: programa y documentos de la coalición y de sus integrantes; BOE; Congreso; instituciones europeas; AIReF; Banco de
+España; investigación académica. Referencias numeradas y enlazadas al final.
+LECTURA EJECUTIVA
+
+Conclusiones en cinco minutos
+Un programa común, no la suma de los programas de sus socios
+Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica.
+La candidatura compartida acredita un acuerdo político; no acredita unanimidad interna sobre cada instrumento.
+Las diferencias entre el documento común y el de IU deben conservarse, especialmente en vivienda, recaudación
+y OTAN. [2, 14, 16-18, 23, 26]
+
+La ruta depende más del instrumento que del objetivo
+Prestaciones, inspección o cambios administrativos tienen una vía nacional reconocible. Ampliar vivienda,
+personal sanitario, redes o transporte exige capacidad material. Cambiar el modelo de Estado o ciertas reglas
+europeas requiere apoyos que una mayoría parlamentaria ordinaria no proporciona. Esta distinción estructura las
+fichas; no es una valoración ideológica.
+
+La cuenta fiscal necesita consolidación
+No es correcto sumar porcentajes de gasto sectorial, transferencias territoriales, crédito e inversión privada.
+Tampoco utilizar la recaudación estimada por un integrante como memoria común. El informe identifica las
+partidas y sus interacciones, sin presentar un saldo fiscal ficticiamente preciso.
+
+Hay mecanismos plausibles y riesgos que deben medirse
+La ampliación de prestaciones puede mejorar cobertura; la simplificación puede reducir costes de acceso. El
+efecto depende de captación, oferta y calidad. En alquiler, proteger a residentes y modificar los incentivos de los
+propietarios son efectos simultáneos que deben evaluarse; un resultado observado en otro país no determina el
+español. [40-44]
+
+Tres comprobaciones temporales cambian la lectura
+El plazo de 37,5 horas en 2026 es muy estrecho frente a la constitución de las Cámaras el 23 de diciembre. Una
+obligación para centros de datos cita julio de 2026, ya pasado. El cierre anunciado de Almaraz en 2027-2028 no
+coincide con la autorización vigente hasta junio de 2030. Son cuestiones de calendario y línea base, no
+correcciones que el analista deba inventar. [1, 2, 35]
+
+No hay una probabilidad única de cumplir el programa
+Las estimaciones se refieren a versiones concretas, escenarios y plazos. Aprobar, financiar, entregar y producir
+bienestar son acontecimientos diferentes. La confianza en la existencia de una promesa puede ser alta mientras la
+confianza en su ejecución sigue siendo media o baja.
+Lectura recomendada: alcance y método; fichas del ámbito de interés; balance fiscal y jurídico; respaldo interno y acuerdos;
+fuentes. No se calcula una nota global ni se recomienda un voto.
+
+
+
+
+                                                                                            FRENTE AMPLIO | Evaluación de propuestas 2
+01 | CONTROL DOCUMENTAL
+
+Coalición, versiones y atribución
+La votación está convocada para el 29 de noviembre de 2026. Se analiza el programa común presentado el 16 de
+noviembre y las ratificaciones identificadas hasta el día 17. La colección de propuestas de IU se utiliza para
+contrastar coincidencias y diferencias, no para sustituir el documento conjunto. [1-5, 17]
+
+ Elemento                      Tratamiento
+
+                               Coalición y espacio de organizaciones. El núcleo del acuerdo de candidatura incluye
+ Sujeto político               Movimiento Sumar, IU, Más Madrid y Comuns; existen alianzas territoriales adicionales. [4, 14,
+                               15]
+
+                               Ada Colau encabeza el proyecto y la lista por Barcelona; Emilio Delgado, la de Madrid. La
+ Candidatura                   relación provincial oficial de la coalición permite comprobar los puestos, sin convertirlos en
+                               futuros cargos ministeriales. [4]
+
+                               108 fichas agrupadas en 19 ámbitos. Una ficha puede reunir instrumentos inseparables. No
+ Unidad del informe
+                               equivale a 108 frases literales ni a una auditoría exhaustiva de cada inciso.
+
+                               Base común: 16/11. Varias páginas temáticas: publicadas 15/11 y actualizadas 17/11. Salarios:
+ Recencia
+                               ratificación 17/11. Comprobación del informe: 17/11/2026. [5-13]
+
+                               Partido integrante, coalición, grupo parlamentario, Gobierno y administración ejecutora son
+ Responsabilidad               actores distintos. La participación de dirigentes en gobiernos anteriores no convierte todo su
+                               balance en obra exclusiva de Frente Amplio.
+
+                               Se diferencia novedad, ampliación, desarrollo de norma vigente, ratificación, reforma
+ Estado de la medida           constitucional y cambio europeo. Un objetivo ya aprobado no se cuenta como nueva conquista
+                               legislativa.
+
+
+
+La relación con Podemos no se reduce a una etiqueta nacional
+La cooperación y la competencia pueden variar por territorio. El informe no identifica a Podemos como integrante
+estatal automático ni presupone un veto universal a acuerdos posteriores. Tampoco suma dos veces
+organizaciones, coaliciones territoriales y eventuales grupos parlamentarios. [15]
+
+Tres capas de afirmaciones
+Compromiso: lo que dice una fuente oficial de la coalición. Hecho externo: norma, votación, dato o evaluación
+identificable. Análisis propio: mecanismos, condiciones, riesgos y valoraciones de ejecución. Las fuentes de
+partido acreditan la primera capa, no la tercera.
+Los identificadores de las fichas son del informe. Para localizar las propuestas originales se indican capítulos y apartados, evitando
+depender de la paginación impresa del programa.
+Navegación: fichas, pp. 5-31; cuenta fiscal, pp. 32-34; derecho y evidencia, pp. 35-36; respaldo y equipo, pp. 37-41; acuerdos y
+seguimiento, pp. 42-45; cobertura, p. 46; fuentes, pp. 47-52.
+
+
+
+
+                                                                                               FRENTE AMPLIO | Evaluación de propuestas 3
+02 | MÉTODO
+
+Probabilidades condicionadas y confianza
+ Escenario                    Supuesto; no previsión electoral
+
+                              Gobierno de Frente Amplio con votos suficientes para leyes ordinarias y orgánicas. No supone
+ A - Mayoría propia           mayoría constitucional, control judicial, subordinación autonómica ni capacidad de modificar la
+                              UE unilateralmente.
+
+                              Acuerdo con el PSOE y apoyos adicionales suficientes para tramitar legislación, pero cada
+ B - Gobierno negociado       propuesta necesita negociación. Se valora una versión sustancialmente fiel, no cualquier
+                              medida de nombre similar.
+
+                              Sin control del Ejecutivo ni pacto estable de ejecución: iniciativas, enmiendas, acuerdos
+ C - Influencia externa       puntuales o adopción por otro Gobierno. No se presupone capacidad para imponer
+                              presupuesto.
+
+
+La columna A / B / C expresa una estimación cualitativa de aprobación durante una legislatura. E expresa entrega
+efectiva después de aprobación legal y financiación suficiente. No es la probabilidad conjunta de llegar al
+Gobierno, aprobar, financiar y ejecutar. Horizonte: cuatro años desde la toma de posesión, salvo plazo expreso
+diferente.
+
+ Categoría                    Criterio
+
+                              Ruta relativamente directa bajo el supuesto, instrumento identificable y sin veto decisivo
+ Alta
+                              conocido. No significa certeza.
+
+ Media                        Necesita definición, negociación, coordinación o capacidad sustancial; la condición se explica.
+
+                              La versión completa enfrenta una barrera jurídica, temporal o externa que el escenario no
+ Baja
+                              resuelve. No implica que ninguna parte pueda avanzar.
+
+                              No estimable: resultado, diseño, denominador u horizonte insuficientemente definido para una
+ NE
+                              predicción defendible.
+
+
+
+Lo que las valoraciones no miden
+No son frecuencias calibradas, no se convierten en porcentajes y no se promedian para puntuar al partido. La
+confianza del pronóstico es normalmente media-baja; la del texto documental puede ser alta. La financiación no
+se da por resuelta al valorar E: se analiza de forma separada como condición previa.
+La eficacia social, los efectos distributivos y la permanencia se evalúan aparte. Se consideran alternativas, efectos
+adversos y compromisos heredados. Un articulado, una memoria económica, un acuerdo firmado o un convenio
+ejecutor pueden modificar las estimaciones.
+Las afinidades entre partidos son hipótesis de negociación salvo que se identifique un acuerdo o votación. La ausencia de críticas
+internas no se interpreta como unanimidad.
+
+
+
+
+                                                                                             FRENTE AMPLIO | Evaluación de propuestas 4
+03 | FICHAS SECTORIALES
+
+01. Economía y empresas | capacidad productiva
+Base: 16/11/2026. Programa: 6.1-6.3, 13.1-13.2. Contraste interno: IU, bloque 5. Fuentes: [2, 22, 31, 32].
+
+ Medida                            Instrumento y condición decisiva                                                      A / B / C; E
+
+                                   Reforzar la capacidad inversora y coordinadora del Estado.
+ E01 - Política industrial                                                                                             Alta / Media /
+                                   Condicionar ayudas a hitos y medir inversión realmente adicional, no
+ activa                                                                                                               Media; E: Media
+                                   solo gasto movilizado.
+
+                                   Creación o refuerzo empresarial en sectores seleccionados. Exige
+ E02 - Empresas públicas                                                                                              Media / Media /
+                                   capital, gobernanza profesional, demanda solvente y compatibilidad
+ estratégicas                                                                                                         Baja; E: Media
+                                   de ayudas, no solo una ley constitutiva.
+
+                                   Ampliar el papel del ICO y estudiar instrumentos de banca pública y
+                                                                                                                      Media / Media /
+ E03 - Banca pública               postal. Separar mandato de desarrollo, solvencia, riesgo crediticio y
+                                                                                                                      Baja; E: Media
+                                   costes de servicio universal.
+
+                                   Control de concentración y obligaciones sobre grandes grupos. Las
+ E04 - Poder empresarial y                                                                                            Media / Media /
+                                   restricciones requieren motivación, procedimiento y
+ competencia                                                                                                          Baja; E: Media
+                                   proporcionalidad; ser grande no demuestra abuso.
+
+
+
+Mecanismo y prueba de eficacia
+La tesis es corregir fallos de financiación y coordinar inversiones que el mercado no entrega por sí solo. Para
+evaluarla, cada proyecto debería identificar el fallo concreto, comparar subvención, préstamo, garantía o compra
+pública y fijar una salida cuando deje de ser necesario. La propiedad pública por sí sola no acredita adicionalidad
+ni ineficiencia.
+
+Coste y distribución
+Aportaciones de capital, préstamos y subvenciones tienen efectos contables y riesgos distintos. Las pérdidas
+esperadas, garantías ejecutables y recapitalizaciones deben incorporarse al escenario adverso. Los beneficios
+pueden concentrarse en territorios con proyectos maduros; la selección necesita criterios publicados y
+mecanismos contra captura.
+
+Respaldo y negociación
+Hay coincidencia documentada entre el programa común y la orientación industrial de IU. El grado exacto de
+propiedad pública, las condiciones laborales y la cartera de sectores son variables negociables, no un acuerdo
+estatal cerrado. Las reglas de ayudas permiten diseños compatibles; no autorizan cualquier subsidio ni prohíben
+toda empresa pública. [22, 31]
+
+Indicadores de cumplimiento
+Capital desembolsado y recuperado; inversión privada adicional; productividad y empleo netos; rentabilidad
+ajustada por riesgo; costes de servicio público; proyectos descartados y criterios aplicados.
+
+
+
+
+                                                                                                   FRENTE AMPLIO | Evaluación de propuestas 5
+03 | FICHAS SECTORIALES
+
+01. Economía y empresas | pequeños negocios
+Base: 16/11; explicación temática actualizada 17/11. Programa: 8 y 13. Fuentes: [2, 13, 22, 59].
+
+ Medida                            Instrumento y condición decisiva                                                      A / B / C; E
+
+                                   Franquicia de IVA hasta 85.000 euros de facturación; cuota
+ E05 - IVA y cotización            bonificada de 88 euros mensuales por bajos ingresos en el texto                     Alta / Media /
+ simplificados                     base. Definir opción, control de fragmentación y protección                        Media; E: Media
+                                   contributiva.
+
+                                   Estabilidad contractual, renovación y referencia de precios. El
+ E06 - Comercio y alquiler                                                                                            Media / Media /
+                                   beneficio al comercio instalado debe contrastarse con acceso de
+ de locales                                                                                                           Baja; E: Media
+                                   nuevos negocios y mantenimiento de locales.
+
+                                   Crédito anual de 3.000 millones para empresas pequeñas,
+ E07 - Financiación y                                                                                                  Alta / Media /
+                                   acompañamiento y disciplina de pagos. El principal prestado no
+ morosidad                                                                                                            Media; E: Media
+                                   equivale a subvención presupuestaria.
+
+                                   Impulsar cooperativas, participación de trabajadores en gobierno y
+ E08 - Economía social y                                                                                              Media / Media /
+                                   propiedad empresarial. Diferenciar apoyo voluntario de obligaciones
+ participación                                                                                                        Baja; E: Media
+                                   de representación o transferencia patrimonial.
+
+
+
+Un beneficio fiscal no es idéntico para todos
+La franquicia puede simplificar, pero la exención implica no deducir IVA soportado. El balance cambia entre un
+profesional con pocos insumos y un negocio intensivo en compras o inversión. Conviene simular casos antes de
+presentar la medida como ahorro universal. El marco europeo ya contempla este régimen. [59]
+
+Coherencia con el resto del programa
+Menores cargas administrativas pueden coexistir con nuevas obligaciones laborales, ambientales o de
+participación. La prueba conjunta es el coste neto por tamaño y sector, no el número de trámites eliminados. Las
+ayudas de digitalización deben medir adopción y productividad, no compras de software sin uso.
+
+Respaldo y acuerdos
+El paquete comercial tiene ratificación explicativa reciente de la coalición. Simplificación y pagos puntuales
+ofrecen un posible terreno transversal; la cogestión obligatoria o el control de rentas requiere negociación
+separada. No existe aquí evidencia de un pacto de otros partidos sobre su diseño exacto. [13]
+
+Verificación
+Horas de cumplimiento; coste efectivo de cotizar; plazo real de pago; impagos del crédito; nuevas empresas y
+cierres; alquiler de locales vacantes; participación laboral efectiva y litigios.
+
+
+
+
+                                                                                                   FRENTE AMPLIO | Evaluación de propuestas 6
+03 | FICHAS SECTORIALES
+
+02. Fiscalidad | patrimonio y redistribución
+Base: 16/11; páginas explicativas al 17/11. Programa: 1.7 y 3. Fuentes: [2, 5, 7, 9, 23, 28, 32, 44].
+
+ Medida                             Instrumento y condición decisiva                                                          A / B / C; E
+
+                                    Suelo del 2% sobre patrimonios superiores a un millón y del 3% por
+                                                                                                                           Media / Media /
+ F01 - Grandes patrimonios          encima de 50 millones. Concretar bases, deudas, exenciones y
+                                                                                                                           Baja; E: Media
+                                    créditos por impuestos ya pagados.
+
+                                    Tramos marginales del 75% entre 5 y 10 millones y 100% por encima
+ F02 - Herencias muy                                                                                                     Media / Baja / Baja;
+                                    de 10 millones por heredero. Necesita articulado, valoración, liquidez
+ elevadas                                                                                                                    E: Media
+                                    y revisión constitucional.
+
+                                    Gravamen del 10% con umbrales y exención por alquiler asequible.
+ F03 - Acumulación de                                                                                                      Media / Media /
+                                    La respuesta buscada puede reducir la base: no financiar gasto fijo
+ vivienda                                                                                                                  Baja; E: Media
+                                    suponiendo recaudación invariable.
+
+                                    Limitar vaciamientos de bases e integrar instrumentos estatales y
+ F04 - Coordinación                                                                                                        Media / Media /
+                                    autonómicos. Separar igualación de mínimos, autonomía fiscal y
+ territorial                                                                                                               Baja; E: Media
+                                    reparto de ingresos.
+
+
+
+Alcance: no es un impuesto del 100% sobre toda herencia
+La propuesta es marginal y establece umbrales. Eso no elimina las preguntas sobre no confiscatoriedad,
+transmisiones empresariales, fragmentación de donaciones o valoración de activos no cotizados. No corresponde
+declarar su constitucionalidad o nulidad sin texto legal y examen del diseño. [5, 28]
+En vivienda, la explicación oficial excluye del cómputo las unidades arrendadas de manera estable y asequible;
+para particulares introduce el umbral de acumulación y valor, mientras el tratamiento de personas jurídicas es
+distinto. La etiqueta del impuesto no basta para calcular quién paga. [7]
+
+Evidencia y balance distributivo
+La OCDE analiza cómo los impuestos sucesorios pueden influir en igualdad de oportunidades y recaudación, pero
+no valida este tipo marginal concreto. La evaluación debe distinguir riqueza en balance, capacidad de pago
+corriente y efectos sobre donaciones, ahorro y residencia. Exenciones amplias pueden facilitar liquidez y a la vez
+abrir vías de elusión. [44]
+
+Seguimiento
+Recaudación neta tras cambios de comportamiento; patrimonio y herencias por tramo; aplazamientos; litigios;
+hogares arrendatarios beneficiados; salida de vivienda del alquiler; distribución territorial de ingresos.
+
+
+
+
+                                                                                                        FRENTE AMPLIO | Evaluación de propuestas 7
+03 | FICHAS SECTORIALES
+
+02. Fiscalidad | bases, empresas y administración
+Programa: 3.1 y 3.3-3.7. Texto común y contraste de IU: [2, 23]. Restricción fiscal: [29, 39].
+
+ Medida                             Instrumento y condición decisiva                                                   A / B / C; E
+
+                                    Suelo efectivo del 20% para grandes empresas y revisión de
+ F05 - Tributación                                                                                                  Media / Media /
+                                    beneficios fiscales. Precisar el denominador contable y coordinarlo
+ empresarial efectiva                                                                                               Baja; E: Media
+                                    con los impuestos mínimos internacionales existentes.
+
+                                    Aproximar capital y trabajo; rebajar IRPF a salarios hasta 27.000
+ F06 - Rentas del trabajo y                                                                                        Alta / Media / Baja;
+                                    euros y elevar al 52% el marginal desde 300.000. Precisar bases,
+ del capital                                                                                                             E: Media
+                                    pérdidas y transición.
+
+                                    Reorientar gravamen según objetivos distributivos y ambientales.
+ F07 - IVA, lujo y fiscalidad                                                                                       Media / Media /
+                                    Distinguir instrumentos nacionales posibles de cambios que
+ ambiental                                                                                                          Media; E: Media
+                                    necesitan reglas europeas.
+
+                                    Más capacidad tributaria, información y coordinación antifraude.
+ F08 - Fraude y                                                                                                    Alta / Alta / Media;
+                                    Contratar, formar e integrar datos lleva tiempo; ingresos esperados
+ transparencia                                                                                                           E: Media
+                                    no equivalen a caja disponible el primer año.
+
+
+
+Qué debe contener la memoria económica
+Para cada figura: base vigente, cambio propuesto, recaudación estática, reacción de contribuyentes, coste de
+administración y rango adverso. Integrar bases evita contar dos veces el mismo activo o la misma renta. Separar
+medidas de una sola vez de ingresos anuales permanentes.
+
+Compensaciones y alternativas
+Una rebaja de IVA no garantiza traslado completo a precios; conviene comparar con transferencias directas
+cuando el objetivo es proteger renta baja. Los gravámenes ambientales necesitan alternativas accesibles para
+hogares rurales o vulnerables. Las pymes pueden beneficiarse de simplificación y sufrir cambios en demanda o
+financiación: ambos canales cuentan.
+
+Respaldo y negociación
+La cifra de 111.000 millones anuales pertenece a la propuesta de IU. No se adopta como recaudación certificada
+del programa común ni se suma a sus impuestos de manera automática. Un acuerdo de gobierno debe cerrar
+tipos, bases, exenciones, calendario y reparto territorial; coincidir en progresividad no resuelve esos elementos.
+[17, 23]
+
+Indicadores
+Tipo efectivo por tamaño y decil; brecha tributaria estimada; recaudación recurrente neta; coste administrativo
+por euro recuperado; resoluciones anuladas; repercusión sobre precios e inversión.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 8
+03 | FICHAS SECTORIALES
+
+03. Empleo | salarios y tiempo de trabajo
+Programa: 4.1. Ratificación salarial: 17/11. Fuentes: [1, 2, 6, 22, 43, 45, 46].
+
+ Medida                              Instrumento y condición decisiva                                                A / B / C; E
+
+                                     Regla legal de IPC si el convenio carece de protección equivalente.
+                                                                                                                 Alta / Media / Baja;
+ L01 - Actualización salarial        Definir período, atrasos, absorción, deflación y relación con la
+                                                                                                                       E: Media
+                                     negociación colectiva.
+
+                                     Vincular el SMI al 60% del salario medio neto. La referencia no es la
+                                                                                                                   Alta / Media /
+ L02 - Suelo salarial                mediana; requiere serie estadística, calendario y evaluación
+                                                                                                                  Media; E: Media
+                                     sectorial.
+
+                                     37,5 horas en 2026 y avance posterior hacia 32, sin rebaja salarial. El
+                                                                                                                  Media / Media /
+ L03 - Jornada y registro            plazo inicial y la entrega organizativa deben evaluarse
+                                                                                                                   Baja; E: Baja
+                                     separadamente de aprobar una norma.
+
+                                     Gravamen sobre incremento de beneficios operativos de grandes
+ L04 - Incentivo fiscal                                                                                         Media / Baja / Baja;
+                                     empresas que no actualicen salarios según la regla anunciada. Evitar
+ salarial                                                                                                           E: Media
+                                     equipararlo a un impuesto sobre todos los beneficios.
+
+
+
+Calendario y antecedente observado
+El 10 de septiembre de 2025 el Congreso aprobó la devolución del proyecto de jornada: 178 frente a 170 votos.
+Acredita un obstáculo parlamentario en aquel texto, no un rechazo eterno a cualquier variante. El acuerdo PSOE-
+Sumar de 2023 constituye un antecedente de objetivo compartido, pero no bastó para completar ese trámite. [45,
+46]
+La convocatoria fija la constitución de las Cámaras el 23 de diciembre de 2026. El compromiso de ese mismo año
+exige explicar vehículo, entrada en vigor y transición; no se desplaza silenciosamente a 2027. [1]
+
+Eficacia y compensaciones
+Menos horas puede mejorar bienestar y retención. Los estudios de organizaciones que ensayan cuatro días no
+prueban que todos los sectores compensen el cambio con igual productividad. A salario constante, pasar de 40 a
+37,5 horas aumenta el coste salarial por hora un 6,7%; llegar a 32, un 25%. Es aritmética, no una previsión del
+coste por unidad producida. [43]
+
+Verificación
+Horas reales y extraordinarias; salario real por hora; intensidad y absentismo; cobertura de convenios; empleo,
+cierres y precios por sector. Comparar fases y grupos de tamaño, no solo promedios nacionales.
+
+
+
+
+                                                                                               FRENTE AMPLIO | Evaluación de propuestas 9
+03 | FICHAS SECTORIALES
+
+03. Empleo | protección y poder de negociación
+Programa: 4.1, 10 y 13.1. Fuentes: [2, 20, 22, 34, 43]. Confianza de ejecución: media-baja.
+
+ Medida                            Instrumento y condición decisiva                                                  A / B / C; E
+
+                                   Desempleo: 80% de la base seis meses y 70% después; topes
+ L05 - Desempleo y empleo                                                                                          Media / Media /
+                                   máximos +25%. El empleo garantizado necesita además elegibilidad,
+ garantizado                                                                                                       Baja; E: Media
+                                   empleador, puestos y coste recurrente.
+
+                                   Reforzar reparación, control y derechos laborales. El texto final debe
+ L06 - Despido, plataformas                                                                                        Media / Media /
+                                   distinguir sanción, indemnización, autorización administrativa y
+ y negociación                                                                                                     Baja; E: Media
+                                   revisión judicial.
+
+                                   Representación en consejos: un tercio con 50-1.000 empleados,
+ L07 - Democracia en la                                                                                          Media / Baja / Baja;
+                                   mitad con más de 1.000; reparto de beneficios y capital. Precisar
+ empresa                                                                                                             E: Media
+                                   adquisición, elección y garantías.
+
+                                   Más control, derechos digitales y reducción de temporalidad. Los
+ L08 - Inspección y empleo                                                                                         Alta / Media /
+                                   planes de estabilización necesitan plazas, selección compatible con
+ público                                                                                                          Media; E: Media
+                                   garantías y presupuesto.
+
+
+
+Derechos reconocidos frente a derechos utilizables
+Inspección, sindicatos, tribunales y canales de reclamación determinan si la protección se ejerce. Añadir derechos
+sin medios puede aumentar litigios y desigualdad entre trabajadores con distinta capacidad de reclamar. Una
+evaluación completa incorpora tiempo de resolución y restitución efectiva.
+
+Riesgos y distribución
+Mayor seguridad puede beneficiar a personas precarias y reducir rotación. Diseños rígidos o poco claros pueden
+desplazar contratación, aumentar externalización o favorecer a trabajadores ya protegidos frente a entrantes. Son
+hipótesis que exigen comprobación; ninguna se presume universal.
+La participación laboral no equivale necesariamente a nacionalización. Pero una transferencia obligatoria de
+propiedad requiere valorar compensación, derechos de otros accionistas y efecto sobre financiación. Debe
+distinguirse de reservar puestos en un consejo.
+
+Apoyo interno y acuerdos
+La agenda laboral aparece en el texto común y en la aportación de IU. La escala de cogestión, el diseño del
+despido y la financiación de la protección son puntos abiertos a negociación; no se deduce apoyo de todos los
+socios externos del respaldo general a empleo de calidad. [22]
+
+Seguimiento
+Reincidencia empresarial; inspecciones eficaces; resoluciones confirmadas; transiciones a empleo estable; calidad
+de puestos garantizados; temporalidad por administración; cobertura real de representación.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 10
+03 | FICHAS SECTORIALES
+
+04. Pensiones y envejecimiento
+Programa: 4.3. Explicación de la coalición actualizada 17/11. Fuentes: [2, 10, 20, 28, 36, 39].
+
+ Medida                             Instrumento y condición decisiva                                                     A / B / C; E
+
+                                    Suelo para pensiones contributivas y no contributivas. Aclarar
+ P01 - Mínimo vinculado al                                                                                           Alta / Media / Baja;
+                                    persona o prestación, pagas, compatibilidades e ingresos del hogar
+ SMI                                                                                                                       E: Media
+                                    antes de presupuestarlo.
+
+                                    Generalizar esa edad y adaptar supuestos penosos o carreras largas.
+                                                                                                                     Alta / Media / Baja;
+ P02 - Jubilación a los 65          La mejora incremental depende de quién ya cumple el requisito
+                                                                                                                           E: Media
+                                    actual.
+
+                                    Revisar bases máximas y mecanismos ligados a automatización.
+ P03 - Financiación                                                                                                    Media / Media /
+                                    Definir hecho imponible y equilibrio entre recaudación, empleo e
+ contributiva                                                                                                          Baja; E: Media
+                                    incentivos a invertir.
+
+                                    Reforzar protección pública y blindaje constitucional. La continuidad
+                                                                                                                    Baja / Baja / Baja; E:
+ P04 - Garantía institucional       legal y la reforma constitucional tienen procedimientos distintos; la
+                                                                                                                             NE
+                                    ficha puntúa esta última.
+
+
+
+La línea base importa
+En 2026, la edad ordinaria es 65 años con al menos 38 años y tres meses cotizados, y 66 años y diez meses en otro
+caso. No se trata de reducir la edad de todos por igual. Las condiciones cambian en 2027; una memoria debe
+proyectar cohortes, cotizaciones y empleo, no comparar solo dos edades. [36]
+
+Suficiencia y sostenibilidad
+Elevar pensiones bajas puede mejorar renta disponible y reducir pobreza. Vincularlas al SMI introduce una
+decisión de política salarial en la senda del gasto de pensiones. Hace falta proyectar nuevos beneficiarios,
+esperanza de cobro, complementos y consecuencias sobre otras prestaciones.
+La financiación por automatización no es recaudación ya identificada: requiere distinguir sustitución de empleo,
+aumento de productividad y usos ordinarios de capital. El riesgo de gravar una etiqueta tecnológica en lugar de
+capacidad económica merece evaluación.
+
+Respaldo y acuerdos
+El objetivo figura entre las explicaciones prioritarias de campaña y encuentra apoyo doctrinal en IU. Mantener
+poder adquisitivo y reformar la edad general son acuerdos distintos; el segundo no se infiere del primero. No se
+dispone de una proyección actuarial común que cierre este paquete. [10, 20]
+
+Indicadores
+Personas por debajo del umbral; gasto neto por cohorte; edad efectiva; tasa de empleo de mayores; distribución
+por sexo y carrera de cotización; ingresos recurrentes frente a compromisos futuros.
+
+
+
+
+                                                                                                  FRENTE AMPLIO | Evaluación de propuestas 11
+03 | FICHAS SECTORIALES
+
+05. Vivienda | parque y propiedad
+Programa: 1.1, 1.2, 1.5 y 1.8. Fuentes: [2, 5, 8, 18, 28, 41, 61, 62].
+
+ Medida                              Instrumento y condición decisiva                                               A / B / C; E
+
+                                     Objetivo de 1,5 millones en 12 años. Construcción, adquisición y
+ V01 - Parque público y                                                                                            Alta / Media /
+                                     movilización no suman de la misma manera oferta física nueva. Plazo
+ asequible                                                                                                         Media; E: NE
+                                     superior a una legislatura.
+
+                                     Expropiación compensada de parque corporativo: fases para más de
+ V02 - Expropiación                                                                                             Media / Baja / Baja;
+                                     1.000, 700 y 50 viviendas. Exige causa pública, expediente,
+ empresarial                                                                                                         E: Baja
+                                     justiprecio, pago y gestión posterior.
+
+                                     Reservas y reglas para vivienda habitual y protegida; activos públicos
+ V03 - Suelo y protección                                                                                        Media / Media /
+                                     y Sareb. La disponibilidad jurídica no equivale a suelo urbanizado ni a
+ permanente                                                                                                      Media; E: Media
+                                     vivienda habitable.
+
+                                     Rehabilitar 2,5 millones de viviendas en diez años, ayudas del 80-
+ V04 - Rehabilitación y                                                                                         Alta / Alta / Media;
+                                     95%, y apoyar cooperativas. Exige capacidad de obra, priorización y
+ cooperativas                                                                                                         E: Media
+                                     prevención de desplazamientos.
+
+
+
+Escala y secuencia
+El objetivo de 1,5 millones implica una media aritmética de 125.000 incorporaciones anuales, no 125.000
+construcciones nuevas. Comprar una vivienda existente puede ampliar el parque público sin aumentar el parque
+total. Contar ambas como nueva oferta duplicaría el efecto.
+La ejecución requiere una cartera por municipio: suelo servido, licencias, proyecto, contratación, construcción o
+adquisición, rehabilitación y adjudicación. El coste completo incluye intereses, urbanización, gestión, reparaciones
+y vacantes, no solo obra.
+
+Distribución y riesgos
+Los beneficiarios dependen de las reglas de acceso y de dónde se incorpore el parque. Un programa voluminoso
+en zonas sin demanda no resuelve los mercados tensionados. La expropiación se describe como compensada: no
+debe analizarse como adquisición gratuita ni como retirada indiscriminada de viviendas a familias. [8]
+
+Respaldo y seguimiento
+Vivienda es una prioridad explícita de la coalición. IU comparte la orientación, pero su cifra de financiación no es
+idéntica a la del documento común. Medir viviendas entregadas y ocupadas, coste por hogar alojado, tiempo de
+espera y oferta neta adicional. [5, 18]
+
+
+
+
+                                                                                             FRENTE AMPLIO | Evaluación de propuestas 12
+03 | FICHAS SECTORIALES
+
+05. Vivienda | alquiler, usos y exigibilidad
+Programa: 1.2-1.4, 1.7 y 1.9. Fuentes: [2, 7, 18, 28, 41, 42, 61, 62].
+
+ Medida                              Instrumento y condición decisiva                                               A / B / C; E
+
+                                     Topes por referencia e ingresos y contratos indefinidos. En alquiler
+                                                                                                                  Media / Media /
+ V05 - Rentas y estabilidad          público: hasta 600 euros para 80 m2 y límite del 25% de renta;
+                                                                                                                  Baja; E: Media
+                                     concretar la base aplicable en cada régimen.
+
+                                     Extinguir licencias turísticas en tres años en zonas tensionadas y
+ V06 - Usos turísticos y                                                                                          Media / Media /
+                                     evitar elusión por temporada o habitaciones. Requiere inspección,
+ temporales                                                                                                       Baja; E: Media
+                                     transición y coordinación municipal.
+
+                                     Alternativa habitacional y servicios de prevención. Una suspensión
+ V07 - Protección ante                                                                                           Media / Media /
+                                     judicial no sustituye plazas, acompañamiento ni financiación de la
+ desahucios                                                                                                      Media; E: Media
+                                     solución.
+
+                                     Llevar vivienda a la sección de derechos fundamentales y reforzar
+                                                                                                               Baja / Baja / Baja; E:
+ V08 - Derecho fundamental           exigibilidad. La versión constitucional requiere procedimiento
+                                                                                                                       Baja
+                                     agravado, no una ley ordinaria.
+
+
+
+La regulación debe evaluarse por diseño y por grupo
+Los controles pueden reducir cargas de quienes quedan cubiertos, pero sus efectos sobre mantenimiento, entrada
+de oferta, selección y usos alternativos dependen del diseño. El estudio de San Francisco encuentra protección
+frente a desplazamiento junto a retirada de oferta; no estima el resultado de esta propuesta española. [42]
+Para evaluar la combinación, separar inquilinos actuales, nuevos demandantes, pequeños propietarios, inversores
+y contribuyentes. Un alquiler observado más bajo no acredita mejora general si aumenta el tiempo de búsqueda o
+disminuyen los contratos disponibles.
+
+Competencias y permanencia
+La ley vigente ya contiene mecanismos de zonas tensionadas. Su activación, extensión o sustitución por una
+declaración estatal automática requiere análisis competencial. La jurisprudencia no da una autorización genérica
+para cualquier nueva arquitectura. [61, 62]
+
+Indicadores
+Renta efectiva de nuevos contratos y renovaciones; esfuerzo por decil; anuncios y contratos; vivienda vacía;
+movilidad; alojamientos de emergencia; litigios y sanciones confirmadas. Publicar efectos por barrio y no solo un
+precio medio.
+
+
+
+
+                                                                                             FRENTE AMPLIO | Evaluación de propuestas 13
+03 | FICHAS SECTORIALES
+
+06. Sanidad | cobertura y capacidad
+Programa: 2.4. Explicación sanitaria actualizada 17/11. Fuentes: [2, 12, 19, 28, 55].
+
+ Medida                             Instrumento y condición decisiva                                                 A / B / C; E
+
+                                    Alcanzar el 8% del PIB sanitario público y reforzar plantillas.
+ S01 - Financiación y                                                                                              Alta / Media /
+                                    Distinguir objetivo de gasto, competencias autonómicas y
+ personal                                                                                                         Media; E: Media
+                                    profesionales formados realmente disponibles.
+
+                                    Ampliación progresiva hasta cubrir al menos la mitad de la población
+                                                                                                                 Alta / Alta / Media;
+ S02 - Cartera bucodental           en cuatro años. Definir prestaciones, prioridad clínica y red de
+                                                                                                                       E: Media
+                                    proveedores.
+
+                                    Extender cobertura según necesidad, no solo anunciar un derecho.
+                                                                                                                 Alta / Alta / Media;
+ S03 - Gafas y audífonos            Precisar prescripción, topes, renovación, copago y control de precios
+                                                                                                                       E: Media
+                                    de adquisición.
+
+                                    Reforzar equipos comunitarios y continuidad asistencial. Una ratio de
+ S04 - Salud mental y                                                                                            Alta / Alta / Media;
+                                    personal necesita denominador, perfiles y distribución territorial
+ primaria                                                                                                              E: Media
+                                    para ser verificable.
+
+
+
+Acceso financiero frente a acceso real
+La ampliación de prestaciones puede reducir barreras de renta, pero el resultado depende de capacidad y
+prioridades. Incorporar odontología sin suficiente oferta puede trasladar el racionamiento del precio a la espera.
+Los contratos transitorios, cuando existan, deben medirse por calidad, coste y acceso, no solo por titularidad.
+
+Coste y distribución
+Presupuestar demanda antes no atendida, no solo el gasto actual de quienes ya consumen el servicio. Incluir
+prótesis, laboratorio, equipos, personal, mantenimiento y revisiones. La elegibilidad amplia y la priorización clínica
+no son alternativas excluyentes; deben describirse de forma explícita.
+
+Responsabilidad y apoyo
+La coalición cuenta con una ministra de Sanidad con experiencia clínica e institucional. Eso aporta conocimiento
+del sistema, pero no control directo de todas las plantillas ni prueba el apoyo de cada comunidad autónoma. La
+ampliación de cartera tiene potencial de acuerdo; la financiación y el modelo de provisión deben negociarse por
+separado. [12, 19, 55]
+
+Indicadores
+Necesidad no cubierta por renta; prestaciones completadas; espera desde indicación; continuidad en salud
+mental; coste por tratamiento; satisfacción y resultados clínicos ajustados por riesgo.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 14
+03 | FICHAS SECTORIALES
+
+06. Sanidad | gestión, derechos y resultados
+Programa: 2.4 y 6.2. Fuentes: [2, 19, 28, 31, 55]. Las ampliaciones legales no se equiparan a entrega asistencial.
+
+ Medida                            Instrumento y condición decisiva                                                      A / B / C; E
+
+                                   Cambiar el marco de colaboración y avanzar en integración de
+ S05 - Gestión directa e                                                                                               Media / Media /
+                                   mutualidades. Auditar contratos, capacidad receptora y continuidad
+ integración                                                                                                            Baja; E: Baja
+                                   antes de transferir pacientes.
+
+                                   Desarrollo, producción y suministro con orientación sanitaria. Exige
+ S06 - Industria                                                                                                       Media / Media /
+                                   cartera, autorizaciones, calidad industrial, compras y competencias
+ farmacéutica pública                                                                                                  Baja; E: Media
+                                   científicas.
+
+                                   Registro comparable desde la derivación, planificación de recursos y
+ S07 - Esperas y condiciones                                                                                         Alta / Alta / Media;
+                                   descansos. Registrar una solicitud en plazo no equivale a atenderla
+ de trabajo                                                                                                                E: Media
+                                   en ese plazo.
+
+                                   Mejor acceso efectivo, prevención y protección de derechos. Separar
+ S08 - Prevención y                                                                                                    Alta / Media /
+                                   aplicación de derechos vigentes de cualquier blindaje constitucional
+ derechos reproductivos                                                                                               Media; E: Media
+                                   adicional.
+
+
+
+Transición sin interrupción asistencial
+Cambiar el proveedor o la forma de gestión puede alterar incentivos y control, pero no crea personal ni
+equipamiento. La ruta debe identificar vencimientos, indemnizaciones, activos, historia clínica y capacidad pública
+de absorber actividad. Evaluar por separado contratos de alto y bajo rendimiento.
+
+Eficacia y costes de oportunidad
+La producción farmacéutica pública debería partir de necesidades no cubiertas, problemas de suministro o fallos
+de competencia. Comparar fabricación propia con compras agregadas, acuerdos de licencia o reservas
+estratégicas. El coste incluye investigación fallida y capacidad ociosa; el beneficio puede ser resiliencia, no solo
+precio.
+
+Apoyos y negociación
+La orientación hacia gestión pública está documentada en el texto común y en IU. No se infiere que los mismos
+socios que apoyan una nueva prestación acepten el calendario completo de integración o la supresión de
+determinadas formas de provisión. La coordinación con comunidades y profesionales es una condición real. [19]
+
+Verificación
+Espera completa y percentil 90; cancelaciones; actividad transferida sin interrupción; resultados ajustados;
+suministro de medicamentos críticos; carga y descanso de profesionales; desigualdad territorial de acceso.
+
+
+
+
+                                                                                                  FRENTE AMPLIO | Evaluación de propuestas 15
+03 | FICHAS SECTORIALES
+
+07. Educación | acceso, calidad y organización
+Programa: 2.5. Contraste interno: IU, bloque 2. Fuentes: [2, 19, 28].
+
+ Medida                            Instrumento y condición decisiva                                              A / B / C; E
+
+                                   Objetivo del 7% del PIB en 2030. Separar gasto vigente, incremento,
+ ED01 - Mayor financiación                                                                                     Alta / Media /
+                                   administración financiadora y componente universitario para no
+ educativa                                                                                                    Media; E: Media
+                                   duplicar partidas.
+
+                                   Ratios: 15 en Primaria y FP, 20 en ESO, 23 en Bachillerato; horas
+ ED02 - Ratios y tiempo                                                                                        Alta / Media /
+                                   lectivas docentes 23/18 según etapa. Los dos cambios exigen plazas,
+ docente                                                                                                      Media; E: Media
+                                   edificios y plantilla.
+
+                                   Reorientar progresivamente recursos hacia provisión pública.
+ ED03 - Red pública y                                                                                          Media / Media /
+                                   Mantener escolarización, oferta territorial y derechos durante la
+ conciertos                                                                                                     Baja; E: Baja
+                                   transición.
+
+                                   Más cobertura, pago temprano y apoyos a necesidades específicas.
+ ED04 - Becas y formación                                                                                    Alta / Alta / Media;
+                                   Medir acceso, permanencia y aprendizaje, no solo solicitudes o
+ profesional                                                                                                       E: Media
+                                   plazas anunciadas.
+
+
+
+Recursos y resultados no son sinónimos
+El gasto puede remover carencias, pero el impacto depende de asignación, profesorado y organización. Una
+reducción uniforme de ratios debe compararse con apoyos focalizados, desdobles, orientación y refuerzo
+temprano. La evaluación debe fijar qué problema busca resolver cada incremento.
+
+Distribución territorial y familiar
+Las necesidades de un centro rural disperso, uno con alta vulnerabilidad y uno urbano saturado no coinciden. Las
+reglas de acceso y asignación deben vigilar segregación, desplazamientos y necesidades educativas especiales. La
+transición de redes puede beneficiar a unas familias y requerir cambios a otras; ambos efectos necesitan
+previsión.
+
+Viabilidad y respaldo
+Las comunidades autónomas administran buena parte de la ejecución. La legislación básica nacional no sustituye
+presupuestos, selección de profesorado ni construcción de centros. El respaldo formal de la coalición y el de IU no
+equivalen a convenios ejecutores con todos los territorios. [19, 28]
+
+Indicadores
+Aprendizaje y abandono; absentismo; escolarización por renta y necesidades; vacantes docentes; becas pagadas
+antes del inicio; empleo y calidad de la inserción tras FP; coste por mejora educativa.
+
+
+
+
+                                                                                          FRENTE AMPLIO | Evaluación de propuestas 16
+03 | FICHAS SECTORIALES
+
+07. Universidad, ciencia e investigación
+Programa: 2.5 y 6.1. Fuentes: [2, 19, 22, 31]. Horizonte propio de los objetivos: 2030 y década posterior.
+
+ Medida                            Instrumento y condición decisiva                                                      A / B / C; E
+
+                                   Reducir barreras económicas, reforzar financiación y avanzar en
+ ED05 - Universidad                                                                                                    Alta / Media /
+                                   gratuidad. Precisar alcance por título, repetición, residencia y
+ asequible                                                                                                            Media; E: Media
+                                   administración responsable.
+
+                                   Reforzar evaluación, estabilidad y condiciones de investigación.
+ ED06 - Calidad y carrera                                                                                            Alta / Alta / Media;
+                                   Evitar medir calidad únicamente con producción bibliométrica o
+ académica                                                                                                                 E: Media
+                                   número de plazas.
+
+                                   Meta del 3% del PIB en 2030: 1,25% público y 1,75% privado. La
+                                                                                                                       Alta / Media /
+ ED07 - Inversión en I+D           parte privada es una respuesta inducida, no una partida que el
+                                                                                                                      Media; E: Media
+                                   Gobierno pueda decretar.
+
+                                   Impulsar tecnologías estratégicas, instrumentos de investigación y
+ ED08 - Transferencia y                                                                                                Alta / Media /
+                                   conexión productiva. Asegurar demanda, evaluación competitiva y
+ capacidades                                                                                                          Media; E: Media
+                                   continuidad de equipos.
+
+
+
+Balance causal
+La financiación estable puede permitir proyectos de mayor riesgo y retener equipos. Para medir adicionalidad,
+distinguir sustitución de fondos previos, desplazamiento de inversión empresarial y nueva actividad. Patentes,
+empresas creadas o publicaciones son resultados intermedios, no prueba final de productividad o bienestar.
+
+Coherencia presupuestaria
+La financiación universitaria se solapa con el objetivo educativo y parte de la investigación con política industrial.
+No sumar porcentajes como si fueran bloques independientes. Separar gasto recurrente, equipos, edificios y
+aportaciones de capital; no contar dos veces una misma transferencia a una universidad.
+
+Riesgos y negociación
+La gratuidad general reduce precios para todos los usuarios, pero su efecto distributivo depende de quién logra
+acceder. Becas de mantenimiento y alojamiento pueden atender una restricción distinta de la matrícula. Una
+mayor orientación estratégica debe convivir con investigación básica y evaluación independiente.
+
+Verificación
+Ejecución plurianual; tiempo hasta resolver convocatorias; estabilidad y movilidad investigadora; participación de
+renta baja; inversión privada adicional; adopción de tecnologías y resultados reproducibles.
+
+
+
+
+                                                                                                  FRENTE AMPLIO | Evaluación de propuestas 17
+03 | FICHAS SECTORIALES
+
+08. Familia, infancia y cuidados
+Programa: 2.1, 2.2, 2.7 y 2.8. Fuentes: [2, 5, 11, 20, 37, 40].
+
+ Medida                              Instrumento y condición decisiva                                               A / B / C; E
+
+                                     200 euros mensuales por menor, con despliegue por edades.
+                                                                                                                  Alta / Media /
+ C01 - Prestación de crianza         Determinar fecha de edad, convivencia, residencia y coordinación
+                                                                                                                 Media; E: Media
+                                     con prestaciones y deducciones existentes.
+
+                                     Acceso a servicios educativos y alimentarios. La gratuidad requiere
+ C02 - Primera infancia y                                                                                       Alta / Alta / Media;
+                                     plazas, profesionales, instalaciones y cobertura de horarios, no solo
+ comedores                                                                                                            E: Media
+                                     eliminar tarifas.
+
+                                     Desarrollar apoyo domiciliario, comunidad y dependencia. La
+                                                                                                                Alta / Alta / Media;
+ C03 - Sistema de cuidados           reforma legal de octubre de 2026 ya existe: se evalúan financiación y
+                                                                                                                      E: Media
+                                     entrega, no su creación desde cero.
+
+                                     Reconocimiento voluntario de personas de apoyo y ampliación de
+ C04 - Familias elegidas y                                                                                        Alta / Media /
+                                     permisos. Definir designación, prueba y protección frente a abuso sin
+ permisos                                                                                                        Media; E: Media
+                                     imponer deberes privados automáticos.
+
+
+
+Costes que sí pueden acotarse
+La prestación de crianza equivale a 2.400 euros anuales por menor cubierto: por cada millón de menores, 2.400
+millones brutos al año. Es una identidad aritmética, no el coste total de la propuesta. Faltan padrón elegible,
+calendario de incorporación y sustitución o acumulación de beneficios. La frontera de edad debe ser inequívoca.
+[5]
+
+Universalidad, acceso y calidad
+Una prestación amplia reduce controles de renta y puede aumentar acceso; una focalizada concentra recursos,
+pero puede dejar fuera a elegibles. La evidencia de AIReF sobre falta de solicitud de prestaciones justifica
+examinar diseño y automatización; no demuestra por sí sola que una modalidad sea siempre superior. [40]
+Los servicios de cuidado pueden liberar tiempo y facilitar empleo, pero su expansión debe asegurar calidad y
+condiciones laborales. La ayuda monetaria y la plaza disponible responden a restricciones distintas.
+
+Apoyos y seguimiento
+La coalición ratifica crianza y familias elegidas; la aportación de IU contiene prioridades de infancia y mayores. El
+acuerdo potencial sobre el objetivo no resuelve coste, universalidad ni reparto Estado-comunidades. [5, 11, 20]
+Medir menores efectivamente cubiertos, pago automático, pobreza infantil después de vivienda, plazas
+utilizables, espera de dependencia y carga de cuidados por sexo y renta.
+
+
+
+
+                                                                                             FRENTE AMPLIO | Evaluación de propuestas 18
+03 | FICHAS SECTORIALES
+
+09. Protección social e igualdad
+Programa: 2.1-2.3, 2.7 y 15. Fuentes: [2, 11, 20, 24, 37, 40, 60].
+
+ Medida                             Instrumento y condición decisiva                                                 A / B / C; E
+
+                                    Ampliar y automatizar IMV; IPREM +100 euros hasta 700 mensuales
+                                                                                                                 Alta / Alta / Media;
+ IG01 - IMV e IPREM                 e indexación al IPC. Simular la interacción con empleo y prestaciones
+                                                                                                                       E: Media
+                                    para evitar saltos de pérdida.
+
+                                    Aplicar derechos y reducir barreras de participación. Hace falta un
+ IG02 - Discapacidad y                                                                                           Alta / Alta / Media;
+                                    inventario de entornos, costes, plazos y mecanismos de reclamación
+ accesibilidad                                                                                                         E: Media
+                                    accesibles.
+
+                                    Transparencia salarial y respuesta frente a violencia y discriminación.
+ IG03 - Igualdad retributiva                                                                                     Alta / Alta / Media;
+                                    Distinguir nuevas ampliaciones de obligaciones europeas y derechos
+ y protección                                                                                                          E: Media
+                                    ya vigentes.
+
+                                    Desplegar protección LGTBI y reconocimiento de personas no
+ IG04 - Diversidad y                                                                                             Alta / Media / Baja;
+                                    binarias. Definir efectos registrales, interoperabilidad, privacidad y
+ reconocimiento                                                                                                        E: Media
+                                    acceso a servicios.
+
+
+
+Captación y errores administrativos
+La mejora no consiste solo en elevar el umbral. AIReF documenta una falta importante de acceso entre personas
+que cumplen requisitos. La automatización necesita datos actualizados, recurso sencillo, corrección de errores y
+asistencia no digital para quienes la requieren. No debe convertir una discrepancia de bases de datos en exclusión
+sin defensa. [40]
+
+Distribución y comparación
+Analizar renta disponible después de ayudas e impuestos, no cada prestación aislada. Un aumento del IPREM
+puede afectar a múltiples ayudas y requisitos; el coste se calcula con todas las normas vinculadas. La igualdad
+salarial exige comparar trabajo de igual valor y condiciones, evitando atribuir toda diferencia agregada a una
+causa única. [60]
+
+Respaldo y acuerdos
+El programa común y el bloque de igualdad de IU acreditan afinidad general. La regulación concreta de registros,
+permisos, sanciones y servicios puede generar negociaciones distintas. La experiencia de una ministra o un
+ministerio no equivale a unanimidad de toda la coalición ni de futuros socios. [11, 24]
+
+Indicadores
+Personas elegibles sin cobertura; errores y tiempo de recurso; tasa efectiva de retirada de ayudas; barreras de
+accesibilidad resueltas; brecha salarial ajustada; acceso a protección y reincidencia en violencia.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 19
+03 | FICHAS SECTORIALES
+
+10. Inmigración, asilo y antirracismo
+Programa: 16 y conexiones con 18. Fuentes: [2, 24, 27, 28, 38]. No se equiparan regularización, asilo y nacionalidad.
+
+ Medida                            Instrumento y condición decisiva                                                         A / B / C; E
+
+                                   Completar procesos abiertos y configurar cauces permanentes.
+ M01 - Vías estables de                                                                                                   Alta / Media /
+                                   Publicar requisitos, documentos y relación con empleo y residencia;
+ regularización                                                                                                          Media; E: Media
+                                   no supone ciudadanía automática.
+
+                                   Ampliar personal y acortar citas, registro y entrevistas. Los plazos
+ M02 - Capacidad de                                                                                                     Alta / Alta / Media;
+                                   necesitan definición, capacidad de revisión y gestión de acumulación
+ extranjería y asilo                                                                                                          E: Media
+                                   de expedientes.
+
+ M03 - Acogida y                   Revisar centros, retornos y vías de protección. Combinar garantías,
+                                                                                                                         Media / Media /
+ alternativas a                    alternativas supervisadas, alojamiento y cumplimiento de
+                                                                                                                         Baja; E: Media
+ internamiento                     obligaciones europeas.
+
+                                   Medidas antirracistas y ampliación de derechos políticos. La
+ M04 - Igualdad y                                                                                                        Media / Media /
+                                   participación electoral de extranjeros depende del tipo de elección y
+ participación                                                                                                           Baja; E: Media
+                                   del marco constitucional.
+
+
+
+La línea base no es ausencia de regularización
+El proceso de 2026 tiene un antecedente normativo aprobado. Resolverlo, ampliarlo o establecer un mecanismo
+permanente son compromisos diferentes. Una evaluación debe seguir expedientes iniciados, resueltos, recurridos
+y efectivamente documentados, sin atribuir a una nueva coalición todo el resultado heredado. [38]
+
+Mecanismo y riesgos
+Reducir incertidumbre administrativa puede facilitar empleo formal, cotización y acceso a derechos. El resultado
+depende también de homologaciones, idioma, discriminación y mercado laboral. Los posibles efectos sobre
+vivienda o servicios deben medirse por territorio y horizonte, sin inferencias sobre individuos a partir de origen.
+Una fecha de cita rápida no garantiza resolución de calidad. La plantilla necesita traducción, apoyo jurídico,
+sistemas y capacidad de verificar documentos. Eliminar internamiento exige diseñar alternativas; no equivale por
+sí mismo a eliminar toda obligación de retorno.
+
+Respaldo y acuerdos
+La orientación inclusiva es común a las fuentes de coalición e IU. Los requisitos, el reparto territorial y los recursos
+son negociables. No se presume respaldo ajeno a cada modalidad de regularización o a la reforma de derechos
+electorales. [24, 27]
+
+Indicadores
+Tiempo completo de expediente; resoluciones revocadas; empleo formal; acceso a asistencia; condiciones de
+acogida; discriminación acreditada; integración y resultados por cohortes comparables.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 20
+03 | FICHAS SECTORIALES
+
+11. Seguridad y justicia
+Programa: 18.3, 18.4 y 18.7. Fuentes: [2, 27, 28]. Se analiza la versión concreta, no una oposición genérica entre seguridad y derechos.
+
+ Medida                            Instrumento y condición decisiva                                                       A / B / C; E
+
+                                   Reformar seguridad ciudadana y delitos de expresión. Identificar
+                                                                                                                     Alta / Media / Baja;
+ J01 - Protesta y sanciones        conductas despenalizadas y mantener protección frente a amenazas
+                                                                                                                           E: Media
+                                   o incitación punible.
+
+                                   Mecanismos de queja, trazabilidad y prevención de discriminación.
+ J02 - Control policial                                                                                                 Alta / Media /
+                                   Garantizar independencia, prueba, defensa profesional y recurso
+ independiente                                                                                                         Media; E: Media
+                                   judicial.
+
+                                   Reformas profesionales, equiparación y cambios organizativos.
+ J03 - Condiciones de                                                                                                  Media / Media /
+                                   Desagregar retribución, jubilación, riesgos y estatuto de la Guardia
+ cuerpos de seguridad                                                                                                  Media; E: Media
+                                   Civil.
+
+                                   Ampliar medios, apoyo al acceso y digitalización. Más plazas
+ J04 - Justicia accesible y                                                                                          Alta / Alta / Media;
+                                   requieren formación, selección, oficinas y coordinación con fiscalías y
+ ágil                                                                                                                      E: Media
+                                   comunidades.
+
+
+
+Eficacia y garantías
+El análisis debe medir respuesta a delitos y protección de libertades al mismo tiempo. Reducir sanciones
+administrativas no implica necesariamente menor seguridad; ampliarlas tampoco demuestra eficacia. Hace falta
+información sobre hechos, proporcionalidad, reincidencia, anulaciones y uso alternativo de recursos.
+Los controles de actuación policial pueden proteger tanto a ciudadanos como a profesionales frente a acusaciones
+infundadas. Su credibilidad requiere independencia y plazos, no una mera oficina con nombre nuevo.
+
+Coste y ejecución
+Contratar jueces sin personal de oficina, peritos o sistemas interoperables puede desplazar el cuello de botella.
+Las inversiones digitales deben garantizar acceso no digital, seguridad y continuidad. La automatización de
+trámites no autoriza decisiones sin motivación ni revisión.
+
+Acuerdos e indicadores
+Mejorar medios judiciales o condiciones profesionales puede permitir acuerdos separados de la reforma penal o
+del modelo de Guardia Civil. No hay un pacto acreditado sobre todo el paquete. [27]
+Medir duración completa de procedimientos, ejecución de sentencias, resoluciones anuladas, asistencia jurídica
+efectiva, victimización, quejas resueltas y protección de derechos.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 21
+03 | FICHAS SECTORIALES
+
+12. Instituciones y calidad democrática
+Programa: 18.1, 18.2, 18.7 y 18.8. Fuentes: [2, 27, 28]. La viabilidad se desagrega por procedimiento.
+
+ Medida                            Instrumento y condición decisiva                                                     A / B / C; E
+
+                                   Reforzar controles de conflictos, lobbies y recuperación de activos.
+ IN01 - Integridad y                                                                                                  Alta / Media /
+                                   Distinguir nuevas obligaciones de las ya existentes y dotar
+ transparencia                                                                                                       Media; E: Media
+                                   supervisión independiente.
+
+                                   Modificar reglas de elección y desbloqueo. Analizar por separado los             Media / Baja / Baja;
+ IN02 - Gobierno judicial
+                                   distintos vocales y las mayorías constitucionalmente exigidas.                       E: Media
+
+                                   Ampliar instrumentos ciudadanos y reformar requisitos. Reducir las
+ IN03 - Participación y                                                                                            Baja / Baja / Baja; E:
+                                   firmas de la iniciativa popular exige revisar el requisito
+ diseño electoral                                                                                                         Media
+                                   constitucional, no solo una norma de desarrollo.
+
+                                   Transformación del modelo de Estado y de determinadas garantías.
+ IN04 - República federal y                                                                                        Baja / Baja / Baja; E:
+                                   La versión completa requiere reforma constitucional agravada,
+ laicidad                                                                                                                  Baja
+                                   nuevas elecciones y referéndum.
+
+
+
+Una regla de desbloqueo no es neutral por definición
+Puede reducir vacantes y también aumentar el control de una mayoría sobre órganos de garantía. La evaluación
+debe comparar alternativas: requisitos de elegibilidad, audiencias, transparencia de negociación,
+incompatibilidades y protección de minorías. No basta con denominar la reforma democratización o
+despolitización.
+
+Precisiones jurídicas
+El programa distingue la elección de vocales judiciales de otros integrantes del consejo. No se debe resumir como
+una propuesta para elegir a todos por mayoría absoluta. Las propuestas de decomiso sin condena necesitan
+motivación, proporcionalidad, prueba y defensa; su resultado jurídico depende del articulado. [2, 28]
+Reforma del modelo monárquico y de partes protegidas del texto constitucional no se aprueba con una mayoría
+ordinaria. Eso no impide mejoras administrativas o de transparencia antes de una reforma completa.
+
+Respaldo y acuerdos
+La orientación republicana de IU es explícita. El apoyo general a regeneración institucional no demuestra acuerdo
+de posibles socios sobre modelo de Estado, reglas judiciales o laicidad. Los paquetes deben negociarse y valorarse
+por separado. [27]
+
+Indicadores
+Cumplimiento de declaraciones y agendas; conflictos detectados y resueltos; contratos publicados; sanciones
+confirmadas; tiempos de renovación; calidad de rendición de cuentas, no solo número de organismos creados.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 22
+03 | FICHAS SECTORIALES
+
+13. Modelo territorial y administración
+Programa: 9-12 y 18.1. Fuentes: [2, 25, 27-29, 39]. Las transferencias no equivalen a nuevo gasto consolidado.
+
+ Medida                           Instrumento y condición decisiva                                                     A / B / C; E
+
+                                  Añadir al menos el 2,3% del PIB anual al sistema. Requiere acuerdo
+ T01 - Financiación                                                                                                  Media / Media /
+                                  sobre nivelación, población ajustada, autonomía fiscal, reparto y
+ autonómica                                                                                                          Baja; E: Media
+                                  financiación consolidada.
+
+                                  Reestructurar obligaciones y fijar mínimos tributarios. La quita entre
+ T02 - Deuda y capacidad                                                                                             Media / Media /
+                                  administraciones cambia reparto interno; no elimina
+ fiscal                                                                                                              Baja; E: Media
+                                  automáticamente deuda frente a terceros.
+
+ T03 - Ayuntamientos y            Mejor financiación y recursos para tareas transferidas. Definir                    Alta / Media /
+ competencias                     servicios, coste estándar, responsabilidad y estabilidad plurianual.              Media; E: Media
+
+                                  Servicios territoriales, insularidad y desarrollo federal. Los convenios
+ T04 - Vertebración y                                                                                               Media / Media /
+                                  de servicio pueden avanzar sin esperar la transformación
+ cooperación                                                                                                        Media; E: Media
+                                  constitucional completa.
+
+
+
+La tensión principal es de reparto y responsabilidad
+Aumentar recursos agregados no determina cuánto gana cada territorio ni con qué obligaciones. Una regla debe
+mostrar ganadores y perdedores respecto a la situación vigente, mecanismos de transición y efecto sobre
+autonomía. Los mínimos fiscales y la capacidad de decisión territorial pueden entrar en tensión dentro del mismo
+programa.
+
+Coherencia fiscal
+El objetivo de transferencias a comunidades se relaciona con sanidad, educación y cuidados que ellas ejecutan.
+Sumar ambos lados como gasto independiente duplica recursos. La reforma local tampoco es una bolsa adicional
+ilimitada: requiere identificar ingresos propios, transferencias y servicios financiados.
+
+Apoyo interno y acuerdos
+La diversidad territorial de la coalición obliga a distinguir acuerdo en solidaridad de acuerdo en fórmula
+distributiva. El programa común acredita el primero a nivel formal; no contiene una negociación ejecutada con
+todas las administraciones. Un apoyo a la investidura no implica aceptar toda armonización tributaria. [4, 25, 27]
+
+Indicadores
+Financiación por necesidad ajustada; gasto y resultados por servicio; transferencias netas; deuda consolidada y
+por subsector; tiempos de acceso rural; coste de insularidad compensado y mecanismos de evaluación
+interterritorial.
+
+
+
+
+                                                                                                FRENTE AMPLIO | Evaluación de propuestas 23
+03 | FICHAS SECTORIALES
+
+14. Energía y clima | producción y precios
+Programa: 5.1 y 6.2. Fuentes: [2, 5, 21, 29, 31, 35]. No se confunde electricidad renovable con toda la energía consumida.
+
+ Medida                            Instrumento y condición decisiva                                                      A / B / C; E
+
+                                   Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040.
+ EN01 - Despliegue                                                                                                     Alta / Media /
+                                   Exige red, almacenamiento y flexibilidad; E valora solo el primer hito,
+ renovable                                                                                                            Media; E: Media
+                                   no el despliegue de 2040.
+
+                                   Entrada del 30% en nuevos proyectos dentro del perímetro
+ EN02 - Participación                                                                                                 Media / Media /
+                                   anunciado. Precisar valoración, aportación de capital, riesgos y
+ pública                                                                                                              Baja; E: Media
+                                   gobierno de las sociedades.
+
+                                   Tejados, comunidades y tres horas de electricidad gratuita. Definir
+ EN03 - Autoconsumo y                                                                                                 Media / Media /
+                                   energía, peajes, impuestos, costes fijos y compensación; gratuidad
+ tarifa                                                                                                               Media; E: Media
+                                   parcial no es factura cero.
+
+                                   Mantener el cierre de Almaraz en 2027-2028 según el programa. La
+                                                                                                                    Media / Baja / Baja;
+ EN04 - Cierre nuclear             autorización vigente llega al 8/06/2030; cambiarla requiere una
+                                                                                                                         E: Baja
+                                   nueva decisión y transición segura.
+
+
+
+Inversión y dividendos no son la misma cosa
+Una participación pública necesita financiación inicial. Sus beneficios futuros dependen de precio, producción,
+deuda, mantenimiento y riesgo. Destinar parte del dividendo a vivienda o pensiones no permite comprometer
+hoy una cantidad fija sin estimación prudente y mecanismo de reserva. [5]
+
+Seguridad del sistema y distribución
+La comparación debe incluir coste total de sistema, emisiones, dependencia exterior, calidad de suministro y
+efectos locales. Aumentar renovables puede reducir ciertos costes y exigir redes o respaldo. Prolongar o cerrar
+una central tiene costes y beneficios distintos; la evaluación no los resuelve con una etiqueta tecnológica.
+
+Coherencia temporal
+La discrepancia de Almaraz es relevante: el programa utiliza un calendario anterior a una autorización ya
+modificada. No se interpreta como cierre automático por vencimiento. Deben identificarse procedimiento,
+competencias, informes de seguridad y reemplazo operativo. [35]
+
+Indicadores
+Electricidad entregada por fuente; vertidos renovables; coste completo; potencia de respaldo; congestión; capital
+público arriesgado y dividendos netos; hogares vulnerables y factura anual, no solo precio de una hora.
+
+
+
+
+                                                                                                FRENTE AMPLIO | Evaluación de propuestas 24
+03 | FICHAS SECTORIALES
+
+14. Energía y clima | adaptación y recursos
+Programa: 5.3-5.7 y 6.1. Fuentes: [2, 21, 29]. Horizonte y financiación deben especificarse por proyecto.
+
+ Medida                            Instrumento y condición decisiva                                                     A / B / C; E
+
+                                   Objetivo anual del 3,5% del PIB. Definir perímetro y parte
+                                                                                                                      Media / Media /
+ EN05 - Inversión climática        incremental: transporte, vivienda e industria pueden estar incluidos,
+                                                                                                                      Baja; E: Media
+                                   no ser partidas adicionales.
+
+                                   Prevención de inundaciones, calor y deterioro ambiental. Priorizar
+ EN06 - Adaptación y                                                                                                Alta / Alta / Media;
+                                   por riesgo, exposición y vulnerabilidad; financiar mantenimiento y
+ ciudades                                                                                                                 E: Media
+                                   alerta, no solo obras nuevas.
+
+                                   Reforzar gestión pública, reutilización, reparación y residuos.
+ EN07 - Agua y economía                                                                                               Alta / Media /
+                                   Titularidad, eficiencia, tarifas y sostenibilidad hídrica son
+ circular                                                                                                            Media; E: Media
+                                   dimensiones diferentes.
+
+                                   Cambios de actividad y protección. Diseñar transiciones por sector y
+ EN08 - Turismo y bienestar                                                                                           Media / Media /
+                                   territorio, con costes, alternativas de empleo y mecanismos de
+ animal                                                                                                               Baja; E: Media
+                                   cumplimiento.
+
+
+
+Eficacia por riesgo evitado
+En adaptación, el rendimiento debe medirse en daños esperados reducidos y continuidad de servicios. Un gasto
+alto después de un desastre no prueba buena prevención. Publicar mapas, criterios de prioridad y pruebas de
+mantenimiento permite auditar decisiones sin esperar a una nueva emergencia.
+
+Beneficios y compensaciones
+Las inversiones pueden mejorar salud, resiliencia y calidad ambiental, pero compiten por suelo, materiales,
+personal y recursos financieros. Las restricciones a actividades generan costes de transición desiguales. La
+compensación debe vincularse a necesidades y objetivos verificables, no convertirse en subsidio indefinido sin
+revisión.
+
+Apoyo y negociación
+La aportación ecológica de IU es explícita y refuerza la prioridad del ámbito. No permite atribuir apoyo automático
+de cada integrante a cada proyecto, trazado o prohibición. Ayuntamientos y comunidades son decisivos para
+urbanismo, agua y residuos; un acuerdo nacional necesita convenios ejecutables. [21]
+
+Indicadores
+Pérdidas esperadas por eventos; población protegida; fugas y consumo de agua; costes de servicio; residuos
+evitados y reparación real; emisiones de ciclo de vida; empleo de transición y distribución de compensaciones.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 25
+03 | FICHAS SECTORIALES
+
+15. Agricultura, pesca y medio rural
+Programa: 7, 9 y conexiones con 5.6. Fuentes: [2, 21, 22, 25].
+
+ Medida                            Instrumento y condición decisiva                                               A / B / C; E
+
+                                   Mejorar poder negociador y remuneración de productores. Verificar
+ R01 - Cadena alimentaria y                                                                                     Alta / Media /
+                                   costes, contratos y competencia; un precio final bajo no garantiza un
+ renta                                                                                                         Media; E: Media
+                                   margen agrario suficiente.
+
+                                   Orientar apoyos a explotaciones y prácticas sostenibles. Distinguir
+ R02 - Ayudas y transición                                                                                     Media / Media /
+                                   instrumentos nacionales de cambios en la PAC que requieren
+ agraria                                                                                                       Media; E: Media
+                                   negociación europea.
+
+                                   Compatibilizar actividad y conservación. Las cuotas, disponibilidad de
+ R03 - Pesca, agua y                                                                                           Media / Media /
+                                   agua y estado biológico no se modifican por una declaración de renta
+ recursos                                                                                                      Media; E: Media
+                                   garantizada.
+
+                                   Empleo, conectividad, transporte y acceso a servicios. Elegir niveles
+ R04 - Servicios y                                                                                            Alta / Alta / Media;
+                                   de servicio y coste territorial; no confundir una infraestructura
+ despoblación                                                                                                       E: Media
+                                   instalada con uso efectivo.
+
+
+
+Dos objetivos que necesitan una cuenta conjunta
+Pagar mejor a productores y abaratar la cesta pueden ser compatibles si se reducen costes o rentas de
+intermediación, pero no está garantizado. Hay que localizar márgenes, inversiones necesarias y poder de
+mercado. Un control de precios sin esa cuenta puede desplazar costes a la parte más débil de la cadena.
+
+Viabilidad y distribución
+Los cambios ambientales pueden generar beneficios colectivos y costes concentrados. El apoyo debe considerar
+tamaño, deuda, agua disponible, relevo generacional y capacidad de transición. No toda explotación pequeña ni
+toda grande tiene el mismo impacto o vulnerabilidad.
+La continuidad de servicios rurales exige frecuencias, horarios y profesionales. Una aplicación de teleasistencia no
+sustituye todos los servicios presenciales; puede complementarlos cuando dispone de conectividad, soporte y vías
+de escalado.
+
+Respaldo y acuerdos
+Existen propuestas convergentes en el programa común y en el de IU. La asignación concreta de ayudas y las
+negociaciones europeas requieren acuerdos adicionales. La afinidad en defensa del campo no acredita identidad
+en regulación ambiental, agua o política comercial. [21, 22, 25]
+
+Indicadores
+Renta neta y volatilidad por explotación; contratos y pagos; entrada de jóvenes; estado de recursos; coste por
+residente servido; tiempos reales a sanidad, educación y transporte.
+
+
+
+
+                                                                                           FRENTE AMPLIO | Evaluación de propuestas 26
+03 | FICHAS SECTORIALES
+
+16. Infraestructuras y movilidad
+Programa: 5.2 y 11.3. Fuentes: [2, 21, 33]. El perímetro del abono debe distinguirse de toda la movilidad nacional.
+
+ Medida                            Instrumento y condición decisiva                                                       A / B / C; E
+
+                                   Tarifas y abonos de Cercanías con condiciones por edad.
+ TR01 - Transporte                                                                                                    Alta / Alta / Media;
+                                   Presupuestar compensación, demanda adicional y servicio; no
+ asequible                                                                                                                  E: Media
+                                   prometer todo trayecto por el precio de un abono parcial.
+
+                                   Aumentar inversión y completar transiciones técnicas. Exige
+ TR02 - Capacidad y                                                                                                   Alta / Alta / Media;
+                                   proyectos maduros, material rodante, obra, mantenimiento y
+ electrificación                                                                                                            E: Media
+                                   autorizaciones.
+
+                                   Integración y reversión de aspectos de liberalización. La UE permite
+ TR03 - Organización                                                                                                  Media / Baja / Baja;
+                                   estructuras integradas con condiciones; no permite ignorar
+ ferroviaria                                                                                                              E: Media
+                                   independencia funcional y acceso no discriminatorio.
+
+                                   Ferrocarril de mercancías, restricciones de vuelos cortos y leasing
+ TR04 - Cambio modal y                                                                                                 Media / Media /
+                                   social eléctrico. Definir denominadores, excepciones, beneficiarios y
+ vehículo                                                                                                              Media; E: Media
+                                   coste por emisión evitada.
+
+
+
+Precio, oferta y fiabilidad
+Una tarifa menor puede mejorar acceso, pero su utilidad disminuye si no hay frecuencia o fiabilidad. La gratuidad
+y la obra no se comparan solo por gasto: deben medirse tiempo ahorrado, movilidad nueva y desplazamiento del
+coche. Priorizar mantenimiento puede producir beneficios distintos de una nueva línea.
+
+Ambigúedades que impiden un pronóstico completo
+El objetivo de llevar el ferrocarril al 80% del total de mercancías exige precisar a qué total se refiere y en qué
+plazo. Sin esas definiciones, el resultado integral es NE, aunque acciones parciales tengan ruta de ejecución. No se
+sustituye por otro porcentaje más plausible. [2]
+
+Costes y acuerdos
+Ayudas a un vehículo privado y refuerzo de transporte colectivo tienen beneficiarios y costes distintos. El diseño
+debe evitar subvencionar compras que se habrían realizado igualmente. Integrar sociedades no demuestra por sí
+solo ahorro; cerrar el acceso a competidores plantea un problema jurídico diferente. [33]
+
+Verificación
+Puntualidad, cancelaciones y ocupación; tiempo puerta a puerta; coste por viajero adicional; emisiones de ciclo de
+vida; cuota modal en toneladas-kilómetro; accesibilidad rural y de personas con discapacidad.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 27
+03 | FICHAS SECTORIALES
+
+17. Tecnología e IA | Estado y trabajo
+Programa: 6.1, 13.1 y 14. Fuentes: [2, 22, 34]. El reglamento europeo de IA es parte de la línea base, no una promesa nueva.
+
+ Medida                           Instrumento y condición decisiva                                                      A / B / C; E
+
+                                  Nube, código abierto y control de datos. Comparar costes completos,
+ D01 - Infraestructura digital                                                                                        Alta / Media /
+                                  capacidad operativa, seguridad, portabilidad y dependencia de
+ pública                                                                                                             Media; E: Media
+                                  proveedores.
+
+                                  Inventario, evaluaciones, trazabilidad y revisión humana. Concretar
+ D02 - IA administrativa                                                                                            Alta / Alta / Media;
+                                  acceso a registros, versiones, datos de prueba y recursos de las
+ auditable                                                                                                                E: Media
+                                  personas afectadas.
+
+                                  Facultad del comité de empresa para configurar, aprobar o vetar IA
+ D03 - IA y relaciones                                                                                               Media / Media /
+                                  que organice, vigile o evalúe trabajo, con asesoramiento experto.
+ laborales                                                                                                           Baja; E: Media
+                                  Precisar alcance, prueba y recurso.
+
+                                  Reforzar evaluación de riesgos y capacidades nacionales. Delimitar
+ D04 - Supervisión y                                                                                                Alta / Alta / Media;
+                                  funciones frente a autoridades existentes; crear una unidad no
+ capacidad                                                                                                                E: Media
+                                  demuestra supervisión efectiva.
+
+
+
+De transparencia formal a control utilizable
+Publicar que se usa IA es insuficiente para auditar una decisión. La compra pública debería especificar registros de
+ejecución, cambios de versión, pruebas de sesgo y error, incidentes, reversibilidad y responsabilidades. Un
+modelo abierto puede facilitar inspección, pero no elimina riesgos de datos, despliegue o seguridad.
+La revisión humana exige tiempo, información y autoridad para rectificar. Si el revisor solo confirma
+automáticamente, no hay una garantía efectiva. Medir recursos presentados y estimados con cambio de decisión
+ayuda a comprobarlo.
+
+Costes, eficacia y negociación
+Soberanía, disponibilidad y precio pueden entrar en tensión. La evaluación debe comparar soluciones según
+sensibilidad de datos y criticidad, evitando asumir que toda infraestructura debe tener el mismo diseño. Duplicar
+capacidades sin usuarios o talento puede aumentar coste sin reducir dependencia.
+El acuerdo potencial es mayor sobre rendición de cuentas que sobre cuotas de propiedad o veto laboral. Son
+hipótesis de negociación, no pactos acreditados. El marco europeo vigente condiciona el diseño nacional. [34]
+
+Indicadores
+Servicios inventariados; errores por grupo y contexto; recursos corregidos; incidentes; coste total por resultado;
+portabilidad probada; tiempo de retirada o sustitución de un sistema defectuoso.
+
+
+
+
+                                                                                                FRENTE AMPLIO | Evaluación de propuestas 28
+03 | FICHAS SECTORIALES
+
+17. Tecnología e IA | plataformas y recursos
+Programa: 6.1, 14 y 17.3. Fuentes: [2, 22, 25, 31, 32, 34]. Fechas internas se conservan, aunque requieran aclaración.
+
+ Medida                            Instrumento y condición decisiva                                                        A / B / C; E
+
+                                   Interoperabilidad, privacidad, protección de menores y contenidos
+ D05 - Derechos en                                                                                                       Media / Media /
+                                   sin consentimiento. Definir pruebas, excepciones, recurso y
+ plataformas                                                                                                             Media; E: Media
+                                   proporcionalidad de sanciones.
+
+                                   Limitar usos dañinos y reforzar trazabilidad. Traducir conceptos
+ D06 - IA manipulativa y                                                                                                 Media / Media /
+                                   amplios en conductas observables; evitar controles vagos que
+ contenidos                                                                                                              Media; E: Media
+                                   penalicen usos legítimos.
+
+                                   Exigencias de energía, agua y calor recuperado. La referencia a julio
+                                                                                                                         Media / Media /
+ D07 - Centros de datos            de 2026 ya ha vencido; una obligación nueva necesita fecha y
+                                                                                                                           Baja; E: NE
+                                   transición corregidas expresamente.
+
+                                   Participación pública mediante una propuesta tributaria en acciones.
+                                                                                                                    Baja / Baja / Baja; E:
+ D08 - Fondo europeo de IA         Requiere decisión europea, definición de base, valoración y derechos
+                                                                                                                             NE
+                                   accionistas; no ingreso nacional inmediato.
+
+
+
+Un objetivo tecnológico necesita un mecanismo preciso
+Identificar manipulación exige delimitar conducta, daño, causalidad y excepciones. Regular todo sistema
+persuasivo del mismo modo puede afectar a recomendaciones, publicidad, asistencia y expresión. La ejecución
+debería concentrarse en riesgos verificables y permitir recurso; no en un criterio político abierto sobre contenidos.
+
+Infraestructura física
+Recuperar calor depende de temperatura, distancia, demanda receptora y estacionalidad. Un porcentaje sin
+cliente o red puede incentivar una instalación formal poco utilizada. El consumo de agua debe evaluarse en la
+cuenca y en épocas de estrés, no solo como media anual nacional.
+
+Coste y viabilidad europea
+El fondo propuesto no debe contarse como caja española disponible. Un impuesto satisfecho en acciones puede
+generar activos, no liquidez para gasto corriente, y exige analizar dilución, valoración y movilidad del capital. El
+diseño europeo condiciona la aplicación nacional. [31, 32]
+
+Indicadores
+Daños y reclamaciones resueltas; falsos positivos de moderación; interoperabilidad comprobada; consumo
+horario y territorial; calor efectivamente utilizado; inversión adicional y capacidad europea realmente accesible.
+
+
+
+
+                                                                                                 FRENTE AMPLIO | Evaluación de propuestas 29
+03 | FICHAS SECTORIALES
+
+18. UE, política exterior y defensa
+Programa: 17. Contraste interno: IU, bloques 8 y 9. Fuentes: [2, 25, 26, 29, 30, 47, 58].
+
+ Medida                             Instrumento y condición decisiva                                               A / B / C; E
+
+                                    Rechazar la senda de aumento y reorientar seguridad. Desagregar
+                                                                                                               Media / Baja / Baja;
+ X01 - Defensa y bases              compromisos, contratos, capacidades y acuerdos bilaterales antes de
+                                                                                                                   E: Media
+                                    estimar ahorro o viabilidad.
+
+                                    Diplomacia, restricciones de armas y posiciones sobre conflictos.
+ X02 - Paz y derechos                                                                                            Media / Media /
+                                    Distinguir decisiones españolas de resultados que dependen de otros
+ internacionales                                                                                                  Media; E: NE
+                                    Estados y organismos.
+
+                                    Alcanzar objetivos de ayuda al desarrollo. El 0,7% de la renta
+                                                                                                                 Alta / Media /
+ X03 - Cooperación                  nacional bruta ya tiene antecedente legal; se evalúan dotación,
+                                                                                                                Media; E: Media
+                                    calidad y ejecución.
+
+                                    Cambiar gobernanza fiscal y funciones monetarias. La financiación
+ X04 - Reforma económica                                                                                      Baja / Baja / Baja; E:
+                                    directa de Estados por el BCE enfrenta una prohibición del tratado
+ europea                                                                                                               NE
+                                    vigente.
+
+
+
+Posiciones comunes y posiciones de un integrante
+IU defiende explícitamente la salida de la OTAN. No se atribuye esa formulación a todo Frente Amplio cuando el
+documento común plantea otros compromisos sobre gasto, bases y seguridad. La coincidencia en prioridades
+sociales no cierra por sí sola el modelo de alianzas. [26]
+La declaración de La Haya distingue defensa central y gasto relacionado con seguridad dentro del compromiso del
+5%. Analizarlo como una partida militar única oculta ese desglose. El ahorro de no seguir una senda futura no es
+necesariamente recorte de gasto actual disponible. [47]
+
+Autonomía de decisión y dependencias
+Un Gobierno puede cambiar posiciones diplomáticas o impulsar iniciativas, pero no garantizar acuerdos de paz,
+referéndums en terceros territorios o reformas de instituciones multilaterales. El resultado debe medir también
+contribuciones verificables, no adjudicar éxito o fracaso completo a un solo actor.
+
+Coste y acuerdos
+Cooperación se mide sobre renta nacional bruta, no PIB. El objetivo legal no elimina las necesidades
+presupuestarias. Una reforma del tratado monetario tampoco puede financiar el escenario fiscal base antes de ser
+aprobada. [30, 58]
+
+Indicadores
+Ayuda desembolsada y resultados; transparencia contractual; capacidades de seguridad preservadas;
+cumplimiento de restricciones; iniciativas con apoyos reales; cambios normativos europeos efectivamente
+aprobados.
+
+
+
+
+                                                                                            FRENTE AMPLIO | Evaluación de propuestas 30
+03 | FICHAS SECTORIALES
+
+19. Cultura, medios, deporte y consumo
+Programa: 2.6, 14, 18.5 y 18.6; conexiones con servicios y derechos. Fuentes: [2, 19, 27, 34, 56].
+
+ Medida                            Instrumento y condición decisiva                                                         A / B / C; E
+
+                                   Objetivo presupuestario cultural y desarrollo de condiciones de
+ CU01 - Acceso cultural y                                                                                                 Alta / Media /
+                                   artistas. Medir acceso, diversidad y sostenibilidad profesional, no
+ creación                                                                                                                Media; E: Media
+                                   solo volumen de subvenciones.
+
+                                   Ampliar red y conservar activos. Necesita personal, horarios,
+ CU02 - Bibliotecas y                                                                                                   Alta / Alta / Media;
+                                   colecciones, digitalización y mantenimiento; abrir un edificio no
+ patrimonio                                                                                                                   E: Media
+                                   garantiza servicio.
+
+                                   Transparencia en propiedad y publicidad institucional; protección
+ CU03 - Pluralismo y                                                                                                     Media / Media /
+                                   digital y de creadores. Supervisión independiente y recurso para no
+ derechos de consumo                                                                                                     Media; E: Media
+                                   convertir control en sesgo editorial.
+
+                                   Archivos, reparación y cambios en protecciones legales específicas.
+ CU04 - Memoria y                                                                                                       Alta / Media / Baja;
+                                   Separar investigación, decisiones administrativas y responsabilidad
+ protección cultural                                                                                                          E: Media
+                                   individual con garantías.
+
+
+
+Una unidad presupuestaria que no debe confundirse
+El objetivo cultural del programa se expresa como 2% del gasto público total, no 2% del PIB. La diferencia es
+sustancial y debe mantenerse en la consolidación fiscal. Los instrumentos de cultura, educación, archivo y
+patrimonio pueden compartir financiación; no se suman dos veces. [2]
+
+Acceso y libertad
+Subvencionar oferta puede ampliar creación, pero el acceso depende de precio, proximidad, horarios,
+discapacidad y hábitos. Los criterios de concesión deben ser publicados, revisables y separados de la afinidad
+política. La transparencia de medios no justifica sustituir pluralismo por supervisión gubernamental de la línea
+editorial.
+
+Alcance y apoyo
+El texto contiene medidas culturales concretas y responsabilidades sectoriales identificables. No se identifica en
+este inventario una oferta deportiva de igual detalle presupuestario: no consta una ficha cuantificada equivalente,
+lo cual no significa oposición al deporte. La experiencia del Ministerio de Cultura es un antecedente de capacidad,
+no una designación de futuro gabinete. [56]
+
+Indicadores
+Participación cultural por renta y territorio; remuneración y estabilidad de creadores; uso real de bibliotecas;
+diversidad de beneficiarios; contratos de publicidad transparentes; reclamaciones y restitución efectiva a
+consumidores.
+
+
+
+
+                                                                                                     FRENTE AMPLIO | Evaluación de propuestas 31
+04 | COHERENCIA FISCAL
+
+Una cuenta consolidada, no una suma de titulares
+Las magnitudes siguientes son objetivos del programa, no estimaciones independientes de coste. Para
+compararlas deben expresarse con el mismo año de precios, calendario y perímetro de administraciones. [2, 5]
+
+ Magnitud anunciada          Tratamiento correcto                              Principal riesgo de lectura
+
+                             Separar construcción, adquisiciones,
+                             subvenciones, préstamos y gestión. Restar         Confundir parque incorporado con vivienda
+ Vivienda: 1% del PIB
+                             gasto vigente y evitar duplicar activos           nueva o con gasto adicional.
+                             transferidos.
+
+                             Objetivo total; calcular brecha frente a línea    Sumarlo entero como gasto nuevo o volver a
+ Sanidad: 8% del PIB
+                             base y recursos por comunidad.                    sumar la financiación territorial.
+
+                             Incluye interacciones con universidad y parte     Duplicar objetivo universitario y becas
+ Educación: 7% del PIB
+                             de investigación.                                 incluidos en el paquete.
+
+ Dependencia: 1,7% del       Distinguir transferencias, servicios, copagos y   Presentar toda la cifra como nueva o ignorar
+ PIB en 2030                 gasto incremental.                                personal y mantenimiento.
+
+                             Aclarar alcance público/privado y
+ Clima: 3,5% del PIB                                                           Contarlo como una bolsa independiente de
+                             solapamiento con transporte, vivienda e
+ anual                                                                         todas las inversiones sectoriales.
+                             industria.
+
+                             Desglose anunciado: 1,25% público y 1,75%         Tratar la inversión privada prevista como
+ I+D: 3% del PIB en 2030
+                             privado.                                          presupuesto controlado por el Gobierno.
+
+ Cultura: 2% del gasto       Aplicar al denominador correcto y consolidar
+                                                                               Convertirlo erróneamente en 2% del PIB.
+ público                     administraciones.
+
+                                                                               Sumar dos veces una transferencia o
+ Territorio y financiación   Transferencias y recursos para servicios:
+                                                                               identificar quita interna con deuda externa
+ local                       consolidación entre pagador y receptor.
+                                                                               cancelada.
+
+
+
+Tres cuentas diferentes
+Presupuesto: ingresos y gasto que afectan al saldo. Caja: desembolsos y vencimientos, incluidos préstamos y
+compras de activos. Riesgo: garantías, pérdidas probables y necesidades de recapitalización. Una operación puede
+tener efectos distintos en las tres.
+
+Restricción externa
+AIReF advierte tensiones de cumplimiento del plan fiscal en el escenario vigente. No ha certificado este programa.
+Reformar las reglas europeas es una propuesta adicional, no una exención ya disponible para financiar el paquete
+nacional. [29, 39]
+No se publica una suma global porque las bases, solapamientos y supuestos no permiten convertirla en un coste neto defendible.
+Esta incertidumbre no demuestra por sí sola inviabilidad, pero impide certificar financiación suficiente.
+
+
+
+
+                                                                                        FRENTE AMPLIO | Evaluación de propuestas 32
+04 | COHERENCIA FISCAL
+
+Sensibilidades, financiación y pruebas adversas
+Los ejercicios siguientes son cálculos ilustrativos del informe, no costes oficiales ni pronósticos. Muestran qué
+datos hacen falta para cerrar una cuenta.
+
+ Ejercicio                   Cálculo transparente                                Qué falta para convertirlo en coste
+
+                             200 euros x 12 meses = 2.400 euros por
+                                                                                 Población elegible por fase, altas/bajas y
+ Crianza                     menor/año; un millón de menores = 2.400
+                                                                                 prestaciones que se acumulan o sustituyen.
+                             millones brutos.
+
+                             1,5 millones / 12 años = 125.000                    Mezcla de obra, adquisición y movilización;
+ Vivienda
+                             incorporaciones medias anuales.                     ubicación; coste y calidad; bajas del parque.
+
+                             Por cada 100.000 incorporaciones, 10.000
+ Coste unitario de                                                               No se presupone que 10.000 euros sea el coste
+                             euros adicionales de coste medio implican
+ vivienda                                                                        de una vivienda: es una variación marginal.
+                             1.000 millones más.
+
+                             Un millón de beneficiarios con complemento
+                                                                                 Número neto de personas, complementos
+ Pensiones                   de 100 euros mensuales y 14 pagas = 1.400
+                                                                                 reales, pagas y compatibilidades.
+                             millones anuales.
+
+ Participación en            Una participación adquirida requiere capital        Precio, deuda, cartera, rentabilidad, pérdidas y
+ renovables                  antes de repartir dividendos.                       calendario de ingresos.
+
+
+
+Financiación: señales que cambiarían el diagnóstico
+Una memoria común debería asignar cada ingreso a un calendario, evitar solapamientos y mostrar sensibilidad al
+crecimiento, tipos de interés y conducta de contribuyentes. La recaudación antifraude necesita una senda de
+capacidad; el objetivo del impuesto sobre acumulación de vivienda puede reducir su propia base si funciona como
+incentivo.
+
+Tres pruebas adversas
+Menos recaudación: priorizar compromisos permanentes, proteger servicios esenciales y definir qué se aplaza.
+Más coste de entrega: distinguir mayor presupuesto de menor cobertura o calidad. Menor cooperación
+territorial: identificar qué servicios puede garantizar realmente la Administración estatal y con qué vehículo.
+No se presenta como financiación segura el ahorro total de cancelar un proyecto plurianual, los dividendos aún no
+generados ni el producto de una reforma europea pendiente. Tampoco se resta un préstamo completo del déficit
+como si fuera gasto corriente.
+Compromisos base: [2, 5, 10]. Restricciones y contexto: [29, 39]. La cifra recaudatoria de IU se mantiene separada del programa
+común. [23]
+
+
+
+
+                                                                                          FRENTE AMPLIO | Evaluación de propuestas 33
+04 | COHERENCIA FISCAL
+
+Parámetros que requieren unificación
+El programa contiene instrumentos con cifras concretas y pasajes que necesitan desarrollo o conciliación. Las
+siguientes observaciones no certifican invalidez: identifican qué debería resolver una memoria económica y un
+articulado. [2, 5, 7, 9]
+
+ Instrumento              Parámetro publicado                              Comprobación necesaria
+
+                          Mínimos del 2% desde un millón y del 3%          No sumar tipos como si fueran impuestos
+ Patrimonio               desde 50 millones; el PDF también describe       independientes. Precisar bases, créditos y
+                          aumentos de tramos y una tasa Zucman.            coordinación con Patrimonio y Solidaridad.
+
+                          La presentación anuncia 75% marginal entre 5     Definir cómo se relacionan las figuras y dónde
+                          y 10 millones y 100% sobre el exceso de 10. El   opera cada tramo. Una exención de vivienda
+ Herencias
+                          PDF incorpora también un complemento             contiene un máximo de 5 sin unidad explícita
+                          estatal con marginal máximo del 34%.             en el pasaje consultado.
+
+                                                                           El impuesto busca cambiar cartera o uso.
+                          10% del valor con umbrales, sujetos y exención   Venta, alquiler y valoración modifican la
+ Gravamen inmobiliario
+                          por alquiler asequible.                          recaudación; la foto inicial no es un ingreso
+                                                                           anual estable.
+
+                          Servicios digitales: 15%; depósitos bancarios:   Identificar base, sujeto, beneficios y traslación
+ Impuestos sectoriales    1%; energía: 1,2% sobre cifra de negocio con     a clientes. Distinguir porcentajes de
+                          incentivos de reinversión.                       facturación, depósitos y beneficios.
+
+                          Gravamen del 50% pagadero en acciones para       El texto no cierra la base imponible. No
+ Fondo europeo de IA      empresas con ingresos europeos de IA             equivale automáticamente a adquirir el 50%
+                          superiores a 200 millones anuales.               de toda empresa ni a ingreso de caja español.
+
+
+
+Tres conceptos fiscales diferentes
+Tipo marginal: grava el tramo adicional, no toda la herencia o renta. Tipo efectivo: relaciona cuota y una base que
+debe definirse. Recargo sobre un impuesto: no es un porcentaje sobre el precio del activo. El programa propone
+recargos en operaciones inmobiliarias; analizarlos como si gravaran directamente el precio exageraría o
+deformaría la medida.
+
+Regla de evaluación
+Conservar la formulación original y registrar aclaraciones posteriores. No elegir por cuenta del analista la versión
+más favorable, la más gravosa ni la más sencilla. Hasta contar con diseño coherente, la confianza en la
+recaudación y en la distribución debe permanecer limitada.
+
+
+
+
+                                                                                    FRENTE AMPLIO | Evaluación de propuestas 34
+05 | VIABILIDAD JURÍDICA
+
+Cuatro rutas institucionales distintas
+ Ruta                       Ejemplos del informe                                Condición que no debe omitirse
+
+                                                                                Competencia, mayoría del trámite, recursos y
+ Desarrollo legal y         Prestaciones, cartera sanitaria, inspección,
+                                                                                compatibilidad con derechos y normas
+ presupuesto                becas, impuestos o ciertos cambios laborales.
+                                                                                superiores.
+
+                            Determinados cambios de participación,
+ Reforma constitucional                                                         Mayorías reforzadas del artículo 167 y posible
+                            financiación o garantías fuera de las partes
+ ordinaria                                                                      referéndum conforme a sus requisitos.
+                            especialmente protegidas.
+
+                            Modelo republicano; cambios en partes
+ Reforma constitucional     especialmente protegidas; traslado de               Artículo 168: mayorías reforzadas, disolución,
+ agravada                   vivienda a la sección de derechos                   nuevas Cámaras y referéndum obligatorio.
+                            fundamentales.
+
+                            Financiación directa por el BCE, reforma de
+ Cambio europeo o                                                               Procedimiento supranacional o acuerdo con
+                            reglas europeas, algunos acuerdos de defensa
+ internacional                                                                  otros Estados; una ley española no basta.
+                            y reformas multilaterales.
+
+
+
+Propiedad e impuestos: ni prohibición automática ni cheque en blanco
+La evaluación de expropiaciones exige finalidad, procedimiento, compensación y recurso. La fiscalidad patrimonial
+requiere examinar capacidad económica, no confiscatoriedad y relación entre figuras. Una barrera potencial debe
+identificarse sin anticipar una sentencia sobre un texto que aún no existe. [28, 32]
+
+Competencias y reglas sectoriales
+La jurisprudencia de vivienda exige analizar cuidadosamente el reparto competencial. En ferrocarril, integración
+societaria y exclusión de competidores son decisiones distintas. En industria, la propiedad pública puede coexistir
+con reglas de ayudas; no todo apoyo selectivo es compatible ni toda intervención está prohibida. [31, 33, 61, 62]
+
+Instrumentos que necesitan especial precisión
+La iniciativa legislativa popular tiene un requisito constitucional de firmas. La reforma de gobierno judicial debe
+distinguir categorías de vocales. Las obligaciones digitales deben encajar con garantías y marco europeo. El
+procedimiento correcto puede ser viable, pero más largo o exigir apoyos diferentes del anuncio. [28, 34]
+Este apartado es una lectura de rutas y riesgos, no un dictamen de constitucionalidad. Las consecuencias concretas dependen del
+articulado, la normativa aplicable y la eventual decisión judicial.
+
+
+
+
+                                                                                         FRENTE AMPLIO | Evaluación de propuestas 35
+06 | EVIDENCIA Y EFICACIA
+
+Lo que la evidencia permite afirmar
+ Ámbito                     Evidencia utilizable                              Límite de inferencia
+
+                            Estudios observan protección a residentes
+                                                                              No determina el efecto de cualquier control ni
+                            junto a respuestas de propietarios y oferta. El
+ Alquiler                                                                     sustituye una evaluación del paquete de
+                            Banco de España analiza restricciones del
+                                                                              oferta, fiscalidad y regulación.
+                            mercado español. [41, 42]
+
+                            Ensayos organizativos de cuatro días              Organizaciones seleccionadas y reorganización
+ Jornada                    documentan mejoras de bienestar en los            previa no equivalen a una reforma nacional
+                            contextos estudiados. [43]                        uniforme ni a productividad garantizada.
+
+                                                                              Mejor captación no resuelve por sí sola
+                            AIReF identifica problemas relevantes de
+                                                                              suficiencia, costes o incentivos; no prueba
+ Prestaciones               acceso al IMV y al complemento de infancia.
+                                                                              superioridad universal de una prestación
+                            [40]
+                                                                              concreta.
+
+                                                                              No avala un umbral o tipo marginal específico
+                            La OCDE examina equidad, recaudación,
+ Herencias                                                                    del programa ni calcula su rendimiento
+                            elusión, exenciones y administración. [44]
+                                                                              español.
+
+                            El mecanismo puede ser plausible, pero
+                                                                              El presupuesto, una empresa creada o una ley
+ Servicios y proyectos      necesita capacidad, selección, calidad y
+                                                                              aprobada son insumos, no resultados finales.
+                            medición.
+
+
+
+Evaluación propuesta
+Fijar línea base antes del despliegue. Publicar criterios de elegibilidad y cambios. Comparar fases o territorios
+semejantes cuando sea posible, sin negar derechos arbitrariamente. Medir resultados, costes y efectos no
+previstos, con seguimiento suficiente para no confundir un ajuste inicial con el efecto permanente.
+
+Evidencia negativa y alternativa
+Una evaluación debe registrar también intervenciones sin efecto, efectos adversos y resultados por subgrupo.
+Para cada instrumento, comparar una alternativa relevante: ayuda focalizada frente a rebaja general, oferta
+frente a subsidio de demanda, producción pública frente a compra agregada, nueva infraestructura frente a
+mantenimiento.
+
+Independencia de la medición
+La entidad ejecutora debe publicar datos y facilitar verificación externa. Las previsiones del partido se conservan
+como previsiones: no se convierten en evidencia porque aparezcan repetidas en medios o comunicados. Las
+valoraciones del informe se actualizarían ante resultados contrarios, no solo ante datos favorables.
+
+
+
+
+                                                                                       FRENTE AMPLIO | Evaluación de propuestas 36
+07 | RESPALDO INTERNO
+
+Qué apoyo está documentado
+ Actor o nivel             Evidencia observada                                Lo que no permite concluir
+
+                           Programa común y presentación del 16/11;           No acredita el orden de sacrificio en una
+ Coalición                 ratificación salarial y explicaciones temáticas.   negociación ni un voto nominal sobre cada
+                           [3, 5-13]                                          medida.
+
+                                                                              No equivale a una dirección única de todas las
+                           Acuerdo entre Sumar, IU, Más Madrid y
+ Núcleo de candidatura                                                        organizaciones ni a un futuro gabinete
+                           Comuns para la candidatura de Colau. [14]
+                                                                              cerrado.
+
+                                                                              Su aportación no se incorpora entera al
+                           Respaldo a la convergencia, programa propio y
+ Izquierda Unida                                                              documento conjunto por el mero hecho de
+                           prioridades explícitas. [16-27]
+                                                                              participar.
+
+                           Elección de su coordinación y experiencia          El porcentaje de respaldo a una dirección no
+ Movimiento Sumar          parlamentaria y ministerial de dirigentes. [50,    mide apoyo interno a impuestos,
+                           51, 53]                                            expropiaciones o defensa.
+
+                                                                              No demuestra acuerdo de todas las
+ Organizaciones            Candidaturas y pactos diferentes según
+                                                                              administraciones autonómicas o municipales
+ territoriales             territorio. [4, 15]
+                                                                              con cada obligación ejecutora.
+
+                           No consta en este corpus una medición              El silencio público no se transforma en
+ Afiliación y electorado
+                           representativa por propuesta.                      unanimidad ni en rechazo.
+
+
+
+Prioridad, respaldo y poder son variables distintas
+Una medida puede estar en el programa y ocupar un lugar secundario en la negociación. Otra puede ser
+prioritaria para una organización con pocos puestos pero capacidad de bloquear un acuerdo. La presencia en
+campaña se registra como señal de prioridad, no como prueba de que será una línea roja.
+
+Evidencias que faltan para afinar el análisis
+Un acuerdo de coalición con reglas de decisión y resolución de conflictos; votaciones por propuesta; compromisos
+de las organizaciones ejecutoras; responsables, presupuesto y orden de negociación. Sin ello, atribuir un
+porcentaje de apoyo interno sería falsa precisión.
+
+Lectura neutral
+La pluralidad puede ampliar representación y conocimiento territorial, y también aumentar costes de
+coordinación. Ninguno de esos efectos se da por hecho. Se evalúa si las reglas convierten discrepancias en
+decisiones estables, no si existe diversidad en sí misma.
+
+
+
+
+                                                                                       FRENTE AMPLIO | Evaluación de propuestas 37
+07 | RESPALDO INTERNO
+
+Diferencias entre texto común e integrantes
+ Cuestión                Distinción documental                            Consecuencia para el análisis
+
+                                                                          No escoger la cifra más alta como compromiso
+                         El texto común plantea 1% del PIB; la
+ Vivienda                                                                 de todos ni tratarlas como dos presupuestos
+                         aportación de IU, 1,2%. [2, 18]
+                                                                          acumulables.
+
+                         IU cifra su reforma en 111.000 millones          No es una memoria fiscal conjunta ni un aval
+ Recaudación
+                         anuales. [17, 23]                                independiente a cada tributo de la coalición.
+
+                         IU explicita salida de la OTAN; el documento     No convertir una posición de IU en acuerdo
+ Alianzas militares      común formula compromisos sobre gasto,           expreso de todos ni interpretar la diferencia
+                         bases y seguridad. [2, 26]                       como ruptura demostrada.
+
+                         Las alianzas electorales son distintas según     No tratar la relación como alianza nacional
+ Relación con Podemos
+                         circunscripción. [15]                            total ni incompatibilidad universal.
+
+                                                                          No atribuir todo su historial a una coalición
+                         Dirigentes y organizaciones han participado en
+ Gobierno anterior                                                        recién configurada ni excluir la responsabilidad
+                         instituciones y ministerios. [53-57]
+                                                                          compartida.
+
+
+
+Diferencia no equivale a conflicto abierto
+Un partido puede conservar una propuesta propia más amplia y aceptar un texto común menor. La contradicción
+evaluable aparece cuando el acuerdo impone compromisos incompatibles o un actor rechaza públicamente la
+versión conjunta. Las fuentes disponibles permiten identificar diferencias documentales, no adjudicar intenciones
+privadas.
+
+Puntos que requieren reglas internas
+Quién decide el orden de negociación, cuándo una concesión necesita ratificación, cómo se distribuyen
+responsabilidades y qué ocurre si un socio territorial no puede ejecutar. Una matriz de responsables y decisiones
+debería acompañar cualquier acuerdo de gobierno.
+
+Implicación para las probabilidades
+Las fichas parten del respaldo formal común. La incertidumbre sobre jerarquía y compromisos explica parte de la
+confianza media-baja. Un acuerdo firmado que precise prioridades y responsables aumentaría información; una
+votación interna concreta puede reforzar una medida sin resolver sus restricciones fiscales o legales.
+
+
+
+
+                                                                                   FRENTE AMPLIO | Evaluación de propuestas 38
+08 | LIDERAZGO Y EQUIPO
+
+Candidatura y articulación política
+Ada Colau | candidata a la Presidencia
+Hechos verificados. Encabeza la candidatura de Frente Amplio y la lista por Barcelona. Fue alcaldesa de Barcelona
+entre 2015 y 2023, con responsabilidades metropolitanas asociadas. El acuerdo de candidatura del núcleo de
+organizaciones está documentado. [4, 14, 48]
+Relevancia para la ejecución. Su experiencia permite examinar gestión municipal, negociación de presupuestos,
+vivienda y servicios urbanos. No equivale automáticamente a experiencia en política fiscal estatal, defensa o
+negociación europea.
+Qué auditar. Compromisos de su etapa local, recursos disponibles, competencias reales y resultados comparados.
+No atribuirle por completo la evolución del precio de vivienda de una gran ciudad ni deducir capacidad futura de
+popularidad o estilo comunicativo.
+
+Emilio Delgado | cabeza de lista por Madrid
+Hechos verificados. Figura como número uno por Madrid; cuenta con trayectoria en la Asamblea de Madrid y
+experiencia en intervención social. [4, 49]
+Relevancia. Aporta experiencia parlamentaria y conocimiento de servicios y problemas sociales. Ser cabeza de
+lista provincial no acredita designación ministerial ni mando sobre todas las organizaciones.
+Qué auditar. Trabajo legislativo, acuerdos y seguimiento de medidas; diferenciar iniciativas aprobadas de
+ejecutadas, y gestión profesional de responsabilidad ejecutiva de gobierno.
+
+Antonio Maíllo | coordinación de Izquierda Unida
+Hechos verificados. Coordina IU; es licenciado en Filología Clásica y tiene trayectoria docente, orgánica y
+parlamentaria. La organización ha respaldado la construcción del Frente Amplio y mantiene un programa propio.
+[16, 17, 52]
+Relevancia. Su papel es central en articulación y ratificación de acuerdos de un integrante. Esa autoridad no lo
+convierte en decisor único de la coalición.
+Qué auditar. Acuerdos internos y territoriales, estabilidad de la convergencia y capacidad de convertir
+aportaciones propias en compromisos comunes ejecutables.
+Los perfiles describen experiencia y responsabilidades observables. No se asignan notas de personalidad, carisma o competencia
+global; tampoco se inventan preferencias privadas ni futuros nombramientos.
+
+
+
+
+                                                                                         FRENTE AMPLIO | Evaluación de propuestas 39
+08 | LIDERAZGO Y EQUIPO
+
+Trabajo, coordinación y política social
+Verónica Martínez Barbero | coordinación y Parlamento
+Hechos verificados. Comparte la coordinación de Movimiento Sumar con Rosa Martínez desde julio de 2026. Su
+trayectoria incluye inspección laboral, Dirección General de Trabajo y actividad parlamentaria. Figura en la
+candidatura por Madrid. [4, 50, 51]
+Relevancia. Conecta diseño normativo, negociación parlamentaria y organización. Es pertinente para evaluar la
+vía legislativa de jornada, protección y participación empresarial.
+Qué auditar. Calidad del articulado, negociaciones documentadas y mayorías construidas. La elección de su
+coordinación no demuestra apoyo granular a todo el programa ni disponibilidad de votos externos.
+
+Yolanda Díaz | experiencia ministerial laboral
+Hechos verificados. Vicepresidenta segunda y ministra de Trabajo y Economía Social; abogada, con experiencia
+municipal y parlamentaria. Ocupa Trabajo desde 2020. [53, 57]
+Relevancia. Tiene experiencia directa de diálogo social y tramitación laboral. El acuerdo de 2023 y la devolución
+parlamentaria de la jornada en 2025 muestran que negociación, aprobación y ejecución son etapas distintas. [45,
+46]
+Qué auditar. Texto pactado, cumplimiento de hitos, impacto de medidas y responsabilidad compartida. No se
+presupone que conserve un cargo ni que la nueva candidatura tenga la misma arquitectura que Sumar en 2023.
+
+Pablo Bustinduy | política social y portavocía de programa
+Hechos verificados. Ministro de Derechos Sociales, Consumo y Agenda 2030 desde 2023; doctor en Filosofía, con
+formación en Ciencias Políticas y experiencia investigadora y parlamentaria. Participó en la presentación del
+programa. [5, 53, 54]
+Relevancia. Su cartera conecta crianza, dependencia, consumo y parte de la protección digital. La presentación
+acredita un papel de defensa del programa, no el control de toda su financiación.
+Qué auditar. Normas desarrolladas, convenios con comunidades, desembolsos y acceso real a prestaciones.
+Separar anuncios de cobertura, resoluciones administrativas y servicios efectivamente recibidos.
+
+
+
+
+                                                                              FRENTE AMPLIO | Evaluación de propuestas 40
+08 | LIDERAZGO Y EQUIPO
+
+Sanidad, cultura y arquitectura de gestión
+Mónica García | experiencia sanitaria
+Hechos verificados. Ministra de Sanidad desde noviembre de 2023; médica anestesióloga, con formación en
+gestión clínica y experiencia parlamentaria en Madrid. [53, 55]
+Relevancia. Conoce la dimensión asistencial y la coordinación estatal. La mayor parte de la entrega requiere
+organizaciones sanitarias autonómicas, profesionales y proveedores.
+Qué auditar. Cartera aprobada y financiada, disponibilidad profesional, espera y desigualdad de acceso. No
+atribuir al ministerio toda variación de las listas ni confundir autoridad normativa con gestión de cada hospital.
+
+Ernest Urtasun | experiencia europea y cultural
+Hechos verificados. Ministro de Cultura desde 2023; economista, diplomático de carrera y eurodiputado entre
+2014 y 2023. Figura en la candidatura de Barcelona. [4, 53, 56]
+Relevancia. Su trayectoria aporta conocimiento europeo y experiencia sectorial. No demuestra por sí sola
+capacidad de obtener reformas de tratados o de asegurar todas las inversiones anunciadas.
+Qué auditar. Desarrollo del estatuto profesional, ejecución cultural, acceso, contratación y negociaciones
+europeas concretas, con atribución de responsabilidades compartidas.
+
+El equipo no se reduce a sus figuras visibles
+La implementación exige responsables de presupuesto, función pública, contratación, datos, evaluación y
+coordinación territorial. Debe identificarse quién decide, quién ejecuta y quién responde cuando una meta
+depende de varias carteras. Un organigrama ministerial no sustituye ese mapa.
+
+Integridad y rendición de cuentas
+El análisis no presume integridad o falta de ella por pertenencia partidaria. Para un eventual gabinete, exigir
+declaraciones, conflictos, incompatibilidades, trazabilidad de decisiones y respuesta a órganos de control. Una
+alegación, una investigación y una resolución firme no son estados equivalentes.
+
+Límite del perfilado
+Los ocho perfiles recogen experiencia verificable y funciones actuales o de candidatura. No son un gabinete
+anunciado ni una clasificación personal. La capacidad futura se evaluaría con decisiones, responsables y
+resultados, no mediante rasgos psicológicos inferidos.
+
+
+
+
+                                                                                 FRENTE AMPLIO | Evaluación de propuestas 41
+09 | ACUERDOS ENTRE PARTIDOS
+
+Evidencia de cooperación y límites
+ Relación                Evidencia y espacio de negociación                Límite
+
+                         Existe el precedente de acuerdo de gobierno
+                                                                           No es un pacto PSOE-Frente Amplio de 2026 ni
+                         PSOE-Sumar de 2023 y experiencia
+ PSOE                                                                      acepta impuestos, propiedad o defensa en la
+                         compartida. Puede fundamentar explorar
+                                                                           versión exacta de este programa.
+                         trabajo, prestaciones y servicios. [46]
+
+                         Hay competencia y cooperación territorial         No se presume disciplina conjunta estatal ni
+ Podemos                 distintas. Algunas prioridades pueden             que una alianza local garantice apoyo a un
+                         negociarse por medida. [15]                       presupuesto nacional.
+
+                                                                           No se asigna apoyo a propuestas concretas sin
+                         Podrían ser interlocutores para paquetes
+                                                                           fuente de cada partido o acuerdo. Un objetivo
+ ERC, EH Bildu y BNG     sociales o territoriales: es una hipótesis de
+                                                                           compartido no define instrumento ni
+                         negociación.
+                                                                           financiación.
+
+                         Las decisiones presupuestarias, territoriales y
+                                                                           No se deduce un veto permanente ni se suman
+                         empresariales deben tratarse por separado. El
+ PNV y Junts                                                               apoyos por su pertenencia a una mayoría
+                         antecedente de jornada muestra un veto
+                                                                           anterior.
+                         concreto de Junts en 2025. [45]
+
+                         Pueden existir coincidencias parciales en
+                                                                           No se atribuye respaldo al paquete. Ambos
+                         objetivos como agilidad administrativa o
+ PP y Vox                                                                  promovieron la devolución de la reforma de
+                         medios de servicios; son posibilidades, no
+                                                                           jornada de 2025. [45]
+                         acuerdos.
+
+
+
+Cuatro mayorías diferentes
+Investidura: permite formar gobierno. Presupuesto: asigna recursos y prioridades. Legislación: depende del
+contenido y del procedimiento. Ejecución territorial: necesita convenios, personal y administraciones
+competentes. Un apoyo en una de estas capas no prueba las otras.
+
+No sumar votos incompatibles por conveniencia analítica
+El informe no modela escaños ni presupone el resultado electoral. Cada eventual acuerdo debe identificar
+participantes, versión negociada, concesiones y condiciones de salida. Una abstención puede ser suficiente en un
+trámite y no en otro.
+
+Qué evidencia cambiaría el mapa
+Un pacto firmado con calendario, presupuesto, responsable y mecanismo de seguimiento. Una declaración
+favorable al objetivo es menos concluyente. Un voto anterior informa sobre un texto concreto, no sobre todos los
+futuros diseños.
+
+
+
+
+                                                                                    FRENTE AMPLIO | Evaluación de propuestas 42
+09 | ACUERDOS ENTRE PARTIDOS
+
+Paquetes negociables y puntos de ruptura
+Las siguientes configuraciones son hipótesis analíticas, no conversaciones acreditadas ni acuerdos existentes. Su
+utilidad es explicitar qué tendría que negociarse.
+
+ Paquete                     Versión que podría facilitar acuerdo               Condición o tensión decisiva
+
+                                                                                Expropiación, tipos fiscales, control de rentas y
+                             Oferta asequible, rehabilitación y prevención
+ Vivienda                                                                       competencias no se dan por aceptados al
+                             de exclusión, con ejecución territorial.
+                                                                                acordar más oferta.
+
+                                                                                Horas, calendario, salarios, sectores y
+                             Reducción gradual con registro, evaluación y       compensaciones deben cerrarse; los
+ Trabajo y pymes
+                             apoyo a reorganización.                            antecedentes de rechazo siguen siendo
+                                                                                relevantes.
+
+                             Despliegue por fases y automatización, con         Universalidad, cuantía, edades y sustitución de
+ Infancia y cuidados
+                             presupuesto de servicios.                          beneficios determinan coste y distribución.
+
+                                                                                Los tipos marginales extremos, mínimos
+                             Bases y administración, con progresividad y
+ Fiscalidad                                                                     territoriales y gravamen sobre propiedad
+                             reglas antielusión.
+                                                                                requieren un acuerdo adicional.
+
+                                                                                Calendario nuclear y cuota de propiedad
+                             Redes, almacenamiento, autoconsumo y
+ Energía                                                                        pública pueden dividir a quienes coinciden en
+                             protección de hogares.
+                                                                                abaratar energía.
+
+                                                                                Reglas de elección judicial, propiedad
+                             Transparencia, evaluación, recursos de control
+ Instituciones e IA                                                             obligatoria y modelo de Estado no son
+                             y garantías.
+                                                                                extensiones automáticas.
+
+                             Cooperación y iniciativas diplomáticas             Gasto de defensa, bases, alianzas y reformas
+ Exterior
+                             concretas.                                         de tratados requieren compromisos explícitos.
+
+
+
+Intercambios entre ámbitos
+Un socio puede aceptar una prioridad ajena a cambio de la propia. El riesgo es financiar ambas con el mismo
+ingreso o acordar calendarios incompatibles. La evaluación de un paquete debe rehacer la cuenta fiscal y el mapa
+de ejecución, no sumar notas de fichas aisladas.
+
+Durabilidad
+Las medidas con usuarios, presupuesto recurrente, reglas claras y evaluación pueden ganar estabilidad. Las
+basadas en ingresos volátiles, acuerdos opacos o transferencias sin financiación son más vulnerables. Esa es una
+hipótesis institucional que debe verificarse con la versión finalmente aprobada.
+Anclas documentales: programa común [2]; diferencias de IU [17-27]; precedente de coalición [46]; votación laboral [45]. No se
+atribuye a terceros apoyo no documentado.
+
+
+
+
+                                                                                          FRENTE AMPLIO | Evaluación de propuestas 43
+10 | EJECUCIÓN
+
+Secuencia y dependencias de una legislatura
+La secuencia siguiente es una propuesta de organización del análisis, no un calendario anunciado por Frente
+Amplio. Persigue evitar que una aprobación legal se registre prematuramente como cumplimiento.
+
+ Fase                    Decisiones y entregables                         Evidencia de avance
+
+                         Inventario normativo y presupuestario;
+                                                                          Línea base reproducible y cuenta consolidada;
+ Preparación             versiones de compromisos; responsables;
+                                                                          documentos publicados.
+                         estimación de cobertura y costes.
+
+                                                                          Texto aprobado, recursos asignados,
+                         Acuerdo de gobierno, presupuesto, articulados
+ Primer semestre                                                          capacidad de contratación y responsabilidades
+                         prioritarios y convenios ejecutores.
+                                                                          claras.
+
+                         Pilotos o fases donde proceda, selección de
+                                                                          Personas o empresas atendidas, servicios
+ Primer año              proyectos maduros y refuerzo de
+                                                                          disponibles y registro de incidencias.
+                         administración.
+
+                         Escalado tras evaluación; corrección de          Resultados por grupo, gasto neto y control de
+ Años 2-3
+                         diseños; infraestructuras y plantillas.          efectos adversos.
+
+                         Auditoría de entrega y resultados, continuidad   Cumplimiento completo, parcial o nulo con
+ Cierre de legislatura
+                         financiera y compromisos de plazo largo.         definiciones estables.
+
+
+
+Dependencias compartidas
+Vivienda y clima compiten por capacidad de construcción, redes y permisos. Sanidad, educación y cuidados
+necesitan formación y personal que no aparece al aprobar una ley. La expansión simultánea exige priorizar,
+escalonar y evitar que administraciones con menos capacidad queden atrás.
+
+Fechas que requieren aclaración de la coalición
+Jornada 2026: definir aprobación, entrada en vigor y adaptación frente al calendario parlamentario. Centros de
+datos: sustituir expresamente una fecha de julio de 2026 ya pasada. Almaraz: explicar la decisión necesaria para
+alterar una autorización hasta 2030. Vivienda a 12 años: fijar hitos de la primera legislatura y consistencia con
+objetivos de 2035. [1, 2, 35]
+
+Permanencia
+Identificar el coste anual de mantener derechos, activos y servicios una vez desplegados. Una inversión inicial sin
+operación o mantenimiento financiado no constituye una entrega sostenible. Los compromisos de largo plazo
+necesitan seguimiento más allá del mandato.
+
+
+
+
+                                                                                  FRENTE AMPLIO | Evaluación de propuestas 44
+11 | SEGUIMIENTO
+
+Tablero para actualizar cada propuesta
+ Campo                    Registro exigido
+
+ Identidad y versión      ID del informe, apartado original, actor que la respalda, texto y cambios fechados.
+
+                          Anunciada; acordada; registrada; aprobada; financiada; desplegada; resultado observado;
+ Estado
+                          retirada o sustituida.
+
+ Alcance                  Beneficiarios, exclusiones, territorio, punto de partida y definición de cumplimiento.
+
+ Responsable              Órgano que decide, administración que ejecuta y entidades cuya cooperación es necesaria.
+
+ Recursos                 Coste incremental, fuentes, plazo de caja, riesgo contingente y coste de mantenimiento.
+
+                          Acuerdos, votos o posiciones identificables; condiciones y fecha. Ausencia de evidencia se
+ Apoyos
+                          conserva como desconocida.
+
+ Resultado                Indicador, valor inicial, meta, fecha, calidad, distribución y efectos adversos.
+
+ Pronóstico y confianza   Escenario, acontecimiento, horizonte, estimación, fundamento y evidencia que la cambiaría.
+
+
+
+Reglas de actualización
+Conservar versiones anteriores: un objetivo reducido no convierte retrospectivamente la promesa inicial en
+cumplida. Identificar cambios de financiación y de población cubierta. Separar una norma anulada de una
+suspendida provisionalmente y de una mera impugnación.
+
+Atribución
+Medir cambios frente a la trayectoria sin nueva medida y registrar responsabilidades compartidas. La norma
+puede ser impulsada por un partido, modificada por socios y ejecutada por otra administración. El indicador de
+éxito debe reflejar esa cadena sin atribución exclusiva automática.
+
+Revisión de los pronósticos
+Las etiquetas cualitativas de este informe no permiten calcular una puntuación estadística de calibración. Para ello
+habría que definir sucesos binarios y probabilidades antes de observarlos, mantener un historial y evaluar
+resultados de manera consistente. No se reconstruyen porcentajes después para aparentar precisión.
+
+Información que más valor añadiría
+Memoria fiscal consolidada, prioridades de negociación, articulados de los instrumentos más controvertidos,
+convenios territoriales y cartera de proyectos. Esos documentos cambiarían la estimación más que nuevas
+repeticiones de los objetivos generales.
+
+
+
+
+                                                                                       FRENTE AMPLIO | Evaluación de propuestas 45
+12 | ÍNDICE DE COBERTURA
+
+108 fichas en 19 ámbitos
+ Ámbito del marco común                                           Identificadores      Apartados del programa
+
+ Economía, productividad y empresas                                   E01-E08          6, 8 y 13
+
+ Fiscalidad y cuentas públicas                                        F01-F08          1.7-1.8 y 3
+
+ Empleo y relaciones laborales                                        L01-L08          4.1, 10 y 13.1
+
+ Pensiones y envejecimiento                                           P01-P04          4.3
+
+ Vivienda y urbanismo                                                 V01-V08          1
+
+ Sanidad                                                              S01-S08          2.4 y 6.2
+
+ Educación, universidad y ciencia                                   ED01-ED08          2.5 y 6.1
+
+ Familia, infancia y cuidados                                         C01-C04          2.1-2.2 y 2.7-2.8
+
+ Protección social e igualdad                                        IG01-IG04         2.1-2.3, 2.7 y 15
+
+ Inmigración y asilo                                                 M01-M04           16 y 18
+
+ Seguridad y justicia                                                 J01-J04          18.3-18.4 y 18.7
+
+ Instituciones y calidad democrática                                 IN01-IN04         18.1-18.2, 18.7-18.8
+
+ Modelo territorial                                                   T01-T04          9-12 y 18.1
+
+ Energía, clima y medioambiente                                     EN01-EN08          5 y 6.2
+
+ Agricultura, pesca y medio rural                                     R01-R04          7y9
+
+ Infraestructuras y movilidad                                        TR01-TR04         5.2 y 11.3
+
+ Tecnología, IA y digitalización                                      D01-D08          6.1, 13.1, 14 y 17.3
+
+ UE, exterior y defensa                                               X01-X04          17
+
+ Cultura, medios, deporte y consumo                                 CU01-CU04          2.6, 14 y 18.5-18.6
+
+
+La correspondencia es temática, no una certificación de cobertura de cada inciso. Se agrupan instrumentos relacionados y se
+identifican vacíos relevantes. Las referencias a programas de integrantes aparecen diferenciadas del texto común.
+
+
+
+
+                                                                                           FRENTE AMPLIO | Evaluación de propuestas 46
+FUENTES Y TRAZABILIDAD
+
+Registro de fuentes | 1-11
+Consulta: 17/11/2026. El título de cada fuente es un enlace. Los documentos de partido acreditan posiciones; no prueban por sí mismos sus
+efectos.
+[1] BOE. Convocatoria de elecciones generales, RD 806/2026
+5/10/2026, publicado el 6/10. Votación del 29/11 y constitución de las Cámaras el 23/12.
+[2] Frente Amplio. Programa para el 29N
+Presentado el 16/11/2026. Documento común: 18 capítulos y 151 páginas físicas. Las fichas remiten a sus apartados; la paginación
+impresa no coincide siempre con la del archivo.
+[3] Frente Amplio. Índice de medidas y acceso al programa
+Página oficial. Vincula el documento completo y las explicaciones temáticas de campaña.
+[4] Frente Amplio. Quiénes somos y candidaturas
+Consulta 17/11/2026. Integrantes políticos y listas territoriales; no sustituye el expediente jurídico de cada coalición electoral.
+[5] Frente Amplio. Presentación del programa y propuesta sobre herencias
+16/11/2026. Presentación, tramos de herencias, crianza y participación pública en renovables. Las previsiones recaudatorias son
+afirmaciones de la coalición.
+[6] Frente Amplio. Actualización de los salarios con el IPC
+17/11/2026. Ratificación por Ada Colau; regla legal supletoria en ausencia de cláusulas de convenio.
+[7] Frente Amplio. Impuesto antiespeculación
+Publicado 15/11; actualizado 17/11/2026. Umbrales, sujetos y exenciones vinculadas al alquiler asequible.
+[8] Frente Amplio. Expropiación de vivienda a grandes tenedores
+Publicado 15/11; actualizado 17/11/2026. Alcance empresarial, progresividad y compensación mediante justiprecio.
+[9] Frente Amplio. Impuesto a los grandes patrimonios
+Publicado 15/11; actualizado 17/11/2026. Tipos mínimos propuestos y coordinación con el impuesto sobre el patrimonio.
+[10] Frente Amplio. Pensión mínima garantizada
+Publicado 15/11; actualizado 17/11/2026. Suelo vinculado al SMI, edad de retiro y planteamiento de financiación.
+[11] Frente Amplio. Familias elegidas y personas no binarias
+Publicado 15/11; actualizado 17/11/2026. Reconocimiento voluntario y derechos de cuidado; no impone vínculos personales
+automáticos.
+
+
+
+
+                                                                                               FRENTE AMPLIO | Evaluación de propuestas 47
+FUENTES Y TRAZABILIDAD
+
+Registro de fuentes | 12-22
+Consulta: 17/11/2026. El título de cada fuente es un enlace. Los documentos de partido acreditan posiciones; no prueban por sí mismos sus
+efectos.
+[12] Frente Amplio. Gafas, audífonos y salud bucodental
+Publicado 15/11; actualizado 17/11/2026. Cobertura sanitaria y despliegue progresivo de prestaciones.
+[13] Frente Amplio. Autónomos y pequeño comercio
+Publicado 15/11; actualizado 17/11/2026. IVA franquiciado, cotización, arrendamientos comerciales y simplificación.
+[14] RTVE. Acuerdo sobre la candidatura de Ada Colau
+12/10/2026. Acuerdo de Sumar, IU, Más Madrid y Comuns; no votación individual de todas las propuestas.
+[15] RTVE. Pactos territoriales de la izquierda para el 29N
+18/10/2026. Las alianzas varían por circunscripción; la relación con Podemos no es uniforme en todo el territorio.
+[16] IU. Respaldo al Frente Amplio
+11/10/2026. Respaldo organizativo a la convergencia y candidatura. Evidencia de apoyo político general.
+[17] IU. Programa propio para el 29N
+16/11/2026. Diez bloques: aportación de una organización integrante, no equivalente automáticamente al texto común.
+[18] IU. Programa propio, bloque 1: Vivienda
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[19] IU. Programa propio, bloque 2: Servicios públicos
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[20] IU. Programa propio, bloque 3: Infancia, juventud, mayores y emigración
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[21] IU. Programa propio, bloque 4: Transición ecológica
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[22] IU. Programa propio, bloque 5: Economía y recursos
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 48
+FUENTES Y TRAZABILIDAD
+
+Registro de fuentes | 23-33
+Consulta: 17/11/2026. El título de cada fuente es un enlace. Los documentos de partido acreditan posiciones; no prueban por sí mismos sus
+efectos.
+[23] IU. Programa propio, bloque 6: Fiscalidad
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[24] IU. Programa propio, bloque 7: Igualdad
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[25] IU. Programa propio, bloque 8: Europa
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[26] IU. Programa propio, bloque 9: Paz y seguridad
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[27] IU. Programa propio, bloque 10: Democracia
+16/11/2026. Se utiliza para contrastar respaldo y diferencias internas. Los parámetros que difieren del programa común conservan
+la atribución a IU.
+[28] BOE. Constitución Española, texto consolidado
+Actualización 20/05/2026. Propiedad, tributación, competencias, participación política y procedimientos de reforma. Análisis
+jurídico del informe, no dictamen vinculante.
+[29] Unión Europea. Reglamento 2024/1263 de gobernanza fiscal
+Marco de planes fiscales y trayectorias de gasto. Una propuesta de reformarlo no equivale a su derogación efectiva.
+[30] TFUE. Artículo 123: financiación monetaria
+Prohibición de financiación directa de autoridades públicas por el BCE y bancos centrales nacionales.
+[31] TFUE. Artículo 107: ayudas de Estado
+Compatibilidad y excepciones. La propiedad pública no constituye por sí sola una prohibición de actividad.
+[32] TFUE. Artículo 63: movimientos de capital
+Referencia para examinar diseños fiscales y participaciones obligatorias; no determina por sí solo el resultado de un eventual
+recurso.
+[33] Unión Europea. Directiva 2012/34, espacio ferroviario
+Texto consolidado de referencia sobre independencia de funciones y acceso no discriminatorio; no equipara integración societaria
+con cierre del mercado.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 49
+FUENTES Y TRAZABILIDAD
+
+Registro de fuentes | 34-44
+Consulta: 17/11/2026. El título de cada fuente es un enlace. Los documentos de partido acreditan posiciones; no prueban por sí mismos sus
+efectos.
+[34] Unión Europea. Reglamento de IA, texto consolidado
+Consolidación 27/07/2026. Obligaciones existentes, supervisión y riesgos; no se emplean calendarios iniciales de 2024 como si no
+hubieran cambiado.
+[35] BOE. Orden TED/864/2026: autorización de Almaraz
+12/08/2026, publicada el 14/08. Autoriza ambas unidades hasta el 8/06/2030. Línea base frente al calendario de cierre anunciado.
+[36] Seguridad Social. Edad y requisitos de jubilación
+Tabla oficial por año y cotización. Distingue quienes ya pueden jubilarse a los 65 de quienes no.
+[37] BOE. Ley 4/2026 de autonomía personal y discapacidad
+1/10/2026. Reforma vigente: la evaluación diferencia su desarrollo de una aprobación enteramente nueva.
+[38] La Moncloa. Proceso de regularización migratoria de 2026
+21/04/2026. Referencia a la reforma aprobada mediante RD 316/2026; resolver expedientes no es iniciar de cero la regularización.
+[39] AIReF. Evaluación de cumplimiento del plan fiscal
+4/11/2026. Restricciones del escenario fiscal vigente; no constituye evaluación del programa de Frente Amplio.
+[40] AIReF. Quinta opinión sobre el ingreso mínimo vital
+Julio de 2026. Acceso, falta de solicitud y diseño de prestaciones; denominadores distintos deben mantenerse separados.
+[41] Banco de España. Mercado del alquiler residencial
+2024. Determinantes, oferta y esfuerzo de acceso. Evidencia de contexto, no medición actual de todo el parque.
+[42] Diamond, McQuade y Qian. Efectos del control de alquileres
+American Economic Review, 2019. Cuasiexperimento en San Francisco: protección de residentes y respuestas de oferta. No
+extrapolación mecánica a España.
+[43] Nature Human Behaviour. Reducción del tiempo de trabajo y bienestar
+2025. Estudio multiorganización de semanas de cuatro días; la selección y el contexto limitan la extrapolación macroeconómica.
+[44] OCDE. Inheritance Taxation in OECD Countries
+2021. Diseño de impuestos sucesorios, equidad, exenciones y administración. No aval específico al tipo marginal del 100%.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 50
+FUENTES Y TRAZABILIDAD
+
+Registro de fuentes | 45-55
+Consulta: 17/11/2026. El título de cada fuente es un enlace. Los documentos de partido acreditan posiciones; no prueban por sí mismos sus
+efectos.
+[45] Congreso. Votación sobre la devolución de la reforma de jornada
+10/09/2025. Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios. Documento oficial; se ha
+comprobado la tabla de resultado.
+[46] PSOE. Acuerdo de gobierno con Sumar
+24/10/2023. Precedente firmado de cooperación; no acuerdo nuevo con Frente Amplio para el 29N.
+[47] OTAN. Declaración de la cumbre de La Haya
+25/06/2025. Compromiso de gasto con componentes de defensa y seguridad; no tratar el total como una partida militar
+homogénea.
+[48] PEMB. Ada Colaü trayectoria institucional
+Registro institucional de su etapa como alcaldesa y presidenta de organismos metropolitanos, 2015-2023.
+[49] Asamblea de Madrid. Emilio Delgado
+Ficha institucional y trayectoria parlamentaria. Se usa para experiencia, no para atribuir resultados ejecutivos inexistentes.
+[50] Movimiento Sumar. Candidaturas de la asamblea de 2026
+Biografía y experiencia profesional y parlamentaria de Verónica Martínez Barbero.
+[51] Europa Press. Coordinación de Movimiento Sumar
+11/07/2026. Elección de Verónica Martínez Barbero y Rosa Martínez; el voto organizativo no mide adhesión a cada propuesta.
+[52] Izquierda Unida. Coordinación general
+Biografía y responsabilidad de Antonio Maíllo. Contraste adicional: Comisión Colegiada, actualizada el 4/09/2026.
+[53] La Moncloa. Composición del Gobierno
+Consulta 17/11/2026. Cargos actuales; no designación de un gabinete futuro de la coalición.
+[54] La Moncloa. Pablo Bustinduy
+Biografía oficial: formación, actividad parlamentaria y Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+[55] La Moncloa. Mónica García
+Biografía oficial: medicina, anestesiología, Asamblea de Madrid y Ministerio de Sanidad.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 51
+FUENTES Y TRAZABILIDAD
+
+Registro de fuentes | 56-62
+Consulta: 17/11/2026. El título de cada fuente es un enlace. Los documentos de partido acreditan posiciones; no prueban por sí mismos sus
+efectos.
+[56] La Moncloa. Ernest Urtasun
+Biografía oficial: economía, diplomacia, Parlamento Europeo y Ministerio de Cultura.
+[57] La Moncloa. Yolanda Díaz
+Biografía oficial: abogacía, experiencia local y parlamentaria y Ministerio de Trabajo.
+[58] BOE. Ley 1/2023 de cooperación
+20/02/2023. Objetivo legal de ayuda oficial al desarrollo del 0,7% de la renta nacional bruta en 2030.
+[59] Unión Europea. Exenciones de IVA para pymes
+Comprobado por la Comisión el 12/07/2026. Umbrales y pérdida del derecho a deducir IVA soportado cuando opera la exención.
+[60] Unión Europea. Directiva 2023/970 de transparencia retributiva
+10/05/2023. Marco previo para diferenciar nuevas ampliaciones nacionales de obligaciones europeas ya existentes.
+[61] BOE. Ley 12/2023 por el derecho a la vivienda
+Redacción consultada de 7/10/2026. Declaración de zonas tensionadas, administraciones competentes y mecanismos ya vigentes.
+[62] Tribunal Constitucional. STC 64/2026 sobre la Ley de Vivienda
+23/09/2026, publicada en el BOE. Doctrina y competencias: la ampliación de mecanismos estatales requiere analizar el diseño
+concreto.
+
+
+
+
+                                                                                              FRENTE AMPLIO | Evaluación de propuestas 52
+

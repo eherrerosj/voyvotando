@@ -1,0 +1,1328 @@
+[
+ {
+  "id": "fa",
+  "name": "Frente Amplio",
+  "short": "FA",
+  "report": {
+   "title": "Análisis de políticas públicas. Frente Amplio. Propuestas, viabilidad y escenarios de ejecución",
+   "version": "1.0",
+   "cutoff": "2026-11-17",
+   "programDate": "2026-11-16",
+   "programTitle": "Programa para el 29N",
+   "pages": 52,
+   "units": 108,
+   "pdf": "/informes/fa.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Mayoría propia",
+    "definition": "Gobierno de Frente Amplio con votos suficientes para leyes ordinarias y orgánicas. No supone mayoría constitucional, control judicial, subordinación autonómica ni capacidad de modificar la UE unilateralmente."
+   },
+   "B": {
+    "label": "Gobierno negociado",
+    "definition": "Acuerdo con el PSOE y apoyos adicionales suficientes para tramitar legislación, pero cada propuesta necesita negociación. Se valora una versión sustancialmente fiel, no cualquier medida de nombre similar."
+   },
+   "C": {
+    "label": "Influencia externa",
+    "definition": "Sin control del Ejecutivo ni pacto estable de ejecución: iniciativas, enmiendas, acuerdos puntuales o adopción por otro Gobierno. No se presupone capacidad para imponer presupuesto."
+   },
+   "E": {
+    "definition": "La columna A / B / C expresa una estimación cualitativa de aprobación durante una legislatura. E expresa entrega efectiva después de aprobación legal y financiación suficiente. No es la probabilidad conjunta de llegar al Gobierno, aprobar, financiar y ejecutar. Horizonte: cuatro años desde la toma de posesión, salvo plazo expreso diferente."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Un programa común, no la suma de los programas de sus socios",
+    "text": "Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica. La candidatura compartida acredita un acuerdo político; no acredita unanimidad interna sobre cada instrumento. Las diferencias entre el documento común y el de IU deben conservarse, especialmente en vivienda, recaudación y OTAN. [2, 14, 16-18, 23, 26]"
+   },
+   {
+    "title": "La ruta depende más del instrumento que del objetivo",
+    "text": "Prestaciones, inspección o cambios administrativos tienen una vía nacional reconocible. Ampliar vivienda, personal sanitario, redes o transporte exige capacidad material. Cambiar el modelo de Estado o ciertas reglas europeas requiere apoyos que una mayoría parlamentaria ordinaria no proporciona. Esta distinción estructura las fichas; no es una valoración ideológica."
+   },
+   {
+    "title": "La cuenta fiscal necesita consolidación",
+    "text": "No es correcto sumar porcentajes de gasto sectorial, transferencias territoriales, crédito e inversión privada. Tampoco utilizar la recaudación estimada por un integrante como memoria común. El informe identifica las partidas y sus interacciones, sin presentar un saldo fiscal ficticiamente preciso."
+   },
+   {
+    "title": "Hay mecanismos plausibles y riesgos que deben medirse",
+    "text": "La ampliación de prestaciones puede mejorar cobertura; la simplificación puede reducir costes de acceso. El efecto depende de captación, oferta y calidad. En alquiler, proteger a residentes y modificar los incentivos de los propietarios son efectos simultáneos que deben evaluarse; un resultado observado en otro país no determina el español. [40-44]"
+   },
+   {
+    "title": "Tres comprobaciones temporales cambian la lectura",
+    "text": "El plazo de 37,5 horas en 2026 es muy estrecho frente a la constitución de las Cámaras el 23 de diciembre. Una obligación para centros de datos cita julio de 2026, ya pasado. El cierre anunciado de Almaraz en 2027-2028 no coincide con la autorización vigente hasta junio de 2030. Son cuestiones de calendario y línea base, no correcciones que el analista deba inventar. [1, 2, 35]"
+   },
+   {
+    "title": "No hay una probabilidad única de cumplir el programa",
+    "text": "Las estimaciones se refieren a versiones concretas, escenarios y plazos. Aprobar, financiar, entregar y producir bienestar son acontecimientos diferentes. La confianza en la existencia de una promesa puede ser alta mientras la confianza en su ejecución sigue siendo media o baja."
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "alta",
+   "2": "alta",
+   "3": "alta",
+   "4": "alta",
+   "5": "alta",
+   "6": "alta",
+   "7": "media",
+   "8": "alta",
+   "9": "media",
+   "10": "media",
+   "11": "media",
+   "12": "media",
+   "13": "media",
+   "14": "alta",
+   "15": "media",
+   "16": "media",
+   "17": "alta",
+   "18": "alta",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Coalición",
+    "evidence": "Programa común y presentación del 16/11; ratificación salarial y explicaciones temáticas. [3, 5-13]",
+    "limit": "No acredita el orden de sacrificio en una negociación ni un voto nominal sobre cada medida."
+   },
+   {
+    "area": "Núcleo de candidatura",
+    "evidence": "Acuerdo entre Sumar, IU, Más Madrid y Comuns para la candidatura de Colau. [14]",
+    "limit": "No equivale a una dirección única de todas las organizaciones ni a un futuro gabinete cerrado."
+   },
+   {
+    "area": "Izquierda Unida",
+    "evidence": "Respaldo a la convergencia, programa propio y prioridades explícitas. [16-27]",
+    "limit": "Su aportación no se incorpora entera al documento conjunto por el mero hecho de participar."
+   },
+   {
+    "area": "Movimiento Sumar",
+    "evidence": "Elección de su coordinación y experiencia parlamentaria y ministerial de dirigentes. [50, 51, 53]",
+    "limit": "El porcentaje de respaldo a una dirección no mide apoyo interno a impuestos, expropiaciones o defensa."
+   },
+   {
+    "area": "Organizaciones territoriales",
+    "evidence": "Candidaturas y pactos diferentes según territorio. [4, 15]",
+    "limit": "No demuestra acuerdo de todas las administraciones autonómicas o municipales con cada obligación ejecutora."
+   },
+   {
+    "area": "Afiliación y electorado",
+    "evidence": "No consta en este corpus una medición representativa por propuesta.",
+    "limit": "El silencio público no se transforma en unanimidad ni en rechazo."
+   },
+   {
+    "area": "Diferencia texto común / integrantes: Vivienda",
+    "evidence": "El texto común plantea 1% del PIB; la aportación de IU, 1,2%. [2, 18]",
+    "limit": "No escoger la cifra más alta como compromiso de todos ni tratarlas como dos presupuestos acumulables."
+   },
+   {
+    "area": "Diferencia texto común / integrantes: Recaudación",
+    "evidence": "IU cifra su reforma en 111.000 millones anuales. [17, 23]",
+    "limit": "No es una memoria fiscal conjunta ni un aval independiente a cada tributo de la coalición."
+   },
+   {
+    "area": "Diferencia texto común / integrantes: Alianzas militares",
+    "evidence": "IU explicita salida de la OTAN; el documento común formula compromisos sobre gasto, bases y seguridad. [2, 26]",
+    "limit": "No convertir una posición de IU en acuerdo expreso de todos ni interpretar la diferencia como ruptura demostrada."
+   },
+   {
+    "area": "Diferencia texto común / integrantes: Relación con Podemos",
+    "evidence": "Las alianzas electorales son distintas según circunscripción. [15]",
+    "limit": "No tratar la relación como alianza nacional total ni incompatibilidad universal."
+   },
+   {
+    "area": "Diferencia texto común / integrantes: Gobierno anterior",
+    "evidence": "Dirigentes y organizaciones han participado en instituciones y ministerios. [53-57]",
+    "limit": "No atribuir todo su historial a una coalición recién configurada ni excluir la responsabilidad compartida."
+   }
+  ],
+  "team": [
+   {
+    "name": "Ada Colau",
+    "role": "candidata a la Presidencia"
+   },
+   {
+    "name": "Emilio Delgado",
+    "role": "cabeza de lista por Madrid"
+   },
+   {
+    "name": "Antonio Maíllo",
+    "role": "coordinación de Izquierda Unida"
+   },
+   {
+    "name": "Verónica Martínez Barbero",
+    "role": "coordinación y Parlamento"
+   },
+   {
+    "name": "Yolanda Díaz",
+    "role": "experiencia ministerial laboral"
+   },
+   {
+    "name": "Pablo Bustinduy",
+    "role": "política social y portavocía de programa"
+   },
+   {
+    "name": "Mónica García",
+    "role": "experiencia sanitaria"
+   },
+   {
+    "name": "Ernest Urtasun",
+    "role": "experiencia europea y cultural"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "PSOE",
+    "commonGround": "Existe el precedente de acuerdo de gobierno PSOE-Sumar de 2023 y experiencia compartida. Puede fundamentar explorar trabajo, prestaciones y servicios. [46]",
+    "frictions": "No es un pacto PSOE-Frente Amplio de 2026 ni acepta impuestos, propiedad o defensa en la versión exacta de este programa."
+   },
+   {
+    "counterpart": "Podemos",
+    "commonGround": "Hay competencia y cooperación territorial distintas. Algunas prioridades pueden negociarse por medida. [15]",
+    "frictions": "No se presume disciplina conjunta estatal ni que una alianza local garantice apoyo a un presupuesto nacional."
+   },
+   {
+    "counterpart": "ERC, EH Bildu y BNG",
+    "commonGround": "Podrían ser interlocutores para paquetes sociales o territoriales: es una hipótesis de negociación.",
+    "frictions": "No se asigna apoyo a propuestas concretas sin fuente de cada partido o acuerdo. Un objetivo compartido no define instrumento ni financiación."
+   },
+   {
+    "counterpart": "PNV y Junts",
+    "commonGround": "Las decisiones presupuestarias, territoriales y empresariales deben tratarse por separado. El antecedente de jornada muestra un veto concreto de Junts en 2025. [45]",
+    "frictions": "No se deduce un veto permanente ni se suman apoyos por su pertenencia a una mayoría anterior."
+   },
+   {
+    "counterpart": "PP y Vox",
+    "commonGround": "Pueden existir coincidencias parciales en objetivos como agilidad administrativa o medios de servicios; son posibilidades, no acuerdos.",
+    "frictions": "No se atribuye respaldo al paquete. Ambos promovieron la devolución de la reforma de jornada de 2025. [45]"
+   }
+  ],
+  "partners": [
+   "psoe"
+  ]
+ },
+ {
+  "id": "podemos",
+  "name": "Podemos",
+  "short": "Podemos",
+  "report": {
+   "title": "Podemos. Propuestas, viabilidad y escenarios de ejecución (Análisis de políticas públicas; Podemos | Evaluación de propuestas)",
+   "version": "1.0",
+   "cutoff": "2026-11-18",
+   "programDate": "2026-11-17",
+   "programTitle": "Así de básico: Paz, casa y trabajo. Programa electoral 29N",
+   "pages": 67,
+   "units": 134,
+   "pdf": "/informes/podemos.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Mayoría propia",
+    "definition": "Gobierno de Podemos con votos suficientes para leyes ordinarias y orgánicas. No supone mayoría de reforma constitucional, control de jueces, subordinación autonómica ni poder unilateral sobre la UE."
+   },
+   "B": {
+    "label": "Gobierno negociado",
+    "definition": "Participación o apoyo estable a un Ejecutivo con PSOE y otros votos necesarios. Se evalúa la versión sustancialmente íntegra de Podemos: las alternativas de compromiso se presentan por separado."
+   },
+   "C": {
+    "label": "Influencia externa",
+    "definition": "Oposición sin control del Ejecutivo ni acuerdo estable de ejecución. Puede promover iniciativas y pactos puntuales; no se presupone que imponga el presupuesto."
+   },
+   "E": {
+    "definition": "Capacidad de producir la actuación comprometida después de aprobación jurídicamente válida y financiación suficiente. Esa financiación NO se da por acreditada: se estudia aparte. No es la probabilidad conjunta de llegar al Gobierno y cumplir."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Una agenda amplia; capacidades de ejecución distintas",
+    "text": "El programa combina intervención en mercados esenciales, redistribución, servicios públicos y reformas institucionales. El compromiso documental es reciente; la posibilidad de entregar resultados depende de cada instrumento. Crear una prestación, formar profesionales, adquirir activos y reformar la Constitución requieren rutas diferentes. [2]"
+   },
+   {
+    "title": "La mayoría parlamentaria no elimina todos los obstáculos",
+    "text": "Con un Ejecutivo favorable hay vías nacionales para ampliar ayudas, inspección y servicios. Los cambios constitucionales, ciertas reformas de mercados europeos y los resultados diplomáticos necesitan apoyos adicionales. El informe separa aprobación, financiación, entrega y efecto social. [9, 18, 26, 75]"
+   },
+   {
+    "title": "El cálculo fiscal debe hacerse en conjunto",
+    "text": "SMI, crianza, pensiones y cuidados están conectados. La compra de activos no es gasto corriente íntegro, pero necesita recursos y asume riesgos. No se ha localizado una conciliación completa de costes, ingresos, administraciones y calendario; la viabilidad financiera integral queda como no estimable. [2]"
+   },
+   {
+    "title": "Hay diferencias que los titulares ocultan",
+    "text": "La intervención inmobiliaria incluye expropiación de uso; Repsol se incorporaría mediante compra de acciones. La rebaja de alquiler contiene una condición de referencia territorial. El permiso de nacimiento presenta nueve meses en el título y veintiséis semanas en el desarrollo. Estas precisiones cambian costes y alcance. [2]"
+   },
+   {
+    "title": "El respaldo interno no está medido por propuesta",
+    "text": "Las consultas disponibles ratifican liderazgos o alianzas, no cada medida del documento. Montero encabeza la candidatura y Belarra mantiene la Secretaría General. Los acuerdos territoriales no equivalen a un pacto de gobierno estatal. [37, 38, 60]"
+   },
+   {
+    "title": "Existe espacio de negociación, con instrumentos diferentes",
+    "text": "Los programas comparados comparten algunas prioridades laborales y sociales, pero difieren en horas, fórmulas de alquiler y defensa. Una versión negociada puede tener más posibilidades que la propuesta íntegra. El precedente de votos diferentes del PNV según el decreto de vivienda ilustra ese carácter selectivo. [46, 64, 65, 66]"
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "alta",
+   "2": "alta",
+   "3": "alta",
+   "4": "media",
+   "5": "alta",
+   "6": "media",
+   "7": "media",
+   "8": "media",
+   "9": "media",
+   "10": "media",
+   "11": "media",
+   "12": "media",
+   "13": "baja",
+   "14": "alta",
+   "15": "media",
+   "16": "media",
+   "17": "baja",
+   "18": "alta",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Liderazgos (secretaría general y candidatura)",
+    "evidence": "Belarra fue reelegida secretaria general en abril de 2025 con el 90 % de los votos. Montero fue ratificada como candidata en octubre de 2026 con el 90,7 % entre participantes, siendo la única aspirante.",
+    "limit": "Estos resultados acreditan respaldo a sus liderazgos; no miden acuerdo con cada propuesta electoral."
+   },
+   {
+    "area": "Consulta de alianzas del 16 de octubre",
+    "evidence": "La consulta del 16 de octubre aprobó un paquete de alianzas con el 87,78 %.",
+    "limit": "No permite atribuir ese porcentaje a cada pacto por separado. Tampoco equivale a una votación del programa publicado posteriormente: el disenso interno por medida permanece sin cuantificar."
+   },
+   {
+    "area": "Disenso territorial",
+    "evidence": "Existen antecedentes de desacuerdo: la dimisión andaluza de Raquel Martínez en junio de 2026, vinculada a autonomía y estrategia de coalición, y la disputa catalana de primarias de 2025.",
+    "limit": "No prueban oposición a las medidas actuales. Además, el acuerdo balear del 25 de octubre superó su exclusión inicial: debe prevalecer la evidencia posterior."
+   },
+   {
+    "area": "Primarias (datos publicados)",
+    "evidence": "La publicación de primarias declara 26.590 participantes, 24.136 votos a Montero y 2.453 en blanco.",
+    "limit": "La suma difiere en una persona; no se inventa una explicación. Este dato tampoco identifica participación sobre un censo comparable de toda la militancia."
+   },
+   {
+    "area": "Programa publicado",
+    "evidence": "Posición formal del partido sobre los instrumentos descritos.",
+    "limit": "No demuestra deliberación o voto individual sobre cada uno."
+   },
+   {
+    "area": "Prioridad de campaña",
+    "evidence": "Declaraciones y centralidad de vivienda, precios, empleo o paz indican énfasis público",
+    "limit": "no proporcionan un porcentaje de acuerdo interno."
+   },
+   {
+    "area": "Consultas y primarias",
+    "evidence": "Resultados sobre candidaturas o alianzas, entre participantes y para una pregunta concreta.",
+    "limit": "No son una encuesta del electorado."
+   },
+   {
+    "area": "Disenso territorial (criterio)",
+    "evidence": "Hay antecedentes organizativos fechados.",
+    "limit": "No se atribuyen a cada política ni se convierten en una fractura vigente sin prueba adicional."
+   },
+   {
+    "area": "Coordinación ejecutora",
+    "evidence": "",
+    "limit": "La disciplina del partido no sustituye aceptación de socios, comunidades, ayuntamientos o personal encargado de ejecutar."
+   },
+   {
+    "area": "Fichas sectoriales (cabecera común)",
+    "evidence": "Compromisos: programa de 17/11/2026. Respaldo formal programático",
+    "limit": "acuerdo interno individual no medido. Confianza prospectiva: media-baja."
+   }
+  ],
+  "team": [
+   {
+    "name": "Irene Montero",
+    "role": "Candidata y secretaria política"
+   },
+   {
+    "name": "Ione Belarra",
+    "role": "Secretaria general"
+   },
+   {
+    "name": "Pablo Fernández",
+    "role": "Responsable estatal de Organización y portavoz; dirige la campaña según la información publicada el 3 de noviembre"
+   },
+   {
+    "name": "Isabel Serra",
+    "role": "Portavoz y eurodiputada"
+   },
+   {
+    "name": "Jacinto Morano",
+    "role": "Responsable de Economía y Políticas Públicas; segundo candidato por Madrid"
+   },
+   {
+    "name": "María Teresa Pérez",
+    "role": "Responsable internacional y dirigente valenciana"
+   },
+   {
+    "name": "Lucía Muñoz",
+    "role": "Responsable estatal de Vivienda y coordinadora balear"
+   },
+   {
+    "name": "Julio Rodríguez",
+    "role": "Responsable de Paz y Seguridad"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "ERC",
+    "commonGround": "Acuerdo en Cataluña y campaña conjunta con Rufián. Coordinación parlamentaria y laboral. Podemos no concurre con papeleta propia y se incorporan dos independientes en Barcelona; Rufián participa en campaña con Montero.",
+    "frictions": "Autonomía de programas y demandas territoriales. El acuerdo no unifica los programas estatales. Ni el acuerdo electoral con ERC ni los pactos territoriales acreditan aceptación del cuarenta por ciento por todos los socios."
+   },
+   {
+    "counterpart": "Compromís (Comunitat Valenciana)",
+    "commonGround": "Candidatura compartida con Compromís y otros participantes; María Teresa Pérez encabeza Alicante.",
+    "frictions": "La lista no debe atribuirse íntegramente a Podemos."
+   },
+   {
+    "counterpart": "Unidad del Pueblo Canario (Canarias)",
+    "commonGround": "Acuerdo territorial de Unidad del Pueblo Canario con otras organizaciones.",
+    "frictions": "No implica adhesión automática de todos sus socios al programa estatal."
+   },
+   {
+    "counterpart": "Ara Més-Front Ampli (Illes Balears)",
+    "commonGround": "El acuerdo del 25/10 incorpora a Lucía Muñoz como independiente en el tercer puesto de Ara Més-Front Ampli.",
+    "frictions": "Supera el desencuentro anterior; no transforma retrospectivamente la naturaleza del pacto."
+   },
+   {
+    "counterpart": "PSOE",
+    "commonGround": "Montero anunció condiciones de investidura sobre alquileres, alimentos y especulación. Protección social y vivienda. Hay convergencia con PSOE, Frente Amplio y ERC en reducir jornada, pero con umbrales distintos.",
+    "frictions": "Condiciones unilaterales; aceptación no acreditada. No se ha documentado un pacto estatal de ejecución del programa. Las condiciones anunciadas por Podemos para una investidura son una oferta unilateral hasta que exista aceptación acreditada. La discrepancia con la orientación del PSOE reduce la viabilidad del paquete íntegro en un gobierno negociado (OTAN). PSOE apuesta por capacidades europeas compartidas."
+   },
+   {
+    "counterpart": "Frente Amplio",
+    "commonGround": "Jornada, vivienda y servicios públicos. Subsisten fórmulas compartidas en varios territorios.",
+    "frictions": "Fracasó el acuerdo estatal. Competencia electoral y diferencias de intensidad."
+   },
+   {
+    "counterpart": "EH Bildu",
+    "commonGround": "Coincidencia en los decretos de vivienda. Protección residencial.",
+    "frictions": "Competencia con Podemos en Navarra. El vínculo con ERC no crea una alianza transitiva."
+   },
+   {
+    "counterpart": "BNG",
+    "commonGround": "Apoyo a medidas de vivienda el 12 de noviembre. Acuerdos sociales concretos.",
+    "frictions": "Sin compromiso general sobre financiación o ejecución."
+   },
+   {
+    "counterpart": "PNV",
+    "commonGround": "Apoyó el RDL 29 de vivienda y rechazó el RDL 28. Protecciones delimitadas.",
+    "frictions": "Apoyo selectivo; no aceptación de toda la intervención inmobiliaria."
+   },
+   {
+    "counterpart": "Junts",
+    "commonGround": "No acreditado en este ámbito.",
+    "frictions": "Rechazó ambos decretos de vivienda. El precedente no determina su voto sobre cualquier otra materia."
+   },
+   {
+    "counterpart": "PP",
+    "commonGround": "No excluye coincidencias puntuales en asuntos distintos.",
+    "frictions": "Rechazó ambos decretos de vivienda. Sin pacto programático identificado."
+   },
+   {
+    "counterpart": "Vox",
+    "commonGround": "No permite extrapolar una incompatibilidad absoluta a cada iniciativa.",
+    "frictions": "Rechazó ambos decretos de vivienda. Sin pacto programático identificado."
+   }
+  ],
+  "partners": [
+   "psoe"
+  ]
+ },
+ {
+  "id": "pp",
+  "name": "Partido Popular",
+  "short": "PP",
+  "report": {
+   "title": "Partido Popular: propuestas, viabilidad y escenarios de ejecución",
+   "version": "1.0",
+   "cutoff": "2026-11-17",
+   "programDate": "2026-11-10",
+   "programTitle": "La Reconstrucción Nacional. Programa electoral 2026",
+   "pages": 38,
+   "units": 76,
+   "pdf": "/informes/pp.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Mayoría propia",
+    "definition": "Gobierno del PP con apoyos propios suficientes para leyes ordinarias y orgánicas. No se presupone mayoría para reformar la Constitución."
+   },
+   "B": {
+    "label": "Apoyo de Vox",
+    "definition": "Gobierno sostenido por PP y Vox con votos suficientes para esas leyes, pero negociación de contenido y prioridades. No se presupone acuerdo global."
+   },
+   "C": {
+    "label": "Minoría variable",
+    "definition": "Gobierno del PP sin mayoría estable, que necesita pactos o abstenciones distintos por medida. No se incorpora a ningún partido sin compromiso documentado."
+   },
+   "E": {
+    "definition": "En las fichas, A / B / C califica la aprobación de una versión sustancialmente fiel durante una legislatura. E califica su entrega material, una vez aprobada y con financiación suficiente, en el plazo anunciado o, si falta, en cuatro años desde la toma de posesión. No es la probabilidad conjunta de que toda esa cadena ocurra."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Hay compromisos concretos, pero no una cuenta consolidada",
+    "text": "El programa permite identificar instrumentos y algunos plazos. No permite certificar el coste neto conjunto de rebajas fiscales, nuevos servicios e inversiones. La ausencia de memoria suficiente es una limitación de evaluación, no una prueba de inviabilidad. [2, 6, 9]"
+   },
+   {
+    "title": "La aprobación es más sencilla que la entrega",
+    "text": "Normas fiscales y reorganizaciones pueden avanzar con una mayoría suficiente. Viviendas, profesionales, redes y obras dependen de capacidades materiales y territoriales. Los objetivos completos son más inciertos que sus leyes habilitantes."
+   },
+   {
+    "title": "No todo lo prometido es nuevo",
+    "text": "La indexación de pensiones tiene antecedente legal; Almaraz ya tiene permiso hasta junio de 2030. El beneficio atribuible al nuevo Gobierno debe medirse contra esa situación inicial, no contra un escenario ficticio. [15, 27]"
+   },
+   {
+    "title": "El apoyo interno comprobable es desigual",
+    "text": "La presentación nacional acredita respaldo formal. Financiación territorial tiene una declaración compartida; salud y activación cuentan con ratificaciones sectoriales. No hay una medición fiable de adhesión individual a cada propuesta. [12, 18, 24-26]"
+   },
+   {
+    "title": "Un acuerdo con Vox no es un programa idéntico",
+    "text": "Hay coincidencias en impuestos, vivienda y nuclear; existen diferencias en arraigo, clima y organización territorial. PNV rechaza un bloque con Vox: no se agregan sus votos como piezas automáticamente compatibles. [33, 35, 50]"
+   },
+   {
+    "title": "Existen espacios de acuerdo con otros partidos",
+    "text": "Personal sanitario, formación, digitalización, mantenimiento o protección social pueden separarse de reformas más disputadas. El pacto judicial de 2024 es un precedente real, no una garantía de apoyo futuro. [34, 36, 37]"
+   },
+   {
+    "title": "La restricción fiscal afecta al paquete entero",
+    "text": "AIReF advierte tensiones en el escenario vigente. Los ahorros de una auditoría, el crecimiento y la lucha contra el fraude no son financiación garantizada antes de verificarse. [6]"
+   },
+   {
+    "title": "La conclusión no es una nota global al PP",
+    "text": "La agenda combina continuidad, reformas ejecutables y objetivos con fuertes dependencias. Las decisiones útiles son por medida: qué versión, bajo qué apoyos, con qué financiación y en qué plazo."
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "media",
+   "2": "alta",
+   "3": "media",
+   "4": "alta",
+   "5": "alta",
+   "6": "alta",
+   "7": "media",
+   "8": "alta",
+   "9": "alta",
+   "10": "alta",
+   "11": "media",
+   "12": "alta",
+   "13": "alta",
+   "14": "alta",
+   "15": "media",
+   "16": "media",
+   "17": "media",
+   "18": "media",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Programa nacional",
+    "evidence": "Presentación de Feijóo y Alma Ezcurra el 10/11. [3, 47]",
+    "limit": "Respaldo formal de la dirección. No equivale a votación individual de afiliados."
+   },
+   {
+    "area": "Financiación territorial",
+    "evidence": "Declaración de Zaragoza, 18/01; ratificaciones de Balears y Cantabria. [24-26]",
+    "limit": "Apoyo a reglas multilaterales. Reparto final y ponderaciones siguen abiertos."
+   },
+   {
+    "area": "Sanidad",
+    "evidence": "Fúnez expone agenda el 7/10; programa la incorpora. [18]",
+    "limit": "Patrocinio sectorial identificable. No prueba compromiso presupuestario autonómico."
+   },
+   {
+    "area": "Educación",
+    "evidence": "Presentación de Galiana en La Rioja el 10/11. [22]",
+    "limit": "Ratificación sectorial/territorial concreta, no evidencia de unanimidad nacional."
+   },
+   {
+    "area": "Activación",
+    "evidence": "Anuncio de Feijóo y respaldo de Urrutia el 16/11. [11, 12]",
+    "limit": "Apoyo explícito reciente, sin texto legislativo o detalle de transición."
+   },
+   {
+    "area": "Rural",
+    "evidence": "Presentación sectorial del 16/11 y referencia al Libro Blanco. [29]",
+    "limit": "Continuidad y prioridad de campaña; consultar versión final para objetivos y coste."
+   },
+   {
+    "area": "Otras materias",
+    "evidence": "Texto del programa. [2]",
+    "limit": "Posición oficial; intensidad del apoyo interno no medida."
+   }
+  ],
+  "team": [
+   {
+    "name": "Alberto Núñez Feijóo",
+    "role": "Presidente del PP y candidato"
+   },
+   {
+    "name": "Miguel Tellado",
+    "role": "Secretario general y director de campaña de 2026"
+   },
+   {
+    "name": "Alma Ezcurra",
+    "role": "Participa junto al presidente en la presentación del programa"
+   },
+   {
+    "name": "Juan Bravo",
+    "role": "Responsabilidad en Hacienda, Vivienda e Infraestructuras"
+   },
+   {
+    "name": "Alberto Nadal",
+    "role": "Responsable económico y de desarrollo sostenible"
+   },
+   {
+    "name": "Ester Muñoz",
+    "role": "Portavoz parlamentaria"
+   },
+   {
+    "name": "Cuca Gamarra",
+    "role": "Responsabilidad de Regeneración Institucional"
+   },
+   {
+    "name": "Carmen Fúnez",
+    "role": "Responsabilidad de Sanidad y Política Social"
+   },
+   {
+    "name": "Elías Bendodo",
+    "role": "Responsabilidad de Política Autonómica y Municipal"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "Vox",
+    "commonGround": "Rebajas fiscales, oferta de vivienda, nuclear y parte de la agenda de seguridad. [33, 50]",
+    "frictions": "Discrepancias sobre arraigo, clima, autonomías y enfoque de protección social. Negociación de prioridades y financiación."
+   },
+   {
+    "counterpart": "PSOE",
+    "commonGround": "Servicios, industria, formación, infraestructura, digitalización y pactos institucionales acotados. [34, 36]",
+    "frictions": "Disenso relevante en alquiler, orientación fiscal, LOMLOE, memoria y derechos. No hay pacto global acreditado."
+   },
+   {
+    "counterpart": "PNV",
+    "commonGround": "Posibles acuerdos técnicos o económicos, sujetos a autogobierno y agenda vasca.",
+    "frictions": "Su rechazo a un bloque con Vox impide tratarlo como complemento automático. PP-PNV no se infiere de afinidad económica. [35]"
+   },
+   {
+    "counterpart": "UPN",
+    "commonGround": "Acuerdo electoral con PP mencionado oficialmente el 16/11. [32]",
+    "frictions": "No duplicar diputados hipotéticos ni convertir una alianza electoral en apoyo separado a cada medida."
+   },
+   {
+    "counterpart": "Coalición Canaria",
+    "commonGround": "Hipótesis de negociación sobre islas, conectividad y servicios.",
+    "frictions": "No se atribuye compromiso nacional de 2026 sin evidencia específica. Condicionar cualquier apoyo a texto y contraprestaciones."
+   },
+   {
+    "counterpart": "Junts, ERC, EH Bildu, BNG",
+    "commonGround": "Pueden existir coincidencias parciales en servicios o intereses territoriales.",
+    "frictions": "No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley."
+   },
+   {
+    "counterpart": "Frente Amplio y Podemos",
+    "commonGround": "Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común.",
+    "frictions": "La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]"
+   }
+  ],
+  "partners": [
+   "vox"
+  ]
+ },
+ {
+  "id": "psoe",
+  "name": "PSOE",
+  "short": "PSOE",
+  "report": {
+   "title": "ANÁLISIS DE POLÍTICAS PÚBLICAS. PSOE. Propuestas, viabilidad y escenarios de ejecución",
+   "version": "1.0",
+   "cutoff": "2026-11-17",
+   "programDate": "2026-11-15",
+   "programTitle": "Programa electoral de las elecciones generales del 29N",
+   "pages": 49,
+   "units": 120,
+   "pdf": "/informes/psoe.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Mayoría propia",
+    "definition": "Gobierno del PSOE con mayoría suficiente para legislación ordinaria y orgánica. No supone control judicial, mayoría constitucional ni capacidad de cambiar normas europeas unilateralmente."
+   },
+   "B": {
+    "label": "Acuerdo de gobierno",
+    "definition": "Coalición de izquierda y apoyos externos suficientes, sujetos a un programa negociado. No se presupone que cada socio acepte la versión exacta socialista ni todas sus prioridades."
+   },
+   "C": {
+    "label": "Minoría variable",
+    "definition": "Gobierno del PSOE sin mayoría estable: necesita apoyos o abstenciones distintos para cada medida. No se suman votos de partidos incompatibles sin un compromiso documentado."
+   },
+   "E": {
+    "definition": "Entrega condicionada. A/B/C estima cualitativamente la aprobación de una versión sustancialmente fiel durante una legislatura. E estima su entrega después de aprobación legal y financiación suficiente. No es la probabilidad conjunta de ganar, aprobar, financiar y entregar. Horizonte: cuatro años desde la toma de posesión, salvo plazo explícito distinto."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "La diferencia decisiva es entre prometer, aprobar y entregar",
+    "text": "El PSOE presenta una agenda extensa de vivienda, servicios públicos, protección social, transición productiva y nuevos derechos. Parte amplía medidas ya legisladas; otra parte exige leyes nuevas, acuerdos territoriales o reformas constitucionales. La capacidad de aprobar no permite inferir el resultado material. [2]"
+   },
+   {
+    "title": "No todo es nuevo",
+    "text": "TU CASA, el Plan Estatal de Vivienda, la indexación de pensiones y reformas de dependencia ya tienen antecedentes legales. Medir ampliación y ejecución adicional. [16][14][22][24]"
+   },
+   {
+    "title": "La cuenta fiscal está abierta",
+    "text": "El programa combina gasto recurrente, préstamos, avales y objetivos de movilización. No puede obtenerse un saldo neto fiable sumando sus cifras. La alerta de AIReF es una restricción de partida, no una calificación electoral. [8]"
+   },
+   {
+    "title": "Hay objetivos de alcance distinto",
+    "text": "37,5 horas por ley y 35 por negociación; crianza sin cuantía mensual cerrada; 100.000 viviendas mediante compra y construcción. Confundir esos alcances cambia el análisis. [2]"
+   },
+   {
+    "title": "Los apoyos no son uniformes",
+    "text": "Hay disenso territorial socialista en financiación. Las votaciones de vivienda muestran que un mismo socio puede apoyar un decreto y rechazar otro. [40][41][19]"
+   },
+   {
+    "title": "La mayoría ordinaria no basta",
+    "text": "Constitución, acuerdos europeos y decisiones internacionales tienen requisitos propios. Una investidura favorable no garantiza presupuesto ni acuerdos de ejecución. [30]"
+   },
+   {
+    "title": "Qué es más evaluable y qué sigue abierto",
+    "text": "Análisis: las reglas tributarias concretas, transferencias bien definidas y procedimientos administrativos ofrecen una ruta verificable. Viviendas, redes, servicios intensivos en personal y cambios internacionales necesitan más condiciones. En varios compromisos faltan cuantía, población diana o plazo: no se sustituyen esos vacíos por porcentajes aparentes.\nEl informe no recomienda un voto, no estima quién ganará y no asigna una nota global al partido. Identifica qué versión de cada medida podría avanzar, bajo qué apoyos y con qué evidencia."
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "media",
+   "2": "alta",
+   "3": "alta",
+   "4": "alta",
+   "5": "alta",
+   "6": "media",
+   "7": "media",
+   "8": "alta",
+   "9": "alta",
+   "10": "media",
+   "11": "media",
+   "12": "media",
+   "13": "alta",
+   "14": "alta",
+   "15": "media",
+   "16": "media",
+   "17": "media",
+   "18": "media",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Dirección nacional",
+    "evidence": "La publicación y presentación por Sánchez acreditan respaldo formal. El organigrama atribuye estrategia a Montero, coordinación a Torró y programa a Narbona.",
+    "limit": "No demuestra adhesión individual a las 500 numeraciones. [3][6]"
+   },
+   {
+    "area": "Asturias",
+    "evidence": "El Gobierno autonómico expresa rechazo al modelo de financiación.",
+    "limit": "Es disenso sobre un diseño concreto, no prueba de rechazo a todo el programa o ruptura de disciplina parlamentaria. [40]"
+   },
+   {
+    "area": "Castilla-La Mancha",
+    "evidence": "El PSOE regional vinculado a García-Page mantiene oposición documentada a la propuesta de financiación.",
+    "limit": "No se infiere automáticamente un veto de todos sus diputados. [41][42]"
+   },
+   {
+    "area": "PSC",
+    "evidence": "Su manifiesto prioriza financiación singular, ordinalidad, Rodalies y vivienda.",
+    "limit": "Es una voz territorial vinculada al proyecto socialista, no un socio externo intercambiable en una suma de escaños. [43]"
+   },
+   {
+    "area": "Equipos sectoriales",
+    "evidence": "El cargo acredita responsabilidad formal, no respaldo privado a cada detalle.",
+    "limit": "Las posiciones de Hacienda, Economía, Vivienda y ejecutores territoriales deben verificarse cuando haya presupuesto y articulado. [7]"
+   },
+   {
+    "area": "Afiliados y órganos",
+    "evidence": "Los estatutos fijan funciones, pero el informe no dispone de una medición representativa de preferencias por medida.",
+    "limit": "No convierte silencio, disciplina o una presentación pública en unanimidad. [61]"
+   },
+   {
+    "area": "Financiación autonómica (ficha 13, disenso territorial)",
+    "evidence": "Asturias y el PSOE de Castilla-La Mancha han expresado rechazo al modelo. El PSC coloca la financiación singular y la ordinalidad entre sus prioridades.",
+    "limit": "Existe apoyo de dirección, pero no evidencia de uniformidad territorial. [40][41][42][43]"
+   },
+   {
+    "area": "PSC y Rodalies (ficha 16)",
+    "evidence": "El PSC destaca Rodalies en su manifiesto.",
+    "limit": "Es prioridad territorial documentada, no garantía de acuerdo sobre cada reparto competencial. Otros grupos pueden respaldar obras de su territorio sin aceptar todo el plan nacional. [43]"
+   },
+   {
+    "area": "Efecto del disenso en la ejecución",
+    "evidence": "Análisis: el disenso territorial puede repercutir en negociación de convenios, calendario y legitimidad, aunque la dirección conserve control parlamentario.",
+    "limit": "También puede resolverse mediante transición, garantías o cambio de reparto. No se atribuye un desenlace sin evidencia."
+   },
+   {
+    "area": "Concesiones y prioridades internas",
+    "evidence": "No hay un orden verificable de concesiones que la dirección aceptaría para formar Gobierno, ni una votación pública por cada propuesta.",
+    "limit": "La prioridad narrativa del programa no mide cuánto estaría dispuesto a sacrificar el partido para mantener una medida."
+   },
+   {
+    "area": "Criterio general de apoyo interno (control documental)",
+    "evidence": "Publicación y presentación acreditan respaldo formal.",
+    "limit": "No existe aquí una encuesta de adhesión a cada propuesta. La ausencia de críticas no se convierte en unanimidad."
+   }
+  ],
+  "team": [
+   {
+    "name": "Pedro Sánchez",
+    "role": "Presidencia y liderazgo del PSOE"
+   },
+   {
+    "name": "María Jesús Montero",
+    "role": "Estrategia electoral"
+   },
+   {
+    "name": "Carlos Cuerpo",
+    "role": "Economía y vicepresidencia primera"
+   },
+   {
+    "name": "Arcadi España",
+    "role": "Hacienda"
+   },
+   {
+    "name": "Cristina Narbona",
+    "role": "Presidencia del partido y programa"
+   },
+   {
+    "name": "Rebeca Torró",
+    "role": "Organización y coordinación"
+   },
+   {
+    "name": "Isabel Rodríguez",
+    "role": "Vivienda"
+   },
+   {
+    "name": "Félix Bolaños",
+    "role": "Presidencia y Justicia"
+   },
+   {
+    "name": "Óscar López",
+    "role": "Transformación digital"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "PP",
+    "commonGround": "Acuerdo firmado entre PSOE y PP para renovación y reformas delimitadas. Demuestra posibilidad de negociación institucional, no una coalición ni aval a toda la agenda judicial. [33][34] Ciencia, infraestructuras o servicios podrían negociarse por piezas, pero no existe aquí evidencia de un compromiso general con el programa socialista. [33]",
+    "frictions": "El proyecto de reducción a 37,5 horas fue devuelto. PP, Vox y Junts respaldaron las enmiendas de totalidad. [12] RDL 29/2026: PP, Vox y Junts en contra. [19][17] No se presume un pacto constitucional general con el PP (ficha 12) ni que PP apoye el paquete completo (ficha 18)."
+   },
+   {
+    "counterpart": "Vox",
+    "commonGround": "No se incorpora ningún voto a un escenario sin posición o acuerdo acreditado. Una coincidencia puntual en seguridad, una obra o una abstención no equivale a apoyo estable de gobierno.",
+    "frictions": "RDL 29/2026: PP, Vox y Junts en contra. [19][17] Jornada de 37,5 horas: PP, Vox y Junts respaldaron las enmiendas de totalidad. [12]"
+   },
+   {
+    "counterpart": "Junts",
+    "commonGround": "Sin coincidencia documentada. Cualquier acuerdo futuro exige condiciones nuevas verificables; no utilizar su voto como apoyo disponible por defecto. [12][19]",
+    "frictions": "Los antecedentes de jornada y vivienda identifican dificultades reales. [12][19] No se presume que PNV o Junts acepten el paquete por respaldar otras políticas (ficha 02). Los intereses del PNV, ERC o Junts no se agregan como si fueran idénticos (ficha 13). [30]"
+   },
+   {
+    "counterpart": "PNV",
+    "commonGround": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor. Es respaldo a ese texto, no al programa entero. [19][17]",
+    "frictions": "RDL 28/2026 rechazado; PNV se sitúa en contra, a diferencia del decreto 29. [19][18] No presumir acuerdo en fiscalidad general, competencias o controles del alquiler por apoyo a una medida de acceso. [19]"
+   },
+   {
+    "counterpart": "ERC",
+    "commonGround": "Los votos favorables de vivienda acreditan una coincidencia concreta (RDL 29/2026). [19]",
+    "frictions": "La continuidad de apoyo requiere texto y condiciones; no asumir que respaldarían todo paquete fiscal, territorial o exterior. [19] Los intereses del PNV, ERC o Junts no se agregan como si fueran idénticos (financiación autonómica). [30]"
+   },
+   {
+    "counterpart": "EH Bildu",
+    "commonGround": "Los votos favorables de vivienda acreditan una coincidencia concreta (RDL 29/2026). [19]",
+    "frictions": "La continuidad de apoyo requiere texto y condiciones; no asumir que respaldarían todo paquete fiscal, territorial o exterior. [19]"
+   },
+   {
+    "counterpart": "Sumar",
+    "commonGround": "RDL 29/2026: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor. [19][17] Como parte de la izquierda del PSOE: crianza, servicios, cuidados y protección laboral ofrecen objetivos comunes.",
+    "frictions": "Cuantías, prioridades, vivienda, defensa y algunas políticas de igualdad pueden exigir concesiones. Los grupos que votaron en la legislatura saliente y las coaliciones de la nueva elección tampoco son categorías idénticas. [19]"
+   },
+   {
+    "counterpart": "Podemos",
+    "commonGround": "RDL 29/2026: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor. [19][17] Como parte de la izquierda del PSOE: crianza, servicios, cuidados y protección laboral ofrecen objetivos comunes.",
+    "frictions": "Cuantías, prioridades, vivienda, defensa y algunas políticas de igualdad pueden exigir concesiones. Los grupos que votaron en la legislatura saliente y las coaliciones de la nueva elección tampoco son categorías idénticas. [19]"
+   },
+   {
+    "counterpart": "Frente Amplio",
+    "commonGround": "Frente Amplio comparte el objetivo de crianza, pero reclama una cuantía y concreción propias: coincidencia de objetivo no es acuerdo financiero. [44]",
+    "frictions": "Hay coincidencia de objetivo; no un acuerdo probado sobre cuantía, renta, calendario o compensaciones presupuestarias. [44] Cuantías, prioridades, vivienda, defensa y algunas políticas de igualdad pueden exigir concesiones (izquierda del PSOE)."
+   },
+   {
+    "counterpart": "Grupos de izquierda y nacionalistas (proxenetismo, sin nombres)",
+    "commonGround": "No es prueba de oposición a toda protección de víctimas ni pronóstico automático de un nuevo texto. [35]",
+    "frictions": "La iniciativa socialista fue rechazada, con oposición de varios grupos de izquierda y nacionalistas. Trata, asistencia y abolición deben analizarse como instrumentos separados. [35]"
+   }
+  ],
+  "partners": [
+   "fa",
+   "podemos"
+  ]
+ },
+ {
+  "id": "salf",
+  "name": "Se Acabó La Fiesta",
+  "short": "SALF",
+  "report": {
+   "title": "ANÁLISIS DE POLÍTICAS PÚBLICAS. SALF, Se Acabó La Fiesta. Propuestas, viabilidad y acuerdos. Aplicación del marco común de evaluación electoral",
+   "version": "No declarada; corte 18/11/2026",
+   "cutoff": "2026-11-18",
+   "programDate": "2026-11-10",
+   "programTitle": "Contrato electoral simplificado. Generales 2026 (40 páginas)",
+   "pages": 76,
+   "units": 121,
+   "pdf": "/informes/salf.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Gobierno con mayoría",
+    "definition": "SALF dirige un gobierno con votos suficientes para leyes ordinarias y orgánicas. No se presumen mayorías constitucionales, consentimiento autonómico, decisiones judiciales ni cambios de la UE."
+   },
+   "B": {
+    "label": "Negociación con PP/Vox",
+    "definition": "Hipótesis de acuerdo con PP/Vox y votos suficientes. Se estima aceptación de la versión sustancialmente íntegra de SALF. No presupone coalición, resultado electoral ni apoyo de PNV u otros partidos."
+   },
+   "C": {
+    "label": "Oposición",
+    "definition": "Capacidad de obtener aprobación o realizar el acto prometido sin pacto estable de gobierno. Puede haber votaciones puntuales; no se atribuye control del Ejecutivo."
+   },
+   "E": {
+    "definition": "Ejecución una vez aprobada válidamente y financiada de forma suficiente. Se juzgan capacidad, calendario, coordinación y dependencias residuales. No es probabilidad conjunta de llegar al poder, aprobar, financiar y ejecutar."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Un programa concreto, con condiciones que cambian su alcance",
+    "text": "El contrato reúne 119 medidas, diez bloques y metas para 2027-2030. Este informe conserva cada medida por separado, además de la estructura de gobierno y la cláusula de penalización. Las promesas cuantificadas permiten seguimiento; los diagnósticos, ahorros y efectos del partido requieren verificación independiente. [1, 2]"
+   },
+   {
+    "title": "La financiación depende especialmente del ahorro territorial",
+    "text": "El cuadro declara 88.500 M€ de fuentes y 81.700 M€ de rebajas y nuevo gasto anual en 2030. Los 57.000 M€ atribuidos a duplicidades autonómicas representan el 64,4% de las fuentes. Falta una conciliación reproducible entre administraciones, años y compromisos; la viabilidad fiscal del conjunto queda no estimable. [2, 42, 43]"
+   },
+   {
+    "title": "La regla fiscal condiciona las fechas de las rebajas",
+    "text": "El programa supedita su entrada en vigor a ahorro estructural certificado por AIReF. Esta condición puede proteger el presupuesto y, a la vez, retrasar o reducir medidas si no se acredita el ahorro. No debe presentarse el calendario de mínimos del IRPF como incondicional ni la mención de AIReF como una validación ya emitida. [2, 42]"
+   },
+   {
+    "title": "Hay rutas distintas dentro de la agenda institucional",
+    "text": "Cambiar ministerios, publicar información o reforzar equipos tiene instrumentos ordinarios. Eliminar Senado o Tribunal Constitucional, blindar determinadas reglas y alterar obligaciones europeas exige procedimientos adicionales. Una mayoría para gobernar no resuelve automáticamente estos requisitos. [2, 19, 41]"
+   },
+   {
+    "title": "La cláusula personal evalúa votos",
+    "text": "El documento compara las medidas con la actividad de voto de Alvise en junio de 2030. Esa correspondencia no acredita aprobación parlamentaria ni ejecución. Faltan vehículo de depósito, árbitro y reglas sobre abstenciones, textos transaccionales o asuntos no votados. [2, 29, 30]"
+   },
+   {
+    "title": "Apoyo formal y acuerdos políticos deben leerse con precisión",
+    "text": "El programa publicado acredita la posición oficial; no se ha localizado apoyo cuantificado por medida. La retirada del Senado y afinidades con PP/Vox no acreditan un pacto estatal. También hay coincidencias parciales con otras formaciones sobre instrumentos concretos, sin convertirlas en una coalición. [88, 91, 99, 108, 109]"
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "media",
+   "2": "alta",
+   "3": "alta",
+   "4": "alta",
+   "5": "alta",
+   "6": "alta",
+   "7": "alta",
+   "8": "media",
+   "9": "media",
+   "10": "alta",
+   "11": "alta",
+   "12": "alta",
+   "13": "alta",
+   "14": "media",
+   "15": "media",
+   "16": "baja",
+   "17": "baja",
+   "18": "alta",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Programa publicado",
+    "evidence": "El contrato presentado en noviembre acredita una posición oficial reciente. Los estatutos prevén participación de la Asamblea en documentos programáticos y elección de la Ejecutiva por afiliados; atribuyen a esta última la designación de candidaturas y al presidente amplias facultades de dirección y remodelación. La norma describe cómo debe decidirse: no sustituye el acta de una decisión efectivamente celebrada. [2, 91]",
+    "limit": "Posición formal del partido en esa fecha."
+   },
+   {
+    "area": "Votación de liderazgo",
+    "evidence": "RTVE informó en octubre de 2025 de la proclamación de Alvise como presidente con casi el 99 % de votos. En octubre de 2026 él atribuyó a la Ejecutiva su candidatura a las generales. Son respaldos de liderazgo y estrategia electoral. No se han localizado actas o consultas que cuantifiquen aceptación de cada una de las 119 medidas; tampoco una participación verificable que permita extrapolar aquel porcentaje a toda la afiliación. [89, 93]",
+    "limit": "Respaldo al dirigente dentro del universo y pregunta comunicados."
+   },
+   {
+    "area": "Estatutos y disciplina",
+    "evidence": "La obligación de los candidatos de asumir el programa y las reglas disciplinarias sobre discrepancia pública grave favorecen la uniformidad de posición oficial. No demuestran unanimidad de convicciones. El dato correcto en las fichas es respaldo programático formal y apoyo interno individual no medido; la ausencia de información tampoco prueba oposición. [91, 92]",
+    "limit": "Reglas de decisión y conducta; no actas de apoyo a cada medida."
+   },
+   {
+    "area": "Disenso organizativo",
+    "evidence": "La ruptura con Solier y Junco constituye un disenso organizativo verificable. En junio de 2026 ambos describieron colaboración propia con PP y Vox como independientes. No se puede trasladar esa cooperación a SALF, ni presentar sus diferencias con Alvise como voto contrario a un programa publicado después. Para la ejecución pesan la continuidad del equipo y la ausencia de experiencia acreditada de SALF en un gobierno estatal. [89, 96, 97, 98]",
+    "limit": "Hecho fechado y atribuido; no voto contrario a todas las propuestas."
+   },
+   {
+    "area": "Comparación con mensajes anteriores (SOCIMI y penalización salarial)",
+    "evidence": "La comparación debe seguir el documento de noviembre. Su medida sobre SOCIMI se refiere al tipo del 25 % para sociedades con más de cien viviendas y a la contratación estatal con fondos; no equivale a la prohibición general de compra residencial que difundían mensajes anteriores. Del mismo modo, la penalización salarial anunciada mide correspondencia de votos: no acredita por sí sola que una ley se apruebe, se financie o produzca el efecto prometido. [1, 2]",
+    "limit": "La comparación debe seguir el documento de noviembre."
+   }
+  ],
+  "team": [
+   {
+    "name": "Alvise Pérez",
+    "role": "Presidente y número uno por Madrid"
+   },
+   {
+    "name": "Luis de las Heras Vives",
+    "role": "Secretario general y número tres por Madrid"
+   },
+   {
+    "name": "Rocío García Romero",
+    "role": "Vocal y número dos por Madrid"
+   },
+   {
+    "name": "Pablo A. Bueno Pérez",
+    "role": "Tesorero y abogado según la biografía oficial"
+   },
+   {
+    "name": "Ángel Román Martín Elvira",
+    "role": "Secretario de actas"
+   },
+   {
+    "name": "Adrián Yacar López",
+    "role": "Vocal y número siete por Madrid"
+   },
+   {
+    "name": "Lucía Echevarrieta Martín",
+    "role": "Vocal y número dos por Burgos"
+   },
+   {
+    "name": "Juan Pablo Urruticoechea Moreno",
+    "role": "Vocal y número cinco por Madrid"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "PP",
+    "commonGround": "Abierto antecedente de negociación autonómica; no consta acuerdo estatal con SALF. Potencial, como inferencia: Licencias, primera vivienda, auditorías, menos cargos y control migratorio. [2, 100, 105, 112, 113]",
+    "frictions": "La UE, Mercosur, el coste fiscal y el alcance de cada medida separan los programas."
+   },
+   {
+    "counterpart": "Vox",
+    "commonGround": "Coincidencias actuales sobre fronteras, impuestos y ocupación; retirada de SALF del Senado. Potencial, como inferencia: Iniciativas delimitadas de seguridad, migración, suelo y regulación. [2, 99, 106]",
+    "frictions": "Competencia electoral; cuota cero condicionada en Vox frente a universal en SALF. Sin pacto ejecutivo documentado."
+   },
+   {
+    "counterpart": "PSOE",
+    "commonGround": "Alvise descartó pactar en febrero; el PSOE propone reforzar parque público y estabilidad del alquiler. Potencial, como inferencia: Votos puntuales sobre prestaciones o transparencia, si se acordase un texto. [2, 100, 107]",
+    "frictions": "No hay negociación acreditada; existen diferencias sobre fiscalidad, vivienda e inmigración."
+   },
+   {
+    "counterpart": "Frente Amplio",
+    "commonGround": "Ambos revisan la fiscalidad de las SOCIMI, con umbrales y alcance distintos. Potencial, como inferencia: Coincidencia acotada sobre tributación inmobiliaria o contratación pública. [2, 108]",
+    "frictions": "Divergen sobre desahucios, alquileres, financiación del Estado y regularización migratoria."
+   },
+   {
+    "counterpart": "Podemos",
+    "commonGround": "El programa también elimina el régimen especial de SOCIMI; no consta interlocución con SALF. Potencial, como inferencia: Una votación concreta sobre privilegios fiscales podría coincidir. [2, 109]",
+    "frictions": "La coincidencia no resuelve diferencias sobre redistribución, propiedad, derechos o inmigración."
+   },
+   {
+    "counterpart": "ERC",
+    "commonGround": "Alvise excluyó un pacto en declaraciones de febrero de 2026. Potencial, como inferencia: No se acredita paquete negociado; solo cabrían coincidencias expediente por expediente. [100]",
+    "frictions": "Es una posición unilateral anterior a campaña, no un acuerdo ni prohibición de todo voto coincidente."
+   },
+   {
+    "counterpart": "Junts",
+    "commonGround": "Fue otra de las formaciones excluidas por Alvise en febrero. Potencial, como inferencia: No hay evidencia de negociación con SALF. [100]",
+    "frictions": "No trasladar al conjunto del programa eventuales coincidencias fiscales o de seguridad no documentadas."
+   },
+   {
+    "counterpart": "EH Bildu",
+    "commonGround": "Alvise descartó pactar con esta formación en aquel contexto autonómico. Potencial, como inferencia: No se identifica un paquete de gobierno compartido. [100]",
+    "frictions": "El rechazo político documentado no autoriza atribuir incompatibilidad técnica a toda iniciativa imaginable."
+   },
+   {
+    "counterpart": "PNV",
+    "commonGround": "Su programa niega apoyo a gobiernos dependientes de Vox y protege el autogobierno. Potencial, como inferencia: Coordinación técnica en servicios solo con respeto competencial y acuerdo específico. [2, 110]",
+    "frictions": "No incorporar sus votos automáticamente al escenario PP-Vox-SALF."
+   },
+   {
+    "counterpart": "BNG",
+    "commonGround": "Mantiene oposición a Mercosur, compartida por SALF. Potencial, como inferencia: Coincidencias en medidas concretas de protección del sector agrario. [2, 111]",
+    "frictions": "Una posición comercial común no acredita pacto estatal ni aceptación del resto de la política exterior."
+   }
+  ],
+  "partners": [
+   "pp",
+   "vox"
+  ]
+ },
+ {
+  "id": "vox",
+  "name": "Vox",
+  "short": "Vox",
+  "report": {
+   "title": "Análisis de políticas públicas. Vox: propuestas, viabilidad y escenarios de ejecución",
+   "version": "1.0",
+   "cutoff": "2026-11-17",
+   "programDate": "2026-11-12",
+   "programTitle": "Programa electoral nacional del 29N",
+   "pages": 44,
+   "units": 92,
+   "pdf": "/informes/vox.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Mayoría propia",
+    "definition": "Gobierno de Vox con mayoría suficiente para legislación ordinaria y orgánica. No se presupone mayoría de reforma constitucional, control judicial ni capacidad de cambiar unilateralmente normas europeas."
+   },
+   "B": {
+    "label": "Acuerdo PP-Vox",
+    "definition": "Mayoría conjunta suficiente y negociación de un programa de gobierno. Se estima la aprobación de una versión sustancialmente fiel, no solo de cualquier medida con nombre parecido."
+   },
+   "C": {
+    "label": "Influencia desde la oposición",
+    "definition": "Vox no controla el Gobierno ni dispone de un pacto estable de ejecución. Solo puede promover iniciativas, negociar apoyos o ver adoptadas partes de su propuesta."
+   },
+   "E": {
+    "definition": "E expresa la entrega material una vez aprobada legalmente y dotada de financiación suficiente. No es la probabilidad conjunta de ganar, aprobar, financiar y ejecutar. Horizonte: cuatro años salvo plazo explícito distinto."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Una agenda que combina varios instrumentos",
+    "text": "La plataforma reúne rebajas fiscales, ampliación de determinados servicios, ayudas familiares, regulación migratoria más restrictiva y preferencias por nacionalidad. No equivale simplemente a reducir el Estado: también propone vivienda protegida, inversión, personal y nuevas comprobaciones administrativas. [2,3]"
+   },
+   {
+    "title": "La principal incertidumbre económica está en el conjunto",
+    "text": "No hay una memoria consolidada que reconcilie menos impuestos, más prestaciones e inversión y menor deuda. Figaredo anunció un IVA del 18% el 4 de noviembre; el programa del día 12 pide rebajas sin fijar ese tipo. Sus cifras de gasto recortable son declaraciones, no ahorros certificados. [2,6,22]"
+   },
+   {
+    "title": "Nacionalidad, residencia y necesidad no son equivalentes",
+    "text": "Una preferencia territorial por residencia no es lo mismo que reservar prestaciones a españoles. La igualdad de trato de trabajadores comunitarios y residentes de larga duración limita determinadas exclusiones. La viabilidad depende de cada prestación, colectivo y diseño. [12,13,15,30]"
+   },
+   {
+    "title": "Retorno legal no significa expulsión automática",
+    "text": "Hay instrumentos de retorno en el ordenamiento, pero requieren procedimientos individuales, garantías y cooperación de los países receptores. Suprimir arraigos tampoco elimina las obligaciones de asilo ni convierte todas las salidas en ejecutables. [10,11,14,54]"
+   },
+   {
+    "title": "El PP es un interlocutor real, no un respaldo indistinto",
+    "text": "Existen acuerdos electorales puntuales para el Senado y precedentes autonómicos. La interpretación de la prioridad nacional ya produjo diferencias públicas. Compartir un objetivo no asegura coincidencia en beneficiarios, financiación o reforma europea. [28,30,32,33]"
+   },
+   {
+    "title": "No todo el cambio depende de las Cortes",
+    "text": "IVA, comercio, clima y ciertos derechos de residentes tienen dimensión europea. Sanidad, educación, vivienda y dependencia necesitan a comunidades autónomas y ayuntamientos. Una mayoría parlamentaria no sustituye estos requisitos. [9,18,27,45-47,55,58]"
+   },
+   {
+    "title": "La evidencia no permite prometer un resultado agregado",
+    "text": "Menos trámites puede reducir costes; más oferta de vivienda puede aliviar restricciones. La magnitud exige medir capacidad, demanda y ejecución. Tampoco se puede asumir que endurecer penas o restringir atención sanitaria produzca el beneficio neto anunciado. [23,49-51]"
+   },
+   {
+    "title": "El respaldo formal no mide unanimidad interna",
+    "text": "El programa y la estructura nacional acreditan una posición oficial. No hay una votación pública desglosada que permita calcular el porcentaje de apoyo a cada medida. Los perfiles del equipo describen responsabilidades y trayectoria, no garantías personales de resultados. [3-5]"
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "alta",
+   "2": "alta",
+   "3": "media",
+   "4": "media",
+   "5": "alta",
+   "6": "alta",
+   "7": "media",
+   "8": "alta",
+   "9": "alta",
+   "10": "alta",
+   "11": "alta",
+   "12": "media",
+   "13": "media",
+   "14": "media",
+   "15": "media",
+   "16": "media",
+   "17": "media",
+   "18": "alta",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Programa nacional",
+    "evidence": "Presentación del 12/11/2026.",
+    "limit": "Posición oficial; no porcentaje de afiliados o dirigentes favorables a cada medida. [3]"
+   },
+   {
+    "area": "Fronteras y prioridad nacional",
+    "evidence": "Ratificación de Abascal y Garriga en la campaña de noviembre, incluido acto del 14/11.",
+    "limit": "Prioridad de la dirección; no prueba de viabilidad ni de ausencia de discrepancia privada. [8]"
+   },
+   {
+    "area": "Economía y desregulación",
+    "evidence": "Figaredo, 4/11/2026.",
+    "limit": "Desarrollo sectorial y disposición a negociar; no memoria auditada de ahorro. [6]"
+   },
+   {
+    "area": "Vivienda",
+    "evidence": "Hernández Quero, 12/11/2026, y antecedentes de febrero.",
+    "limit": "Continuidad de la agenda sectorial; no apoyo de todos los ejecutores territoriales. [7,63]"
+   },
+   {
+    "area": "Pactos electorales",
+    "evidence": "Comunicaciones de Granada y Tarragona en noviembre.",
+    "limit": "Cooperación puntual para el Senado; no un acuerdo completo de gobierno. [32,33]"
+   },
+   {
+    "area": "Capacidad formal (organigrama)",
+    "evidence": "La web nacional identifica a Abascal como presidente y a Garriga como vicepresidente y secretario general. Las vicesecretarías sitúan a Montserrat Lluís en coordinación de acción de gobierno y grupos parlamentarios, bajo la dirección de Presidencia y Secretaría General.",
+    "limit": "Esto describe el organigrama publicado, no las preferencias privadas de cada miembro."
+   },
+   {
+    "area": "Historial de pactos y rupturas",
+    "evidence": "La ruptura de gobiernos autonómicos de julio de 2024 por el reparto de menores muestra un episodio en que la dirección priorizó una posición sobre permanecer en ejecutivos. Los acuerdos de 2026 muestran que ese antecedente no impide pactos posteriores.",
+    "limit": "Ninguno proporciona una tasa de estabilidad futura."
+   },
+   {
+    "area": "Indicadores de respaldo que faltan",
+    "evidence": "",
+    "limit": "Actas de aprobación por medida, votaciones internas desglosadas, memoria económica aceptada por responsables territoriales y posiciones de quienes ejecutarían cada servicio. La ausencia de críticas públicas no completa esos datos."
+   },
+   {
+    "area": "Registro de cambios (IVA del 18%)",
+    "evidence": "El IVA del 18% anunciado el 4/11 se conserva como concreción complementaria: el texto posterior no lo reproduce expresamente.",
+    "limit": "La aparición de un programa más reciente no autoriza ni a dar por incorporado cada detalle anterior ni a afirmar que ha sido retirado. Debe pedirse ratificación o un texto normativo."
+   },
+   {
+    "area": "Conflicto interno (expulsión de Ortega Smith)",
+    "evidence": "La expulsión de Javier Ortega Smith fue confirmada internamente en abril de 2026; en julio se informó de su paso al Grupo Mixto.",
+    "limit": "Se trata de un antecedente de conflicto organizativo y disciplina. No proporciona un porcentaje de oposición al programa de noviembre ni demuestra una discrepancia concreta sobre todas sus medidas."
+   },
+   {
+    "area": "Respaldo formal frente a unanimidad interna",
+    "evidence": "El programa y la estructura nacional acreditan una posición oficial.",
+    "limit": "No hay una votación pública desglosada que permita calcular el porcentaje de apoyo a cada medida."
+   }
+  ],
+  "team": [
+   {
+    "name": "Santiago Abascal",
+    "role": "dirección y decisión final"
+   },
+   {
+    "name": "Ignacio Garriga",
+    "role": "organización y cohesión"
+   },
+   {
+    "name": "José María Figaredo",
+    "role": "economía y concreción fiscal"
+   },
+   {
+    "name": "Pepa Rodríguez de Millán",
+    "role": "traducción parlamentaria"
+   },
+   {
+    "name": "Carlos Hernández Quero",
+    "role": "vivienda y diagnóstico social"
+   },
+   {
+    "name": "Jorge Buxadé",
+    "role": "ruta europea y jurídica"
+   },
+   {
+    "name": "Montserrat Lluís",
+    "role": "coordinación y acuerdos"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "PP",
+    "commonGround": "El pacto para el Senado anunciado el 26 de octubre es un hecho: incluye renuncias de candidaturas y ajustes en determinadas provincias. Existen acuerdos electorales puntuales para el Senado y precedentes autonómicos.",
+    "frictions": "No equivale a una coalición para el Congreso ni a un programa estatal de gobierno. En Extremadura, PP y Vox explicaron de forma distinta la prioridad nacional tras su acuerdo de abril: la divergencia de interpretación importa tanto como la firma. El desacuerdo sobre menores motivó la ruptura autonómica de 2024, antecedente histórico que no describe por sí solo los pactos de 2026."
+   },
+   {
+    "counterpart": "PP (Impuestos y burocracia)",
+    "commonGround": "Rebajas, simplificación y apoyo empresarial.",
+    "frictions": "Cuantías, compensación presupuestaria y protecciones que se eliminan."
+   },
+   {
+    "counterpart": "PP (Vivienda)",
+    "commonGround": "Oferta, suelo, agilización y seguridad jurídica.",
+    "frictions": "Nacionalidad, garantías judiciales, IVA y equilibrio entre ayudas y construcción."
+   },
+   {
+    "counterpart": "PP (Nuclear y energía)",
+    "commonGround": "Continuidad nuclear y seguridad de suministro.",
+    "frictions": "No confundir coincidencia nuclear con un acuerdo para desmontar el marco climático europeo."
+   },
+   {
+    "counterpart": "PP (Inmigración)",
+    "commonGround": "Control fronterizo y ejecución de retornos legalmente viables.",
+    "frictions": "El programa del PP contempla arraigo excepcional; Vox propone suprimirlo."
+   },
+   {
+    "counterpart": "PP (Prestaciones)",
+    "commonGround": "Control de fraude y posible vinculación territorial.",
+    "frictions": "Nacionalidad y residencia son criterios distintos: no hay acuerdo automático."
+   },
+   {
+    "counterpart": "PP (Educación)",
+    "commonGround": "Pruebas, elección, docentes y formación profesional.",
+    "frictions": "Distribución competencial, lengua y criterios de admisión."
+   },
+   {
+    "counterpart": "PP (Instituciones y justicia)",
+    "commonGround": "Algunos cambios en nombramientos y controles.",
+    "frictions": "Diseño, mayorías y antecedentes de acuerdos PP-PSOE que Vox no comparte necesariamente."
+   },
+   {
+    "counterpart": "PP (Cuidados y sanidad)",
+    "commonGround": "Familia, primaria, listas de espera e interoperabilidad.",
+    "frictions": "Coste recurrente, elegibilidad y modelo de provisión."
+   },
+   {
+    "counterpart": "PNV",
+    "commonGround": "Coincidencias puntuales en una política o inversión no derogan esa posición sobre el gobierno.",
+    "frictions": "Su programa de 2026 descarta facilitar un gobierno dependiente de Vox. El PNV declara que no facilitará un gobierno dependiente de Vox y defiende su autogobierno."
+   },
+   {
+    "counterpart": "PSOE",
+    "commonGround": "No excluye acuerdos separados en capacidad sanitaria, investigación, infraestructuras, ciberseguridad o protección de menores si coinciden instrumentos y recursos.",
+    "frictions": "Su programa sitúa derechos sociales, regulación de vivienda, transición ecológica y migración regular en una orientación distinta. No prueban que el PSOE respalde la propuesta de Vox ni que el mismo acuerdo sea reproducible."
+   },
+   {
+    "counterpart": "Junts",
+    "commonGround": "",
+    "frictions": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+   },
+   {
+    "counterpart": "ERC",
+    "commonGround": "",
+    "frictions": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+   },
+   {
+    "counterpart": "EH Bildu",
+    "commonGround": "",
+    "frictions": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+   },
+   {
+    "counterpart": "BNG",
+    "commonGround": "",
+    "frictions": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+   },
+   {
+    "counterpart": "Coalición Canaria",
+    "commonGround": "",
+    "frictions": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+   },
+   {
+    "counterpart": "UPN",
+    "commonGround": "",
+    "frictions": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+   }
+  ],
+  "partners": [
+   "pp"
+  ]
+ }
+]

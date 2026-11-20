@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Cómo se calcula la afinidad
+    url: https://voyvotando.bull-labs.com/metodologia/
+    about: Fórmula, reglas de codificación y límites del test.
+  - name: Avisos de seguridad o privacidad
+    url: https://github.com/eherrerosj/voyvotando/security/advisories/new
+    about: Infórmanos en privado de cualquier fallo de seguridad o privacidad.

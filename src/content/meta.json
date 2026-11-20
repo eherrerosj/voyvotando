@@ -1,0 +1,12 @@
+{
+ "version": "1.0",
+ "sha256": "79913224958d3fe8c499ab20f2fe792a4acf6ba8495993dcd24fc25768a86fda",
+ "questions": 39,
+ "fast": 24,
+ "parties": 6,
+ "units": 651,
+ "reportPages": 326,
+ "cutoff": "2026-11-18",
+ "adjudicated": true,
+ "electionDate": "2026-11-29"
+}

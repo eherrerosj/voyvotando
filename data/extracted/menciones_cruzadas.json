@@ -1,0 +1,618 @@
+{
+ "fa": [
+  {
+   "source_report": "podemos",
+   "page": 13,
+   "text": "Hay convergencia con PSOE, Frente Amplio y ERC en reducir jornada, pero con umbrales distintos."
+  },
+  {
+   "source_report": "podemos",
+   "page": 43,
+   "text": "PSOE y Frente Amplio rechazan el objetivo del cinco por ciento, sin acreditar aceptación de la salida de la OTAN."
+  },
+  {
+   "source_report": "podemos",
+   "page": 56,
+   "text": "Frente Amplio | Fracasó el acuerdo estatal; subsisten fórmulas compartidas en varios territorios. [41, 44, 65] | Jornada, vivienda y servicios públicos. Competencia electoral y diferencias de intensidad."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "Viabilidad relativa media: PSOE propone ampliar contratos y congelaciones temporales; Frente Amplio, límites más intensos."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "Viabilidad relativa media para un tramo de 37,5 horas, registro digital e inspección: aparecen en PSOE y ERC, y Frente Amplio plantea avanzar después hacia 32."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "PSOE apuesta por capacidades europeas compartidas y Frente Amplio por reducir gasto militar."
+  },
+  {
+   "source_report": "psoe",
+   "page": 14,
+   "text": "Frente Amplio comparte el objetivo de crianza, pero reclama una cuantía y concreción propias: coincidencia de objetivo no es acuerdo financiero."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor; PP, Vox y Junts en contra."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "Frente Amplio reclama concreción de la prestación. Hay coincidencia de objetivo; no un acuerdo probado sobre cuantía, renta, calendario o compensaciones presupuestarias."
+  },
+  {
+   "source_report": "pp",
+   "page": 9,
+   "text": "PSOE y Frente Amplio defienden otros instrumentos de alquiler: coincidencia en construir no significa acuerdo sobre su régimen. [17, 33]"
+  },
+  {
+   "source_report": "pp",
+   "page": 30,
+   "text": "Frente Amplio y Podemos: Terreno potencial: Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común. Condiciones y fricciones: La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]"
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "Frente Amplio y Podemos permiten identificar esta última convergencia, aunque las fórmulas difieren."
+  },
+  {
+   "source_report": "salf",
+   "page": 60,
+   "text": "Ambos revisan la fiscalidad de las SOCIMI, con umbrales y alcance distintos. Potencial, como inferencia: Coincidencia acotada sobre tributación inmobiliaria o contratación pública. [2, 108] | Límite: Divergen sobre desahucios, alquileres, financiación del Estado y regularización migratoria."
+  }
+ ],
+ "pp": [
+  {
+   "source_report": "podemos",
+   "page": 57,
+   "text": "PP | Rechazó ambos decretos de vivienda. [46] | Sin pacto programático identificado. No excluye coincidencias puntuales en asuntos distintos."
+  },
+  {
+   "source_report": "fa",
+   "page": 42,
+   "text": "Pueden existir coincidencias parciales en objetivos como agilidad administrativa o medios de servicios; son posibilidades, no acuerdos. | No se atribuye respaldo al paquete. Ambos promovieron la devolución de la reforma de jornada de 2025. [45]"
+  },
+  {
+   "source_report": "fa",
+   "page": 51,
+   "text": "Congreso. Votación sobre la devolución de la reforma de jornada. 10/09/2025. Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios."
+  },
+  {
+   "source_report": "psoe",
+   "page": 7,
+   "text": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad."
+  },
+  {
+   "source_report": "psoe",
+   "page": 18,
+   "text": "El acuerdo PSOE-PP sobre el CGPJ en 2024 demuestra que un pacto institucional concreto es posible. No acredita apoyo futuro a reformar instrucción, fiscalía o seguridad ciudadana."
+  },
+  {
+   "source_report": "psoe",
+   "page": 19,
+   "text": "no se presume un pacto constitucional general con el PP ni con socios de investidura."
+  },
+  {
+   "source_report": "psoe",
+   "page": 27,
+   "text": "No se presume que socios parlamentarios compartan todas las posiciones diplomáticas ni que PP apoye el paquete completo."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor; PP, Vox y Junts en contra."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "El proyecto de reducción a 37,5 horas fue devuelto. PP, Vox y Junts respaldaron las enmiendas de totalidad."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "Acuerdo firmado entre PSOE y PP para renovación y reformas delimitadas. Demuestra posibilidad de negociación institucional, no una coalición ni aval a toda la agenda judicial."
+  },
+  {
+   "source_report": "psoe",
+   "page": 38,
+   "text": "El pacto judicial es evidencia de acuerdo institucional delimitado. Ciencia, infraestructuras o servicios podrían negociarse por piezas, pero no existe aquí evidencia de un compromiso general con el programa socialista."
+  },
+  {
+   "source_report": "vox",
+   "page": 2,
+   "text": "El PP es un interlocutor real, no un respaldo indistinto"
+  },
+  {
+   "source_report": "vox",
+   "page": 2,
+   "text": "Existen acuerdos electorales puntuales para el Senado y precedentes autonómicos. La interpretación de la prioridad nacional ya produjo diferencias públicas."
+  },
+  {
+   "source_report": "vox",
+   "page": 3,
+   "text": "Las fichas siguen el mismo orden temático que el informe del PP."
+  },
+  {
+   "source_report": "vox",
+   "page": 6,
+   "text": "Con el PP hay compatibilidad potencial de instrumentos. El proteccionismo comercial requiere otra negociación y no debe incorporarse al acuerdo por asociación."
+  },
+  {
+   "source_report": "vox",
+   "page": 7,
+   "text": "Su anuncio contempla negociación, pero no acredita aceptación del PP de tipos o recortes concretos."
+  },
+  {
+   "source_report": "vox",
+   "page": 8,
+   "text": "El PP puede compartir alivio a autónomos o FP, pero eso no acredita una derogación laboral completa ni acuerdo sobre su sustitución."
+  },
+  {
+   "source_report": "vox",
+   "page": 10,
+   "text": "Hay espacio con el PP en oferta y seguridad jurídica, no acuerdo demostrado sobre exclusiones."
+  },
+  {
+   "source_report": "vox",
+   "page": 13,
+   "text": "Con el PP son negociables instrumentos de conciliación; las posiciones sobre vida y derechos requieren un acuerdo distinto."
+  },
+  {
+   "source_report": "vox",
+   "page": 14,
+   "text": "El acuerdo extremeño muestra una diferencia entre nacionalidad y arraigo territorial, no una equivalencia."
+  },
+  {
+   "source_report": "vox",
+   "page": 15,
+   "text": "El PP propone controlar regularizaciones, pero conserva un arraigo excepcional: esa diferencia afecta al instrumento, no solo al tono."
+  },
+  {
+   "source_report": "vox",
+   "page": 15,
+   "text": "El desacuerdo sobre menores motivó la ruptura autonómica de 2024, antecedente histórico que no describe por sí solo los pactos de 2026."
+  },
+  {
+   "source_report": "vox",
+   "page": 16,
+   "text": "El apoyo del PP a cada cambio penal debe acreditarse por texto, no inferirse de una coincidencia general en seguridad."
+  },
+  {
+   "source_report": "vox",
+   "page": 17,
+   "text": "El acuerdo PP-PSOE de 2024 muestra que los pactos institucionales pueden seguir una geometría distinta de la coalición de gobierno; no garantiza apoyo futuro ni a la propuesta exacta de Vox."
+  },
+  {
+   "source_report": "vox",
+   "page": 18,
+   "text": "El PP comparte ciertas propuestas de cohesión, pero eso no equivale a una renuncia general al modelo competencial."
+  },
+  {
+   "source_report": "vox",
+   "page": 19,
+   "text": "Hay coincidencias potenciales con el PP en nuclear; no equivalen a consenso para revertir el marco climático europeo."
+  },
+  {
+   "source_report": "vox",
+   "page": 20,
+   "text": "Con el PP son negociables seguros, simplificación o relevo; comercio, ambiente y fondos europeos pueden exigir otro acuerdo."
+  },
+  {
+   "source_report": "vox",
+   "page": 23,
+   "text": "Hay objetivos compartibles con el PP en medios y seguridad, pero no apoyo acreditado al conjunto de sanciones o revisiones internacionales."
+  },
+  {
+   "source_report": "vox",
+   "page": 29,
+   "text": "Cooperación puntual para el Senado; no un acuerdo completo de gobierno."
+  },
+  {
+   "source_report": "vox",
+   "page": 31,
+   "text": "La negociación de las listas del Senado de octubre ofrece un antecedente público de interlocución con el PP."
+  },
+  {
+   "source_report": "vox",
+   "page": 33,
+   "text": "El pacto para el Senado anunciado el 26 de octubre es un hecho: incluye renuncias de candidaturas y ajustes en determinadas provincias. No equivale a una coalición para el Congreso ni a un programa estatal de gobierno."
+  },
+  {
+   "source_report": "vox",
+   "page": 33,
+   "text": "El programa del PP contempla arraigo excepcional; Vox propone suprimirlo."
+  },
+  {
+   "source_report": "vox",
+   "page": 33,
+   "text": "En Extremadura, PP y Vox explicaron de forma distinta la prioridad nacional tras su acuerdo de abril: la divergencia de interpretación importa tanto como la firma."
+  },
+  {
+   "source_report": "vox",
+   "page": 44,
+   "text": "Interlocución de Tellado y Montserrat Lluís."
+  },
+  {
+   "source_report": "salf",
+   "page": 2,
+   "text": "La retirada del Senado y afinidades con PP/Vox no acreditan un pacto estatal."
+  },
+  {
+   "source_report": "salf",
+   "page": 5,
+   "text": "La retirada del Senado se presentó como respuesta al acuerdo entre PP y Vox para esa cámara."
+  },
+  {
+   "source_report": "salf",
+   "page": 6,
+   "text": "Hipótesis de acuerdo con PP/Vox y votos suficientes. Se estima aceptación de la versión sustancialmente íntegra de SALF."
+  },
+  {
+   "source_report": "salf",
+   "page": 56,
+   "text": "En junio de 2026 ambos describieron colaboración propia con PP y Vox como independientes."
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "El escenario B supone una negociación con PP/Vox y escaños suficientes."
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "Con PP/Vox y escaños suficientes podría negociarse una secuencia de licencias, suelo, avales y rebajas tributarias para primera vivienda."
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "El refuerzo de policía, juzgados y tramitación de retornos ofrece un terreno de negociación con PP/Vox."
+  },
+  {
+   "source_report": "salf",
+   "page": 60,
+   "text": "Abierto antecedente de negociación autonómica; no consta acuerdo estatal con SALF. Potencial, como inferencia: Licencias, primera vivienda, auditorías, menos cargos y control migratorio. [2, 100, 105, 112, 113] | Límite: La UE, Mercosur, el coste fiscal y el alcance de cada medida separan los programas."
+  }
+ ],
+ "psoe": [
+  {
+   "source_report": "podemos",
+   "page": 6,
+   "text": "B | Gobierno negociado | Participación o apoyo estable a un Ejecutivo con PSOE y otros votos necesarios. Se evalúa la versión sustancialmente íntegra de Podemos: las alternativas de compromiso se presentan por separado."
+  },
+  {
+   "source_report": "podemos",
+   "page": 13,
+   "text": "Hay convergencia con PSOE, Frente Amplio y ERC en reducir jornada, pero con umbrales distintos."
+  },
+  {
+   "source_report": "podemos",
+   "page": 42,
+   "text": "La discrepancia con la orientación del PSOE reduce la viabilidad del paquete íntegro en un gobierno negociado. [18, 34, 35, 64]"
+  },
+  {
+   "source_report": "podemos",
+   "page": 43,
+   "text": "PSOE y Frente Amplio rechazan el objetivo del cinco por ciento, sin acreditar aceptación de la salida de la OTAN."
+  },
+  {
+   "source_report": "podemos",
+   "page": 56,
+   "text": "PSOE | Montero anunció condiciones de investidura sobre alquileres, alimentos y especulación. [45] | Protección social y vivienda. Condiciones unilaterales; aceptación no acreditada."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "Viabilidad relativa media: PSOE propone ampliar contratos y congelaciones temporales; Frente Amplio, límites más intensos."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "Viabilidad relativa media para un tramo de 37,5 horas, registro digital e inspección: aparecen en PSOE y ERC, y Frente Amplio plantea avanzar después hacia 32."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "PSOE apuesta por capacidades europeas compartidas y Frente Amplio por reducir gasto militar."
+  },
+  {
+   "source_report": "fa",
+   "page": 4,
+   "text": "B - Gobierno negociado: Acuerdo con el PSOE y apoyos adicionales suficientes para tramitar legislación, pero cada propuesta necesita negociación."
+  },
+  {
+   "source_report": "fa",
+   "page": 9,
+   "text": "El acuerdo PSOE-Sumar de 2023 constituye un antecedente de objetivo compartido, pero no bastó para completar ese trámite. [45, 46]"
+  },
+  {
+   "source_report": "fa",
+   "page": 42,
+   "text": "Existe el precedente de acuerdo de gobierno PSOE-Sumar de 2023 y experiencia compartida. Puede fundamentar explorar trabajo, prestaciones y servicios. [46] | No es un pacto PSOE-Frente Amplio de 2026 ni acepta impuestos, propiedad o defensa en la versión exacta de este programa."
+  },
+  {
+   "source_report": "pp",
+   "page": 2,
+   "text": "El pacto judicial de 2024 es un precedente real, no una garantía de apoyo futuro. [34, 36, 37]"
+  },
+  {
+   "source_report": "pp",
+   "page": 5,
+   "text": "Compatibilidad potencial con Vox en desregulación y con PSOE o partidos territoriales en industria; no existe acuerdo acreditado para este paquete. [38, 42, 43]"
+  },
+  {
+   "source_report": "pp",
+   "page": 6,
+   "text": "Con el PSOE serían más negociables alivios acotados que una reforma completa. [9, 33, 34]"
+  },
+  {
+   "source_report": "pp",
+   "page": 9,
+   "text": "PSOE y Frente Amplio defienden otros instrumentos de alquiler: coincidencia en construir no significa acuerdo sobre su régimen. [17, 33]"
+  },
+  {
+   "source_report": "pp",
+   "page": 11,
+   "text": "El PSOE puede coincidir en refuerzos y FP sin aceptar sustitución de LOMLOE o diseño de conciertos. [21, 22, 34]"
+  },
+  {
+   "source_report": "pp",
+   "page": 12,
+   "text": "Existe terreno potencial con PSOE en infantil y conciliación, y con Vox en apoyos familiares, sin identidad en condiciones ni enfoque."
+  },
+  {
+   "source_report": "pp",
+   "page": 13,
+   "text": "Vox puede respaldar condiciones más estrictas; PSOE y fuerzas de izquierda pueden coincidir en automatizar acceso sin aceptar recortes o cambios registrales. [11, 12, 33, 34]"
+  },
+  {
+   "source_report": "pp",
+   "page": 14,
+   "text": "No se acredita apoyo de PSOE o PNV al paquete."
+  },
+  {
+   "source_report": "pp",
+   "page": 16,
+   "text": "El acuerdo PP-PSOE de 2024 acredita capacidad de pacto puntual tras un bloqueo prolongado; no prueba apoyo socialista a toda la agenda actual."
+  },
+  {
+   "source_report": "pp",
+   "page": 22,
+   "text": "Con el PSOE existen espacios posibles en defensa de intereses europeos y apoyo exterior, pero no un pacto de ejecución de este programa."
+  },
+  {
+   "source_report": "pp",
+   "page": 29,
+   "text": "El acuerdo judicial de junio de 2024 y la reforma posterior muestran capacidad de transacción entre PP y PSOE; también llegaron tras años de bloqueo."
+  },
+  {
+   "source_report": "pp",
+   "page": 30,
+   "text": "PSOE: Terreno potencial: Servicios, industria, formación, infraestructura, digitalización y pactos institucionales acotados. [34, 36] Condiciones y fricciones: Disenso relevante en alquiler, orientación fiscal, LOMLOE, memoria y derechos. No hay pacto global acreditado."
+  },
+  {
+   "source_report": "vox",
+   "page": 8,
+   "text": "Sustituir la legislación laboral atribuida al Gobierno de Sánchez."
+  },
+  {
+   "source_report": "vox",
+   "page": 17,
+   "text": "El acuerdo PP-PSOE de 2024 muestra que los pactos institucionales pueden seguir una geometría distinta de la coalición de gobierno; no garantiza apoyo futuro ni a la propuesta exacta de Vox."
+  },
+  {
+   "source_report": "vox",
+   "page": 33,
+   "text": "Diseño, mayorías y antecedentes de acuerdos PP-PSOE que Vox no comparte necesariamente."
+  },
+  {
+   "source_report": "vox",
+   "page": 34,
+   "text": "Su programa sitúa derechos sociales, regulación de vivienda, transición ecológica y migración regular en una orientación distinta. Esto reduce la compatibilidad de los paquetes más amplios de Vox."
+  },
+  {
+   "source_report": "vox",
+   "page": 34,
+   "text": "No excluye acuerdos separados en capacidad sanitaria, investigación, infraestructuras, ciberseguridad o protección de menores si coinciden instrumentos y recursos. Son posibilidades analíticas, no compromisos firmados."
+  },
+  {
+   "source_report": "vox",
+   "page": 34,
+   "text": "El acuerdo PP-PSOE de 2024 sobre el CGPJ y su desarrollo legislativo prueban que existen combinaciones institucionales distintas del bloque de investidura. No prueban que el PSOE respalde la propuesta de Vox ni que el mismo acuerdo sea reproducible."
+  },
+  {
+   "source_report": "salf",
+   "page": 60,
+   "text": "Alvise descartó pactar en febrero; el PSOE propone reforzar parque público y estabilidad del alquiler. Potencial, como inferencia: Votos puntuales sobre prestaciones o transparencia, si se acordase un texto. [2, 100, 107] | Límite: No hay negociación acreditada; existen diferencias sobre fiscalidad, vivienda e inmigración."
+  }
+ ],
+ "vox": [
+  {
+   "source_report": "podemos",
+   "page": 57,
+   "text": "Vox | Rechazó ambos decretos de vivienda. [46] | Sin pacto programático identificado. No permite extrapolar una incompatibilidad absoluta a cada iniciativa."
+  },
+  {
+   "source_report": "fa",
+   "page": 42,
+   "text": "Pueden existir coincidencias parciales en objetivos como agilidad administrativa o medios de servicios; son posibilidades, no acuerdos. | No se atribuye respaldo al paquete. Ambos promovieron la devolución de la reforma de jornada de 2025. [45]"
+  },
+  {
+   "source_report": "fa",
+   "page": 51,
+   "text": "Congreso. Votación sobre la devolución de la reforma de jornada. 10/09/2025. Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios."
+  },
+  {
+   "source_report": "psoe",
+   "page": 7,
+   "text": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor; PP, Vox y Junts en contra."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "El proyecto de reducción a 37,5 horas fue devuelto. PP, Vox y Junts respaldaron las enmiendas de totalidad."
+  },
+  {
+   "source_report": "psoe",
+   "page": 38,
+   "text": "No se incorpora ningún voto a un escenario sin posición o acuerdo acreditado. Una coincidencia puntual en seguridad, una obra o una abstención no equivale a apoyo estable de gobierno."
+  },
+  {
+   "source_report": "pp",
+   "page": 2,
+   "text": "Hay coincidencias en impuestos, vivienda y nuclear; existen diferencias en arraigo, clima y organización territorial."
+  },
+  {
+   "source_report": "pp",
+   "page": 4,
+   "text": "Gobierno sostenido por PP y Vox con votos suficientes para esas leyes, pero negociación de contenido y prioridades. No se presupone acuerdo global."
+  },
+  {
+   "source_report": "pp",
+   "page": 5,
+   "text": "Compatibilidad potencial con Vox en desregulación y con PSOE o partidos territoriales en industria; no existe acuerdo acreditado para este paquete. [38, 42, 43]"
+  },
+  {
+   "source_report": "pp",
+   "page": 6,
+   "text": "Vox converge en bajar impuestos, no necesariamente en tramos ni financiación."
+  },
+  {
+   "source_report": "pp",
+   "page": 9,
+   "text": "Vox coincide en oferta y derogación, con diferencias en prioridad por nacionalidad."
+  },
+  {
+   "source_report": "pp",
+   "page": 11,
+   "text": "Vox comparte partes de la reforma, pero no se ha verificado un acuerdo sobre todas."
+  },
+  {
+   "source_report": "pp",
+   "page": 12,
+   "text": "Existe terreno potencial con PSOE en infantil y conciliación, y con Vox en apoyos familiares, sin identidad en condiciones ni enfoque."
+  },
+  {
+   "source_report": "pp",
+   "page": 13,
+   "text": "Vox puede respaldar condiciones más estrictas; PSOE y fuerzas de izquierda pueden coincidir en automatizar acceso sin aceptar recortes o cambios registrales. [11, 12, 33, 34]"
+  },
+  {
+   "source_report": "pp",
+   "page": 14,
+   "text": "Vox converge en restricciones, pero suprimir el arraigo no es igual que conservarlo como excepcional."
+  },
+  {
+   "source_report": "pp",
+   "page": 15,
+   "text": "Respaldo nacional; coincidencia potencial con Vox en endurecimiento."
+  },
+  {
+   "source_report": "pp",
+   "page": 17,
+   "text": "Vox, PNV y otras fuerzas tienen prioridades territoriales distintas; no se suman como aliados intercambiables. [24-26, 33, 35]"
+  },
+  {
+   "source_report": "pp",
+   "page": 18,
+   "text": "Vox coincide en nuclear, pero su postura climática no es idéntica al compromiso del PP con descarbonización."
+  },
+  {
+   "source_report": "pp",
+   "page": 22,
+   "text": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox."
+  },
+  {
+   "source_report": "pp",
+   "page": 30,
+   "text": "Vox: Terreno potencial: Rebajas fiscales, oferta de vivienda, nuclear y parte de la agenda de seguridad. [33, 50] Condiciones y fricciones: Discrepancias sobre arraigo, clima, autonomías y enfoque de protección social. Negociación de prioridades y financiación."
+  },
+  {
+   "source_report": "salf",
+   "page": 2,
+   "text": "La retirada del Senado y afinidades con PP/Vox no acreditan un pacto estatal."
+  },
+  {
+   "source_report": "salf",
+   "page": 5,
+   "text": "La retirada del Senado se presentó como respuesta al acuerdo entre PP y Vox para esa cámara."
+  },
+  {
+   "source_report": "salf",
+   "page": 6,
+   "text": "Hipótesis de acuerdo con PP/Vox y votos suficientes. Se estima aceptación de la versión sustancialmente íntegra de SALF."
+  },
+  {
+   "source_report": "salf",
+   "page": 56,
+   "text": "En junio de 2026 ambos describieron colaboración propia con PP y Vox como independientes."
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "El escenario B supone una negociación con PP/Vox y escaños suficientes."
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "Con PP/Vox y escaños suficientes podría negociarse una secuencia de licencias, suelo, avales y rebajas tributarias para primera vivienda."
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "El refuerzo de policía, juzgados y tramitación de retornos ofrece un terreno de negociación con PP/Vox."
+  },
+  {
+   "source_report": "salf",
+   "page": 60,
+   "text": "Coincidencias actuales sobre fronteras, impuestos y ocupación; retirada de SALF del Senado. Potencial, como inferencia: Iniciativas delimitadas de seguridad, migración, suelo y regulación. [2, 99, 106] | Límite: Competencia electoral; cuota cero condicionada en Vox frente a universal en SALF. Sin pacto ejecutivo documentado."
+  }
+ ],
+ "podemos": [
+  {
+   "source_report": "fa",
+   "page": 3,
+   "text": "El informe no identifica a Podemos como integrante estatal automático ni presupone un veto universal a acuerdos posteriores. Tampoco suma dos veces organizaciones, coaliciones territoriales y eventuales grupos parlamentarios. [15]"
+  },
+  {
+   "source_report": "fa",
+   "page": 38,
+   "text": "Las alianzas electorales son distintas según circunscripción. [15] | No tratar la relación como alianza nacional total ni incompatibilidad universal."
+  },
+  {
+   "source_report": "fa",
+   "page": 42,
+   "text": "Hay competencia y cooperación territorial distintas. Algunas prioridades pueden negociarse por medida. [15] | No se presume disciplina conjunta estatal ni que una alianza local garantice apoyo a un presupuesto nacional."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor; PP, Vox y Junts en contra."
+  },
+  {
+   "source_report": "pp",
+   "page": 30,
+   "text": "Frente Amplio y Podemos: Terreno potencial: Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común. Condiciones y fricciones: La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]"
+  },
+  {
+   "source_report": "salf",
+   "page": 62,
+   "text": "Frente Amplio y Podemos permiten identificar esta última convergencia, aunque las fórmulas difieren."
+  },
+  {
+   "source_report": "salf",
+   "page": 60,
+   "text": "El programa también elimina el régimen especial de SOCIMI; no consta interlocución con SALF. Potencial, como inferencia: Una votación concreta sobre privilegios fiscales podría coincidir. [2, 109] | Límite: La coincidencia no resuelve diferencias sobre redistribución, propiedad, derechos o inmigración."
+  }
+ ],
+ "salf": []
+}

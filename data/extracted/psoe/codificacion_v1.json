@@ -1,0 +1,956 @@
+{
+  "party_id": "psoe",
+  "coder": "v1-ciego",
+  "codings": [
+    {
+      "id": "Q01",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "E04",
+          "page": 5,
+          "quote": "Régimen 20 y coordinación administrativa.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "R03",
+          "page": 23,
+          "quote": "Menos carga administrativa y apoyo a producción sostenible.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Propone simplificación administrativa (Régimen 20) y menos carga agraria. No documenta reducir controles previos ni una desregulación fuerte: versión parcial."
+    },
+    {
+      "id": "Q02",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "E05",
+          "page": 5,
+          "quote": "Utilizar participaciones públicas para autonomía productiva.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Usa participaciones públicas en empresas para autonomía productiva. No propone crear empresas públicas en energía, banca o alimentación: versión parcial."
+    },
+    {
+      "id": "Q03",
+      "value": 0,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "F04",
+          "page": 6,
+          "quote": "Deducción reembolsable y prestación de crianza; exención efectiva del SMI.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "F02",
+          "page": 6,
+          "quote": "Elevar tramos altos del ahorro, con marginal del 35% por encima de 300.000",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Rebajas focalizadas (hogares con hijos, exención del SMI) y subida de los tramos altos del ahorro. Sin rebaja general a la mayoría: posición mixta."
+    },
+    {
+      "id": "Q04",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "No documenta un impuesto anual sobre la riqueza. F02 aclara: 'No es un 35% sobre toda renta ni todo patrimonio'. V08 grava a grandes tenedores de vivienda, objeto distinto."
+    },
+    {
+      "id": "Q05",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "S01",
+          "page": 11,
+          "quote": "Acercar gasto sanitario público al 7% del PIB, reforzar atención primaria y",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": null,
+          "page": 39,
+          "quote": "Crianza, sanidad, educación y cuidados generan gasto permanente",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": null,
+          "page": 39,
+          "quote": "Nuevas autoridades, registros, prestaciones y leyes compiten por los mismos especialistas",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "F01",
+          "page": 6,
+          "quote": "Presentar un plan en primavera de 2027 y reducir déficit y deuda,",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Amplía gasto recurrente (sanidad al 7% del PIB, crianza, cuidados) y crea nuevas autoridades, aunque promete reducir déficit. Versión parcial de lo contrario."
+    },
+    {
+      "id": "Q06",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona el impuesto de sucesiones y donaciones."
+    },
+    {
+      "id": "Q07",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona el impuesto de sociedades. F03 propone gravámenes nuevos sobre empresas con brechas salariales extremas, sin tocar el tipo general."
+    },
+    {
+      "id": "Q08",
+      "value": 0,
+      "confidence": "alta",
+      "salience": "alta",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "L01",
+          "page": 7,
+          "quote": "Legislar 37,5 horas; avanzar hacia 35 mediante negociación colectiva.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": null,
+          "page": 2,
+          "quote": "37,5 horas por ley y 35 por negociación",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "37,5 h por ley y 35 h por negociación colectiva; no plantea 32 h por ley. La nota da -1 o 0 para 37,5 h; el avance a 35 lo sitúa en 0."
+    },
+    {
+      "id": "Q09",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "L03",
+          "page": 7,
+          "quote": "Cambiar reparación por despido, salarios de tramitación y plazos.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone cambiar la reparación por despido y los salarios de tramitación; la ficha alude a una 'compensación suficiente'. Dirección de encarecer, sin cuantía: versión parcial."
+    },
+    {
+      "id": "Q10",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin propuesta de capitalización obligatoria. E03 es una cuenta de ahorro orientada a inversión europea, no un complemento de pensiones."
+    },
+    {
+      "id": "Q11",
+      "value": 1,
+      "confidence": "baja",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "P04",
+          "page": 8,
+          "quote": "Mejorar incapacidad oncológica y retorno gradual; evaluar jubilación por",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "P04",
+          "page": 8,
+          "quote": "No equivale a eliminar de forma general todos los coeficientes de",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Solo propone evaluar la jubilación por penosidad, sin eliminar de forma general los coeficientes de anticipada. No toca la edad ordinaria; análogo al +1 de carreras largas."
+    },
+    {
+      "id": "Q12",
+      "value": 1,
+      "confidence": "media",
+      "salience": "alta",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "V07",
+          "page": 10,
+          "quote": "Mayor duración y protección, seguros, intermediación e incentivos fiscales.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "V07",
+          "page": 10,
+          "quote": "Separar lo vigente del nuevo compromiso de prórrogas, cuyo decreto tuvo",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": null,
+          "page": 10,
+          "quote": "los controles pueden proteger a inquilinos cubiertos",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone mayor duración y prórrogas de alquiler, y el informe analiza sus controles sobre inquilinos cubiertos. No documenta topes de precio explícitos: versión parcial."
+    },
+    {
+      "id": "Q13",
+      "value": 0,
+      "confidence": "media",
+      "salience": "alta",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "V03",
+          "page": 9,
+          "quote": "Banco de suelo, industrialización, FP de construcción y agilización urbanística.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "V08",
+          "page": 10,
+          "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "V02",
+          "page": 9,
+          "quote": "Llegar a 100.000 viviendas estatales mediante adquisición y construcción;",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Combina suelo y agilización urbanística con intervención: gravamen y restricciones a grandes tenedores y parque estatal. No antepone liberalizar a intervenir: mixta."
+    },
+    {
+      "id": "Q14",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "J05",
+          "page": 18,
+          "quote": "Digitalizar procesos y agilizar procedimientos sobre ocupación. No prometer",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "J05",
+          "page": 18,
+          "quote": "desalojo automático en 48 horas para toda disputa: importan el tipo de caso y",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Agiliza procedimientos sobre ocupación sin plazo exprés; el informe advierte que no promete desalojo automático en 48 horas. Nota: +1."
+    },
+    {
+      "id": "Q15",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "V09",
+          "page": 10,
+          "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Para vivienda vacía propone instrumentos locales, alquiler garantizado y cambios de uso, sin expropiación. Movilizar vacías sin expropiar: +1 según la nota."
+    },
+    {
+      "id": "Q16",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "V09",
+          "page": 10,
+          "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "V08",
+          "page": 10,
+          "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "La ficha de vivienda vacía y turística propone instrumentos locales y cambios de uso; V08 restringe usos no residenciales. Sin prohibición: versión parcial."
+    },
+    {
+      "id": "Q17",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición documentada sobre prioridad por nacionalidad en vivienda o ayudas. La frase de la p. 17 sobre nacionalidad es una recomendación de seguimiento del analista."
+    },
+    {
+      "id": "Q18",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "S01",
+          "page": 11,
+          "quote": "personal, y priorizar gestión pública directa.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Prioriza la gestión pública directa en sanidad. No propone dejar de pagar a centros privados: versión parcial."
+    },
+    {
+      "id": "Q19",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata el acceso sanitario de inmigrantes en situación irregular."
+    },
+    {
+      "id": "Q20",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre conciertos educativos. ED01 universaliza la oferta pública de 0-3 sin hablar de conciertos; la mención del informe del PP es hipótesis."
+    },
+    {
+      "id": "Q21",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre la elección de lengua vehicular en comunidades con lengua cooficial."
+    },
+    {
+      "id": "Q22",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la LOMLOE. Las menciones del informe del PP ('puede coincidir', 'disenso relevante') son análisis, no hechos documentados."
+    },
+    {
+      "id": "Q23",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "IG02",
+          "page": 16,
+          "quote": "Protección constitucional del aborto y mejoras asistenciales.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone proteger el aborto en la Constitución (reforma del artículo 43). Nota: blindarlo en la Constitución es +2."
+    },
+    {
+      "id": "Q24",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "PS01 automatiza el acceso al IMV; no trata su retirada a quien rechace ofertas de empleo."
+    },
+    {
+      "id": "Q25",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "PS04 desarrolla la protección LGTBI y persigue terapias de conversión; no menciona la autodeterminación registral."
+    },
+    {
+      "id": "Q26",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "IG03 refuerza prevención y apoyo frente a violencias (incluida la vicaria) sin documentar posición sobre la ley de violencia de género o su sustitución."
+    },
+    {
+      "id": "Q27",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "MI02 refuerza vías regulares, pero el informe dice que 'no equivale a una regularización nueva de alcance indefinido'. No se atribuye regularización."
+    },
+    {
+      "id": "Q28",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre expulsiones o retornos de inmigrantes en situación irregular."
+    },
+    {
+      "id": "Q29",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre los requisitos para obtener la nacionalidad."
+    },
+    {
+      "id": "Q30",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición general sobre penas de prisión o reincidencia; solo cambios penales sectoriales (violencias, trata, terapias de conversión)."
+    },
+    {
+      "id": "Q31",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "J02",
+          "page": 18,
+          "quote": "Sustituir la Ley Orgánica 4/2015, con garantías y medios como cámaras",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone sustituir la Ley Orgánica 4/2015 de Seguridad Ciudadana por una nueva con garantías."
+    },
+    {
+      "id": "Q32",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona el cannabis."
+    },
+    {
+      "id": "Q33",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Documenta el acuerdo PSOE-PP de 2024 para renovar el CGPJ, sin detallar el sistema de elección de sus miembros."
+    },
+    {
+      "id": "Q34",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre un referéndum entre monarquía y república."
+    },
+    {
+      "id": "Q35",
+      "value": -1,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "T04",
+          "page": 20,
+          "quote": "Regular cooperación y conferencias; orientar el Senado a representación",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone orientar el Senado a la representación territorial, no suprimirlo. Nota: transformarlo en cámara territorial es -1."
+    },
+    {
+      "id": "Q36",
+      "value": 0,
+      "confidence": "baja",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "T04",
+          "page": 20,
+          "quote": "Regular cooperación y conferencias; orientar el Senado a representación",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "T05",
+          "page": 20,
+          "quote": "Mejorar atención en lenguas cooficiales y tratamientos territoriales",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "T01",
+          "page": 20,
+          "quote": "Nuevo modelo con 21.000 millones adicionales anunciados.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "No propone recuperar competencias. Refuerza la cooperación (coordinar, +1 según la nota) y a la vez tratamientos territoriales específicos y Senado territorial (negativo): mixta."
+    },
+    {
+      "id": "Q37",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "T02",
+          "page": 20,
+          "quote": "Asunción estatal de 83.000 millones de deuda autonómica.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "Propone que el Estado asuma 83.000 millones de deuda autonómica."
+    },
+    {
+      "id": "Q38",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona el Estado plurinacional."
+    },
+    {
+      "id": "Q39",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la ley de amnistía."
+    },
+    {
+      "id": "Q40",
+      "value": -1,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "EN03",
+          "page": 21,
+          "quote": "Mantener horizonte de cierre en 2035. La autorización vigente de Almaraz",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "Mantiene el horizonte de cierre nuclear en 2035, con Almaraz autorizada hasta junio de 2030. Mantener el calendario vigente: -1 según la nota."
+    },
+    {
+      "id": "Q41",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "EN01",
+          "page": 21,
+          "quote": "Alcanzar el 81% de generación renovable en 2030.",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": "CL01",
+          "page": 22,
+          "quote": "Ley de adaptación, refugios, alerta y medios contra incendios.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Propone acelerar la transición: 81% de generación renovable en 2030, ley de adaptación y restauración ecológica. Sentido contrario a frenar las normas climáticas."
+    },
+    {
+      "id": "Q42",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre impuestos a la electricidad y los carburantes. F03 grava consumos intensivos en carbono de lujo, objeto distinto."
+    },
+    {
+      "id": "Q43",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre caza o tauromaquia; CL04 trata el bienestar animal en general."
+    },
+    {
+      "id": "Q44",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona Mercosur. R01 pide condiciones recíprocas de producción sin posición sobre el acuerdo."
+    },
+    {
+      "id": "Q45",
+      "value": 1,
+      "confidence": "baja",
+      "salience": "baja",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "TR03",
+          "page": 24,
+          "quote": "Financiación estable, integración, ayudas y movilidad activa. La tarifa no",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Propone financiación estable y ayudas al transporte cotidiano; el informe advierte que la tarifa no sustituye frecuencia. Sin gratuidad general: +1."
+    },
+    {
+      "id": "Q46",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre la prohibición de vender coches de combustión desde 2035."
+    },
+    {
+      "id": "Q47",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "F03",
+          "page": 6,
+          "quote": "Fiscalidad digital/IA, consumos intensivos en carbono de lujo y brechas",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": null,
+          "page": 25,
+          "quote": "negociables por separado de impuestos o restricciones a plataformas.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "Propone una fiscalidad digital/IA nueva; el informe la cuenta entre los impuestos a plataformas. Bases y sujetos por concretar."
+    },
+    {
+      "id": "Q48",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "Sin posición sobre límites legales al pago en efectivo."
+    },
+    {
+      "id": "Q49",
+      "value": 0,
+      "confidence": "media",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "EX05",
+          "page": 27,
+          "quote": "Modernización, cooperación, capacidades industriales, ciberseguridad y",
+          "source_report": "psoe"
+        },
+        {
+          "unit_id": null,
+          "page": 27,
+          "quote": "No atribuir al programa una cifra cerrada de gasto militar que no concreta en sus compromisos.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Modernización y capacidades de defensa sin cifra de gasto; el informe pide no atribuirle una cifra cerrada. Nota: modernizar sin cifra es 0 o +1; sin compromiso de aumento, 0."
+    },
+    {
+      "id": "Q50",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "EX02",
+          "page": 27,
+          "quote": "Profundizar capacidad fiscal y democracia europeas, así como prioridades",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Baja"
+      },
+      "rationale": "Propone profundizar la capacidad fiscal y la democracia europeas. Nota: pedir más capacidad fiscal europea es negativo."
+    },
+    {
+      "id": "Q51",
+      "value": null,
+      "confidence": null,
+      "salience": null,
+      "cross": false,
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la OTAN. El informe de Podemos dice que la salida de la OTAN no se acredita para el PSOE."
+    },
+    {
+      "id": "Q52",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "IN05",
+          "page": 19,
+          "quote": "Desarrollar reparación, exhumaciones y divulgación.",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone desarrollar la memoria democrática (reparación, exhumaciones, divulgación). Es lo contrario de derogar la ley."
+    },
+    {
+      "id": "Q53",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "cross": false,
+      "evidence": [
+        {
+          "unit_id": "T05",
+          "page": 20,
+          "quote": "Mejorar atención en lenguas cooficiales y tratamientos territoriales",
+          "source_report": "psoe"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Propone mejorar la atención en lenguas cooficiales en los servicios del Estado. No menciona su uso en el Congreso: versión parcial."
+    }
+  ]
+}

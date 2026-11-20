@@ -1,0 +1,2749 @@
+ANÁLISIS DE POLÍTICAS PÚBLICAS
+
+
+
+
+PSOE
+Propuestas, viabilidad y escenarios de ejecución
+Elecciones generales de España | 29 de noviembre de 2026
+
+
+Qué podría cambiar realmente
+Evaluación neutral de compromisos, financiación, restricciones, respaldo interno, acuerdos
+posibles y resultados esperados. Distingue lo prometido de lo ya aprobado, lo entregado y su
+efecto social.
+
+
+ Cobertura                                                  Corte de información
+
+ 19 ámbitos | 120 unidades de análisis                      17 de noviembre de 2026
+
+ Programa base presentado el 15 de noviembre                Versión 1.0 | Fuentes numeradas y enlazadas
+
+ Aprobación, entrega, eficacia y permanencia                Escenarios condicionados; sin pronóstico electoral
+
+No recomienda un voto ni asigna una nota global al partido. Las categorías de viabilidad son juicios
+cualitativos, no porcentajes estadísticos.
+
+
+Guía de lectura
+Conclusiones y método
+Fichas de los 19 ámbitos
+Fiscalidad, evidencia y estado de ejecución
+Respaldo, perfiles y acuerdos
+Seguimiento, cobertura y fuentes
+Fuentes: programa y documentos del PSOE, BOE, Congreso, AIReF, INE, instituciones europeas, registros gubernamentales
+y antecedentes parlamentarios. [1][2]
+LECTURA EN CINCO MINUTOS
+
+
+Conclusiones ejecutivas
+La diferencia decisiva es entre prometer, aprobar y entregar
+El PSOE presenta una agenda extensa de vivienda, servicios públicos, protección social, transición productiva y
+nuevos derechos. Parte amplía medidas ya legisladas; otra parte exige leyes nuevas, acuerdos territoriales o
+reformas constitucionales. La capacidad de aprobar no permite inferir el resultado material. [2]
+
+ Hallazgo                  Consecuencia para la evaluación
+
+                           TU CASA, el Plan Estatal de Vivienda, la indexación de pensiones y reformas de dependencia
+ No todo es nuevo
+                           ya tienen antecedentes legales. Medir ampliación y ejecución adicional. [16][14][22][24]
+
+                           El programa combina gasto recurrente, préstamos, avales y objetivos de movilización. No
+ La cuenta fiscal está
+                           puede obtenerse un saldo neto fiable sumando sus cifras. La alerta de AIReF es una restricción
+ abierta
+                           de partida, no una calificación electoral. [8]
+
+ Hay objetivos de          37,5 horas por ley y 35 por negociación; crianza sin cuantía mensual cerrada; 100.000
+ alcance distinto          viviendas mediante compra y construcción. Confundir esos alcances cambia el análisis. [2]
+
+ Los apoyos no son         Hay disenso territorial socialista en financiación. Las votaciones de vivienda muestran que un
+ uniformes                 mismo socio puede apoyar un decreto y rechazar otro. [40][41][19]
+
+ La mayoría ordinaria no   Constitución, acuerdos europeos y decisiones internacionales tienen requisitos propios. Una
+ basta                     investidura favorable no garantiza presupuesto ni acuerdos de ejecución. [30]
+
+Qué es más evaluable y qué sigue abierto
+Análisis: las reglas tributarias concretas, transferencias bien definidas y procedimientos administrativos ofrecen
+una ruta verificable. Viviendas, redes, servicios intensivos en personal y cambios internacionales necesitan más
+condiciones. En varios compromisos faltan cuantía, población diana o plazo: no se sustituyen esos vacíos por
+porcentajes aparentes.
+El informe no recomienda un voto, no estima quién ganará y no asigna una nota global al partido. Identifica qué
+versión de cada medida podría avanzar, bajo qué apoyos y con qué evidencia.
+
+
+
+
+                                                                                             PSOE | Evaluación de propuestas 2
+01 | CONTROL DOCUMENTAL
+
+
+Alcance, versiones y trazabilidad
+La convocatoria oficial fija la votación el 29 de noviembre de 2026. El texto base es el programa nacional del
+PSOE presentado el 15 de noviembre; la comprobación se cierra el 17 de noviembre. No se mezclan
+automáticamente propuestas de 2023 ni anuncios posteriores a este corte. [1][3][2]
+
+ Elemento               Criterio aplicado
+
+                        120 fichas agrupadas por instrumento o problema de ejecución, distribuidas en 19 ámbitos y 24
+ Unidad de análisis
+                        páginas sectoriales. No son 120 promesas literalmente independientes.
+
+                        El programa tiene 500 numeraciones. Hay epígrafes, repeticiones y compromisos compuestos. El
+ Cobertura              índice final orienta sobre los bloques cubiertos; no certifica una auditoría frase por frase de las
+                        500 entradas.
+
+                        Fecha base: 15/11/2026. Fuentes complementarias conservan su fecha propia. Una ley de 2021
+ Recencia               puede seguir siendo la línea base; una noticia nueva no renueva por sí sola un compromiso
+                        antiguo.
+
+                        Se distinguen: compromiso nuevo, continuidad, desarrollo de norma vigente, propuesta en
+ Estado                 tramitación, acuerdo documentado y objetivo internacional. No todos pueden puntuarse como
+                        aprobación futura.
+
+                        Partido, dirección, federaciones, Gobierno de coalición y administraciones ejecutoras son actores
+ Responsabilidad
+                        diferentes. Una actuación del Gobierno no demuestra autoría exclusiva del PSOE.
+
+                        Publicación y presentación acreditan respaldo formal. No existe aquí una encuesta de adhesión a
+ Apoyo interno
+                        cada propuesta. La ausencia de críticas no se convierte en unanimidad.
+
+ Naturaleza de las      Los compromisos llevan números del programa y fuentes. Los juicios de viabilidad, riesgos y
+ conclusiones           escenarios son análisis propio condicionado; no resultados estadísticos calibrados.
+
+Lectura y referencias
+Primero: método y 19 ámbitos. Después: cuenta fiscal, evidencia, estado de ejecución, requisitos jurídicos,
+respaldo interno, perfiles, acuerdos y seguimiento. Las referencias entre corchetes remiten a la bibliografía
+enlazada. El n. de cada ficha es la numeración original del programa.
+Las fuentes del partido prueban su posición, no su eficacia. Las estadísticas describen resultados, no identifican
+por sí solas causalidad. Los acuerdos hipotéticos aparecen como posibilidades, nunca como pactos firmados.
+
+
+
+
+                                                                                              PSOE | Evaluación de propuestas 3
+02 | MÉTODO
+
+
+Probabilidades condicionadas y confianza
+ Escenario              Supuesto; no previsión electoral
+
+                        Gobierno del PSOE con mayoría suficiente para legislación ordinaria y orgánica. No supone
+ A | Mayoría propia     control judicial, mayoría constitucional ni capacidad de cambiar normas europeas
+                        unilateralmente.
+
+ B | Acuerdo de         Coalición de izquierda y apoyos externos suficientes, sujetos a un programa negociado. No se
+ gobierno               presupone que cada socio acepte la versión exacta socialista ni todas sus prioridades.
+
+                        Gobierno del PSOE sin mayoría estable: necesita apoyos o abstenciones distintos para cada
+ C | Minoría variable
+                        medida. No se suman votos de partidos incompatibles sin un compromiso documentado.
+
+A/B/C estima cualitativamente la aprobación de una versión sustancialmente fiel durante una legislatura. E
+estima su entrega después de aprobación legal y financiación suficiente. No es la probabilidad conjunta de ganar,
+aprobar, financiar y entregar. Horizonte: cuatro años desde la toma de posesión, salvo plazo explícito distinto.
+
+ Categoría              Interpretación
+
+                        Ruta identificable y relativamente directa bajo el supuesto. No implica certeza ni ausencia de
+ Alta
+                        coste de oportunidad.
+
+                        Necesita concreción, acuerdos, capacidad o coordinación sustancial. La ficha explicita la
+ Media
+                        restricción relevante.
+
+                        La versión completa encuentra una barrera jurídica, externa o temporal que el supuesto no
+ Baja
+                        resuelve.
+
+                        NE: no estimable por falta de objetivo, diseño o horizonte. Base vigente: no procede fingir una
+ NE / Base vigente
+                        probabilidad de aprobar de nuevo la misma norma.
+
+Confianza y qué cambiaría una estimación
+Confianza en el texto oficial: alta cuando es explícito. Confianza en los pronósticos: generalmente media-baja, al
+no existir modelo calibrado para este programa. No se promedian barreras decisivas ni se convierten categorías
+en porcentajes. Un articulado, una memoria fiscal, un pacto firmado o convenios ejecutores pueden modificar el
+pronóstico.
+Eficacia social, distribución y permanencia se analizan aparte. Desde la oposición seguirían siendo posibles
+iniciativas, acuerdos o adopción parcial por otro Gobierno; sin control de la ejecución no se les asigna aquí un
+escenario numérico.
+
+
+
+
+                                                                                             PSOE | Evaluación de propuestas 4
+03 | FICHAS SECTORIALES
+
+
+01. Economía, productividad y empresas
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 1-7; 90-92
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ E01 |
+                        Consolidar España Crece. El fondo ya existe: deben separarse capital público,
+ Financiación de                                                                                          Alta / Alta / Media
+                        préstamos y capital privado movilizado. El resultado es inversión adicional, no
+ inversión                                                                                                E: Media
+                        el volumen anunciado.
+ n. 1
+
+ E02 | Política         Nueva ley industrial y proyectos de descarbonización. Requieren selección
+                                                                                                          Alta / Media / Media
+ industrial             competitiva, autorizaciones, redes y compatibilidad con ayudas de Estado;
+                                                                                                          E: Media
+ n. 2-3                 una subvención no garantiza actividad adicional.
+
+ E03 | Ahorro e         Cuenta orientada a inversión europea. Falta cerrar tratamiento fiscal,            Media / Media /
+ inversión              productos elegibles y protección del ahorrador; evaluar si desplaza ahorro        Media
+ n. 4                   existente o aporta capital nuevo.                                                 E: Media
+
+ E04 |                  Régimen 20 y coordinación administrativa. La interoperabilidad exige
+                                                                                                          Alta / Alta / Media
+ Simplificación         acuerdos y cambios de procedimientos, no sólo una ventanilla o marca
+                                                                                                          E: Media
+ n. 5                   compartida.
+
+ E05 |
+                        Utilizar participaciones públicas para autonomía productiva. El expediente        Media / Media /
+ Participaciones
+                        debe justificar fallo de mercado, precio, gobierno corporativo y condiciones      Media
+ estratégicas
+                        de salida.                                                                        E: Media
+ n. 7
+
+Situación de partida
+España Crece anuncia 13.300 millones de aportación al ICO, capacidad propia de hasta 60.000 millones y
+movilización público-privada de 120.000 millones. No son tres bolsas de gasto independientes. La aportación
+combina recursos reembolsables y no reembolsables. [11]
+Coste, eficacia y distribución
+Análisis: valorar pérdida esperada, coste de capital y concentración de riesgos. Las pymes pueden ganar acceso a
+financiación, pero los procedimientos complejos favorecen a solicitantes grandes. Comparar ayudas selectivas
+con infraestructuras, competencia y simplificación general.
+Respaldo y acuerdos
+Respaldo formal nacional. Cuerpo y España son responsables institucionales de la vertiente económica y fiscal;
+no constituyen un gabinete futuro anunciado. La participación estatal y la condicionalidad de ayudas necesitarían
+negociación medida a medida. [7]
+Qué comprobar
+Inversión neta adicional, productividad por hora, coste por empleo sostenido, impagos y tiempo de tramitación.
+La EPA del tercer trimestre sitúa el paro en 10,18%; no debe usarse como dato actual un umbral anterior inferior
+al 10%. [10]
+Fuentes: [2][11][10][7] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                  PSOE | Evaluación de propuestas 5
+03 | FICHAS SECTORIALES
+
+
+02. Fiscalidad y cuentas públicas
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 125-135; 458
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                     A / B / C; E
+ programa
+
+ F01 | Nueva            Presentar un plan en primavera de 2027 y reducir déficit y deuda,                   Media / Media /
+ senda fiscal           protegiendo inversión. Un aval macroeconómico no equivaldría a validar todo         Media
+ n. 125-129             el programa.                                                                        E: Media
+
+ F02 | Rentas del       Elevar tramos altos del ahorro, con marginal del 35% por encima de 300.000
+                                                                                                            Alta / Media / Baja
+ ahorro                 euros; mantener los dos primeros tramos. No es un 35% sobre toda renta ni
+                                                                                                            E: Alta
+ n. 130                 todo patrimonio.
+
+ F03 | Nuevos           Fiscalidad digital/IA, consumos intensivos en carbono de lujo y brechas
+                                                                                                            Media / Media / Baja
+ gravámenes             salariales extremas en empresas. Bases, sujetos, deducciones y respuestas de
+                                                                                                            E: NE
+ n. 131-133             elusión están por concretar.
+
+ F04 | Hogares          Deducción reembolsable y prestación de crianza; exención efectiva del SMI.
+                                                                                                            Alta / Media / Media
+ con hijos              Hay que integrar beneficios existentes y evitar contar dos veces hogares y
+                                                                                                            E: Media
+ n. 127,134             recursos.
+
+ F05 |
+                        Duplicar el tipo del impuesto sobre transacciones financieras del 0,2% al
+ Transacciones y                                                                                            Alta / Media / Baja
+                        0,4%. La idea internacional sobre tokens de IA es distinta: no constituye
+ coordinación                                                                                               E: Media
+                        recaudación nacional disponible.
+ n. 135,458
+
+Límite financiero
+AIReF estima un crecimiento medio del gasto primario neto del 5,7% en 2026-2028 frente al 3,2%
+comprometido. Es una evaluación del escenario vigente, no una auditoría de este programa. Obliga a confrontar
+prestaciones nuevas con ingresos y reasignaciones verificables. [8]
+Eficacia y distribución
+Análisis: la progresividad legal no determina por sí sola la incidencia final. Puede haber cambios de residencia,
+realización de plusvalías, precios o formas de remuneración. La deducción reembolsable debe llegar también a
+hogares sin cuota tributaria.
+Respaldo y negociación
+El programa acredita respaldo de dirección, no conformidad territorial ni de socios con cada impuesto. No se
+presume que PNV o Junts acepten el paquete por respaldar otras políticas. Una ley fiscal y su recaudación
+efectiva son hitos diferentes.
+Verificación
+Publicar memoria estática y escenarios de comportamiento; coste anual y a cuatro años; distribución por decilas;
+rendimiento neto de gastos administrativos. Sin estas piezas, el saldo global del programa no es estimable.
+Fuentes: [2][8][9] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                    PSOE | Evaluación de propuestas 6
+03 | FICHAS SECTORIALES
+
+
+03. Empleo y relaciones laborales
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 87-92; 108-124
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                    A / B / C; E
+ programa
+
+ L01 | Tiempo de        Legislar 37,5 horas; avanzar hacia 35 mediante negociación colectiva.
+                                                                                                           Alta / Media / Baja
+ trabajo                Registro digital e inspección. Son mecanismos y grados de obligatoriedad
+                                                                                                           E: Media
+ n. 108-109             diferentes.
+
+ L02 | Salario
+                        Garantizar referencia superior al 60% del salario medio y limitar absorción de     Alta / Alta / Media
+ mínimo
+                        complementos. Definir indicador, periodo y seguimiento de horas y empleo.          E: Media
+ n. 87-88
+
+ L03 | Despido y        Cambiar reparación por despido, salarios de tramitación y plazos. Precisa
+                                                                                                           Alta / Media / Baja
+ justicia laboral       articulado, dotación judicial y compatibilidad de remedios; no basta anunciar
+                                                                                                           E: Media
+ n. 110-113             compensación suficiente.
+
+ L04 | Activación       Programas para jóvenes, mayores de 45 y autónomos; limitar uso de tiempo
+                                                                                                           Alta / Alta / Media
+ y autónomos            parcial. Agrupa instrumentos distintos que deben evaluarse por colectivo y
+                                                                                                           E: Media
+ n. 117-123             coste por inserción adicional.
+
+ L05 | Protección
+                        Prevención psicosocial y térmica, participación, empleo inclusivo y desarrollo
+ y representación                                                                                          Alta / Media / Media
+                        de pasarela de mutualistas al RETA. La ley de mutualidades de julio es
+ n. 114-116,120-                                                                                           E: Media
+                        antecedente, no promesa desde cero.
+ 124
+
+Evidencia política
+El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas
+de totalidad. El antecedente identifica una restricción real, pero no fija para siempre el voto de una legislatura
+futura. [12]
+Coste y resultados
+Análisis: estimar coste por hora, cobertura real, productividad, horas extraordinarias y cumplimiento por tamaño
+empresarial. Una mejora de jornada puede producir bienestar sin aumentar producción; no debe exigirse un
+único resultado para evaluarla.
+Atribución y respaldo
+La política laboral de la coalición no es obra exclusiva del PSOE: el Ministerio de Trabajo está dirigido por
+Yolanda Díaz. El compromiso electoral socialista y el expediente gubernamental son fuentes distintas. [7]
+Seguimiento
+Comparar salarios y horas efectivas, empleo y cierres por sectores, litigios, accidentes y resultados de inserción a
+12-24 meses. Para mutualistas, identificar requisitos, transferencias y prestaciones reconocidas, no sólo
+solicitudes. [13]
+Fuentes: [2][12][7][13] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                   PSOE | Evaluación de propuestas 7
+03 | FICHAS SECTORIALES
+
+
+04. Pensiones y envejecimiento
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 98-107; 365
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                 A / B / C; E
+ programa
+
+ P01 | Poder
+                        Mantener IPC y mejorar pensiones mínimas. La indexación ordinaria ya existe;    Regla ya vigente
+ adquisitivo
+                        blindarla en la Constitución requiere un procedimiento y mayorías diferentes.   E: Alta
+ n. 98-100,365
+
+ P02 | Ingresos del     Reforzar financiación y separación de fuentes, con cambios en solidaridad.
+                                                                                                        Alta / Media / Media
+ sistema                Exigir proyección actuarial de ingresos, transferencias y gasto, no sólo
+                                                                                                        E: Media
+ n. 98-99               equilibrio anual.
+
+ P03 | Brecha de        Añadir reconocimiento de cotización por hijo y reforzar determinadas
+                                                                                                        Alta / Alta / Media
+ cuidados               pensiones de orfandad. Definir elegibilidad y coordinación con complementos
+                                                                                                        E: Media
+ n. 101,106             existentes.
+
+ P04 |
+                        Mejorar incapacidad oncológica y retorno gradual; evaluar jubilación por
+ Enfermedad y                                                                                           Alta / Media / Media
+                        penosidad. No equivale a eliminar de forma general todos los coeficientes de
+ penosidad                                                                                              E: Media
+                        jubilación anticipada.
+ n. 102-104
+
+ P05 |
+                        Transformar mutuas colaboradoras en entidades gestoras públicas. Implica
+ Gobernanza de                                                                                          Media / Media / Baja
+                        personal, patrimonio, sistemas y continuidad de prestaciones. No confundirlas
+ mutuas                                                                                                 E: Media
+                        con mutualidades profesionales alternativas.
+ n. 107
+
+Adicionalidad
+La Ley 21/2021 fija el antecedente de revalorización por IPC. El primer trámite para 2027 no convierte el
+porcentaje final en conocido a 17 de noviembre. La tabla separa continuidad de esa regla y nuevas ampliaciones.
+[22][23]
+Riesgo y distribución
+Análisis: mayor suficiencia para perceptores puede requerir cotizaciones, impuestos u otras reasignaciones.
+Medir impacto por carrera laboral, sexo, edad y nivel de renta; explicitar la transferencia entre generaciones y las
+obligaciones futuras.
+Apoyos y permanencia
+Las mejoras parciales pueden negociarse separadamente de la reforma institucional de mutuas. La protección
+constitucional no elimina el problema de financiación ni garantiza una cuantía concreta. No hay respaldo
+acreditado de otros partidos al paquete completo. [30]
+Indicadores
+Tasa de sustitución y pobreza en mayores; brecha de pensión; ingresos contributivos y transferencias;
+solicitudes resueltas y demora. Para penosidad, exigir criterios de exposición y comparación entre ocupaciones.
+Fuentes: [2][22][23][30] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 8
+03 | FICHAS SECTORIALES
+
+
+05A. Vivienda: parque, suelo y financiación
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 37-60
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                    A / B / C; E
+ programa
+
+ V01 | Esfuerzo         Movilizar anualmente el 1% del PIB y destinar una fracción de licitaciones de
+                                                                                                           Media / Media / Baja
+ financiero             obra a adquisición. Separar gasto, préstamos, avales y aportaciones de cada
+                                                                                                           E: Media
+ n. 38,40-41            administración.
+
+ V02 | Parque           Llegar a 100.000 viviendas estatales mediante adquisición y construcción;
+                                                                                                           Alta / Alta / Media
+ estatal                proteger su destino. No son necesariamente 100.000 viviendas nuevas ni
+                                                                                                           E: Media
+ n. 42-47               todas disponibles de inmediato.
+
+ V03 | Suelo y          Banco de suelo, industrialización, FP de construcción y agilización urbanística.
+                                                                                                           Alta / Media / Media
+ producción             Suelo inventariado no es suelo urbanizado; licencias, servicios y capacidad de
+                                                                                                           E: Media
+ n. 43-53,58            obra condicionan entrega.
+
+ V04 | Líneas           Al menos 25.000 millones del ICO, 4.700 millones vinculados al Fondo Social        Media / Media /
+ financieras            para el Clima y 400 millones anuales de impacto social. Comprobar                  Media
+ n. 55-57               solapamientos y elegibilidad.                                                      E: Media
+
+ V05 |
+                        Añadir al menos 550.000 rehabilitaciones y oferta para estudiantes y
+ Rehabilitación y                                                                                          Alta / Alta / Media
+                        trabajadores. Contar viviendas terminadas, calidad y ahorro energético, no
+ alojamiento                                                                                               E: Media
+                        sólo expedientes concedidos.
+ n. 59-60
+
+Qué ya estaba aprobado
+El Plan Estatal 2026-2030 prevé 7.000 millones: 4.200 estatales y 2.800 autonómicos. Su existencia es línea
+base; la ambición adicional exige reconciliar estos importes con las nuevas cifras y con los recursos del ICO. [14]
+[15]
+Viabilidad y coste
+Análisis: comprar viviendas amplía el parque público, pero no aumenta necesariamente el parque total. Construir
+sí puede hacerlo, con otro calendario. Incorporar coste del suelo, urbanización, mantenimiento, vacancia y
+financiación; no sumar dos veces una misma operación.
+Respaldo y acuerdos
+Respaldo nacional y responsabilidad sectorial de Isabel Rodríguez. La entrega depende de comunidades,
+ayuntamientos y operadores. Coincidir en aumentar oferta no supone compartir titularidad, alquiler exigido o
+reglas de protección. [58]
+Hitos verificables
+Inventario inicial, cartera por fase, licencias, contratos, viviendas habitables y ocupadas, alquiler sobre renta del
+hogar y coste total por unidad. Publicar bajas del parque para medir incremento neto.
+Fuentes: [2][14][15][11][58] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                   PSOE | Evaluación de propuestas 9
+03 | FICHAS SECTORIALES
+
+
+05B. Vivienda: acceso, alquiler y regulación
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 61-86
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+                        Línea de 10.000 millones para facilitar entrada, hasta 50.000 euros. La base
+ V06 | TU CASA                                                                                            Base ya vigente
+                        legal ya está en el RDL 29/2026; faltan condiciones operativas y seguimiento
+ n. 67                                                                                                    E: Media
+                        de acceso efectivo.
+
+ V07 | Estabilidad      Mayor duración y protección, seguros, intermediación e incentivos fiscales.
+                                                                                                          Media / Media / Baja
+ de alquileres          Separar lo vigente del nuevo compromiso de prórrogas, cuyo decreto tuvo
+                                                                                                          E: Media
+ n. 61-66,68-69         rechazo parlamentario.
+
+ V08 | Grandes
+                        Gravamen y restricciones a usos o compras no residenciales. Las
+ tenedores y                                                                                              Alta / Media / Baja
+                        numeraciones 70 y 72 se solapan: no generar dos estimaciones de ingresos
+ fondos                                                                                                   E: Media
+                        por la misma medida.
+ n. 70-72,78,80
+
+ V09 | Vivienda         Instrumentos locales, alquiler garantizado y cambios de uso. Necesitan datos,
+                                                                                                          Alta / Media / Media
+ vacía y turística      competencias y capacidad inspectora; no toda vivienda vacía es
+                                                                                                          E: Media
+ n. 73-76               inmediatamente habitable o está donde hay demanda.
+
+ V10 | Datos y          Registros, inspección, evaluación y protección frente a pérdida de vivienda. La
+                                                                                                          Alta / Alta / Media
+ escudo social          garantía requiere alternativa residencial y coordinación social, no sólo
+                                                                                                          E: Media
+ n. 77,79-86            suspender un procedimiento.
+
+Dos decretos, dos resultados
+El 12 de noviembre se convalidó el RDL 29/2026 y se rechazó el 28/2026, relativo a prórroga de
+arrendamientos. PNV respaldó el primero, no el segundo. No se puede trasladar una votación de vivienda a
+cualquier otra. [17][18][19]
+Eficacia y distribución
+Análisis: los controles pueden proteger a inquilinos cubiertos, mientras la respuesta de propietarios puede alterar
+mantenimiento, selección o canales de alquiler. Ayudar a comprar puede elevar demanda antes de que responda
+la oferta. Evaluar precios, accesibilidad y disponibilidad conjuntamente.
+Condiciones financieras
+Un préstamo sin intereses tiene coste de financiación y riesgo aunque sea reembolsable. TU CASA tiene
+condicionantes de precio y devolución; no debe describirse como transferencia gratuita ni como programa
+ejecutado sólo por estar legislado. [16]
+Seguimiento
+Contratos y rentas reales por cohortes, ofertas comparables, stock permanente, desahucios con alternativa,
+morosidad y beneficiarios netos. Un descenso de anuncios en un portal no mide por sí solo la oferta total.
+Fuentes: [2][16][17][18][19][20] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 10
+03 | FICHAS SECTORIALES
+
+
+06. Sanidad
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 136-156; 366
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                  A / B / C; E
+ programa
+
+ S01 |
+                        Acercar gasto sanitario público al 7% del PIB, reforzar atención primaria y
+ Financiación y                                                                                          Alta / Alta / Media
+                        personal, y priorizar gestión pública directa. Recursos y competencias están
+ gestión                                                                                                 E: Media
+                        repartidos.
+ n. 136,138-142
+
+ S02 | Salud
+                        Ampliación progresiva de cartera; ayuda dental inicial de hasta 200 euros
+ bucodental y                                                                                            Alta / Alta / Media
+                        anuales para rentas medias y bajas y extensión de VEO. No es cobertura
+ visual                                                                                                  E: Media
+                        universal ilimitada.
+ n. 137,144
+
+ S03 | Acceso y         Reducir esperas y garantizar primera atención psicológica en 30 días, con
+                                                                                                         Alta / Alta / Media
+ salud mental           urgencias inmediatas. Definir triaje, profesional, continuidad y nivel
+                                                                                                         E: Media
+ n. 136,140,143         asistencial.
+
+ S04 | Prevención
+                        Evaluación de medicamentos, cribados, enfermedades raras, cuidados
+ y tratamientos                                                                                          Alta / Alta / Media
+                        domiciliarios y prevención. Cada ampliación precisa población diana,
+ n. 145-147,149-                                                                                         E: Media
+                        evidencia y capacidad diagnóstica posterior.
+ 156
+
+ S05 | Datos            Interoperabilidad y Espacio Europeo de Datos de Salud. La norma europea ya
+                                                                                                         Alta / Alta / Media
+ sanitarios             existe; interoperar no permite cualquier reutilización ni elimina obligaciones
+                                                                                                         E: Media
+ n. 148                 de privacidad y seguridad.
+
+Línea base y atribución
+La cartera y la normativa estatal no sustituyen la gestión autonómica. Además, Sanidad está dirigida por Mónica
+García: no deben atribuirse todos los resultados de coalición exclusivamente al PSOE. [7]
+Eficacia y coste
+Análisis: financiar más no asegura personal disponible a corto plazo. La ayuda dental puede aliviar gasto, pero
+precisa tarifas, acreditación y controles para evitar absorción por precios. Los cribados necesitan evaluar
+beneficio, falsos positivos y sobrediagnóstico por indicación.
+Medición y negociación
+Los criterios de listas de espera están en revisión; comparar series exige el mismo inicio del reloj y prioridades.
+Las mejoras de acceso son negociables por separado del modelo de gestión. El calendario de datos de salud se
+prolonga a 2029 y 2031. [27][28][53]
+Indicadores
+Mediana y percentil 90 de espera, reconsultas, continuidad, gasto de bolsillo, cobertura rural, vacantes y
+resultados ajustados por riesgo. Contar profesionales equivalentes a tiempo completo, no sólo plazas ofertadas.
+Fuentes: [2][7][27][28][53][54] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 11
+03 | FICHAS SECTORIALES
+
+
+07A. Educación, formación profesional y universidad
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 157-185
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                         Compromiso y condición decisiva                                                    A / B / C; E
+ programa
+
+ ED01 | Infancia y
+ equidad escolar         Universalizar oferta pública de 0-3, reforzar becas, inclusión, medio rural y      Alta / Alta / Media
+ n. 157-158,162-         comedor. Definir gratuidad, horario y plazas realmente accesibles.                 E: Media
+ 169
+
+ ED02 | Personal y       Estatuto docente; orientación de referencia de un profesional por 250
+                                                                                                            Alta / Media / Media
+ abandono                alumnos; abandono inferior al 10% en 2030. La contratación requiere
+                                                                                                            E: Media
+ n. 159-161              cofinanciación y especialistas.
+
+ ED03 |
+                         Ampliar oferta, movilidad y microcredenciales. Contabilizar plazas con
+ Formación                                                                                                  Alta / Alta / Media
+                         prácticas disponibles y empleabilidad, no únicamente autorizaciones o
+ profesional                                                                                                E: Media
+                         matrículas.
+ n. 170-175
+
+ ED04 | Acceso a         Gratuidad del primer curso público y apoyo a primera generación
+                                                                                                            Alta / Media / Media
+ universidad             universitaria; Erasmus entre 1.000 y 1.500 euros mensuales según renta; más
+                                                                                                            E: Media
+ n. 177-180              alojamiento.
+
+ ED05 | Sistema          Financiación plurianual, renovación docente, calidad, UNED y UIMP. Exigir
+                                                                                                            Alta / Media / Media
+ universitario           reparto de costes y estándares aplicables sin confundir autorización con
+                                                                                                            E: Media
+ n. 181-185              calidad efectiva.
+
+Viabilidad territorial
+Análisis: la oferta educativa y buena parte de las tasas, plantillas y edificios dependen de comunidades y
+universidades. Una ley estatal no crea por sí sola plazas infantiles, orientadores o residencias. La tabla presupone
+una ruta legal, no adhesión automática de cada ejecutor.
+Efectos distributivos
+Gratuidad universitaria beneficia a quienes acceden; becas de manutención y orientación pueden atacar barreras
+previas distintas. Medir cobertura por renta y primera generación, y comparar el coste marginal de cada
+instrumento. El importe de una beca no equivale al coste total de estudiar.
+Respaldo y acuerdos
+Respaldo formal del programa. La FP y la renovación de personal permiten acuerdos sectoriales; modelo de red,
+gobernanza, tasas y currículo pueden dividirlos. No hay un convenio general de cofinanciación acreditado para
+todas estas ampliaciones.
+Indicadores
+Plazas ocupadas, espera de 0-3, abandono por cohortes, titulación, renta familiar, coste por egresado, inserción
+ajustada por selección y carga docente. Separar estudiantes adicionales de ayudas a quienes ya habrían
+estudiado.
+Fuentes: [2][30][7] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                   PSOE | Evaluación de propuestas 12
+03 | FICHAS SECTORIALES
+
+
+07B. Ciencia, investigación e innovación
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 8-14; 166; 181-185
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                     A / B / C; E
+ programa
+
+ CI01 | Esfuerzo
+                        Elevar la ambición hacia el 1,5% del PIB en 2035. La meta del 1,25% en 2030         Alta / Alta / Media
+ público de I+D
+                        tiene antecedente legal. Distinguir gasto público de gasto total en I+D.            E: NE
+ n. 8
+
+ CI02 |
+                        Plan 2026-2030 para tecnologías profundas. Requiere proyectos, fases y
+ Tecnologías                                                                                                Alta / Alta / Media
+                        reglas de continuidad; la inversión no debe financiarse como un concurso sin
+ profundas                                                                                                  E: Media
+                        seguimiento comercial o científico.
+ n. 9
+
+ CI03 |
+                        Impulsar infraestructuras como IFMIF-DONES, IMEC, ALBA y BSC.
+ Infraestructuras                                                                                           Alta / Alta / Media
+                        Comprobar compromisos previos, hitos técnicos y costes de operación, no
+ científicas                                                                                                E: Media
+                        sólo obras.
+ n. 10
+
+ CI04 | Carrera y       Mejorar carrera investigadora, capacidades emergentes y asesoramiento
+                                                                                                            Alta / Alta / Media
+ capacidades            científico. Concursos, estabilidad, evaluación y movilidad exigen coordinar
+                                                                                                            E: Media
+ n. 11-13               instituciones y presupuestos.
+
+ CI05 | IA para         Aplicar IA en ciencia y educación. Validar utilidad por tarea, calidad de datos y
+                                                                                                            Alta / Alta / Media
+ investigar             reproducibilidad; un modelo accesible no equivale a evidencia científica
+                                                                                                            E: Media
+ n. 14,166              validada.
+
+Calendario
+La Ley de la Ciencia de 2022 contiene la referencia de financiación pública de 2030. El objetivo 2035 supera una
+legislatura de cuatro años: se puede pronosticar la aprobación de una senda, no certificar su resultado final
+dentro del mandato. [29]
+Coste y permanencia
+Análisis: incluir gasto recurrente, energía, renovación de equipamiento y personal. Los proyectos plurianuales
+necesitan reglas que no conviertan cada prórroga presupuestaria en un corte de contratos. Una tasa de
+ejecución alta tampoco prueba impacto.
+Apoyos y distribución
+El programa da respaldo formal y la coalición puede negociar investigación separadamente de otras reformas.
+Examinar concentración territorial, acceso de grupos emergentes y equilibrio entre investigación básica y
+transferencia; evitar premiar sólo proyectos ya consolidados.
+Indicadores
+Ejecución no financiera, estabilidad de equipos, uso de infraestructuras, acceso competitivo y resultados
+reproducibles. La transferencia requiere medir adopción y productividad, no limitarse a patentes o empresas
+creadas.
+Fuentes: [2][29] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                  PSOE | Evaluación de propuestas 13
+03 | FICHAS SECTORIALES
+
+
+08. Familia, infancia y cuidados
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 105; 192-219; 320-326; 370
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                    A / B / C; E
+ programa
+
+ FA01 | Prestación      Prestación progresiva para hogares con menores, integrada con el CAPI. El
+                                                                                                           Alta / Media / Media
+ de crianza             programa no fija una cuantía universal de 200 euros: no debe atribuírsele ese
+                                                                                                           E: Media
+ n. 192                 importe.
+
+ FA02 | Capital al      Cuenta inicial de 1.000 euros y refuerzo para hogares vulnerables, utilizable al
+                                                                                                           Alta / Media / Media
+ nacer                  llegar a la mayoría de edad. Definir rentabilidad, custodia, acceso y efectos
+                                                                                                           E: Media
+ n. 193                 sobre otras ayudas.
+
+ FA03 | Tiempo          Cuatro semanas parentales retribuidas y bonificación por uso secuencial.
+                                                                                                           Alta / Alta / Media
+ para cuidar            Deben encajar con semanas ya reconocidas, edades y base salarial; no sumar
+                                                                                                           E: Media
+ n. 105,320-326         permisos duplicados.
+
+ FA04 |
+                        Prevención de violencia, acogimiento, primeros mil días y apoyo a
+ Protección de                                                                                             Alta / Alta / Media
+                        extutelados. Las rutas de protección necesitan personal y coordinación social,
+ infancia                                                                                                  E: Media
+                        judicial y sanitaria.
+ n. 194-201
+
+ FA05 |
+                        Desplegar atención domiciliaria, asistencia personal, servicios y soledad; unión
+ Dependencia y                                                                                             Alta / Alta / Media
+                        civil de amistad para cuidados. La Ley 4/2026 ya existe: evaluar acceso
+ longevidad                                                                                                E: Media
+                        efectivo y desarrollo.
+ n. 202-219,370
+
+Adicionalidad
+La base de permisos es de 19 semanas, incluidas dos flexibles hasta ocho años. La reforma reciente de
+dependencia y su desarrollo de noviembre también forman parte del punto de partida. No son resultados
+atribuibles a una futura legislatura. [26][24][25]
+Coste y distribución
+Análisis: distinguir ayuda mensual, ahorro a largo plazo y servicios. La cuenta al nacer no sustituye ingresos para
+pobreza presente. La prestación gradual requiere definir si tiene cobertura universal con cuantías diferenciadas o
+criterios de exclusión.
+Negociación
+Frente Amplio comparte el objetivo de crianza, pero reclama una cuantía y concreción propias: coincidencia de
+objetivo no es acuerdo financiero. La capacidad autonómica condiciona cuidados y protección infantil. [44]
+Indicadores
+Pobreza infantil, cobertura efectiva, conciliación por sexo e ingresos, días hasta atención y continuidad de
+cuidadores. Evaluar independencia y bienestar de la persona cuidada, no sólo ahorro residencial.
+Fuentes: [2][26][24][25][44] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                 PSOE | Evaluación de propuestas 14
+03 | FICHAS SECTORIALES
+
+
+09A. Protección social, discapacidad y diversidad
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 89,93; 220-228; 392-398; 412-419
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                       A / B / C; E
+ programa
+
+ PS01 | Acceso a        Automatizar acceso al IMV y coordinar tarifas sociales. Requiere datos fiables,
+                                                                                                              Alta / Alta / Media
+ prestaciones           resolución de discrepancias y revisión humana; automatizar no elimina errores
+                                                                                                              E: Media
+ n. 89,93               de renta o convivencia.
+
+ PS02 |
+                        Apoyos para vida independiente, accesibilidad, facilitación jurídica y empleo
+ Autonomía y                                                                                                  Alta / Alta / Media
+                        inclusivo. Separar derechos reconocidos de disponibilidad de asistentes,
+ accesibilidad                                                                                                E: Media
+                        adaptaciones y servicios.
+ n. 220-228
+
+ PS03 | Igualdad        Reforzar autoridad y medidas contra racismo y discriminación. Hay
+                                                                                                              Alta / Alta / Media
+ de trato               numeraciones solapadas: el presupuesto debe identificar funciones únicas y
+                                                                                                              E: Media
+ n. 392-398             coordinación institucional.
+
+ PS04 | Derechos
+                        Desarrollar protección y perseguir prácticas de conversión. Distinguir                Alta / Alta / Media
+ LGTBI
+                        aplicación de leyes existentes, nueva tipificación y servicios a víctimas.            E: Media
+ n. 412-419
+
+ PS05 | Servicios
+ sociales               Cartera común, intercambio de datos y atención a exclusión y soledad.
+                                                                                                              Alta / Alta / Media
+ integrados             Universalidad del derecho y suficiencia del servicio deben tener indicadores
+                                                                                                              E: Media
+ n. 202-204,213-        diferentes.
+ 219
+
+Evidencia de acceso
+La evaluación de AIReF de 2026 identifica una amplia falta de solicitud entre hogares potencialmente elegibles al
+IMV y al complemento de infancia. Esto apoya investigar barreras administrativas; no demuestra que cualquier
+automatización las resuelva. [21]
+Coste y garantías
+Análisis: presupuestar solicitudes adicionales si mejora la cobertura, no tratar ese aumento como desviación
+inesperada. El cruce de datos debe incorporar corrección, motivación y recurso. La exclusión digital puede
+persistir con prestaciones supuestamente automáticas.
+Respaldo y acuerdos
+Respaldo formal nacional. La atención social es una responsabilidad compartida; los acuerdos de igualdad o
+discapacidad no implican adhesión a todos los desarrollos penales o de identidad. No se imputa a la militancia
+una opinión homogénea sin evidencia.
+Indicadores
+Población elegible que recibe ayuda, tiempo de acceso, pagos indebidos y recuperaciones, reclamaciones
+estimadas, vivienda estable, accesibilidad y empleo sostenido. Desagregar por discapacidad, edad y territorio sin
+invadir privacidad.
+Fuentes: [2][21][24] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                     PSOE | Evaluación de propuestas 15
+03 | FICHAS SECTORIALES
+
+
+09B. Igualdad y protección frente a las violencias
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 306-364; 327-328; 368
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ IG01 | Autonomía       Reducir brechas de empleo, remuneración y cuidados. La igualdad formal
+                                                                                                          Alta / Alta / Media
+ económica              necesita inspección y servicios; evitar duplicar partidas de permisos y
+                                                                                                          E: Media
+ n. 306-326             dependencia ya contabilizadas.
+
+ IG02 | Derechos
+                        Protección constitucional del aborto y mejoras asistenciales. El proyecto         Baja / Baja / Baja
+ reproductivos
+                        sobre el artículo 43 no es una reforma constitucional culminada.                  E: Media
+ n. 327-332,368
+
+ IG03 | Violencias
+ y protección           Prevención, violencia vicaria, riesgos, reparación y apoyo a víctimas. Evaluar    Alta / Alta / Media
+ n. 333-341,345-        accesibilidad y continuidad, además de cambios penales.                           E: Media
+ 347
+
+ IG04 | Trata y         Impulsar normas contra trata y una orientación abolicionista, con salida y
+                                                                                                          Alta / Media / Baja
+ prostitución           reparación. Son instrumentos diferentes: combatir trata no acredita acuerdo
+                                                                                                          E: Media
+ n. 342-344             sobre abolición.
+
+ IG05 | Violencia
+                        Proteger frente a difusión íntima, suplantaciones y acoso; supervisar sesgos,
+ digital y                                                                                                Alta / Media / Media
+                        paridad y violencia política. Exigir definiciones y garantías de libertad de
+ participación                                                                                            E: Media
+                        expresión.
+ n. 348-364
+
+Ruta jurídica
+El Gobierno presentó una reforma del artículo 43 en abril de 2026. El procedimiento depende del texto y su
+ubicación: no toda ampliación de derechos exige automáticamente el procedimiento agravado, pero ninguna
+mayoría ordinaria basta para reformar la Constitución. [31][32][30]
+Antecedente de apoyo
+En mayo de 2024 se rechazó la iniciativa socialista sobre proxenetismo, con posiciones distintas entre partidos
+habitualmente aliados. No es prueba de oposición a toda protección de víctimas ni pronóstico automático de un
+nuevo texto. [35]
+Efectos y costes
+Análisis: la persecución penal necesita alternativas materiales y protección que no exponga más a personas
+vulnerables. Medir reparación y seguridad, no sólo denuncias; su aumento puede reflejar mayor confianza y no
+más incidencia.
+Seguimiento
+Tiempo a protección, incumplimientos de medidas, acceso a vivienda e ingresos, retirada de contenidos, recursos
+y resoluciones. Separar asistencia, prevención y sanciones para atribuir resultados.
+Fuentes: [2][31][32][30][35] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                 PSOE | Evaluación de propuestas 16
+03 | FICHAS SECTORIALES
+
+
+10. Inmigración, asilo e integración
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 200-201; 388-391
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ MI01 | Plan de         Plan 2026-2030 con dotación inicial anunciada de 500 millones y
+                                                                                                          Alta / Alta / Media
+ integración            colaboración autonómica. Falta precisar distribución, anualidades y gasto
+                                                                                                          E: Media
+ n. 388-391             incremental.
+
+ MI02 | Vías            Reforzar migración regular y gestión administrativa. El acceso legal exige
+                                                                                                          Alta / Alta / Media
+ regulares              criterios, tramitación y coordinación consular y europea; no equivale a una
+                                                                                                          E: Media
+ n. 388-391             regularización nueva de alcance indefinido.
+
+ MI03 |
+ Protección             Mejorar asilo, acogida y protección humanitaria, incluida atención psicosocial.   Alta / Alta / Media
+ internacional          Separar admisión, reconocimiento, alojamiento y apoyo posterior.                  E: Media
+ n. 388-391
+
+ MI04 | Trabajo y       Facilitar integración laboral y reconocimiento de capacidades. Verificar
+                                                                                                          Alta / Alta / Media
+ cualificaciones        titulaciones y seguridad profesional sin convertir demoras administrativas en
+                                                                                                          E: Media
+ n. 388-391             exclusión permanente.
+
+ MI05 | Menores y
+                        Coordinar protección de menores y transición a vida adulta; ampliar
+ participación                                                                                            Alta / Media / Media
+                        participación. No se interpreta como concesión automática de voto en
+ n. 200-201,388-                                                                                          E: Media
+                        elecciones generales a toda persona extranjera.
+ 391
+
+Competencias y garantías
+El Estado decide aspectos de extranjería y asilo; las prestaciones, la acogida y la protección de menores implican
+otros niveles. Los derechos electorales tienen límites constitucionales específicos. Ni un acuerdo territorial
+sustituye la ley ni una ley asegura plazas de acogida. [30]
+Eficacia y distribución
+Análisis: medir integración por empleo acorde a cualificación, idioma, escolarización y estabilidad residencial. El
+efecto sobre salarios y servicios depende de perfiles, territorio y capacidad, no de una única cifra de entradas.
+Respaldo y acuerdos
+La dirección respalda el programa. La cooperación territorial es una condición, no un hecho asegurado; incluso
+aliados pueden discrepar sobre competencias y reparto. Separar acuerdos sobre expedientes, menores y empleo
+de una aprobación global de la política migratoria.
+Seguimiento
+Demora mediana y percentil 90 de expedientes, stock pendiente, homologaciones, ocupación de recursos,
+escolarización y empleo a 12 meses. Publicar costes por servicio y mecanismos de recurso; no utilizar
+nacionalidad como sustituto de necesidad.
+Fuentes: [2][30] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 17
+03 | FICHAS SECTORIALES
+
+
+11. Seguridad y justicia
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 425-438
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                      A / B / C; E
+ programa
+
+ J01 | Seguridad y      Reforzar plantillas, cobertura rural, ciberdelincuencia y condiciones
+                                                                                                             Alta / Alta / Media
+ personal               profesionales. Las plazas necesitan selección, formación y medios; medir
+                                                                                                             E: Media
+ n. 425-430             disponibilidad operativa.
+
+ J02 | Seguridad        Sustituir la Ley Orgánica 4/2015, con garantías y medios como cámaras
+                                                                                                             Alta / Media / Baja
+ ciudadana              corporales. El acuerdo debe cubrir conductas, proporcionalidad y supervisión,
+                                                                                                             E: Media
+ n. 431                 no sólo el nombre de la ley.
+
+ J03 | Acceso a         Barnahus, asistencia jurídica, plantillas y acceso a carreras judiciales. Requiere
+                                                                                                             Alta / Alta / Media
+ justicia               recursos, criterios de calidad y evaluación de demoras y desigualdad de
+                                                                                                             E: Media
+ n. 432-435             acceso.
+
+ J04 |
+                        Mandato de cinco años para Fiscal General y nueva instrucción dirigida por
+ Investigación                                                                                               Media / Media / Baja
+                        fiscales con control judicial. Deben resolverse autonomía, transición y carga
+ penal                                                                                                       E: Media
+                        de trabajo.
+ n. 436
+
+ J05 |
+                        Digitalizar procesos y agilizar procedimientos sobre ocupación. No prometer
+ Digitalización y                                                                                            Alta / Media / Media
+                        desalojo automático en 48 horas para toda disputa: importan el tipo de caso y
+ vivienda                                                                                                    E: Media
+                        las garantías judiciales.
+ n. 437-438
+
+Antecedentes y límites
+El acuerdo PSOE-PP sobre el CGPJ en 2024 demuestra que un pacto institucional concreto es posible. No
+acredita apoyo futuro a reformar instrucción, fiscalía o seguridad ciudadana. Las leyes orgánicas y la
+independencia judicial imponen procedimientos propios. [33][34][30]
+Coste y eficacia
+Análisis: cambiar quién instruye puede redistribuir una cola sin reducirla si no hay fiscales, sistemas y transición
+financiada. Medir tiempos por tipo de asunto y calidad de resolución, evitando incentivos para cerrar
+expedientes prematuramente.
+Apoyo y distribución
+Respaldo formal nacional; Bolaños es responsable institucional de Justicia, no un futuro nombramiento
+garantizado. Las garantías procesales protegen también a quien tiene menos recursos. Seguridad y asistencia
+pueden pactarse separadas de cambios de modelo. [7]
+Indicadores
+Tiempo total de procedimiento, asuntos por profesional, resoluciones revocadas, asistencia efectiva,
+victimización y esclarecimiento. Distinguir allanamiento, usurpación y conflictos arrendaticios en datos y
+compromisos.
+Fuentes: [2][30][33][34][7] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                   PSOE | Evaluación de propuestas 18
+03 | FICHAS SECTORIALES
+
+
+12. Instituciones y calidad democrática
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 365-375; 420-424; 439-448
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                  A / B / C; E
+ programa
+
+ IN01 | Reformas        Proteger derechos y limitar aforamientos. La mayoría propia para leyes no
+                                                                                                         Baja / Baja / Baja
+ constitucionales       basta para reformar la Constitución; cada texto necesita identificar su
+                                                                                                         E: Media
+ n. 365-369,373         procedimiento.
+
+ IN02 |                 Voto desde 16 años, iniciativa ciudadana y defensa de futuras generaciones.
+                                                                                                         Media / Media / Baja
+ Participación          Las duplicaciones 372/374 y 375/444 no son nuevas medidas
+                                                                                                         E: Media
+ n. 371-375,444         independientes.
+
+ IN03 |
+                        Atención sin cita en la AGE, oficinas móviles y no repetir datos. Requiere
+ Administración                                                                                          Alta / Alta / Media
+                        dotación y rediseño: una notificación por SMS no asegura comprensión ni
+ accesible                                                                                               E: Media
+                        acceso real.
+ n. 439-443
+
+ IN04 | Integridad      Nueva arquitectura de integridad, registro de grupos de interés, huella
+                                                                                                         Alta / Media / Media
+ y transparencia        normativa y evaluación. Independencia y recursos importan tanto como crear
+                                                                                                         E: Media
+ n. 445-448             una agencia.
+
+ IN05 | Memoria         Desarrollar reparación, exhumaciones y divulgación. Definir sujetos, archivos,
+                                                                                                         Alta / Alta / Baja
+ democrática            procedimientos y costes; distinguir reparación administrativa de evaluación
+                                                                                                         E: Media
+ n. 420-424             historiográfica.
+
+Lo que precede al programa
+El plan anticorrupción de agosto de 2025 y el anteproyecto de febrero de 2026 son antecedentes. Un
+anteproyecto no es una ley aprobada, y una ley no acredita investigaciones eficaces ni rendición de cuentas. [36]
+[37]
+Eficacia y garantías
+Análisis: proteger denunciantes, controlar contratación y publicar decisiones puede tener valor sin centralizar
+todas las funciones. El nuevo organismo debe evitar captura, conflictos de competencia y tratamientos de datos
+excesivos. Diseñar revisión externa y recursos.
+Respaldo y negociación
+La publicación del programa acredita una posición formal, no consenso social. Transparencia, administración y
+algunos derechos pueden negociarse por separado; no se presume un pacto constitucional general con el PP ni
+con socios de investidura.
+Indicadores
+Plazos, expedientes publicados, cumplimiento de recomendaciones, accesibilidad presencial, errores de
+automatización y recursos. Evaluar controles que limitan también al propio Gobierno, no sólo declaraciones
+sobre integridad.
+Fuentes: [2][30][36][37] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 19
+03 | FICHAS SECTORIALES
+
+
+13. Modelo territorial y financiación
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 229-233; 382-387
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                    A / B / C; E
+ programa
+
+ T01 |
+ Financiación           Nuevo modelo con 21.000 millones adicionales anunciados. Precisar año              Alta / Media / Baja
+ autonómica             base, reparto, mecanismos de ajuste y compatibilidad con ingresos del Estado.      E: Media
+ n. 229-233
+
+ T02 | Deuda
+                        Asunción estatal de 83.000 millones de deuda autonómica. Reduce pasivos de         Alta / Media / Baja
+ autonómica
+                        un subsector y los traslada a otro: no elimina esa deuda del conjunto público.     E: Alta
+ n. 229-233
+
+ T03 |
+ Financiación y
+                        Actualizar recursos y funciones municipales. Incorporar suficiencia, reglas de     Alta / Alta / Media
+ competencias
+                        gasto y disparidad de bases fiscales, con simulación municipio a municipio.        E: Media
+ locales
+ n. 229-233,386
+
+ T04 |
+                        Regular cooperación y conferencias; orientar el Senado a representación
+ Cooperación y                                                                                             Media / Media / Baja
+                        territorial. La reforma constitucional se separa de mejoras ejecutivas que no la
+ Senado                                                                                                    E: Media
+                        necesitan.
+ n. 382-385
+
+ T05 | Lenguas y        Mejorar atención en lenguas cooficiales y tratamientos territoriales
+                                                                                                           Alta / Media / Media
+ singularidades         específicos. Dimensionar servicios y respetar competencias; no equiparar
+                                                                                                           E: Media
+ n. 385-387             cualquier singularidad a un modelo fiscal concreto.
+
+Disenso interno documentado
+Asturias y el PSOE de Castilla-La Mancha han expresado rechazo al modelo. El PSC coloca la financiación
+singular y la ordinalidad entre sus prioridades. Existe apoyo de dirección, pero no evidencia de uniformidad
+territorial. [40][41][42][43]
+Coste y redistribución
+Análisis: un modelo puede aumentar recursos de todas las comunidades y alterar a la vez su posición relativa. La
+evaluación debe distinguir euros por habitante ajustado, esfuerzo fiscal, costes de prestación y transición. La
+deuda requiere un tratamiento contable consolidado.
+Ruta política
+Una aprobación en un órgano de cooperación no sustituye las leyes necesarias ni asegura votos parlamentarios.
+Los intereses del PNV, ERC o Junts no se agregan como si fueran idénticos. La financiación puede condicionar
+presupuestos y acuerdos sectoriales. [30]
+Seguimiento
+Simulación con población y servicios comparables; ganadores y perdedores relativos; senda de transferencias;
+intereses y disciplina posterior. No presentar alivio de liquidez como ahorro permanente del conjunto.
+Fuentes: [2][38][39][40][41][42][43][30] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                  PSOE | Evaluación de propuestas 20
+03 | FICHAS SECTORIALES
+
+
+14A. Energía y transición industrial
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 234-252; 266
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                  A / B / C; E
+ programa
+
+ EN01 |
+ Electricidad           Alcanzar el 81% de generación renovable en 2030. No es el 81% de toda la         Alta / Alta / Media
+ renovable              energía final. Redes, almacenamiento y flexibilidad condicionan el resultado.    E: Media
+ n. 234-239
+
+ EN02 |
+ Electrificación y      Autoconsumo, almacenamiento, demanda flexible e interconexiones. Medir           Alta / Alta / Media
+ flexibilidad           conexiones útiles y capacidad firme, no sólo potencia autorizada.                E: Media
+ n. 234-239
+
+ EN03 |
+                        Mantener horizonte de cierre en 2035. La autorización vigente de Almaraz
+ Calendario                                                                                              Alta / Media / Baja
+                        llega a junio de 2030; no se evalúa contra el antiguo calendario como si nada
+ nuclear                                                                                                 E: NE
+                        hubiera cambiado.
+ n. 240
+
+ EN04 | Industria       Impulsar cadenas productivas verdes y capacidades laborales. Las ayudas
+                                                                                                         Alta / Media / Media
+ y materiales           necesitan energía competitiva, demanda y garantías ambientales, además de
+                                                                                                         E: Media
+ n. 241-245             financiación.
+
+ EN05 |
+                        Reducir vertido, promover reparación y reutilización; controlar uso de agua y
+ Circularidad y                                                                                          Alta / Alta / Media
+                        energía en centros de datos. Definir responsables, trazabilidad y precios
+ recursos                                                                                                E: Media
+                        relativos.
+ n. 246-252,266
+
+Base jurídica
+La orden de agosto de 2026 autoriza Almaraz hasta el 8 de junio de 2030. El horizonte 2035 supera el mandato
+usado para los pronósticos; puede evaluarse la ruta intermedia, no certificar ahora el cierre final. [45]
+Costes y seguridad
+Análisis: comparar coste total del sistema, redes, reservas y desmantelamiento. Una mayor cuota renovable no
+garantiza por sí sola una factura inferior ni seguridad en todas las horas. Las decisiones deben probar suficiencia
+bajo demanda y clima adversos.
+Acuerdos y distribución
+La modernización de red y la industria permiten negociar medidas específicas; nuclear, fiscalidad y ritmo de
+transición pueden dividir a aliados y oposición. Incluir hogares sin capacidad de invertir, territorios productores y
+empleo de actividades en reconversión.
+Indicadores
+Energía realmente generada, vertidos, horas de congestión, plazo de conexión, coste final por consumidor,
+emisiones y capacidad disponible en estrés. Para reparación, medir vida útil y coste, no sólo puntos de recogida.
+Fuentes: [2][45] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 21
+03 | FICHAS SECTORIALES
+
+
+14B. Clima, agua, naturaleza y adaptación
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 253-266; 287-305
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ CL01 |
+                        Ley de adaptación, refugios, alerta y medios contra incendios. Una nueva
+ Adaptación y                                                                                             Alta / Alta / Media
+                        obligación requiere mapas, mantenimiento, simulacros y cadena de mando
+ prevención                                                                                               E: Media
+                        conocida.
+ n. 253-259
+
+ CL02 | Seguridad       Planificación, reutilización, desalación, bancos de agua y eficiencia. El agua
+                                                                                                          Alta / Media / Media
+ hídrica                ahorrada debe medirse a escala de cuenca; eficiencia de parcela no garantiza
+                                                                                                          E: Media
+ n. 260-265             menor consumo total.
+
+ CL03 |
+ Restauración           Restauración, protección marina, bosques, costas y ecosistemas vulnerables.       Alta / Alta / Media
+ ecológica              Las hectáreas declaradas no acreditan recuperación del estado ecológico.          E: Media
+ n. 287-294
+
+ CL04 | Bienestar       Desarrollar protección y bienestar animal. Identificar reglamentos, servicios
+                                                                                                          Alta / Media / Media
+ animal                 veterinarios, competencias municipales e inspección antes de estimar
+                                                                                                          E: Media
+ n. 295-300             cumplimiento.
+
+ CL05 |
+                        Evaluación y participación, cooperación exterior y respuesta a
+ Gobernanza                                                                                               Alta / Media / Media
+                        desinformación. Separar evidencia científica, debate político y conductas
+ climática                                                                                                E: Media
+                        sancionables.
+ n. 301-305
+
+Coste evitado y priorización
+Análisis: priorizar por exposición, vulnerabilidad y daño esperado, no por visibilidad de obras. La inversión
+preventiva compite con gasto inmediato; calcular mantenimiento y distintos escenarios climáticos, sin prometer
+eliminar todo riesgo.
+Restricciones institucionales
+Agua, costas, montes y emergencias requieren competencias y coordinación diferenciadas. La cooperación
+territorial puede mejorar sin reforma constitucional; elevar derechos a rango constitucional tiene otra ruta y no
+sustituye infraestructuras. [30]
+Distribución y acuerdos
+Evaluar efectos sobre regantes, consumidores, litoral y territorios con menor capacidad presupuestaria. Las
+compensaciones han de respetar incentivos de prevención. Puede haber acuerdo en protección civil y
+discrepancia sobre uso del suelo o reparto del agua.
+Indicadores
+Población cubierta por alertas probadas, tiempo de respuesta, disponibilidad de medios, pérdidas ajustadas por
+intensidad del evento, acuíferos y calidad ecológica. Revisar si las medidas desplazan riesgo a otro territorio.
+Fuentes: [2][30] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                 PSOE | Evaluación de propuestas 22
+03 | FICHAS SECTORIALES
+
+
+15. Agricultura, pesca y medio rural
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 267-279
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                 A / B / C; E
+ programa
+
+ R01 | Renta y          Defender explotación familiar y condiciones recíprocas de producción. La        Media / Media /
+ reglas agrarias        PAC y parte de las reglas comerciales se deciden en la UE: no dependen sólo     Media
+ n. 267-274             del Gobierno español.                                                           E: Media
+
+ R02 | Relevo y         Apoyar jóvenes y mujeres, cooperativas, acceso a tierra y seguros. Necesita
+                                                                                                        Alta / Alta / Media
+ tierra                 instrumentos por renta, tamaño y viabilidad, evitando capitalizar ayudas en
+                                                                                                        E: Media
+ n. 267-274             precio del suelo.
+
+ R03 | Transición       Menos carga administrativa y apoyo a producción sostenible. Medir costes de
+                                                                                                        Alta / Alta / Media
+ y simplificación       cumplimiento sin rebajar controles necesarios sobre alimentos, agua y
+                                                                                                        E: Media
+ n. 267-274             entorno.
+
+ R04 | Pesca y
+                        Defender actividad pesquera y valor de la cadena. Cuotas, sostenibilidad y      Media / Media /
+ cadena
+                        acceso a mercados exigen negociación; distinguir mejora de margen de            Media
+ alimentaria
+                        aumento de captura.                                                             E: Media
+ n. 267-274
+
+ R05 | Servicios        Objetivo País 30 minutos, vivienda, empleo e innovación. Sin catálogo de
+                                                                                                        Alta / Alta / Media
+ rurales                servicios, transporte y población cubierta no puede estimarse cumplimiento
+                                                                                                        E: NE
+ n. 275-279             íntegro del eslogan.
+
+Mecanismo y coste
+Análisis: acceso a servicios puede sostener permanencia sin revertir por sí solo todas las tendencias
+demográficas. Combinar oferta móvil, transporte, teleasistencia y presencia profesional según densidad. Publicar
+coste por usuario y niveles mínimos reales.
+Restricciones
+La unidad agrícola no coincide siempre con la familia beneficiaria: comprobar propiedad, arrendamiento, trabajo
+y grupo empresarial. Cuotas y comercio necesitan acuerdos externos; la preferencia declarada no es una
+autorización unilateral. [30]
+Apoyo y acuerdos
+Respaldo nacional; el programa no permite inferir prioridades idénticas entre territorios productores. Relevo
+generacional y seguros son piezas potencialmente separables de disputas sobre agua, PAC o regulación
+ambiental. Se requiere convenio o voto para acreditar apoyo concreto.
+Seguimiento
+Renta neta agraria por unidad de trabajo, entrada y supervivencia de jóvenes, precio de arrendamiento, margen a
+lo largo de la cadena y minutos de acceso efectivo a servicios. Publicar cobertura en zonas de baja densidad, no
+sólo promedios provinciales.
+Fuentes: [2][30] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                               PSOE | Evaluación de propuestas 23
+03 | FICHAS SECTORIALES
+
+
+16. Infraestructuras, movilidad y transporte
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 22-33; 280-286
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ TR01 | Seguridad       Auditoría en dos meses, pacto de seguridad, medios y sistemas de control.
+                                                                                                          Alta / Alta / Media
+ ferroviaria            Publicar alcance, independencia, hallazgos y calendario de corrección, no sólo
+                                                                                                          E: Media
+ n. 22,24-26            el informe.
+
+ TR02 | Inversión       19.000 millones para 2026-2030 y corredores y cercanías. Identificar
+                                                                                                          Alta / Alta / Media
+ ferroviaria            convenios ya autorizados, nuevas aportaciones y reparto entre
+                                                                                                          E: Media
+ n. 23,27,282           mantenimiento y ampliación.
+
+ TR03 |
+ Transporte
+                        Financiación estable, integración, ayudas y movilidad activa. La tarifa no        Alta / Alta / Media
+ cotidiano
+                        reemplaza frecuencia, fiabilidad, accesibilidad o intermodalidad.                 E: Media
+ n. 28-29,280-
+ 283,286
+
+ TR04 | Carreteras      Plan sobre 5.000 km en cuatro años, con 1.629 millones anunciados. Medir
+                                                                                                          Alta / Alta / Media
+ y resiliencia          intervención y estado final; no equivale a reconstruir íntegramente todos esos
+                                                                                                          E: Media
+ n. 32,285              kilómetros.
+
+ TR05 | Redes y         Recarga, puertos, aeropuertos y red eléctrica. Coordinación regulatoria y
+                                                                                                          Alta / Alta / Media
+ electrificación        conexiones son críticas; la suma de inversiones anunciadas no es capacidad
+                                                                                                          E: Media
+ n. 30-31,33,284        operativa.
+
+Adicionalidad
+Los convenios ferroviarios cuentan con autorizaciones de octubre y existen compromisos de personal de
+febrero. Debe distinguirse presupuesto comprometido, contratación, pago y entrega; prometer continuidad no
+convierte todo el importe en dinero nuevo. [46][47]
+Coste y eficacia
+Análisis: la cartera debe priorizar seguridad y mantenimiento por riesgo y uso, comparando nuevas obras con
+mejora de la red existente. Los retrasos de contratación y disponibilidad de ventanas de obra limitan la ejecución
+anual.
+Apoyos
+El PSC destaca Rodalies en su manifiesto. Es prioridad territorial documentada, no garantía de acuerdo sobre
+cada reparto competencial. Otros grupos pueden respaldar obras de su territorio sin aceptar todo el plan
+nacional. [43]
+Indicadores
+Incidencias y puntualidad por línea, cancelaciones, mantenimiento pendiente, costes finales y uso real de
+estaciones y recarga. Separar seguridad, calidad y cantidad; más gasto ejecutado no acredita por sí solo mejor
+servicio.
+Fuentes: [2][46][47][43] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                 PSOE | Evaluación de propuestas 24
+03 | FICHAS SECTORIALES
+
+
+17A. Tecnología, IA y capacidades digitales
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 15-21; 148; 409; 442; 458
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ AI01 | Capacidad       Impulsar computación, chips, ciberseguridad y capacidades digitales. Exigir
+                                                                                                          Alta / Alta / Media
+ tecnológica            coste total, utilización y demanda demostrable antes de equiparar capacidad
+                                                                                                          E: Media
+ n. 15-21               instalada con soberanía.
+
+ AI02 | Adopción
+                        Bono de IA y apoyo a integración. Evitar financiar licencias que no cambian       Alta / Alta / Media
+ empresarial
+                        procesos; comparar ahorro verificado, calidad y costes posteriores al subsidio.   E: Media
+ n. 15-21
+
+ AI03 | Acceso y        Extender formación y herramientas, incluida la iniciativa NEURONA. Definir
+                                                                                                          Alta / Alta / Media
+ capacitación           destinatarios, interoperabilidad y condiciones de servicio; no inferir un
+                                                                                                          E: Media
+ n. 15-21               modelo estatal ya operativo.
+
+ AI04 | Trabajo y
+                        Pacto sobre impacto laboral y uso administrativo con supervisión. La revisión     Alta / Alta / Media
+ servicios públicos
+                        humana debe ser efectiva, informada y recurrible, no un sello automático.         E: Media
+ n. 409,442
+
+ AI05 |
+ Financiación y         Fiscalidad digital nacional por definir y debate internacional sobre tokens. No
+                                                                                                          Media / Media / Baja
+ coordinación           presupuestar ingresos de una figura sin base, jurisdicción, acuerdo ni
+                                                                                                          E: NE
+ global                 mecanismo de cobro.
+ n. 131,458
+
+Línea base regulatoria
+El AI Act es un marco europeo existente y su calendario se ha modificado y desplegado por fases. Una futura ley
+española puede desarrollar gobernanza y controles dentro de sus competencias; no debe presentarse toda
+obligación europea como innovación del partido. [48][49][50]
+Eficacia y coste
+Análisis: probar adopción con comparadores y evaluaciones por tarea. La automatización puede reducir tiempo y
+aumentar demanda, o desplazar trabajo a revisión y gestión de excepciones. Incluir costes de integración,
+auditoría, datos, energía y dependencia del proveedor.
+Apoyos y ejecución
+Respaldo formal y responsabilidad institucional digital de Óscar López. Capacidades, adopción y seguridad son
+negociables por separado de impuestos o restricciones a plataformas. No hay una memoria consolidada del
+programa de IA. [7]
+Indicadores
+Coste por tarea resuelta, error y daño por tipo de caso, ahorro neto, portabilidad, acceso de pymes y
+productividad. En salud, no sustituir evaluación clínica, protección de datos ni autorizaciones aplicables por una
+promesa de IA.
+Fuentes: [2][48][49][50][7] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                 PSOE | Evaluación de propuestas 25
+03 | FICHAS SECTORIALES
+
+
+17B. Derechos digitales, menores y plataformas
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 399-411; 348-360; 404-408
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                  A / B / C; E
+ programa
+
+ DG01 | Acceso                                                                                           Media / Media /
+                        Elevar referencia de acceso a redes a 16 años con condiciones ligadas al
+ de menores                                                                                              Media
+                        diseño seguro. No describirlo como prohibición absoluta sin excepciones.
+ n. 399-401                                                                                              E: Media
+
+ DG02 | Chatbots        Permiso parental y protección para menores de 16; estándar europeo. Definir      Media / Media /
+ y protección           cómo verificar edad y consentimiento sin registrar más datos de los              Media
+ n. 402-403             necesarios.                                                                      E: Media
+
+ DG03 | Derechos
+                        Carta digital con fuerza normativa, protección de voz e imagen y revisión        Alta / Media / Media
+ y suplantación
+                        humana. Precisar relación con derechos existentes, excepciones y remedios.       E: Media
+ n. 404-405
+
+ DG04 |                 Gobernanza nacional en el primer año, transparencia de contenido y refuerzo
+                                                                                                         Alta / Alta / Media
+ Supervisión de IA      supervisor. Separar desarrollo nacional de obligaciones europeas ya
+                                                                                                         E: Media
+ n. 406-407             aplicables.
+
+ DG05 |
+                                                                                                         Media / Media /
+ Plataformas y          Reforzar control y responsabilidad de plataformas. Sanciones y obligaciones
+                                                                                                         Media
+ democracia             necesitan tipicidad, jurisdicción, proporcionalidad y revisión judicial.
+                                                                                                         E: Media
+ n. 408-411
+
+Capacidad de ejecución
+La UE impulsa herramientas de verificación de edad y su despliegue. Disponibilidad técnica no implica adopción
+universal ni eficacia: deben examinarse elusión, acceso compartido, cobertura y seguridad. [51][52]
+Intercambios relevantes
+Análisis: proteger a menores puede tensionar anonimato, privacidad y acceso a información. La verificación debe
+limitar datos y prever errores, usuarios sin documentos y mecanismos de reclamación. Una cuenta etiquetada
+como adulta no garantiza ausencia de riesgo.
+Respaldo y acuerdos
+La protección infantil puede reunir apoyos distintos de los que aceptarían controles sobre contenidos o
+responsabilidades individuales. La afinidad de objetivo no demuestra acuerdo sobre la edad, el método o las
+sanciones; tampoco autoriza al Estado a sustituir el marco europeo. [48]
+Medición
+Incidencia de daños, elusión, falsos positivos, exposición de datos, tiempo de retirada y recursos estimados.
+Auditar eficacia con evaluadores independientes; no presentar cantidad de cuentas bloqueadas como resultado
+de bienestar.
+Fuentes: [2][51][52][48][49][50] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 26
+03 | FICHAS SECTORIALES
+
+
+18. Unión Europea, exterior y defensa
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 456-500
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                        Compromiso y condición decisiva                                                  A / B / C; E
+ programa
+
+ EX01 |
+                        Reformar gobernanza internacional y avanzar hacia ayuda al desarrollo del        Media / Media /
+ Cooperación y
+                        0,7% de la renta nacional bruta. La contribución española y la reforma global    Media
+ multilateralismo
+                        tienen rutas distintas.                                                          E: Media
+ n. 456-470
+
+ EX02 |
+                        Profundizar capacidad fiscal y democracia europeas, así como prioridades         Media / Media /
+ Integración
+                        territoriales. Muchos cambios requieren acuerdos de otros Estados o              Media
+ europea
+                        tratados; una mayoría nacional no los asegura.                                   E: Baja
+ n. 471-483
+
+ EX03 | Paz y
+                        Diplomacia, derecho internacional, Ucrania y Oriente Medio. Distinguir           Media / Media /
+ derechos
+                        decisiones nacionales, posiciones en la UE y resultados que dependen de          Media
+ humanos
+                        terceros.                                                                        E: NE
+ n. 456-483
+
+ EX04 |
+                        Cultura, consulados y participación de españoles en el exterior. Estudiar una
+ Ciudadanía                                                                                              Alta / Alta / Media
+                        circunscripción exterior no equivale a implantarla ni a resolver su encaje
+ exterior                                                                                                E: Media
+                        constitucional.
+ n. 484-492
+
+ EX05 | Defensa y       Modernización, cooperación, capacidades industriales, ciberseguridad y
+                                                                                                         Alta / Media / Media
+ seguridad              bienestar militar. No hay una cuenta completa de capacidades, personal y
+                                                                                                         E: Media
+ n. 493-500             sostenimiento en la ficha programática.
+
+Dependencias decisivas
+Análisis: la UE, la ONU, alianzas y acuerdos bilaterales tienen sus propios requisitos. No pronosticar una reforma
+internacional como si fuera una ley ordinaria española. La eficacia diplomática tampoco puede medirse sólo por
+declaraciones o visitas.
+Costes y coherencia
+Para defensa, distinguir compra inicial, mantenimiento, munición, personal y calendarios. Cooperación y defensa
+compiten con otras partidas si no hay ingresos adicionales. No atribuir al programa una cifra cerrada de gasto
+militar que no concreta en sus compromisos.
+Apoyos
+Pueden existir acuerdos parciales sobre intereses europeos, industria o protección consular y desacuerdos en
+gasto, alianzas y política exterior. No se presume que socios parlamentarios compartan todas las posiciones
+diplomáticas ni que PP apoye el paquete completo.
+Indicadores
+Capacidades entregadas y disponibles, coste de ciclo de vida, demoras consulares, ayuda efectivamente
+desembolsada y resultados por programa. Para objetivos globales, registrar contribución verificable y avances de
+negociación, sin adjudicarse resultados ajenos.
+Fuentes: [2][30] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 27
+03 | FICHAS SECTORIALES
+
+
+19. Cultura, deporte, medios y consumo
+Base: 15/11/2026 | Comprobación: 17/11/2026 | n. 34-36; 94-97; 186-191; 449-455
+A: mayoría propia | B: acuerdo de gobierno | C: minoría variable | E: entrega condicionada.
+
+ Unidad / n. del
+                         Compromiso y condición decisiva                                                   A / B / C; E
+ programa
+
+ CU01 | Acceso a         Nueva ley cultural, bibliotecas, cine y patrimonio; abono de cine de 15 euros
+                                                                                                           Alta / Alta / Media
+ cultura                 mensuales para menores de 25. Precio al usuario y subvención pública no son
+                                                                                                           E: Media
+ n. 449,451-455          el mismo importe.
+
+ CU02 | Creadores        Actualizar protección y condiciones de artistas, con atención al uso de obras
+                                                                                                           Alta / Media / Media
+ e IA                    por IA. Precisar licencias, remuneración y encaje europeo; no prometer
+                                                                                                           E: Media
+ n. 450,452              control unilateral mundial.
+
+                         Estatuto, deporte de base, igualdad y legado del Mundial 2030. Evaluar
+ CU03 | Deporte                                                                                            Alta / Alta / Media
+                         acceso e instalaciones sostenibles, separando objetivos sociales de
+ n. 186-191                                                                                                E: Media
+                         rentabilidad de grandes eventos.
+
+ CU04 | Consumo          Combatir diseños manipulativos y reforzar resolución de reclamaciones.
+                                                                                                           Alta / Alta / Media
+ y servicios             Incorporar accesibilidad, recursos de inspección y resultados, no sólo
+                                                                                                           E: Media
+ n. 34-36,94-96          información formal.
+
+ CU05 | Cliente          Autoridad para resolución en 90 días y decisiones vinculantes por debajo de
+                                                                                                           Alta / Media / Media
+ financiero              20.000 euros. Verificar financiación, recursos, garantías y coordinación con
+                                                                                                           E: Media
+ n. 97                   supervisores y tribunales.
+
+Atribución y cobertura
+Cultura está dirigida en la coalición por Ernest Urtasun; los antecedentes gubernamentales no se asignan
+exclusivamente al PSOE. No se infiere una reforma detallada de medios públicos donde el programa no define un
+instrumento evaluable. [7]
+Coste y eficacia
+Análisis: los abonos pueden aumentar asistencia o subvencionar visitas que se habrían producido. Medir
+incremento neto y distribución territorial. Para un gran evento, incluir seguridad, mantenimiento y coste de
+oportunidad, sin atribuir todo gasto turístico al evento.
+Apoyo y acuerdos
+Consumo, bibliotecas y deporte de base son potencialmente negociables por separado de derechos de autor,
+fiscalidad o memorias culturales. La coincidencia general no acredita apoyo a una autoridad concreta ni a su
+financiación.
+Indicadores
+Participación por renta y territorio, ingresos de creadores, patrimonio conservado, práctica deportiva,
+reclamaciones resueltas y cumplimiento de decisiones. Publicar coste por usuario adicional, no sólo usuarios
+registrados.
+Fuentes: [2][7] | Confianza del pronóstico: media-baja; texto oficial: alta.
+
+
+
+
+                                                                                                  PSOE | Evaluación de propuestas 28
+04 | COHERENCIA FISCAL
+
+
+Una cuenta consolidada, no una suma de anuncios
+El programa no ofrece una memoria consolidada suficiente para certificar su coste incremental neto. Esto no
+demuestra inviabilidad: significa que la evaluación presupuestaria queda condicionada a definir importes,
+cobertura, secuencia y compensaciones. Las siguientes partidas deben reconciliarse antes de obtener un total.
+[2]
+
+ Tipo de partida            Tratamiento necesario
+
+                            Crianza, permisos, sanidad, educación y cuidados generan obligaciones recurrentes. Separar
+ Prestaciones y servicios
+                            ampliaciones de gasto ya vigente e identificar la administración pagadora.
+
+                            Vivienda construida, redes, rehabilitación y carreteras requieren desembolso y mantenimiento.
+ Inversión no financiera
+                            No confundir autorización plurianual, licitación, pago y activo utilizable.
+
+                            El principal prestado no equivale a subvención. Hay coste de financiación, impago, capital y
+ Préstamos y capital
+                            posible impacto contable. España Crece y las líneas de vivienda pueden solaparse. [11]
+
+                            Un aval es riesgo contingente, no gasto cero ni gasto igual al principal. El capital privado
+ Avales y movilización
+                            movilizado no es ingreso del Estado. Exigir escenarios de ejecución y adicionalidad.
+
+                            Los 21.000 millones adicionales deben encajar en la cuenta estatal. La transferencia de 83.000
+ Financiación territorial   millones de deuda no reduce por sí misma el pasivo consolidado de las administraciones. [38]
+                            [39]
+
+                            Separar bases y recaudación de IRPF del ahorro, transacciones y nuevos gravámenes. No
+ Nuevos ingresos
+                            financiar compromisos permanentes con ingresos internacionales aún no acordados. [2]
+
+Prueba de consistencia
+Análisis: el saldo relevante es gasto adicional más costes financieros y riesgos esperados, menos ingresos netos
+verificables y reasignaciones efectivas. Toda fila necesita año base, anualidad, nivel de gobierno y enlace a las
+medidas financiadas. Una misma partida de ICO, vivienda o crianza no puede utilizarse dos veces. Esta cuenta
+económica de costes y riesgos no equivale directamente al déficit de contabilidad nacional.
+AIReF prevé tensiones fiscales en el escenario vigente y reclama una estrategia de medio plazo. El análisis no
+adjudica a ese organismo una aprobación o rechazo del programa del PSOE. [8][9]
+
+
+
+
+                                                                                                PSOE | Evaluación de propuestas 29
+04 | COHERENCIA FISCAL
+
+
+Sensibilidad: qué datos faltan para presupuestar
+Ejercicios ilustrativos del informe. No son costes oficiales, previsiones de gasto ni parámetros atribuidos al PSOE.
+Sirven para mostrar qué decisiones de diseño dominan la cuenta.
+
+ Supuesto ilustrativo      Resultado y cautela
+
+                           50 euros/mes: 4.800 millones/año; 100 euros: 9.600 millones; 200 euros: 19.200 millones.
+ Crianza: 8 millones de
+                           Son importes brutos antes de integración con ayudas existentes. El programa no fija esos 200
+ menores
+                           euros.
+
+                           A un coste supuesto de 200.000-250.000 euros por unidad: 20.000-25.000 millones brutos.
+ 100.000 viviendas         No es una tasación; excluir doble conteo de suelo y separar compra, construcción y
+                           patrimonio ya existente.
+
+ Movilización del 1% del   Por cada billón de euros de PIB nominal, el 1% son 10.000 millones. La cifra anunciada mezcla
+ PIB                       agentes e instrumentos; no se interpreta como aumento equivalente de gasto central.
+
+                           Diez millones de usuarios que recibieran el máximo supuesto de 200 euros supondrían 2.000
+ Ayuda dental              millones. El gasto depende de elegibilidad, uso y precio; no toda la población recibe
+                           automáticamente el máximo.
+
+ Cuatro semanas            Coste directo = personas elegibles x uso efectivo x cuatro semanas x base semanal cubierta.
+ parentales                Añadir gestión y sustituciones donde proceda; integrar permisos ya reconocidos.
+
+                           Cada 100.000 cuentas de 1.000 euros representan 100 millones de aportación inicial, antes
+ Cuenta al nacimiento
+                           de complementos, administración o rentabilidad. No es una transferencia mensual.
+
+Tres escenarios que debe publicar una memoria real
+Central: cobertura, uso y costes esperados. Adverso: mayor demanda, menor recaudación y retraso de ahorros.
+Despliegue gradual: prioridad y calendario con el mismo objetivo final. La memoria debe mostrar qué prestación
+o inversión se ajusta si no llega la financiación, en lugar de dar por seguro que el crecimiento lo absorbe todo.
+En créditos y avales, añadir escenarios de impago y tipos. En impuestos, respuesta de bases y cumplimiento. En
+servicios, disponibilidad de profesionales. Un cálculo estático no sustituye estas sensibilidades.
+
+
+
+
+                                                                                         PSOE | Evaluación de propuestas 30
+05 | EFICACIA Y DISTRIBUCIÓN
+
+
+Qué evidencia permite concluir y qué no
+ Área                   Lectura de la evidencia y prueba de resultado
+
+                        La evaluación de AIReF documenta problemas de acceso al IMV y CAPI. Justifica analizar
+ Prestaciones           simplificación y cobertura; no garantiza que cualquier sistema automático funcione. Medir
+                        elegibles atendidos y errores antes y después. [21]
+
+                        No extrapolar un efecto sobre rentas de contratos regulados a todos los hogares. Examinar
+ Vivienda               contratos, oferta, calidad, selección y desplazamientos entre canales. La evidencia temprana y los
+                        datos de anuncios requieren cautela. [62]
+
+                        Gasto, profesionales, actividad y salud son niveles distintos. Los cambios en definición de espera
+ Servicios sanitarios   pueden alterar series sin cambiar la experiencia del paciente. Usar criterios constantes y calidad
+                        asistencial. [27][28]
+
+                        El crecimiento de ocupación de la EPA es un resultado observado, no el efecto causal del
+ Empleo
+                        Gobierno. Comparar colectivos y sectores, horas, composición y coyuntura. [10]
+
+                        La ruta causal debe probar ahorro neto y calidad con tareas comparables, incluyendo revisión y
+ IA y digitalización
+                        excepciones. Mejor precisión en un ensayo no garantiza beneficio poblacional a escala.
+
+                        Evaluar daño evitado y calidad del servicio, ajustando por exposición y demanda. No equiparar
+ Clima e
+                        presupuesto ejecutado con impacto, ni una crisis aislada con prueba definitiva de toda la
+ infraestructuras
+                        estrategia.
+
+Distribución: el promedio puede ocultar efectos opuestos
+Análisis: alquiler protegido puede beneficiar a inquilinos actuales y alterar acceso de nuevos demandantes;
+gratuidad universitaria alcanza a quienes llegan a la universidad; permisos ligados al empleo pueden dejar fuera a
+hogares precarios; ayudas a electrificación pueden concentrarse en quienes pueden cofinanciar. Son hipótesis de
+incidencia a contrastar, no resultados inevitables.
+Durabilidad y evaluación independiente
+Medir si el beneficio persiste cuando acaba la subvención o cambia el Gobierno. Publicar protocolo y línea base
+antes del despliegue, incluir comparadores cuando sean viables y conservar versiones de los pronósticos. La
+evidencia debe poder corregir también una propuesta políticamente prioritaria.
+
+
+
+
+                                                                                           PSOE | Evaluación de propuestas 31
+06 | TRAYECTORIA Y ADICIONALIDAD
+
+
+Lo aprobado no equivale a lo entregado
+ Compromiso                Estado documentado y prueba pendiente
+
+                           Regla legal desde 2021. Evaluar mantenimiento, cuantía real y suficiencia; separar ampliaciones
+ Pensiones con IPC
+                           y posible reforma constitucional. [22][23]
+
+ Plan Estatal de           Aprobado en abril de 2026. Acreditar convenios, gasto ejecutado y viviendas accesibles. La
+ Vivienda                  dotación total anunciada no es resultado entregado. [14]
+
+                           Base legal en el RDL 29/2026, convalidado el 12 de noviembre. Comprobar desarrollo
+ TU CASA
+                           operativo, elegibilidad, solicitudes, concesiones y acceso efectivo. [16][17]
+
+                           El RDL 28/2026 no fue convalidado. No debe clasificarse como norma vigente ni asumirse el
+ Prórrogas de alquiler
+                           mismo respaldo que al decreto 29. [18]
+
+                           Proyecto devuelto en septiembre de 2025. Es un nuevo intento legislativo, no continuidad de
+ Jornada de 37,5 horas
+                           una jornada legal general ya reducida. [12]
+
+ Dependencia y             Leyes recientes requieren desarrollo y ejecución. Medir servicios y derechos efectivamente
+ mutualistas               reconocidos, no sólo aprobación. [24][13]
+
+ Integridad y aborto       Plan y anteproyecto de integridad; proyecto de reforma del artículo 43. No equivalen
+ constitucional            respectivamente a ley completa en vigor ni Constitución ya modificada. [36][37][31]
+
+                           Existen autorizaciones ferroviarias y una meta legal previa de I+D. La cuenta debe identificar
+ Ferrocarril y ciencia
+                           nuevos recursos y calendarios adicionales. [46][29]
+
+Criterio para evaluar historial
+No se calcula una tasa global de cumplimiento: haría falta un universo estable de compromisos, plazos y
+condiciones, además de comprobar resultados. La selección anterior ilustra estados distintos, no una muestra
+estadística. Tampoco se considera incumplida una meta cuyo plazo aún no vence.
+La responsabilidad de coalición se reparte entre ministerios, socios, Parlamento y ejecutores territoriales. Esto no
+elimina la rendición de cuentas: obliga a atribuir con precisión qué decisión controlaba cada actor.
+
+
+
+
+                                                                                             PSOE | Evaluación de propuestas 32
+07 | RESTRICCIONES JURÍDICAS
+
+
+La ruta legal depende de la medida
+ Ruta                          Aplicación al programa
+
+                               Impuestos, prestaciones y servicios precisan instrumentos y financiación. Tener mayoría
+ Legislación y presupuesto
+                               para una ley no sustituye las competencias territoriales ni obligaciones europeas.
+
+                               Ámbitos como derechos fundamentales, régimen electoral y parte de la organización
+ Ley orgánica                  judicial exigen procedimientos específicos. La votación final de conjunto requiere mayoría
+                               absoluta del Congreso.
+
+                               El artículo 167 establece como regla tres quintos en ambas Cámaras, con mecanismos
+ Reforma constitucional
+                               alternativos tasados y posibilidad de referéndum solicitado en los términos
+ ordinaria
+                               constitucionales.
+
+                               El artículo 168 exige dos tercios, disolución, nueva aprobación por las Cámaras y
+ Reforma agravada              referéndum obligatorio en sus supuestos. La ubicación y alcance de cada reforma
+                               determinan si procede.
+
+                               Vivienda, sanidad, educación y cuidados tienen distribuciones de competencias diferentes.
+ Competencias territoriales    Ley estatal, convenio de financiación y capacidad de cada ejecutor deben comprobarse por
+                               separado.
+
+                               Impuestos, ayudas, comercio, datos e IA deben encajar en reglas aplicables. Una propuesta
+ Derecho europeo e
+                               española para cambiar un marco europeo o global no equivale a poder aprobarlo
+ internacional
+                               unilateralmente.
+
+Fuentes jurídicas de base: Constitución, textos sectoriales y marcos europeos. Las rutas de esta página son
+orientativas y dependen del articulado finalmente propuesto; no sustituyen un dictamen sobre un texto cerrado.
+[30][48][54]
+Tres distinciones particularmente importantes
+Protección constitucional no es provisión material: reconocer un derecho no construye vivienda ni contrata
+personal. Cambiar un artículo del capítulo de principios sociales no exige automáticamente el mismo
+procedimiento que introducir un derecho en una sección especialmente protegida. Y aprobar una ley nacional de
+IA no permite reescribir el calendario o las obligaciones europeas. [32][49]
+Una barrera no significa imposibilidad perpetua. El informe identifica qué reforma, mayoría o autorización falta y
+evita compensarla mediante una media de puntuaciones favorables en otras dimensiones.
+
+
+
+
+                                                                                            PSOE | Evaluación de propuestas 33
+08 | RESPALDO INTERNO
+
+
+Dirección, territorios y equipos no son lo mismo
+ Actor o nivel           Evidencia observable e interpretación
+
+                         La publicación y presentación por Sánchez acreditan respaldo formal. El organigrama atribuye
+ Dirección nacional      estrategia a Montero, coordinación a Torró y programa a Narbona. No demuestra adhesión
+                         individual a las 500 numeraciones. [3][6]
+
+                         El Gobierno autonómico expresa rechazo al modelo de financiación. Es disenso sobre un diseño
+ Asturias
+                         concreto, no prueba de rechazo a todo el programa o ruptura de disciplina parlamentaria. [40]
+
+                         El PSOE regional vinculado a García-Page mantiene oposición documentada a la propuesta de
+ Castilla-La Mancha
+                         financiación. No se infiere automáticamente un veto de todos sus diputados. [41][42]
+
+                         Su manifiesto prioriza financiación singular, ordinalidad, Rodalies y vivienda. Es una voz
+ PSC                     territorial vinculada al proyecto socialista, no un socio externo intercambiable en una suma de
+                         escaños. [43]
+
+                         El cargo acredita responsabilidad formal, no respaldo privado a cada detalle. Las posiciones de
+ Equipos sectoriales     Hacienda, Economía, Vivienda y ejecutores territoriales deben verificarse cuando haya
+                         presupuesto y articulado. [7]
+
+                         Los estatutos fijan funciones, pero el informe no dispone de una medición representativa de
+ Afiliados y órganos     preferencias por medida. No convierte silencio, disciplina o una presentación pública en
+                         unanimidad. [61]
+
+Cómo afecta a la ejecución
+Análisis: el disenso territorial puede repercutir en negociación de convenios, calendario y legitimidad, aunque la
+dirección conserve control parlamentario. También puede resolverse mediante transición, garantías o cambio de
+reparto. No se atribuye un desenlace sin evidencia.
+Lo que permanece desconocido
+No hay un orden verificable de concesiones que la dirección aceptaría para formar Gobierno, ni una votación
+pública por cada propuesta. La prioridad narrativa del programa no mide cuánto estaría dispuesto a sacrificar el
+partido para mantener una medida.
+
+
+
+
+                                                                                           PSOE | Evaluación de propuestas 34
+09 | LIDERAZGO Y EQUIPO
+
+
+Perfiles: dirección política y capacidad económica
+Pedro Sánchez | Presidencia y liderazgo del PSOE
+Presidente del Gobierno desde junio de 2018; formación económica y trayectoria parlamentaria y municipal. Su
+experiencia permite observar negociaciones y gestión de coalición, pero no convierte resultados
+macroeconómicos agregados en efectos exclusivamente personales. [55][7]
+Prueba relevante: capacidad de cerrar presupuesto, priorizar compromisos y sostener acuerdos de ejecución. No
+se asigna una nota de carisma, integridad o competencia a partir de impresiones.
+
+María Jesús Montero | Estrategia electoral
+Vicesecretaria general y responsable estratégica de campaña según la estructura consultada. Su trayectoria
+ministerial anterior no debe presentarse como cargo actual: Hacienda está ocupada por Arcadi España en el
+registro gubernamental vigente. [5][6][7]
+Prueba relevante: coherencia entre prioridades electorales, recursos disponibles y negociación territorial. Una
+responsabilidad en campaña no anuncia por sí sola un nombramiento posterior.
+
+Carlos Cuerpo | Economía y vicepresidencia primera
+Vicepresidente primero desde marzo de 2026; ministro de Economía desde 2023, con experiencia en Tesoro,
+AIReF y Comisión Europea. Son credenciales verificables, no una garantía de eficacia de cada instrumento. [56]
+Prueba relevante: adicionalidad de la inversión, gestión de riesgos del ICO y reconciliación entre objetivos de
+productividad y financiación.
+
+Arcadi España | Hacienda
+Ministro de Hacienda desde marzo de 2026; experiencia previa en política territorial estatal y hacienda
+valenciana. El cargo actual se contrasta con el registro institucional para evitar biografías desactualizadas. [57][7]
+Prueba relevante: memoria consolidada, senda fiscal, reparto territorial y transparencia de riesgos contingentes.
+
+Estos perfiles identifican responsabilidades y experiencia pública. No constituyen una lista de futuros ministros
+ni un examen exhaustivo de antecedentes personales. Las cuestiones de integridad se evalúan mediante
+controles y hechos documentados, sin inferir culpabilidad de controversias o asociaciones.
+
+
+
+
+                                                                                        PSOE | Evaluación de propuestas 35
+09 | LIDERAZGO Y EQUIPO
+
+
+Perfiles: programa, organización y ejecución sectorial
+Cristina Narbona | Presidencia del partido y programa
+Responsable programática en el organigrama electoral. Trayectoria en Medio Ambiente, representación ante la
+OCDE y Consejo de Seguridad Nuclear. [60][6]
+Prueba relevante: coherencia entre transición energética, capacidades técnicas y restricciones fiscales; explicitar
+los intercambios entre objetivos.
+
+Rebeca Torró | Organización y coordinación
+Secretaria de Organización desde julio de 2025 y coordinadora electoral; trayectoria en Industria y
+administración valenciana. La autoridad orgánica no demuestra por sí sola consenso territorial. [59][6]
+Prueba relevante: convertir prioridades en responsabilidades, resolver diferencias documentadas y preservar
+trazabilidad de los acuerdos.
+
+Isabel Rodríguez | Vivienda
+Responsabilidad ministerial en vivienda desde 2023, precedida por política territorial y experiencia municipal.
+[58]
+Prueba relevante: inventario inicial fiable, cartera de suelo y vivienda, convenios, plazos y acceso real. Publicar
+qué recursos y resultados son adicionales.
+
+Félix Bolaños | Presidencia y Justicia
+Responsabilidad institucional actual y participación documentada en el acuerdo de renovación del CGPJ de
+2024. Ese pacto es un antecedente concreto de negociación, no evidencia de apoyo general del PP. [7][34]
+Prueba relevante: textos viables, mayorías por procedimiento y transición financiada en justicia y administración.
+
+Óscar López | Transformación digital
+Responsabilidad digital en la composición gubernamental consultada. No se deduce de ella una experiencia
+técnica personal no documentada ni un compromiso de continuidad en el puesto. [7]
+Prueba relevante: evaluación de IA por tarea, supervisión independiente, protección de datos y capacidad de
+compra y ejecución.
+
+Los equipos de Sanidad, Trabajo, Cultura, Derechos Sociales e Infancia incluyen responsables de otros
+componentes de la coalición. La evaluación debe preservar esa atribución compartida y distinguir partido,
+ministerio y organismo ejecutor. [7]
+
+
+
+
+                                                                                        PSOE | Evaluación de propuestas 36
+10 | ACUERDOS DOCUMENTADOS
+
+
+Lo que muestran las votaciones reales
+ Antecedente               Lectura válida y límite
+
+                           RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y
+ Vivienda, 12/11/2026      Podemos a favor; PP, Vox y Junts en contra. Es respaldo a ese texto, no al programa entero.
+                           [19][17]
+
+                           RDL 28/2026 rechazado; PNV se sitúa en contra, a diferencia del decreto 29. El objetivo
+ Prórrogas, 12/11/2026
+                           compartido de vivienda no predice apoyo al instrumento concreto. [19][18]
+
+                           El proyecto de reducción a 37,5 horas fue devuelto. PP, Vox y Junts respaldaron las
+ Jornada, 10/09/2025       enmiendas de totalidad. Una futura mayoría requeriría modificar apoyos, texto o
+                           contraprestaciones. [12]
+
+                           Acuerdo firmado entre PSOE y PP para renovación y reformas delimitadas. Demuestra
+ CGPJ, 25/06/2024          posibilidad de negociación institucional, no una coalición ni aval a toda la agenda judicial. [33]
+                           [34]
+
+                           La iniciativa socialista fue rechazada, con oposición de varios grupos de izquierda y
+ Proxenetismo,
+                           nacionalistas. Trata, asistencia y abolición deben analizarse como instrumentos separados.
+ 21/05/2024
+                           [35]
+
+                           Frente Amplio reclama concreción de la prestación. Hay coincidencia de objetivo; no un
+ Crianza, 16/11/2026
+                           acuerdo probado sobre cuantía, renta, calendario o compensaciones presupuestarias. [44]
+
+No mezclar instituciones, fechas ni marcas electorales
+La Diputación Permanente no tiene 350 miembros: sus 35-34 votos de una sesión no pueden trasladarse a una
+aritmética de investidura. Los grupos que votaron en la legislatura saliente y las coaliciones de la nueva elección
+tampoco son categorías idénticas. [19]
+Análisis: conservar fecha, texto, fase y actores de cada evidencia. Una enmienda de totalidad, una abstención de
+investidura, un presupuesto y un convenio de ejecución tienen significados distintos. Ninguno concede respaldo
+automático a todos los compromisos futuros.
+
+
+
+
+                                                                                             PSOE | Evaluación de propuestas 37
+10 | DINÁMICAS CRUZADAS
+
+
+Espacios de acuerdo: hipótesis, no pactos
+La matriz siguiente es análisis de negociación. Identifica qué debe contrastarse, no adjudica intenciones privadas
+ni compromisos no documentados. La coincidencia puede darse en el objetivo y desaparecer en instrumento,
+escala, financiación o competencias.
+
+ Actor                Posible espacio y condición decisiva
+
+                      Crianza, servicios, cuidados y protección laboral ofrecen objetivos comunes; cuantías, prioridades,
+ Izquierda del PSOE   vivienda, defensa y algunas políticas de igualdad pueden exigir concesiones. La exigencia pública
+                      sobre crianza acredita una negociación abierta, no cerrada. [44]
+
+                      El respaldo al decreto 29 y rechazo al 28 muestran selección por instrumento. No presumir
+ PNV                  acuerdo en fiscalidad general, competencias o controles del alquiler por apoyo a una medida de
+                      acceso. [19]
+
+                      Los votos favorables de vivienda acreditan una coincidencia concreta. La continuidad de apoyo
+ ERC y EH Bildu       requiere texto y condiciones; no asumir que respaldarían todo paquete fiscal, territorial o exterior.
+                      [19]
+
+                      Los antecedentes de jornada y vivienda identifican dificultades reales. Cualquier acuerdo futuro
+ Junts                exige condiciones nuevas verificables; no utilizar su voto como apoyo disponible por defecto. [12]
+                      [19]
+
+                      El pacto judicial es evidencia de acuerdo institucional delimitado. Ciencia, infraestructuras o
+ PP                   servicios podrían negociarse por piezas, pero no existe aquí evidencia de un compromiso general
+                      con el programa socialista. [33]
+
+                      No se incorpora ningún voto a un escenario sin posición o acuerdo acreditado. Una coincidencia
+ Vox y otros grupos
+                      puntual en seguridad, una obra o una abstención no equivale a apoyo estable de gobierno.
+
+Cuatro mayorías distintas
+Investidura: quién permite formar Gobierno. Presupuesto: quién financia el paquete. Legislación: quién acepta
+cada articulado. Ejecución: qué administraciones firman convenios y entregan servicios. La durabilidad aumenta
+cuando las cuatro capas son compatibles, pero no deben darse por equivalentes.
+Las condiciones potenciales incluyen gradualidad, cambios de umbrales, garantías territoriales y financiación.
+Sólo se clasificarán como acuerdo cuando exista un texto, voto o compromiso público inequívoco.
+
+
+
+
+                                                                                            PSOE | Evaluación de propuestas 38
+11 | COHERENCIA Y ESCENARIOS
+
+
+Dónde se acumulan las dependencias
+ Interacción                  Riesgo y condición de coherencia
+
+                              Crianza, sanidad, educación y cuidados generan gasto permanente mientras se propone
+ Servicios + senda fiscal
+                              reducir déficit. Necesitan ingresos netos, secuencia o reasignaciones explícitas. [2][8]
+
+ Vivienda: demanda +          Crédito y ayudas actúan antes que suelo y construcción. Análisis: acompasar despliegue
+ oferta                       para que facilitar pago no absorba toda la mejora en precios.
+
+                              Una disputa de reparto puede bloquear convenios necesarios para servicios. El disenso
+ Financiación + cooperación   interno territorial hace especialmente importante publicar transición y criterios. [40][41]
+                              [43]
+
+                              Más computación y adopción requieren red, agua, seguridad, personal y evaluación. No
+ IA + derechos + energía      presupuestar simultáneamente grandes ahorros inmediatos y nuevas cargas de supervisión
+                              sin costes de transición.
+
+ Reformas + capacidad         Nuevas autoridades, registros, prestaciones y leyes compiten por los mismos especialistas,
+ administrativa               sistemas y compras. La aprobación simultánea puede aumentar cuellos de botella.
+
+ Reformas constitucionales    Los grandes pactos pueden prolongarse. Las medidas ordinarias compatibles no deben
+ + continuidad                quedar artificialmente condicionadas a que finalice una reforma constitucional.
+
+Lectura por escenario
+A: una mayoría propia facilita leyes, pero no crea profesionales, suelo, apoyo constitucional o acuerdos
+europeos. B: un pacto puede priorizar transferencias y servicios, pero obliga a cerrar fiscalidad, territorio y
+diferencias de instrumento. C: aumenta la probabilidad de paquetes más pequeños, graduales o alterados, sin
+que eso equivalga a ejecución del compromiso original.
+Pruebas de estrés
+Análisis: simular menor crecimiento, recaudación inferior, coste financiero mayor, retirada de un socio y rechazo
+de comunidades ejecutoras. Indicar qué se retrasa, qué se mantiene y quién decide. No hay base suficiente para
+asignar probabilidades electorales ni una probabilidad única de cumplimiento de todo el programa.
+
+
+
+
+                                                                                             PSOE | Evaluación de propuestas 39
+12 | IMPLEMENTACIÓN Y SEGUIMIENTO
+
+
+Una secuencia verificable de ejecución
+ Hito propuesto por el informe   Entrega observable
+
+                                 Registro único de medidas con línea base, coste adicional, ejecutor y fuente financiera;
+ Antes de comprometer gasto
+                                 inventario de normas y programas vigentes; conciliación de partidas duplicadas.
+
+                                 Acuerdo de gobierno publicado; calendario legislativo y fiscal; definición de elegibilidad
+ Primeros 100 días               de prestaciones; cartera madura de vivienda; protocolos de evaluación y convenios
+                                 prioritarios.
+
+                                 Presupuesto y articulados; pilotos con comparadores en digitalización y activación;
+ Primer año
+                                 acuerdos territoriales; contrataciones justificadas; publicación trimestral de desviaciones.
+
+                                 Escalado sólo tras evaluar; viviendas y servicios operativos; resolución de cuellos de
+ Años 2-3
+                                 botella; revisión independiente del coste y efecto distributivo.
+
+                                 Cumplimiento completo, parcial, modificado o no entregado por cada medida. Separar
+ Final de legislatura            resultado material, efecto social y contribución atribuible. No evaluar 2035 como si
+                                 venciera antes.
+
+Cuadro de control mínimo
+Cada ficha debe conservar ID, versión, fuente, fecha, objetivo, instrumento, coste, aprobación, financiación,
+entrega, indicador de efecto, riesgo, responsable y próxima revisión. Publicar también medidas retiradas o
+sustituidas: eliminarlas del denominador sesga el historial.
+Disparadores para actualizar el pronóstico
+Un pacto cambia A/B/C; una memoria fiscal cambia capacidad de financiación; un convenio o licitación madura
+cambia E; una evaluación causal cambia la expectativa de eficacia. Una noticia que repite una promesa no
+modifica por sí sola ninguna de esas variables.
+Límites que no deben ocultarse
+No se dispone de microsimulación fiscal integral, modelo electoral, inventario completo de ejecución territorial o
+encuesta interna por propuesta. La evaluación mantiene esos huecos como desconocidos y ofrece condiciones
+observables para resolverlos, sin convertirlos en prueba de éxito ni de fracaso.
+
+
+
+
+                                                                                              PSOE | Evaluación de propuestas 40
+ANEXO A | ÍNDICE DE COBERTURA
+
+
+Correspondencia con el programa: 1-252
+Mapa de los bloques numerados a las fichas del informe. La cobertura es temática y agrupa instrumentos
+relacionados; no declara que cada frase de cada numeración tenga una evaluación individual. Los identificadores
+de ficha facilitan seguir versiones y evitar duplicidades.
+
+ Numeración original       Ficha o tratamiento principal
+
+ 1-7                       E01-E05: inversión, industria, ahorro, simplificación y participaciones.
+
+ 8-14                      CI01-CI05: ciencia, carrera e infraestructuras de investigación.
+
+ 15-21                     AI01-AI04: capacidades, adopción y acceso digital.
+
+ 22-33                     TR01-TR05: seguridad, ferrocarril, carreteras y redes.
+
+ 34-36                     CU04: consumo; cruces con derechos digitales.
+
+ 37-60                     V01-V05; IN01 para la ruta constitucional de vivienda.
+
+ 61-86                     V06-V10: acceso, alquiler, tenedores, datos y escudo social.
+
+ 87-97                     L02, E01-E05, PS01 y CU04-CU05: salarios, poder adquisitivo y consumo.
+
+ 98-107                    P01-P05 y FA03: pensiones, incapacidad, cuidados y mutuas.
+
+ 108-124                   L01-L05: trabajo, activación, prevención y mutualistas.
+
+ 125-135                   F01-F05: senda fiscal, ingresos y beneficios a hogares.
+
+ 136-156                   S01-S05: sanidad; AI04 y DG04 para aspectos de datos e IA.
+
+ 157-185                   ED01-ED05 y CI05: sistema educativo y universidad.
+
+ 186-191                   CU03: deporte y legado de eventos.
+
+ 192-219                   FA01-FA05 y PS05: infancia, familia, cuidados y longevidad.
+
+ 220-228                   PS02: discapacidad; cruces con empleo, educación y justicia.
+
+ 229-233                   T01-T03: financiación, deuda y recursos territoriales.
+
+ 234-252                   EN01-EN05: energía, industria y economía circular.
+
+Los números 54 y 176 funcionan como epígrafes; no se cuentan como una nueva prestación. Los compromisos
+compuestos se separan cuando cambia la ruta de ejecución; los repetidos se vinculan para no inflar coste o
+cumplimiento. [2]
+
+
+
+
+                                                                                              PSOE | Evaluación de propuestas 41
+ANEXO A | ÍNDICE DE COBERTURA
+
+
+Correspondencia con el programa: 253-500
+ Numeración original       Ficha o tratamiento principal
+
+ 253-266                   CL01-CL02 y EN05: adaptación, agua y centros de datos.
+
+ 267-279                   R01-R05: agricultura, pesca y servicios rurales.
+
+ 280-286                   TR02-TR05: movilidad, recarga y resiliencia.
+
+ 287-305                   CL03-CL05: ecosistemas, costas, bienestar animal y gobernanza.
+
+ 306-326                   IG01 y FA03-FA05: empleo de mujeres y corresponsabilidad.
+
+ 327-332                   IG02 y S01-S05: derechos reproductivos y salud.
+
+ 333-347                   IG03-IG04: violencias, trata, prostitución y reparación.
+
+ 348-364                   IG05 y DG03-DG05: violencia digital, paridad y participación.
+
+ 365-375                   IN01-IN02, P01, FA05 y T04: derechos, voto y arquitectura institucional.
+
+                           Tratamiento transversal de juventud: ED01-ED05, L04, V06-V10, FA01-FA04 e IN02. Sin
+ 376-381
+                           ficha atómica por cada entrada.
+
+ 382-387                   T03-T05: cooperación, Senado, lenguas y singularidades.
+
+ 388-391                   MI01-MI05: migración, asilo e integración.
+
+ 392-398                   PS03: igualdad de trato y lucha contra discriminación.
+
+ 399-411                   DG01-DG05 y AI04: menores, plataformas y derechos de IA.
+
+ 412-419                   PS04: derechos LGTBI y protección.
+
+ 420-424                   IN05: memoria democrática y reparación.
+
+ 425-438                   J01-J05: seguridad y justicia.
+
+ 439-448                   IN02-IN04 y AI04: administración, integridad y evaluación.
+
+ 449-455                   CU01-CU02: cultura, artistas y acceso.
+
+ 456-500                   EX01-EX05 y AI05: exterior, UE, cooperación, defensa y debate fiscal global.
+
+Ejemplos de solapamiento que afectan al recuento
+70/72: fiscalidad de grandes tenedores; 100/365: pensiones en la Constitución; 325/326: permisos y cuidados;
+372/374: voto juvenil; 375/444: futuras generaciones; 396/398: parte de la agenda antidiscriminación. El
+número de numeraciones no mide por sí solo densidad, coste o calidad de un programa. [2]
+
+
+
+
+                                                                                           PSOE | Evaluación de propuestas 42
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 1-9
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[1] BOE. Real Decreto 806/2026: convocatoria electoral
+6/10/2026 | Norma
+Fecha electoral y constitución de las Cámaras.
+Abrir fuente original
+
+[2] PSOE. Programa electoral de las elecciones generales del 29N
+15/11/2026 | Programa oficial
+Texto base: 114 páginas y numeración 1-500. Las referencias n. del informe remiten a este documento.
+Abrir fuente original
+
+[3] PSOE. Presentación del programa por Pedro Sánchez
+15/11/2026 | Comunicado de partido
+Acredita presentación y respaldo de la dirección; no prueba eficacia.
+Abrir fuente original
+
+[4] PSOE. Programa completo y lectura por temas
+Consulta 17/11/2026 | Portal oficial
+Índice temático y enlace a la versión de 114 páginas.
+Abrir fuente original
+
+[5] PSOE. Comisión Ejecutiva Federal
+Consulta 17/11/2026 | Organización
+Cargos orgánicos del partido; no equivale a un gabinete futuro.
+Abrir fuente original
+
+[6] PSOE. Organigrama del comité electoral
+11/2026 | Documento oficial
+Dirección estratégica, coordinación y responsabilidad programática.
+Abrir fuente original
+
+[7] La Moncloa. Composición del Gobierno
+Consulta 17/11/2026 | Registro institucional
+Fuente de control para cargos ministeriales actuales y atribución de responsabilidades.
+Abrir fuente original
+
+[8] AIReF. Informe 72/26: presupuestos 2027, resumen
+4/11/2026 | Evaluación independiente
+Previsiones a políticas constantes y riesgos fiscales. No evalúa el programa electoral.
+Abrir fuente original
+
+[9] AIReF. Riesgo de incumplimiento del plan fiscal
+4/11/2026 | Evaluación independiente
+Síntesis de las conclusiones y de la necesidad de una estrategia fiscal.
+Abrir fuente original
+
+
+
+
+                                                                                          PSOE | Evaluación de propuestas 43
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 10-18
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[10] INE. Encuesta de Población Activa, tercer trimestre de 2026
+27/10/2026 | Estadística oficial
+Línea base de empleo y paro. No identifica efectos causales de un partido.
+Abrir fuente original
+
+[11] Ministerio de Economía. Fondo España Crece
+16/02/2026 | Instrumento de gobierno
+Distingue capital del ICO, capacidad financiera y movilización público-privada.
+Abrir fuente original
+
+[12] Congreso. Proyecto sobre reducción de jornada, expediente 121/000058
+10/09/2025 | Tramitación parlamentaria
+Antecedente de devolución del proyecto de 37,5 horas.
+Abrir fuente original
+
+[13] BOE. Ley 2/2026 sobre mutualidades alternativas y RETA
+29/07/2026 | Norma
+Diferencia reconocimiento legal, desarrollo y entrega efectiva.
+Abrir fuente original
+
+[14] BOE. Real Decreto 326/2026: Plan Estatal de Vivienda 2026-2030
+22/04/2026 | Norma
+Plan ya aprobado; cofinanciación y protección del parque.
+Abrir fuente original
+
+[15] Consejo de Ministros. Plan Estatal de Vivienda
+21/04/2026 | Explicación institucional
+Desglose anunciado de 7.000 millones y colaboración territorial.
+Abrir fuente original
+
+[16] BOE. Real Decreto-ley 29/2026 de medidas de vivienda
+6/10/2026 | Norma consolidada
+Base legal de TU CASA y otras medidas; verificar efectos y desarrollo por artículo.
+Abrir fuente original
+
+[17] BOE. Convalidación del Real Decreto-ley 29/2026
+13/11/2026 | Resolución parlamentaria
+Convalidación acordada el 12 de noviembre.
+Abrir fuente original
+
+[18] BOE. Derogación del Real Decreto-ley 28/2026
+13/11/2026 | Resolución parlamentaria
+El decreto sobre prórroga de arrendamientos tuvo un desenlace distinto al 29/2026.
+Abrir fuente original
+
+
+
+
+                                                                                      PSOE | Evaluación de propuestas 44
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 19-27
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[19] Euronews. Votaciones de los dos decretos de vivienda
+12/11/2026 | Información parlamentaria
+Permite distinguir posiciones de PNV y Junts en medidas concretas; votos de la Diputación Permanente.
+Abrir fuente original
+
+[20] La Moncloa. Medidas del decreto de vivienda
+Actualización 13/11/2026 | Explicación institucional
+Alcance de las medidas y requisitos; no acredita resultados de ejecución.
+Abrir fuente original
+
+[21] AIReF. Quinta opinión sobre el ingreso mínimo vital
+07/2026 | Evaluación independiente
+Problemas de acceso efectivo y de revisiones de prestaciones.
+Abrir fuente original
+
+[22] BOE. Ley 21/2021 de garantía del poder adquisitivo de las pensiones
+28/12/2021 | Norma consolidada
+Antecedente legal de la indexación con el IPC.
+Abrir fuente original
+
+[23] Seguridad Social. Primer paso para la revalorización de 2027
+13/11/2026 | Actuación administrativa
+No confundir trámite con porcentaje definitivo de revalorización.
+Abrir fuente original
+
+[24] BOE. Ley 4/2026 sobre dependencia y discapacidad
+1/10/2026 | Norma
+Reforma existente que debe desplegarse y financiarse.
+Abrir fuente original
+
+[25] BOE. Real Decreto-ley 36/2026
+10/11/2026 | Norma
+Desarrollo reciente de protección social; no se presume convalidación ulterior.
+Abrir fuente original
+
+[26] La Moncloa. Convalidación de la ampliación de permisos
+9/09/2025 | Situación normativa
+Base de 19 semanas, incluidas dos de uso flexible hasta los ocho años.
+Abrir fuente original
+
+[27] Ministerio de Sanidad. Sistema de información de listas de espera
+Actualización 24/09/2026 | Estadística oficial
+Identificar fecha de corte y revisiones; la fecha de publicación no es la de los pacientes medidos.
+Abrir fuente original
+
+
+
+
+                                                                                               PSOE | Evaluación de propuestas 45
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 28-36
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[28] Ministerio de Sanidad. Criterios comunes de listas de espera
+21/09/2026 | Propuesta de medición
+Cambios en criterios y prioridades no equivalen por sí solos a menor espera.
+Abrir fuente original
+
+[29] BOE. Ley 17/2022 de modificación de la Ley de la Ciencia
+5/09/2022 | Norma
+Antecedente de la meta de financiación pública de I+D del 1,25% del PIB en 2030.
+Abrir fuente original
+
+[30] BOE. Constitución española
+Texto vigente consultado 17/11/2026 | Norma superior
+Competencias, leyes orgánicas, decretos-leyes y procedimientos de reforma constitucional.
+Abrir fuente original
+
+[31] Consejo de Ministros. Proyecto de reforma del artículo 43
+7/04/2026 | Proyecto de reforma
+Propuesta de protección constitucional de la interrupción voluntaria del embarazo; no reforma culminada.
+Abrir fuente original
+
+[32] Consejo de Estado. Dictamen 1078/2025
+2025 | Dictamen consultivo
+Análisis jurídico de la ubicación de la reforma; no sustituye la mayoría parlamentaria.
+Abrir fuente original
+
+[33] RTVE. Acuerdo PSOE-PP para renovar el CGPJ
+25/06/2024 | Antecedente documentado
+Acuerdo concreto, no respaldo general a todas las futuras reformas judiciales.
+Abrir fuente original
+
+[34] PSOE-PP. Texto firmado del acuerdo de renovación del CGPJ
+25/06/2024 | Acuerdo firmado
+Copia del texto firmado y sus compromisos.
+Abrir fuente original
+
+[35] Europa Press. Rechazo de la iniciativa del PSOE sobre proxenetismo
+21/05/2024 | Antecedente parlamentario
+Diferencias entre el PSOE y otros grupos en una propuesta específica.
+Abrir fuente original
+
+[36] La Moncloa. Plan Estatal de Lucha contra la Corrupción
+26/08/2025 | Plan aprobado
+Antecedente institucional; aprobar un plan no acredita cumplimiento.
+Abrir fuente original
+
+
+
+
+                                                                                            PSOE | Evaluación de propuestas 46
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 37-45
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[37] Consejo de Ministros. Anteproyecto de integridad pública
+17/02/2026 | Anteproyecto
+Estado inicial del paquete normativo y alcance anunciado.
+Abrir fuente original
+
+[38] Ministerio de Hacienda. Propuesta de financiación autonómica
+6/07/2026 | Propuesta de gobierno
+Recursos adicionales anunciados; requiere legislación y distribución definitiva.
+Abrir fuente original
+
+[39] Ministerio de Hacienda. Reunión sobre deuda y financiación territorial
+15/06/2026 | Propuesta de gobierno
+Propuesta de asunción de deuda autonómica por el Estado.
+Abrir fuente original
+
+[40] Gobierno de Asturias. Consejo de Gobierno
+31/08/2026 | Posición institucional
+Rechazo al modelo de financiación; evidencia de discrepancia territorial concreta.
+Abrir fuente original
+
+[41] PSOE Castilla-La Mancha. Posición sobre financiación
+12/09/2026 | Posición territorial
+Disenso documentado de la organización vinculada a García-Page.
+Abrir fuente original
+
+[42] PSOE Castilla-La Mancha. Defensa de los intereses regionales
+09/2026 | Comunicado territorial
+Fuente primaria complementaria del disenso territorial.
+Abrir fuente original
+
+[43] Europa Press. Manifiesto del PSC para las generales
+17/11/2026 | Posición territorial
+Prioridades sobre financiación, Rodalies y vivienda; no confundir PSC con un socio externo.
+Abrir fuente original
+
+[44] ElDiario.es. Frente Amplio y la prestación de crianza
+16/11/2026 | Posición de otro partido
+Coincidencia en objetivo; no demuestra acuerdo sobre cuantía o financiación.
+Abrir fuente original
+
+[45] BOE. Orden TED/864/2026: autorización de Almaraz
+12/08/2026 | Autorización
+Autorización hasta el 8 de junio de 2030; línea base que debe respetar el análisis.
+Abrir fuente original
+
+
+
+
+                                                                                              PSOE | Evaluación de propuestas 47
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 46-54
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[46] Consejo de Ministros. Autorizaciones ferroviarias
+13/10/2026 | Actuación de gobierno
+Convenios 2026-2030: separar compromisos anteriores de recursos realmente adicionales.
+Abrir fuente original
+
+[47] Transportes. Acuerdo con organizaciones sindicales ferroviarias
+9/02/2026 | Acuerdo sectorial
+Antecedentes sobre plantillas y seguridad; no prueba incorporaciones completadas.
+Abrir fuente original
+
+[48] Comisión Europea. Marco regulatorio de inteligencia artificial
+Consulta 17/11/2026 | Marco europeo vigente
+Normas europeas existentes y cambios del calendario; no atribuirlas como novedad nacional.
+Abrir fuente original
+
+[49] Comisión Europea. Calendario de aplicación del AI Act
+Consulta 17/11/2026 | Calendario oficial
+Aplicación escalonada: evitar asumir que todas las obligaciones entraron simultáneamente en vigor.
+Abrir fuente original
+
+[50] Comisión Europea. Aplicación de reglas de IA y transparencia
+2/08/2026 | Aplicación regulatoria
+Línea base europea para transparencia y supervisión.
+Abrir fuente original
+
+[51] Comisión Europea. Verificación europea de edad
+Consulta 17/11/2026 | Herramienta y política europea
+Arquitectura de verificación y protección de privacidad; herramienta disponible no implica ley nacional completa.
+Abrir fuente original
+
+[52] Comisión Europea. Despliegue de la verificación de edad
+29/04/2026 | Recomendación de despliegue
+Requisitos de implantación por Estados y servicios.
+Abrir fuente original
+
+[53] Comisión Europea. Espacio Europeo de Datos de Salud
+Consulta 17/11/2026 | Marco europeo
+Despliegue progresivo con hitos principales en 2029 y 2031.
+Abrir fuente original
+
+[54] DOUE. Reglamento (UE) 2025/327 de datos de salud
+2025 | Norma europea
+Derechos, condiciones de acceso y usos de los datos sanitarios.
+Abrir fuente original
+
+
+
+
+                                                                                             PSOE | Evaluación de propuestas 48
+ANEXO B | FUENTES Y TRAZABILIDAD
+
+
+Referencias 55-62
+Fecha de consulta: 17/11/2026. Las fuentes de partido acreditan compromisos; normas, registros y evaluaciones
+sirven para contrastarlos. Enlaces activos al original.
+[55] La Moncloa. Biografía de Pedro Sánchez
+Consulta 17/11/2026 | Perfil institucional
+Trayectoria y experiencia institucional verificable.
+Abrir fuente original
+
+[56] La Moncloa. Biografía de Carlos Cuerpo
+Consulta 17/11/2026 | Perfil institucional
+Vicepresidencia primera desde marzo de 2026 y trayectoria económica.
+Abrir fuente original
+
+[57] La Moncloa. Biografía de Arcadi España
+Consulta 17/11/2026 | Perfil institucional
+Titular de Hacienda desde marzo de 2026; trayectoria territorial.
+Abrir fuente original
+
+[58] La Moncloa. Biografía de Isabel Rodríguez
+Consulta 17/11/2026 | Perfil institucional
+Responsabilidad en vivienda y experiencia territorial y local.
+Abrir fuente original
+
+[59] PSOE. Perfil de Rebeca Torró
+Consulta 17/11/2026 | Perfil orgánico
+Organización desde julio de 2025 y trayectoria en Industria.
+Abrir fuente original
+
+[60] PSOE. Perfil de Cristina Narbona
+Consulta 17/11/2026 | Perfil orgánico
+Responsabilidad programática y trayectoria ambiental, OCDE y CSN.
+Abrir fuente original
+
+[61] PSOE. Estatutos federales del 41 Congreso
+12/2024 | Reglas internas
+Diferenciar competencias formales de evidencia observable sobre apoyo a cada medida.
+Abrir fuente original
+
+[62] FEDEA. Análisis de la regulación del alquiler
+2026 | Investigación económica
+Evidencia temprana: distinguir anuncios, contratos y parque total, y los límites de extrapolación.
+Abrir fuente original
+
+
+
+
+                                                                                               PSOE | Evaluación de propuestas 49
+

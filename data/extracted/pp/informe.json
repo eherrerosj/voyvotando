@@ -1,0 +1,3271 @@
+{
+  "party_id": "pp",
+  "party_name": "Partido Popular",
+  "report_meta": {
+    "title": "Partido Popular: propuestas, viabilidad y escenarios de ejecución",
+    "version": "1.0",
+    "cutoff_date": "2026-11-17",
+    "program_date": "2026-11-10",
+    "program_title": "La Reconstrucción Nacional. Programa electoral 2026",
+    "n_units_declared": 76,
+    "n_program_entries": "249 numeraciones; el archivo consultado contiene ocho espacios reservados: 83, 109, 132, 164, 167, 173, 200 y 210",
+    "pages": 38,
+    "coalition_members": [
+      "UPN"
+    ],
+    "notes": "Unidades extraídas: 76; declaradas: 76; cuadran. 19 fichas, una por ámbito; ninguna ficha partida (no hay '| 1/3'). Valoraciones A/B/C/E ilegibles: 0. PDF de 38 páginas; el .txt tiene un salto de página final sin contenido (39 segmentos). El texto con maquetación y pdftotext -raw contienen las mismas 12.354 palabras; no hizo falta reextraer tablas. Escenario adicional no numérico 'Oposición': No se estima como escenario numérico: siguen siendo posibles iniciativas parciales, acuerdos o adopción de ideas por otro Gobierno, pero no control de la ejecución. coalition_members: UPN figura solo como 'Acuerdo electoral con PP mencionado oficialmente el 16/11. [32]' (p. 30); el informe no detalla listas conjuntas. Las 76 unidades agrupan instrumentos conexos: una unidad no equivale a una medida numerada del programa. La referencia 'm.226' (p. 10) remite a la medida 226 del programa, no al registro de fuentes; no se incluye en refs. Las 56 referencias llevan un campo extra 'note' con la línea aclaratoria del registro cuando existe. Las entradas de team, integrity_and_governance llevan un campo extra 'page'. En team, las filas de la p. 29 tienen 'Pregunta de control' en lugar de 'Qué permite evaluar'."
+  },
+  "scenarios": {
+    "A": {
+      "label": "Mayoría propia",
+      "definition": "Gobierno del PP con apoyos propios suficientes para leyes ordinarias y orgánicas. No se presupone mayoría para reformar la Constitución."
+    },
+    "B": {
+      "label": "Apoyo de Vox",
+      "definition": "Gobierno sostenido por PP y Vox con votos suficientes para esas leyes, pero negociación de contenido y prioridades. No se presupone acuerdo global."
+    },
+    "C": {
+      "label": "Minoría variable",
+      "definition": "Gobierno del PP sin mayoría estable, que necesita pactos o abstenciones distintos por medida. No se incorpora a ningún partido sin compromiso documentado."
+    },
+    "E": {
+      "definition": "En las fichas, A / B / C califica la aprobación de una versión sustancialmente fiel durante una legislatura. E califica su entrega material, una vez aprobada y con financiación suficiente, en el plazo anunciado o, si falta, en cuatro años desde la toma de posesión. No es la probabilidad conjunta de que toda esa cadena ocurra."
+    },
+    "categories": {
+      "Alta": "Instrumento identificable y ruta política razonablemente directa bajo el escenario; no significa certeza ni un intervalo porcentual.",
+      "Media": "Necesita acuerdos, presupuesto, capacidad o desarrollo importante. La condición crítica se explica en cada ficha.",
+      "Baja": "Plazo, dependencia externa o barrera institucional sustancial hacen poco defendible el cumplimiento íntegro en la versión anunciada.",
+      "NE": "No estimable: objetivo sin umbral verificable, horizonte fuera del mandato o dependencia que impide definir un resultado preciso."
+    }
+  },
+  "executive_conclusions": [
+    {
+      "title": "Hay compromisos concretos, pero no una cuenta consolidada",
+      "text": "El programa permite identificar instrumentos y algunos plazos. No permite certificar el coste neto conjunto de rebajas fiscales, nuevos servicios e inversiones. La ausencia de memoria suficiente es una limitación de evaluación, no una prueba de inviabilidad. [2, 6, 9]",
+      "refs": [
+        2,
+        6,
+        9
+      ]
+    },
+    {
+      "title": "La aprobación es más sencilla que la entrega",
+      "text": "Normas fiscales y reorganizaciones pueden avanzar con una mayoría suficiente. Viviendas, profesionales, redes y obras dependen de capacidades materiales y territoriales. Los objetivos completos son más inciertos que sus leyes habilitantes.",
+      "refs": []
+    },
+    {
+      "title": "No todo lo prometido es nuevo",
+      "text": "La indexación de pensiones tiene antecedente legal; Almaraz ya tiene permiso hasta junio de 2030. El beneficio atribuible al nuevo Gobierno debe medirse contra esa situación inicial, no contra un escenario ficticio. [15, 27]",
+      "refs": [
+        15,
+        27
+      ]
+    },
+    {
+      "title": "El apoyo interno comprobable es desigual",
+      "text": "La presentación nacional acredita respaldo formal. Financiación territorial tiene una declaración compartida; salud y activación cuentan con ratificaciones sectoriales. No hay una medición fiable de adhesión individual a cada propuesta. [12, 18, 24-26]",
+      "refs": [
+        12,
+        18,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "title": "Un acuerdo con Vox no es un programa idéntico",
+      "text": "Hay coincidencias en impuestos, vivienda y nuclear; existen diferencias en arraigo, clima y organización territorial. PNV rechaza un bloque con Vox: no se agregan sus votos como piezas automáticamente compatibles. [33, 35, 50]",
+      "refs": [
+        33,
+        35,
+        50
+      ]
+    },
+    {
+      "title": "Existen espacios de acuerdo con otros partidos",
+      "text": "Personal sanitario, formación, digitalización, mantenimiento o protección social pueden separarse de reformas más disputadas. El pacto judicial de 2024 es un precedente real, no una garantía de apoyo futuro. [34, 36, 37]",
+      "refs": [
+        34,
+        36,
+        37
+      ]
+    },
+    {
+      "title": "La restricción fiscal afecta al paquete entero",
+      "text": "AIReF advierte tensiones en el escenario vigente. Los ahorros de una auditoría, el crecimiento y la lucha contra el fraude no son financiación garantizada antes de verificarse. [6]",
+      "refs": [
+        6
+      ]
+    },
+    {
+      "title": "La conclusión no es una nota global al PP",
+      "text": "La agenda combina continuidad, reformas ejecutables y objetivos con fuertes dependencias. Las decisiones útiles son por medida: qué versión, bajo qué apoyos, con qué financiación y en qué plazo.",
+      "refs": []
+    }
+  ],
+  "ambitos": [
+    {
+      "num": 1,
+      "title_in_report": "Economía, productividad y empresas",
+      "sheets": [
+        {
+          "sheet_title": "01. Economía, productividad y empresas",
+          "page": 5,
+          "program_refs": "7-8, 94, 186-194",
+          "source_refs": [
+            2,
+            7,
+            48
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "E01",
+              "title": "Cargas administrativas",
+              "instrument": "Reducción del 25%; 35% para pymes antes de 2029. Medir horas y costes reales, no número de normas derogadas.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "Reducción del 25%",
+                "35% para pymes antes de 2029"
+              ],
+              "page": 5
+            },
+            {
+              "id": "E02",
+              "title": "Crecimiento de pymes",
+              "instrument": "Escalonar obligaciones al superar umbrales. El diseño debe evitar que dividir sociedades permita eludirlas.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 5
+            },
+            {
+              "id": "E03",
+              "title": "Proyectos estratégicos",
+              "instrument": "Ventanilla única e incentivos a inversiones industriales. La autorización no sustituye suelo, red, capital ni demanda.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 5
+            },
+            {
+              "id": "E04",
+              "title": "Seguridad de suministro",
+              "instrument": "Planes y reservas de insumos críticos. Costear existencias, rotación, redundancia y riesgos de seleccionar proveedores.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 5
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Hay instrumentos ejecutivos y reformas legales abordables; la unidad de mercado exige respetar competencias. Las ventajas selectivas deben encajar en las reglas europeas de ayudas de Estado. Un objetivo de empleo no garantiza que el empleo sea adicional. El calendario industrial suele superar el de una autorización.",
+              "refs": []
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Posible ganancia: menos costes fijos y mayor inversión. Riesgos: trasladar controles al final sin recursos de inspección, subvencionar proyectos que se harían igualmente o privilegiar grandes solicitantes. Comparar con simplificación general y mejora de redes antes de conceder ayudas especiales.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo formal nacional; Juan Bravo y Alberto Nadal son interlocutores económicos verificables. Compatibilidad potencial con Vox en desregulación y con PSOE o partidos territoriales en industria; no existe acuerdo acreditado para este paquete. [38, 42, 43]",
+              "refs": [
+                38,
+                42,
+                43
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Tiempo administrativo mediano y percentil 90; coste de cumplimiento por tamaño; inversión adicional; productividad por hora; empleo neto a tres años. Publicar línea base y grupo de comparación.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "title_in_report": "Fiscalidad y cuentas públicas",
+      "sheets": [
+        {
+          "sheet_title": "02. Fiscalidad y cuentas públicas",
+          "page": 6,
+          "program_refs": "1, 4-5, 177-185",
+          "source_refs": [
+            2,
+            3,
+            6,
+            9
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "F01",
+              "title": "IRPF general",
+              "instrument": "Deflactación, mayores mínimos y protección del SMI. Falta tarifa completa para calcular distribución y coste.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Alta",
+              "figures": [],
+              "page": 6
+            },
+            {
+              "id": "F02",
+              "title": "IRPF joven",
+              "instrument": "18-35 años: rebajas 100/75/50/25% en los cuatro primeros ejercicios. Precisar cuota, transición y límites.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Alta",
+              "figures": [
+                "18-35 años",
+                "rebajas 100/75/50/25% en los cuatro primeros ejercicios"
+              ],
+              "page": 6
+            },
+            {
+              "id": "F03",
+              "title": "IVA alimentario",
+              "instrument": "Tipo cero temporal ampliado. Definir cesta, fin de la medida y traslado efectivo a precios.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Alta",
+              "figures": [
+                "Tipo cero temporal ampliado"
+              ],
+              "page": 6
+            },
+            {
+              "id": "F04",
+              "title": "Inversión empresarial",
+              "instrument": "Amortización inmediata e incentivos anticipados. Separar aplazamiento de recaudación de pérdida permanente.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 6
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "La administración tributaria puede aplicar una norma concreta con relativa rapidez; eso no demuestra que sea financiable. AIReF prevé tensiones fiscales bajo las políticas vigentes: no es una auditoría del PP. No se dispone de una memoria consolidada que permita certificar la neutralidad presupuestaria de estas medidas. [6]",
+              "refs": [
+                6
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "La deflactación evita aumentos de carga por inflación, pero beneficia de forma distinta según renta. Una exención por edad puede ayudar menos a jóvenes que ya no pagan IRPF y crear saltos de trato entre cohortes. Un IVA más bajo no garantiza una reducción idéntica del precio final.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo explícito de la dirección y área económica; intensidad interna no cuantificada. Vox converge en bajar impuestos, no necesariamente en tramos ni financiación. Con el PSOE serían más negociables alivios acotados que una reforma completa. [9, 33, 34]",
+              "refs": [
+                9,
+                33,
+                34
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Microsimulación por decil, edad y tipo de hogar; coste anual devengado y caja; recaudación por fraude verdaderamente adicional; precios antes y después. La ejecución Alta presupone ley detallada y cobertura financiera, no que ambas estén aseguradas.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "title_in_report": "Empleo, autónomos y relaciones laborales",
+      "sheets": [
+        {
+          "sheet_title": "03. Empleo, autónomos y relaciones laborales",
+          "page": 7,
+          "program_refs": "169-176; anuncio de activación del 10/11",
+          "source_refs": [
+            2,
+            9,
+            10,
+            11,
+            14
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "L01",
+              "title": "Cuota inicial autónomos",
+              "instrument": "Exención inicial y segundo año condicionado a ingresos. Verificar supervivencia empresarial, no solo altas.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Alta",
+              "figures": [
+                "Exención inicial",
+                "segundo año condicionado a ingresos"
+              ],
+              "page": 7
+            },
+            {
+              "id": "L02",
+              "title": "Franquicia de IVA",
+              "instrument": "Umbral de 85.000 euros. El ahorro administrativo puede convivir con la pérdida de deducción del IVA soportado.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Alta",
+              "figures": [
+                "Umbral de 85.000 euros"
+              ],
+              "page": 7
+            },
+            {
+              "id": "L03",
+              "title": "Primera contratación",
+              "instrument": "Bonificaciones de cotizaciones. Vigilar sustitución de empleados, rotación y contrataciones no adicionales.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Alta",
+              "figures": [],
+              "page": 7
+            },
+            {
+              "id": "L04",
+              "title": "Incapacidad temporal",
+              "instrument": "Mejor coordinación con mutuas y protección en enfermedad grave. Requiere datos, capacidad sanitaria y salvaguardias.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 7
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Cuotas, bonificaciones y IVA requieren normas y dotación. La franquicia europea existe desde 2025: el cambio nacional sería adoptarla con un diseño adecuado. No equivale a eliminar el impuesto de todas las compras del autónomo. La evaluación de AIReF sobre incapacidad temporal respalda estudiar gobernanza y coordinación, no atribuir todas las bajas a fraude. [10, 14]",
+              "refs": [
+                10,
+                14
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Las ayudas iniciales favorecen entrada y liquidez; pueden ser menos útiles que apoyo focalizado a negocios viables. En incapacidad, premiar solo la reducción de días puede generar presión para trabajar enfermo: deben medirse recuperación, recaídas y seguridad, además del gasto.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Posición oficial; las decisiones operativas exigirán participación de empresas, sindicatos, Seguridad Social y servicios sanitarios. No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus.",
+              "refs": []
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Empleo equivalente a tiempo completo, supervivencia a 24 meses, salarios y productividad. En bajas: duración ajustada por diagnóstico, reincorporación sostenible y reclamaciones. La renta de activación se analiza separadamente en protección social.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "title_in_report": "Pensiones y envejecimiento",
+      "sheets": [
+        {
+          "sheet_title": "04. Pensiones y envejecimiento",
+          "page": 8,
+          "program_refs": "107-110, 112, 114",
+          "source_refs": [
+            2,
+            3,
+            6,
+            15
+          ],
+          "forecast_confidence": "Media; alta en la continuidad jurídica del IPC",
+          "units": [
+            {
+              "id": "P01",
+              "title": "Revalorización con IPC",
+              "instrument": "Continuidad de una regla ya existente, no incremento nuevo atribuible por completo al programa.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Alta",
+              "E": "Alta",
+              "figures": [],
+              "page": 8
+            },
+            {
+              "id": "P02",
+              "title": "Jubilación activa",
+              "instrument": "Incentivos fiscales a compatibilizar actividad y pensión. El coste depende de quién participa y de las reglas de compatibilidad.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 8
+            },
+            {
+              "id": "P03",
+              "title": "Cotización por cuidados",
+              "instrument": "Protección de quienes interrumpen o reducen trabajo para cuidar. Coordinar con medidas y convenios ya existentes.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 8
+            },
+            {
+              "id": "P04",
+              "title": "Servicios a mayores",
+              "instrument": "Atención presencial, apoyos y elección de cuidados. Es una orientación sin una cobertura y fecha únicas.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [],
+              "page": 8
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "La regla de IPC tiene base legal desde 2021. Mantenerla es políticamente más sencillo que resolver el equilibrio actuarial. Un incentivo a prolongar actividad puede aumentar oferta de trabajo, pero también bonificar a quienes ya seguirían trabajando. [15]",
+              "refs": [
+                15
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "No aparece una senda completa de ingresos, gasto y transferencias que permita evaluar sostenibilidad conjunta. La suficiencia de la pensión y la equidad entre generaciones deben evaluarse por separado. Ni una revalorización nominal ni retrasar una jubilación prueban, por sí solos, mejora del bienestar.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "La dirección lo eleva a compromiso prioritario. El mantenimiento del poder adquisitivo permite acuerdos transversales; los detalles fiscales y contributivos no tienen el mismo grado de coincidencia. No se presupone acuerdo sobre edad de retiro o modelo mixto. [3, 34]",
+              "refs": [
+                3,
+                34
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Pensión real por cohortes; pobreza de mayores; participación laboral voluntaria; coste neto de compatibilidades; ingresos contributivos y transferencias. Exigir escenario a 10 y 20 años, no solo saldo del primer presupuesto.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "title_in_report": "Vivienda y urbanismo",
+      "sheets": [
+        {
+          "sheet_title": "05. Vivienda y urbanismo",
+          "page": 9,
+          "program_refs": "144-157",
+          "source_refs": [
+            2,
+            3,
+            7,
+            16,
+            17
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "V01",
+              "title": "Un millón de viviendas",
+              "instrument": "Objetivo agregado de legislatura, no un millón de viviendas públicas. Equivale a 250.000 anuales si se reparte en cuatro años.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Baja",
+              "figures": [
+                "Un millón de viviendas",
+                "Objetivo agregado de legislatura",
+                "250.000 anuales si se reparte en cuatro años"
+              ],
+              "page": 9
+            },
+            {
+              "id": "V02",
+              "title": "Suelo y licencias",
+              "instrument": "Agilización y plazo de tres meses. Requiere administraciones territoriales, suelo servido y controles legales efectivos.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "plazo de tres meses"
+              ],
+              "page": 9
+            },
+            {
+              "id": "V03",
+              "title": "Fiscalidad y avales",
+              "instrument": "IVA del 4% para primera compra joven y apoyo al ahorro. El IVA no cubre sin más la segunda mano sujeta a ITP.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "IVA del 4% para primera compra joven",
+                "Ahorro de 2.000 euros: Aportación anual máxima a Hucha Hogar Joven; deducción del 20% (p. 25)",
+                "Aval hasta 40.000 (p. 25)"
+              ],
+              "page": 9
+            },
+            {
+              "id": "V04",
+              "title": "Regulación del alquiler",
+              "instrument": "Derogación de la Ley de Vivienda e incentivos a permanencia. Separar cambios de ley de la evolución del alquiler.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 9
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "La oferta depende también de trabajadores, financiación y suelo urbanizado; el Banco de España identifica estas restricciones. Una licencia más rápida no entrega una vivienda. El cumplimiento completo del millón es menos plausible que aprobar cambios regulatorios; falta una cartera territorial de proyectos con plazos. [7]",
+              "refs": [
+                7
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "El aumento efectivo de oferta puede mejorar acceso a medio plazo. Avales y rebajas de compra pueden ayudar a hogares solventes sin ahorro; con oferta rígida, parte del apoyo podría trasladarse a precios. Es un riesgo causal, no una predicción cuantificada. Inquilinos sin capacidad de compra reciben un beneficio distinto. Los estudios sobre controles catalanes no arrojan una estimación única de oferta: no se generaliza un resultado a toda regulación ni se promete un efecto de derogación simétrico. [54, 55]",
+              "refs": [
+                54,
+                55
+              ]
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo prioritario de Feijóo y equipo económico. Vox coincide en oferta y derogación, con diferencias en prioridad por nacionalidad. PSOE y Frente Amplio defienden otros instrumentos de alquiler: coincidencia en construir no significa acuerdo sobre su régimen. [17, 33]",
+              "refs": [
+                17,
+                33
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Viviendas terminadas y habitables, adicionalidad frente a proyectos previos, localización, precio/renta y esfuerzo del hogar. La recuperación judicial en 48 horas se evalúa en justicia; no confundir ocupación, allanamiento e impago de alquiler.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "title_in_report": "Sanidad y salud mental",
+      "sheets": [
+        {
+          "sheet_title": "06. Sanidad y salud mental",
+          "page": 10,
+          "program_refs": "93, 219-227",
+          "source_refs": [
+            2,
+            3,
+            18,
+            19,
+            20
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "S01",
+              "title": "Primaria: 4.500 médicos",
+              "instrument": "La métrica debe ser incremento neto de efectivos y jornadas, descontando jubilaciones y cambios entre territorios.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "4.500 médicos"
+              ],
+              "page": 10
+            },
+            {
+              "id": "S02",
+              "title": "Listas de espera",
+              "instrument": "Pacto y plan urgente. Sin objetivo numérico homogéneo, el cumplimiento final no tiene umbral verificable.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [],
+              "page": 10
+            },
+            {
+              "id": "S03",
+              "title": "Salud mental 2027-2037",
+              "instrument": "Plan de largo plazo. Anuncio previo: 10.000 profesionales y 700 millones/año; no es crédito presupuestario aprobado.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [
+                "2027-2037",
+                "10.000 profesionales y 700 millones/año"
+              ],
+              "page": 10
+            },
+            {
+              "id": "S04",
+              "title": "Paliativos y tratamientos",
+              "instrument": "Ampliar acceso y agilizar evaluación de innovaciones. Cobertura, seguridad y coste de oportunidad requieren diseño separado.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 10
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Gran parte de la ejecución corresponde a las comunidades. Formar especialistas lleva varios años; una ley no crea inmediatamente oferta profesional. Retención, organización y cobertura de destinos importan tanto como plazas formativas. Los datos ministeriales deben fecharse por observación y reconocer sus revisiones. [19, 20]",
+              "refs": [
+                19,
+                20
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Más plantilla puede aumentar capacidad, pero no demuestra por sí sola menos demora o mejor salud. Una financiación farmacéutica más rápida debe mantener evaluación clínica y comparación de coste-efectividad. El texto de paliativos no basta para afirmar una derogación expresa de la ley de eutanasia. [2, m.226]",
+              "refs": [
+                2
+              ]
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Fúnez respalda explícitamente la agenda sanitaria desde octubre, ratificada en noviembre. Eso no acredita compromisos presupuestarios de todos los gobiernos autonómicos. Hay potencial de acuerdo transversal en personal, prevención y paliativos, condicionado al modelo de financiación. [18]",
+              "refs": [
+                18
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Profesionales netos por 100.000 habitantes y territorio; acceso a primaria; distribución de esperas; abandono; resultados ajustados por riesgo. Mantener separados el plan 2027-2037 y las entregas exigibles dentro de una legislatura.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "title_in_report": "Educación, universidad y ciencia",
+      "sheets": [
+        {
+          "sheet_title": "07. Educación, universidad y ciencia",
+          "page": 11,
+          "program_refs": "95-97, 188-189, 209-218",
+          "source_refs": [
+            2,
+            21,
+            22
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "ED01",
+              "title": "Refuerzo y nuevo marco",
+              "instrument": "Sustituir LOMLOE y reforzar lectoescritura/cálculo son decisiones distintas: la primera no garantiza la segunda.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 11
+            },
+            {
+              "id": "ED02",
+              "title": "PAU común",
+              "instrument": "Acuerdo con comunidades y universidades; requiere concretar contenidos, corrección, lenguas y adaptaciones.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 11
+            },
+            {
+              "id": "ED03",
+              "title": "Elección y conciertos",
+              "instrument": "Ampliar estabilidad de conciertos y elección. Costear plaza y transporte y controlar selección del alumnado.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 11
+            },
+            {
+              "id": "ED04",
+              "title": "FP, becas y ciencia",
+              "instrument": "Alinear formación con empleo y atraer investigadores. La asignación y las condiciones de acceso determinan el efecto.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 11
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Una reforma educativa relevante exige ley orgánica y ejecución territorial. El refuerzo temprano puede empezar antes de sustituir toda la ley. La promesa de un récord en PISA no fija una mejora atribuible: dependen cohorte, calendario de prueba y error muestral. No se debe presentar un puesto de ranking como evaluación causal.",
+              "refs": []
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Los criterios de aprobación más exigentes deben acompañarse de apoyos: sin ellos pueden cambiar la repetición sin mejorar aprendizaje. El chequeo distributivo debe incluir segregación, discapacidad, distancia al centro y renta. La financiación científica necesita continuidad más allá del anuncio de atracción de talento. La OCDE documenta asociaciones desfavorables de repetición; ello no identifica por sí solo el efecto causal del nuevo diseño propuesto. [56]",
+              "refs": [
+                56
+              ]
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo nacional y ratificación sectorial de Galiana en La Rioja el 10/11. Vox comparte partes de la reforma, pero no se ha verificado un acuerdo sobre todas. El PSOE puede coincidir en refuerzos y FP sin aceptar sustitución de LOMLOE o diseño de conciertos. [21, 22, 34]",
+              "refs": [
+                21,
+                22,
+                34
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Competencia lectora y matemática con línea base; abandono y repetición; composición social por centro; inserción FP ajustada por ciclo; estabilidad de contratos investigadores. Becas y gratuidad infantil se contabilizan sin duplicar el apartado familiar.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "title_in_report": "Familia, infancia, conciliación y cuidados",
+      "sheets": [
+        {
+          "sheet_title": "08. Familia, infancia, conciliación y cuidados",
+          "page": 12,
+          "program_refs": "114, 158-168",
+          "source_refs": [
+            2,
+            3,
+            21
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "FA01",
+              "title": "Crédito familiar mensual",
+              "instrument": "Unificar deducciones y hacerlas reembolsables puede llegar a hogares sin cuota de IRPF. Falta cuantía y escala completas.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 12
+            },
+            {
+              "id": "FA02",
+              "title": "Educación 0-3 gratuita",
+              "instrument": "Meta de fin de legislatura; cofinanciación estatal/autonómica al 50%. Gratis no equivale a plaza disponible.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "Meta de fin de legislatura",
+                "cofinanciación estatal/autonómica al 50%"
+              ],
+              "page": 12
+            },
+            {
+              "id": "FA03",
+              "title": "Permisos y flexibilidad",
+              "instrument": "Ampliación y organización del tiempo. Sin duración final ni calendario, no hay compromiso único cuantificable.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [],
+              "page": 12
+            },
+            {
+              "id": "FA04",
+              "title": "Dependencia y cuidadores",
+              "instrument": "Más financiación estatal y deducción del 40% de cuidado profesional. Necesita elegibilidad y gasto fiscal explícitos.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "deducción del 40% de cuidado profesional"
+              ],
+              "page": 12
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "El principal cuello de botella es recurrente: personal, centros y financiación estable. La mitad estatal de una plaza no resuelve la capacidad de la comunidad para sufragar la otra mitad. Deben separarse plazas nuevas, financiación de plazas existentes y extensión horaria. [2, 21]",
+              "refs": [
+                2,
+                21
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Un crédito reembolsable puede cubrir a quienes no se benefician de deducciones ordinarias, si se resuelve la solicitud y pago. Una deducción de cuidados no reembolsable puede dejar fuera a hogares sin cuota. La conciliación debe medirse por uso efectivo y reparto entre progenitores, no solo por derechos en papel. La OCDE identifica brechas de acceso infantil por renta: una tarifa cero debe acompañarse de disponibilidad y calidad. [53]",
+              "refs": [
+                53
+              ]
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Prioridad nacional ratificada; faltan acuerdos de cofinanciación por comunidad. Existe terreno potencial con PSOE en infantil y conciliación, y con Vox en apoyos familiares, sin identidad en condiciones ni enfoque. Las propuestas de gestación y reproducción no se convierten por inferencia en una posición completa sobre aborto.",
+              "refs": []
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Cobertura 0-3 por renta y territorio; listas de espera; coste por plaza; empleo de cuidadores; horas de cuidado no remunerado; porcentaje de créditos cobrados. Las medidas reservadas 164 y 167 no se puntúan como compromisos definidos.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 9,
+      "title_in_report": "Protección social, discapacidad e igualdad",
+      "sheets": [
+        {
+          "sheet_title": "09. Protección social, discapacidad e igualdad",
+          "page": 13,
+          "program_refs": "10, 111-115; anuncio de activación",
+          "source_refs": [
+            2,
+            11,
+            12,
+            13,
+            51
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "SO01",
+              "title": "Renta de activación",
+              "instrument": "Integrar IMV y subsidios con empleo/formación. Es anuncio ratificado, no un reglamento operativo ni un ahorro probado.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 13
+            },
+            {
+              "id": "SO02",
+              "title": "Prestaciones de oficio",
+              "instrument": "Reconocimiento con datos disponibles. Puede reducir exclusión administrativa; necesita bases legales, calidad y recurso humano.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 13
+            },
+            {
+              "id": "SO03",
+              "title": "Discapacidad y autonomía",
+              "instrument": "Atención temprana, asistencia personal y compatibilidades. Evaluar acceso real y necesidades no atendidas.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 13
+            },
+            {
+              "id": "SO04",
+              "title": "Registro de sexo",
+              "instrument": "Revisión de la autodeterminación registral. Trámite legal y posibles controversias de derechos; efectos no reducibles a coste.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 13
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "AIReF estima que en 2025 no solicitaba el IMV un 52% de hogares elegibles, y un 71% en el complemento infantil. Son problemas de acceso, no prueba de fraude. Unificar prestaciones exige evitar interrupciones, coordinar administraciones y definir ofertas adecuadas y causas justificadas antes de sancionar. [13]",
+              "refs": [
+                13
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "El balance debe incluir ingresos disponibles al aceptar empleo, cobertura y errores de exclusión. No dar por eficaz una sanción por el mero hecho de reducir perceptores. En registro y deporte, deben explicitarse los objetivos, grupos afectados, garantías y proporcionalidad; una valoración normativa no se disfraza de probabilidad.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo adicional a activación de Urrutia (16/11), además de Feijóo. Eso acredita dos portavoces, no consenso de afiliación. Vox puede respaldar condiciones más estrictas; PSOE y fuerzas de izquierda pueden coincidir en automatizar acceso sin aceptar recortes o cambios registrales. [11, 12, 33, 34]",
+              "refs": [
+                11,
+                12,
+                33,
+                34
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Pobreza antes/después de transferencias; hogares elegibles excluidos; renta neta por hora trabajada; sanciones anuladas; tiempos de atención temprana. Sobre derechos, seguimiento de acceso y litigios, sin calificar a colectivos como un coste.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 10,
+      "title_in_report": "Inmigración, asilo e integración",
+      "sheets": [
+        {
+          "sheet_title": "10. Inmigración, asilo e integración",
+          "page": 14,
+          "program_refs": "36-46, 140-143",
+          "source_refs": [
+            2,
+            3,
+            4,
+            23
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "IM01",
+              "title": "Identificación en 7 días",
+              "instrument": "Es un plazo de identificación, no garantía de resolver asilo o ejecutar todas las devoluciones en siete días.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "Identificación en 7 días"
+              ],
+              "page": 14
+            },
+            {
+              "id": "IM02",
+              "title": "Cupos laborales",
+              "instrument": "Contratación por sectores y cooperación de origen. Empleadores, consulados y reconocimiento de competencias son determinantes.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 14
+            },
+            {
+              "id": "IM03",
+              "title": "Arraigo e integración",
+              "instrument": "Restringir regularizaciones y condicionar renovaciones. La viabilidad depende del texto y de derechos aplicables.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 14
+            },
+            {
+              "id": "IM04",
+              "title": "Retornos y nacionalidad",
+              "instrument": "Más exigencias y cooperación exterior. Ninguna ley española obliga por sí sola a otro Estado a readmitir.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Baja",
+              "figures": [],
+              "page": 14
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Las reglas europeas de retorno adoptadas el 1/10 incluyen condiciones y transiciones. Los centros en terceros países no permiten eludir no devolución ni salvaguardias; los menores no acompañados están excluidos de esos centros. Identificación, autorización judicial, asilo y readmisión son procesos distintos. [23]",
+              "refs": [
+                23
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Hay un intercambio entre control, integración, oferta laboral y derechos. Los cupos deben conectarse con las necesidades de construcción y cuidados del propio programa. Un plazo más corto sin recursos puede acumular expedientes o aumentar errores. La prohibición de prendas requiere un examen específico de proporcionalidad, no una conclusión automática.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Posición oficial y prioridad de Feijóo. Vox converge en restricciones, pero suprimir el arraigo no es igual que conservarlo como excepcional. No se acredita apoyo de PSOE o PNV al paquete. Las posibles coincidencias operativas no anulan desacuerdos en derechos o elegibilidad. [33, 35, 50]",
+              "refs": [
+                33,
+                35,
+                50
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Tiempos por fase; decisiones corregidas en recurso; retornos ejecutados legalmente; vacantes cubiertas; integración laboral y acceso a servicios. No usar solo llegadas como indicador de eficacia ni extrapolar datos de una nacionalidad al conjunto.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 11,
+      "title_in_report": "Seguridad ciudadana y justicia",
+      "sheets": [
+        {
+          "sheet_title": "11. Seguridad ciudadana y justicia",
+          "page": 15,
+          "program_refs": "19-35, 157",
+          "source_refs": [
+            2,
+            4,
+            8
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "J01",
+              "title": "Multirreincidencia",
+              "instrument": "Procesos más ágiles. Para reducir demora hay que dotar juzgados, fiscalías, registros y asistencia jurídica.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 15
+            },
+            {
+              "id": "J02",
+              "title": "Plantillas y medios",
+              "instrument": "Más capacidad policial y judicial, equiparación y profesión de riesgo. Coste salarial y previsional recurrente.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 15
+            },
+            {
+              "id": "J03",
+              "title": "Recuperación en 48 h",
+              "instrument": "Requiere decisión judicial y clasificación correcta del supuesto. No es una expulsión administrativa universal.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Baja",
+              "figures": [
+                "Recuperación en 48 h"
+              ],
+              "page": 15
+            },
+            {
+              "id": "J04",
+              "title": "Delitos y penas",
+              "instrument": "Endurecimientos y ampliaciones penales. Aprobar una pena no demuestra reducción de delitos.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 15
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Los cambios penales y procesales exigen la vía normativa apropiada y respeto al derecho de defensa. La rapidez de una orden no depende exclusivamente del Ejecutivo. Una generalización de 48 horas debe pasar una prueba operativa y de garantías; se estima baja para cumplimiento universal, no para casos concretos. [8]",
+              "refs": [
+                8
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "La eficacia debe contrastarse con alternativas: investigación, prevención, recuperación de activos, gestión de expedientes y reinserción. Más denuncias pueden reflejar mayor acceso, no más delincuencia; menos denuncias tampoco prueban más seguridad. Separar violencia, hurto, crimen organizado y ocupación.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo nacional; coincidencia potencial con Vox en endurecimiento. Refuerzos de personal, protección de víctimas y lucha contra trata ofrecen terreno transversal, sin acuerdo firmado. No se atribuye unanimidad interna ni apoyo judicial por la sola presentación del programa.",
+              "refs": []
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Tiempos judiciales por procedimiento; esclarecimiento y reincidencia comparable; victimización; costes por caso; decisiones revocadas; ejecución de órdenes. La protección frente a violencia de género debe evaluarse por acceso y seguridad, no solo por dispositivos.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 12,
+      "title_in_report": "Instituciones, democracia y administración",
+      "sheets": [
+        {
+          "sheet_title": "12. Instituciones, democracia y administración",
+          "page": 16,
+          "program_refs": "1-6, 56-91; suplemento 16/11",
+          "source_refs": [
+            2,
+            3,
+            4,
+            8,
+            32,
+            36,
+            37
+          ],
+          "forecast_confidence": "Media; baja para reformas constitucionalmente abiertas",
+          "units": [
+            {
+              "id": "IN01",
+              "title": "Auditoría en 100 días",
+              "instrument": "Revisar gasto y estructura es posible; una auditoría completa con ahorros realizables exige alcance y recursos.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Alta",
+              "E": "Media",
+              "figures": [
+                "Auditoría en 100 días"
+              ],
+              "page": 16
+            },
+            {
+              "id": "IN02",
+              "title": "CGPJ y Fiscalía",
+              "instrument": "Reformas de nombramientos y autonomía. Separar aprobación legal, mayorías de designación y control constitucional.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 16
+            },
+            {
+              "id": "IN03",
+              "title": "TC y garantías",
+              "instrument": "Incompatibilidades y cambios de funcionamiento. Revisar compatibilidad con amparo y equilibrio constitucional.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 16
+            },
+            {
+              "id": "IN04",
+              "title": "Dos prórrogas: elecciones",
+              "instrument": "Añadir una disolución automática altera un marco constitucional que hoy prevé prórroga presupuestaria.",
+              "A": "Baja",
+              "B": "Baja",
+              "C": "Baja",
+              "E": "NE",
+              "figures": [
+                "Dos prórrogas"
+              ],
+              "page": 16
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Una mayoría absoluta no basta para una reforma constitucional. La medida presupuestaria exige resolver la relación con los arts. 115 y 134.4; no se presenta como una ley ordinaria de ejecución inmediata. El alcance final puede requerir reforma constitucional y apoyos reforzados. Los nombramientos no se identifican con simple control gubernamental. [8]",
+              "refs": [
+                8
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "El acuerdo PP-PSOE de 2024 acredita capacidad de pacto puntual tras un bloqueo prolongado; no prueba apoyo socialista a toda la agenda actual. Transparencia de contratos, beneficiarios reales y evaluación ex post son reformas separables. Un organismo rebautizado no es por ello más independiente. [36, 37]",
+              "refs": [
+                36,
+                37
+              ]
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "La dirección presenta regeneración como prioridad; Gamarra tiene responsabilidad sectorial. El anuncio del 16/11 sobre voto de desplazados por ETA se registra aparte: exige definir prueba, censo y garantías contra doble inscripción; no se asigna a una casilla reservada sin evidencia. [32, 39]",
+              "refs": [
+                32,
+                39
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Auditorías publicadas, ahorros netos recurrentes certificados, contratos con datos completos, independencia de nombramientos y cumplimiento de requerimientos. La propuesta de disolución solo mejoraría de categoría con vía jurídica y socios explícitos.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 13,
+      "title_in_report": "Modelo territorial y financiación",
+      "sheets": [
+        {
+          "sheet_title": "13. Modelo territorial y financiación",
+          "page": 17,
+          "program_refs": "13-18, 60, 92-106, 127-130",
+          "source_refs": [
+            2,
+            8,
+            24,
+            25,
+            26
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "T01",
+              "title": "Nueva financiación",
+              "instrument": "Modelo multilateral y fondo transitorio. Falta una tabla de recursos y resultados por comunidad.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 17
+            },
+            {
+              "id": "T02",
+              "title": "Autonomía y deuda",
+              "instrument": "Responsabilidad autonómica y reestructuración multilateral. No equivale a una condonación general definida.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 17
+            },
+            {
+              "id": "T03",
+              "title": "Servicios portables",
+              "instrument": "Interoperabilidad sanitaria/social y simplificación. Hay que distinguir servicios ya disponibles de ampliaciones nuevas.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 17
+            },
+            {
+              "id": "T04",
+              "title": "Unidad y amnistía",
+              "instrument": "Cambios penales y reversión de decisiones legislativas. No anulan automáticamente resoluciones judiciales firmes.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Baja",
+              "figures": [],
+              "page": 17
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "La Constitución distribuye competencias y protege la autonomía. Ni ganar elecciones ni presidir una conferencia permite sustituir todos los acuerdos territoriales. Una derogación no puede presumirse retroactiva para empeorar situaciones penales firmes. Los efectos de cada caso dependen de normas y resoluciones. [8]",
+              "refs": [
+                8
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "El fondo de nivelación puede aliviar insuficiencias, pero exige recursos estatales adicionales. Dar más a todas las comunidades y reducir ingresos estatales requiere una conciliación explícita. Población, envejecimiento, dispersión e insularidad producen preferencias distributivas diferentes, incluso dentro de un partido.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "La Declaración de Zaragoza de enero, firmada por dirigentes territoriales, es evidencia de apoyo a la multilateralidad. No demuestra consenso sobre ponderaciones o reparto final. Vox, PNV y otras fuerzas tienen prioridades territoriales distintas; no se suman como aliados intercambiables. [24-26, 33, 35]",
+              "refs": [
+                24,
+                25,
+                26,
+                33,
+                35
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Financiación homogénea por necesidad ajustada; recursos por comunidad bajo varios escenarios; autonomía fiscal efectiva; cobertura y portabilidad de servicios. Publicar ganadores, perdedores y transición antes de calificar el acuerdo de viable.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 14,
+      "title_in_report": "Energía, clima y medioambiente",
+      "sheets": [
+        {
+          "sheet_title": "14. Energía, clima y medioambiente",
+          "page": 18,
+          "program_refs": "47-51, 228-233",
+          "source_refs": [
+            2,
+            3,
+            27,
+            28
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "EN01",
+              "title": "Continuidad nuclear",
+              "instrument": "Tramitar extensiones en 100 días no equivale a obtener todas las autorizaciones en ese plazo.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "Tramitar extensiones en 100 días",
+                "Almaraz ya obtuvo autorización hasta el 8/06/2030 (párrafo de la ficha)"
+              ],
+              "page": 18
+            },
+            {
+              "id": "EN02",
+              "title": "Fiscalidad eléctrica",
+              "instrument": "Retirar impuesto del 7% y cambiar apoyos sociales. El efecto final depende de traslado a precios y financiación.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "impuesto del 7%"
+              ],
+              "page": 18
+            },
+            {
+              "id": "EN03",
+              "title": "Redes y estabilidad",
+              "instrument": "Desbloquear conexiones y reforzar almacenamiento/respaldo. Permisos, inversión y suministros limitan los plazos.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 18
+            },
+            {
+              "id": "EN04",
+              "title": "Clima y prevención",
+              "instrument": "Ajustar el ritmo de transición y mejorar resiliencia. No permite dejar de cumplir compromisos europeos vinculantes.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 18
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Almaraz ya obtuvo autorización hasta el 8/06/2030 mediante orden de agosto de 2026. El cambio adicional debe evaluarse por central y plazo, con informe del CSN, solicitud del titular y condiciones de residuos y seguridad. Eliminar un calendario político no sustituye esos requisitos. [27, 28]",
+              "refs": [
+                27,
+                28
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Hay que comparar coste completo y seguridad de suministro de combinaciones tecnológicas, no tecnologías aisladas. Alargar activos puede aportar energía firme; exige inversiones y gestión de residuos. Rebajar impuestos puede reducir factura o aumentar margen: el reparto no se presume. Mantenimiento preventivo puede competir con proyectos nuevos por presupuesto.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo claro del liderazgo. Vox coincide en nuclear, pero su postura climática no es idéntica al compromiso del PP con descarbonización. Las redes y la protección vulnerable son terreno de negociación más amplio. Almaraz demuestra que continuidad nuclear no es exclusiva de una etiqueta partidista. [27, 33]",
+              "refs": [
+                27,
+                33
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Autorizaciones adicionales, disponibilidad y seguridad; coste total del sistema; tiempos de conexión; emisiones; hogares protegidos; mantenimiento efectivamente ejecutado. No atribuir al futuro Gobierno una prórroga anterior a su llegada.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 15,
+      "title_in_report": "Agricultura, pesca, agua y medio rural",
+      "sheets": [
+        {
+          "sheet_title": "15. Agricultura, pesca, agua y medio rural",
+          "page": 19,
+          "program_refs": "99, 104-106, 195-208",
+          "source_refs": [
+            2,
+            24,
+            25,
+            26,
+            29
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "R01",
+              "title": "Pacto y financiación rural",
+              "instrument": "Agenda ratificada el 16/11 con el Libro Blanco. Aprobar un pacto no garantiza renta agraria o mantenimiento de servicios.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "Agenda ratificada el 16/11"
+              ],
+              "page": 19
+            },
+            {
+              "id": "R02",
+              "title": "PAC y comercio",
+              "instrument": "Defensa de fondos y reciprocidad. Son resultados negociados en la UE, no decisiones unilaterales de España.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [],
+              "page": 19
+            },
+            {
+              "id": "R03",
+              "title": "Agua y regadíos",
+              "instrument": "Modernización, reutilización y otras infraestructuras. Comparar ahorro real de agua, energía y efecto sobre cuencas.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 19
+            },
+            {
+              "id": "R04",
+              "title": "Relevo y rentabilidad",
+              "instrument": "Anticipos, fiscalidad de campañas y apoyo a jóvenes. Vigilar que el incentivo no se capitalice solo en el precio de la tierra.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 19
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "El marco europeo de agricultura, pesca, comercio y ambiente condiciona resultados. La nueva Ley de Costas y usos del litoral requieren preservar dominio público y seguridad ante riesgos. Las competencias se reparten entre Estado, comunidades y municipios; no basta con un pacto nacional para ejecutar cada obra. [8]",
+              "refs": [
+                8
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "La mejora puede venir de estabilidad, productividad y acceso a mercados. Menos trámites no garantiza mayores márgenes si pesan energía, agua o concentración comercial. Medir productividad hídrica no solo superficie modernizada: puede haber más consumo total si se amplía actividad.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo nacional y ratificación sectorial del 16/11. Las firmas territoriales en financiación apoyan reconocer costes rurales, no un reparto concreto. Hay posibles acuerdos con varias fuerzas en relevo y prevención; mayores divergencias en regulación ambiental, caza, litoral y política comercial. [24-26, 29]",
+              "refs": [
+                24,
+                25,
+                26,
+                29
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Renta por unidad de trabajo, incorporaciones que siguen activas, uso neto de agua, estado de ecosistemas, cobertura de servicios y estabilidad de población. La medida 200 reservada no se interpreta como una promesa ya definida.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 16,
+      "title_in_report": "Infraestructuras, transporte y movilidad",
+      "sheets": [
+        {
+          "sheet_title": "16. Infraestructuras, transporte y movilidad",
+          "page": 20,
+          "program_refs": "2, 47-51, 116-126",
+          "source_refs": [
+            2,
+            3,
+            6
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "IF01",
+              "title": "Plan a 15 años",
+              "instrument": "300.000 millones de inversión pública y privada. No son 300.000 millones de gasto estatal en una legislatura.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [
+                "Plan a 15 años",
+                "300.000 millones de inversión pública y privada",
+                "media aritmética es 20.000 millones por año (párrafo de la ficha)"
+              ],
+              "page": 20
+            },
+            {
+              "id": "IF02",
+              "title": "Conservación primero",
+              "instrument": "Priorizar mantenimiento y seguridad. Requiere inventario de activos, diagnóstico y contratos ejecutables.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 20
+            },
+            {
+              "id": "IF03",
+              "title": "Ferrocarril y Cercanías",
+              "instrument": "Fiabilidad, renovación y corredores. Separar reparación, capacidad nueva y obras ya comprometidas.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 20
+            },
+            {
+              "id": "IF04",
+              "title": "Conectividad y recarga",
+              "instrument": "Redes digitales en vías y puntos de recarga. Su uso depende de cobertura, interoperabilidad y demanda.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 20
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "El horizonte de quince años excede el mandato y exige continuidad. Su media aritmética es 20.000 millones por año, pero no una anualidad prometida ni necesariamente inversión adicional. La financiación privada tiene remuneración, riesgos y compromisos futuros; no se trata como recurso gratuito. [2, 6]",
+              "refs": [
+                2,
+                6
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "La prioridad a mantenimiento puede reducir interrupciones, pero debe reflejarse en partidas y ejecución, no solo en anuncios. Añadir simultáneamente muchas obras puede competir por personal de ingeniería, contratistas y capacidad de supervisión. Un análisis de coste-beneficio debe incluir alternativas y gasto de conservación posterior.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo del liderazgo y área de Hacienda/Vivienda/Infraestructuras. Los proyectos pueden reunir mayorías territoriales variables; también pueden crear conflictos por reparto. La coincidencia en una línea ferroviaria no acredita apoyo al conjunto presupuestario. [3, 39, 42]",
+              "refs": [
+                3,
+                39,
+                42
+              ]
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Puntualidad, cancelaciones, restricciones de velocidad, condición de activos, inversión adjudicada/pagada, coste final por proyecto y demanda real. Usar indicadores operativos sin atribuir todo incidente a una sola causa o gobierno.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 17,
+      "title_in_report": "Tecnología, inteligencia artificial y datos",
+      "sheets": [
+        {
+          "sheet_title": "17. Tecnología, inteligencia artificial y datos",
+          "page": 21,
+          "program_refs": "9-10, 84, 93, 123, 168-169, 188-192",
+          "source_refs": [
+            2,
+            13,
+            30,
+            31
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "IA01",
+              "title": "Administración con IA",
+              "instrument": "Automatizar trámites y reconocer derechos de oficio. La responsabilidad y la revisión humana no desaparecen.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 21
+            },
+            {
+              "id": "IA02",
+              "title": "Formación portable",
+              "instrument": "Cheque de aprendizaje en IA. La medida útil es competencia adquirida y aplicación, no cursos financiados.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 21
+            },
+            {
+              "id": "IA03",
+              "title": "Entornos de prueba",
+              "instrument": "Impulso a pymes y respuesta administrativa en 30 días. Una respuesta no equivale a certificación universal de conformidad.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [
+                "respuesta administrativa en 30 días"
+              ],
+              "page": 21
+            },
+            {
+              "id": "IA04",
+              "title": "Protección de menores",
+              "instrument": "Verificación de edad y restricciones en redes. Eficacia técnica, privacidad y compatibilidad europea son condicionantes.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 21
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "El calendario europeo fue modificado por el Digital Omnibus. La Comisión sitúa las reglas de alto riesgo del anexo III en diciembre de 2027 y las integradas en productos regulados en agosto de 2028. No se usa el calendario original sin actualizar. Un Gobierno nacional no puede dispensar de obligaciones europeas aplicables. [30, 31]",
+              "refs": [
+                30,
+                31
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "La IA puede reducir carga y exclusión administrativa, pero también multiplicar errores si los datos o reglas son incorrectos. Evaluar falsos rechazos, trazabilidad, explicación, sesgo, ciberseguridad y salida a atención humana. El ahorro presupuestario debe descontar integración, supervisión, licencias, mantenimiento y gestión de incidentes.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo programático formal; no se acredita una votación interna por cada uso de IA. Existe espacio transversal para digitalización y alfabetización, no necesariamente para toda restricción de plataformas. AESIA combina supervisión y apoyo; deben evitarse conflictos y requisitos informales opacos.",
+              "refs": []
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Tiempo y coste por trámite; tasa de errores y recursos estimados; competencias tras formación; adopción por tamaño empresarial; incidentes y contratos abiertos. Exigir pilotos comparados antes de reconocer ahorros estructurales.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 18,
+      "title_in_report": "Unión Europea, exterior y defensa",
+      "sheets": [
+        {
+          "sheet_title": "18. Unión Europea, exterior y defensa",
+          "page": 22,
+          "program_refs": "52-55, 234-249",
+          "source_refs": [
+            2,
+            3,
+            8
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "EX01",
+              "title": "Programación de defensa",
+              "instrument": "Ley plurianual y modernización. El programa revisado no permite atribuir una cifra total cerrada y financiada al conjunto.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 22
+            },
+            {
+              "id": "EX02",
+              "title": "Presupuesto europeo",
+              "instrument": "Defender PAC, cohesión y competitividad. Negociar es controlable; conseguir toda la asignación pretendida no lo es.",
+              "A": "Media",
+              "B": "Media",
+              "C": "Media",
+              "E": "NE",
+              "figures": [],
+              "page": 22
+            },
+            {
+              "id": "EX03",
+              "title": "Ucrania y alianzas",
+              "instrument": "Continuidad de apoyo y relaciones europeas/transatlánticas. Separar posición diplomática de resultado externo.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 22
+            },
+            {
+              "id": "EX04",
+              "title": "Magreb y consulados",
+              "instrument": "Equilibrio regional, intereses territoriales y refuerzo consular. Son políticas con dependencias y calendarios diferentes.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 22
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Las compras de defensa requieren capacidades industriales, personal, contratos y mantenimiento de ciclo de vida. Incrementar presupuesto no garantiza entregas. El presupuesto europeo exige acuerdos multinacionales; una promesa de negociación no se evalúa como si el Gobierno controlase el resultado. [8]",
+              "refs": [
+                8
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "Valorar seguridad y resiliencia junto a coste de oportunidad fiscal. La diversificación comercial y de suministros puede reducir riesgos, pero tiene coste y puede no materializarse dentro de un mandato. En Gibraltar, Sáhara y relaciones con terceros, distinguir revisión política, facultades jurídicas y consentimiento de otros actores.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox. Con el PSOE existen espacios posibles en defensa de intereses europeos y apoyo exterior, pero no un pacto de ejecución de este programa. No se asignan resultados diplomáticos a afinidades personales.",
+              "refs": []
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Disponibilidad de capacidades, entregas y coste de ciclo completo; acuerdos efectivos; tiempo de atención consular; diversificación de proveedores. No se califica la paz, una concesión territorial o una decisión de otro país como entrega garantizada.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "num": 19,
+      "title_in_report": "Cultura, medios, deporte y consumo",
+      "sheets": [
+        {
+          "sheet_title": "19. Cultura, medios, deporte y consumo",
+          "page": 23,
+          "program_refs": "75-79, 127-139, 182, 193",
+          "source_refs": [
+            2,
+            4,
+            8
+          ],
+          "forecast_confidence": "Media-baja",
+          "units": [
+            {
+              "id": "CU01",
+              "title": "Patrimonio y mecenazgo",
+              "instrument": "Apoyo cultural e incentivos. Publicar criterios de selección y cobertura territorial, no solo cuantía adjudicada.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 23
+            },
+            {
+              "id": "CU02",
+              "title": "Memoria y lenguas",
+              "instrument": "Cambios de marco y uso institucional. Requieren evaluar derechos, competencias y estabilidad más allá del mandato.",
+              "A": "Alta",
+              "B": "Alta",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 23
+            },
+            {
+              "id": "CU03",
+              "title": "Medios y organismos",
+              "instrument": "Reforma de gobernanza y profesionalización. Sustituir responsables no prueba independencia o pluralismo.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Baja",
+              "E": "Media",
+              "figures": [],
+              "page": 23
+            },
+            {
+              "id": "CU04",
+              "title": "Deporte y consumidor",
+              "instrument": "Apoyos deportivos, protección y trazabilidad. Distinguir ayudas nacionales de decisiones de federaciones internacionales.",
+              "A": "Alta",
+              "B": "Media",
+              "C": "Media",
+              "E": "Media",
+              "figures": [],
+              "page": 23
+            }
+          ],
+          "paragraphs": [
+            {
+              "heading": "Viabilidad y evidencia",
+              "text": "Buena parte del ámbito cultural se ejecuta con gobiernos territoriales. RTVE y otros organismos requieren garantías de nombramiento y control; no basta con una declaración de neutralidad. La ubicación de una final deportiva internacional no depende exclusivamente del Gobierno español. [8]",
+              "refs": [
+                8
+              ]
+            },
+            {
+              "heading": "Efectos y distribución",
+              "text": "El riesgo principal es confundir una preferencia cultural con calidad de la política. Evaluar acceso, conservación y diversidad de beneficiarios con criterios previos. En consumo, la transparencia y trazabilidad pueden proteger sin asumir que más etiquetas o controles producen por sí solos mejor información.",
+              "refs": []
+            },
+            {
+              "heading": "Respaldo y acuerdos posibles",
+              "text": "Respaldo oficial; no hay evidencia suficiente para medir prioridad interna de todas las medidas culturales. Patrimonio, deporte de base y protección del consumidor admiten acuerdos más amplios que memoria, lengua parlamentaria o gobernanza de medios. Compatibilidad no es compromiso de voto.",
+              "refs": []
+            },
+            {
+              "heading": "Verificación del resultado",
+              "text": "Acceso por renta y territorio; estado del patrimonio; concentración de ayudas; pluralismo verificable; reclamaciones resueltas y fraude detectado. La medida 132 reservada queda fuera del pronóstico hasta su concreción.",
+              "refs": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "cross_sections": [
+    {
+      "section": "01 | CONTROL DOCUMENTAL",
+      "page": 3,
+      "heading": "Alcance, versiones y cómo leer el informe",
+      "text": "La convocatoria oficial sitúa la votación el 29 de noviembre de 2026. Se analiza el programa nacional del PP presentado el 10 de noviembre, no el programa de 2023 ni una mezcla de compromisos autonómicos. [1, 2, 52]\nElemento | Tratamiento\nPrograma base | 249 numeraciones; el archivo consultado contiene ocho espacios reservados: 83, 109, 132, 164, 167, 173, 200 y 210. Una numeración no equivale siempre a una promesa atómica ni a una medida desarrollada. [2]\nUnidad del informe | 76 unidades prioritarias, con instrumentos conexos cuando comparten el mismo problema de ejecución. Cobertura de los 19 ámbitos; no transcripción ni auditoría individual de cada frase del programa.\nRecencia | Fecha de publicación, ratificación y comprobación separadas. Base ratificada el 10/11; comprobación de fuentes al 17/11. Una norma de 2021 puede seguir siendo la línea base actual.\nAnuncios adicionales | Activación del 10/11 y ratificación 16/11; agenda rural y reforma censal del 16/11. No se asignan automáticamente a casillas reservadas. [11, 12, 29, 32]\nFuentes con discrepancias | Prevalece la formulación primaria. Se evita convertir un titular periodístico en una derogación o una cifra no contenida expresamente en el texto."
+    },
+    {
+      "section": "01 | CONTROL DOCUMENTAL",
+      "page": 3,
+      "heading": "Tres niveles que no deben mezclarse",
+      "text": "Compromiso: lo que el partido afirma que hará. Hecho externo: lo que acreditan una norma, un dato o una evaluación. Análisis propio: juicio condicionado sobre mecanismo, coste, obstáculos o acuerdos. Las valoraciones Alta/Media/Baja pertenecen a este tercer nivel."
+    },
+    {
+      "section": "01 | CONTROL DOCUMENTAL",
+      "page": 3,
+      "heading": "Límites de cobertura relevantes",
+      "text": "No se aporta una encuesta interna de afiliados, un modelo de escaños ni una microsimulación fiscal completa. Tampoco se presume que todo anuncio de campaña quede incorporado a la versión base. Cuando faltan importe, definición de éxito o plazo, se muestra la incertidumbre en lugar de completar la promesa por cuenta del analista."
+    },
+    {
+      "section": "01 | CONTROL DOCUMENTAL",
+      "page": 3,
+      "heading": "Navegación",
+      "text": "Tras la metodología aparecen las 19 fichas. Después: balance fiscal, evidencia de eficacia, respaldo interno, perfiles del equipo, acuerdos entre partidos, secuencia de ejecución y registro de fuentes. Las cabeceras sectoriales y los identificadores permiten localizar cada compromiso."
+    },
+    {
+      "section": "02 | MÉTODO DE EVALUACIÓN",
+      "page": 4,
+      "heading": "Probabilidades condicionadas y límites de estimación",
+      "text": "Escenario | Supuesto; no pronóstico electoral\nA | Mayoría propia | Gobierno del PP con apoyos propios suficientes para leyes ordinarias y orgánicas. No se presupone mayoría para reformar la Constitución.\nB | Apoyo de Vox | Gobierno sostenido por PP y Vox con votos suficientes para esas leyes, pero negociación de contenido y prioridades. No se presupone acuerdo global.\nC | Minoría variable | Gobierno del PP sin mayoría estable, que necesita pactos o abstenciones distintos por medida. No se incorpora a ningún partido sin compromiso documentado.\nOposición | No se estima como escenario numérico: siguen siendo posibles iniciativas parciales, acuerdos o adopción de ideas por otro Gobierno, pero no control de la ejecución."
+    },
+    {
+      "section": "02 | MÉTODO DE EVALUACIÓN",
+      "page": 4,
+      "heading": "",
+      "text": "En las fichas, A / B / C califica la aprobación de una versión sustancialmente fiel durante una legislatura. E califica su entrega material, una vez aprobada y con financiación suficiente, en el plazo anunciado o, si falta, en cuatro años desde la toma de posesión. No es la probabilidad conjunta de que toda esa cadena ocurra."
+    },
+    {
+      "section": "02 | MÉTODO DE EVALUACIÓN",
+      "page": 4,
+      "heading": "",
+      "text": "Categoría | Regla de lectura\nAlta | Instrumento identificable y ruta política razonablemente directa bajo el escenario; no significa certeza ni un intervalo porcentual.\nMedia | Necesita acuerdos, presupuesto, capacidad o desarrollo importante. La condición crítica se explica en cada ficha.\nBaja | Plazo, dependencia externa o barrera institucional sustancial hacen poco defendible el cumplimiento íntegro en la versión anunciada.\nNE | No estimable: objetivo sin umbral verificable, horizonte fuera del mandato o dependencia que impide definir un resultado preciso."
+    },
+    {
+      "section": "02 | MÉTODO DE EVALUACIÓN",
+      "page": 4,
+      "heading": "",
+      "text": "Son juicios ordinales, no frecuencias calibradas. Confianza alta puede existir sobre el texto de una promesa y confianza media-baja sobre su ejecución. No se convierte una suma de notas en una probabilidad y no se promedian barreras jurídicas decisivas."
+    },
+    {
+      "section": "02 | MÉTODO DE EVALUACIÓN",
+      "page": 4,
+      "heading": "Eficacia y permanencia",
+      "text": "La eficacia se analiza mediante mecanismo causal, evidencia externa y distribución de efectos. No se asigna un porcentaje al éxito social sin una evaluación aplicable. La permanencia depende de coste recurrente, apoyos duraderos, recursos y compatibilidad legal; los plazos y puntos de revisión se detallan en el seguimiento."
+    },
+    {
+      "section": "04 | COSTE, FINANCIACIÓN Y ADICIONALIDAD",
+      "page": 24,
+      "heading": "El programa completo: prueba de coherencia fiscal",
+      "text": "El balance relevante no es la suma de anuncios, sino el coste incremental neto frente a la legislación vigente, por año y administración. Sin esa cuenta no es defendible afirmar ni que todo se autofinancia ni que todo es imposible.\nBloque | Qué debe entrar en la cuenta | Riesgo de error\nMenores ingresos | IRPF, IVA, cotizaciones, incentivos familiares, vivienda e inversión. | Contar solo el primer ejercicio o ignorar interacciones y tramo autonómico.\nGasto recurrente | Personal sanitario, infantil, dependencia, seguridad, defensa y operación de nuevas infraestructuras. | Tratar una contratación o una plaza como un coste único.\nInversión | Obra pública adicional, sistemas, redes y equipamiento. | Confundir presupuesto anunciado, licitado, ejecutado y pagado.\nPasivos contingentes | Avales de vivienda, financiación y compromisos público-privados. | Registrar el aval como gasto completo o como riesgo cero.\nAhorros | Duplicidades, compras, revisiones de gasto y fraude recuperado. | Reutilizar el mismo ahorro para financiar varias medidas.\nCrecimiento inducido | Recaudación adicional atribuible a mejores incentivos o productividad. | Financiar gasto cierto con un multiplicador no estimado."
+    },
+    {
+      "section": "04 | COSTE, FINANCIACIÓN Y ADICIONALIDAD",
+      "page": 24,
+      "heading": "Restricción externa verificada",
+      "text": "El 4/11/2026, AIReF proyectaba déficit del 2,8% del PIB en 2026 y del 2,6% en 2027 bajo políticas vigentes, y advertía del incumplimiento de la senda de gasto. Esto reduce el margen de maniobra; no es una estimación del coste del PP. [6]"
+    },
+    {
+      "section": "04 | COSTE, FINANCIACIÓN Y ADICIONALIDAD",
+      "page": 24,
+      "heading": "Condiciones que harían más convincente el paquete",
+      "text": "Una memoria anual de legislatura; medidas de financiación identificadas; escenario adverso de crecimiento y tipos; reparto Estado/comunidades/municipios; informe independiente; calendario de activación de rebajas vinculado a recursos efectivos. Una auditoría puede generar información antes de generar ahorro."
+    },
+    {
+      "section": "04 | COSTE, FINANCIACIÓN Y ADICIONALIDAD",
+      "page": 24,
+      "heading": "Orden lógico",
+      "text": "Primero fijar línea base y costes; después decidir prioridades y transiciones; finalmente comprometer anualidades. La reducción de estructura administrativa debe proteger precisamente las plantillas que tramitan vivienda, prestaciones, contratos y evaluaciones."
+    },
+    {
+      "section": "04 | LECTURA PRESUPUESTARIA Y METAS",
+      "page": 25,
+      "heading": "Las cifras que pueden inducir a error",
+      "text": "Cifra | Lectura correcta | Qué falta para presupuestar\n1.000.000 viviendas | Meta de oferta total; 250.000/año es una media aritmética de cuatro años. | Terminadas o iniciadas, adicionalidad, distribución territorial y cartera madura.\n300.000 millones | Plan de inversión pública y privada a 15 años; media de 20.000 millones/año. | Cuota pública, calendario, inversiones ya previstas y compromisos futuros.\n4.500 médicos | Incremento anunciado en primaria. La entrega exige definir efectivos netos y jornada. | Bajas esperadas, movilidad, plazas, retención y coste laboral completo.\n700 millones/año | Anuncio sanitario de octubre ligado a salud mental, no partida aprobada. | Integración con plan 2027-2037, cofinanciación, perfiles y calendario.\n0-3 al 50/50 | Reparto anunciado del coste entre Estado y comunidades. | Coste unitario, plazas nuevas/existentes, cobertura y disponibilidad de centros.\nAhorro de 2.000 euros | Aportación anual máxima a Hucha Hogar Joven; deducción del 20%. | Elegibilidad y cuota: máximo aritmético de 400 euros/año antes de restricciones.\nAval hasta 40.000 | Límite ligado al ahorro acumulado en ese instrumento; no cheque en efectivo. | Pérdida esperada, recuperaciones, comisiones y acumulación con otros avales."
+    },
+    {
+      "section": "04 | LECTURA PRESUPUESTARIA Y METAS",
+      "page": 25,
+      "heading": "",
+      "text": "Origen de cifras: programa y presentación [2, 3]; anuncio sanitario [18]. Las divisiones y porcentajes calculados son operaciones del informe, no estimaciones oficiales de coste."
+    },
+    {
+      "section": "04 | LECTURA PRESUPUESTARIA Y METAS",
+      "page": 25,
+      "heading": "Tres fórmulas para hacer auditables las promesas",
+      "text": "Plantillas: coste incremental = efectivos netos adicionales x coste laboral completo + formación + instalaciones + soporte. Separar captación desde otro servicio de aumento del total nacional.\nInfantil: coste = plazas financiadas x coste anual por plaza + inversión inicial - financiación ya vigente. Medir por separado el nuevo derecho y la nueva capacidad.\nAvales: pérdida esperada = exposición al impago x probabilidad de impago x porcentaje de pérdida neta. Añadir escenarios de riesgo y correlaciones. El nominal no es ni gasto cierto ni un recurso gratuito."
+    },
+    {
+      "section": "05 | EFICACIA SIN CONFUNDIR CORRELACIÓN Y CAUSALIDAD",
+      "page": 26,
+      "heading": "Qué evidencia respalda los efectos",
+      "text": "Propuesta | Evidencia relevante | Conclusión que sí puede sostenerse\nOferta residencial | Banco de España identifica restricciones de suelo, trabajo y capacidad. [7] | La tramitación es solo una parte de la cadena; el objetivo requiere aumentar capacidad real.\nControles de alquiler | Monras/García-Montalvo encuentran cambios de precios y salida de oferta; Jofre-Monseny y coautores no encuentran el mismo efecto de oferta en su diseño. [54, 55] | Existe evidencia de efectos heterogéneos; no se traslada una cifra única a otra ley o territorio.\nIMV y activación | AIReF documenta no acceso de hogares elegibles y estudia incentivos laborales. [13, 51] | Simplificar acceso y diseñar retirada gradual merecen evaluación; sancionar no prueba inserción.\nEducación infantil | OCDE documenta brechas de acceso y conexión con conciliación. [53] | La gratuidad puede ser útil, pero disponibilidad, calidad y horarios importan para equidad.\nExigencia escolar | OCDE describe asociaciones entre repetición y peores trayectorias, aun ajustando características. [56] | No usar esas asociaciones como prueba causal de cada reforma; evaluar refuerzo y resultados conjuntamente.\nIncapacidad temporal | AIReF analiza determinantes y gobernanza. [14] | Separar demora sanitaria, condiciones de trabajo, enfermedad y fraude; no convertir toda baja en abuso.\nIA administrativa | La normativa europea fija obligaciones y calendario. [30, 31] | La conformidad legal es necesaria, pero no demuestra ahorro o calidad: hacen falta pilotos y auditoría."
+    },
+    {
+      "section": "05 | EFICACIA SIN CONFUNDIR CORRELACIÓN Y CAUSALIDAD",
+      "page": 26,
+      "heading": "Qué no se ha demostrado",
+      "text": "No hay en este informe una evaluación causal del paquete completo del PP, ni una tasa histórica de cumplimiento comparable medida propuesta por propuesta. La literatura sobre intervenciones parecidas informa el análisis, pero no prueba que el diseño de 2026 producirá el mismo resultado."
+    },
+    {
+      "section": "05 | EFICACIA SIN CONFUNDIR CORRELACIÓN Y CAUSALIDAD",
+      "page": 26,
+      "heading": "Criterio de neutralidad sustantiva",
+      "text": "Se aplica el mismo test a bajar impuestos, regular precios, reforzar prestaciones o endurecer sanciones: mecanismo, alternativa, beneficiarios, costes, efectos adversos y verificación. Un resultado distributivo no se valora como bueno o malo sin declarar el criterio normativo."
+    },
+    {
+      "section": "06 | PRIORIDAD, COHESIÓN Y PODER DE EJECUCIÓN",
+      "page": 27,
+      "heading": "Respaldo interno: lo probado y lo desconocido",
+      "text": "Ámbito | Evidencia observada | Inferencia permitida; límite\nPrograma nacional | Presentación de Feijóo y Alma Ezcurra el 10/11. [3, 47] | Respaldo formal de la dirección. No equivale a votación individual de afiliados.\nFinanciación territorial | Declaración de Zaragoza, 18/01; ratificaciones de Balears y Cantabria. [24-26] | Apoyo a reglas multilaterales. Reparto final y ponderaciones siguen abiertos.\nSanidad | Fúnez expone agenda el 7/10; programa la incorpora. [18] | Patrocinio sectorial identificable. No prueba compromiso presupuestario autonómico.\nEducación | Presentación de Galiana en La Rioja el 10/11. [22] | Ratificación sectorial/territorial concreta, no evidencia de unanimidad nacional.\nActivación | Anuncio de Feijóo y respaldo de Urrutia el 16/11. [11, 12] | Apoyo explícito reciente, sin texto legislativo o detalle de transición.\nRural | Presentación sectorial del 16/11 y referencia al Libro Blanco. [29] | Continuidad y prioridad de campaña; consultar versión final para objetivos y coste.\nOtras materias | Texto del programa. [2] | Posición oficial; intensidad del apoyo interno no medida."
+    },
+    {
+      "section": "06 | PRIORIDAD, COHESIÓN Y PODER DE EJECUCIÓN",
+      "page": 27,
+      "heading": "Tensiones a comprobar, no divisiones inventadas",
+      "text": "Territorio: la misma fórmula de financiación puede beneficiar de modo distinto a territorios poblados, envejecidos, dispersos o insulares. Presupuesto: quienes gestionan sanidad o cuidados pueden necesitar gasto que compite con rebajas tributarias. Inmigración: controles y cupos deben ser coherentes con las necesidades laborales de vivienda y servicios.\nEstos son conflictos potenciales de intereses y diseño, no afirmaciones de disidencia. La evidencia necesaria serían enmiendas, votaciones, posiciones explícitas o acuerdos de reparto. La disciplina de voto no revela convicción privada."
+    },
+    {
+      "section": "06 | PRIORIDAD, COHESIÓN Y PODER DE EJECUCIÓN",
+      "page": 27,
+      "heading": "Prueba de prioridad real",
+      "text": "Observar quién asume la cartera, qué entra en el primer presupuesto, qué plazos se legislan y qué concesiones se aceptan ante socios. Las promesas no financiadas o desplazadas reiteradamente pierden prioridad revelada, aunque permanezcan en el discurso."
+    },
+    {
+      "section": "07 | PERFILES VERIFICABLES, SIN RANKING PERSONAL",
+      "page": 28,
+      "heading": "Liderazgo y equipo: experiencia relevante",
+      "text": "Responsable | Trayectoria y función verificadas | Qué permite evaluar\nAlberto Núñez Feijóo | Presidente del PP y candidato; presidencia de la Xunta entre 2009 y 2022. [38-40] | Experiencia ejecutiva autonómica. No demuestra por sí sola viabilidad de una mayoría nacional o de cada propuesta.\nMiguel Tellado | Secretario general y director de campaña de 2026. [38, 41] | Organización, coordinación y prioridad partidista; no es garantía de acuerdo parlamentario.\nAlma Ezcurra | Participa junto al presidente en la presentación del programa. [47] | Interlocución sobre diseño programático y coherencia entre áreas; no se presume futuro ministerio.\nJuan Bravo | Inspector de Hacienda; experiencia de gestión financiera autonómica; responsabilidad en Hacienda, Vivienda e Infraestructuras. [39, 42] | Capacidad para discutir costes, presupuestos y secuencia; requiere memoria concreta del conjunto.\nAlberto Nadal | Experiencia estatal en Energía y Presupuestos; responsable económico y de desarrollo sostenible. [43] | Conocimiento de regulación y finanzas; importante contrastar compatibilidad entre energía, industria y senda fiscal."
+    },
+    {
+      "section": "07 | PERFILES VERIFICABLES, SIN RANKING PERSONAL",
+      "page": 28,
+      "heading": "No confundir equipo electoral con Gobierno confirmado",
+      "text": "Las responsabilidades publicadas permiten identificar patrocinadores y experiencia. No establecen quién ocupará cada ministerio ni qué competencias tendrá. Los nombramientos futuros y equipos técnicos son una variable de ejecución, no un hecho consumado."
+    },
+    {
+      "section": "07 | PERFILES VERIFICABLES, SIN RANKING PERSONAL",
+      "page": 28,
+      "heading": "Lectura de la experiencia ejecutiva",
+      "text": "Una evaluación retrospectiva seria necesitaría promesas originales, recursos y competencias, plazos y resultados comparables. No se convierte la permanencia en el cargo en una nota de eficacia ni se atribuye todo resultado regional al dirigente que ocupaba la presidencia."
+    },
+    {
+      "section": "07 | CONTINUACIÓN",
+      "page": 29,
+      "heading": "Equipo parlamentario, gobernanza e integridad",
+      "text": "Responsable | Función y evidencia | Pregunta de control\nEster Muñoz | Portavoz parlamentaria, experiencia como senadora y responsabilidad territorial en León. [39, 44] | Qué textos separables puede negociar y qué concesiones preservarían el compromiso esencial.\nCuca Gamarra | Responsabilidad de Regeneración Institucional y candidatura por La Rioja. [39] | Qué reformas requieren ley ordinaria, orgánica o constitucional y qué apoyos existen realmente.\nCarmen Fúnez | Responsabilidad de Sanidad y Política Social; experiencia parlamentaria y territorial. [39, 45] | Cómo se pactan plantilla, financiación y rendición de cuentas con las comunidades.\nElías Bendodo | Responsabilidad de Política Autonómica y Municipal. [39] | Cómo se transforma la coincidencia formal territorial en reparto y calendario ejecutables."
+    },
+    {
+      "section": "07 | CONTINUACIÓN",
+      "page": 29,
+      "heading": "Antecedente relevante de integridad",
+      "text": "En 2020, el Tribunal Supremo confirmó la responsabilidad del PP como partícipe a título lucrativo en la primera época de Gürtel. Es un antecedente institucional pertinente para evaluar controles de contratación y financiación. Esa figura es de responsabilidad civil; no equivale a condena penal del partido ni acredita responsabilidad personal de la dirección actual. [46]"
+    },
+    {
+      "section": "07 | CONTINUACIÓN",
+      "page": 29,
+      "heading": "Exigencias observables para las promesas de regeneración",
+      "text": "Publicación de conflictos de intereses y agendas; criterios de nombramiento; contratos y subvenciones trazables; seguimiento de recomendaciones; canal protegido de denuncia; sanciones y controles aplicables también al propio partido y sus administraciones. La misma prueba debe aplicarse a cualquier formación."
+    },
+    {
+      "section": "07 | CONTINUACIÓN",
+      "page": 29,
+      "heading": "Negociación: antecedente con doble lectura",
+      "text": "El acuerdo judicial de junio de 2024 y la reforma posterior muestran capacidad de transacción entre PP y PSOE; también llegaron tras años de bloqueo. Ninguno de los dos hechos, aislado, permite predecir la cooperación de la siguiente legislatura. Lo relevante es el incentivo y el texto de cada pacto. [36, 37]"
+    },
+    {
+      "section": "07 | CONTINUACIÓN",
+      "page": 29,
+      "heading": "Límite de este perfil",
+      "text": "No se produce un inventario exhaustivo de controversias personales ni se infiere honestidad, personalidad o competencia a partir de simpatía política. Las controversias solo entran si tienen evidencia y relación concreta con capacidad, controles o ejecución."
+    },
+    {
+      "section": "08 | MAPA DE NEGOCIACIÓN",
+      "page": 30,
+      "heading": "Acuerdos entre partidos: compatibilidad no es apoyo",
+      "text": "Interlocutor | Terreno potencial | Condiciones y fricciones\nVox | Rebajas fiscales, oferta de vivienda, nuclear y parte de la agenda de seguridad. [33, 50] | Discrepancias sobre arraigo, clima, autonomías y enfoque de protección social. Negociación de prioridades y financiación.\nPSOE | Servicios, industria, formación, infraestructura, digitalización y pactos institucionales acotados. [34, 36] | Disenso relevante en alquiler, orientación fiscal, LOMLOE, memoria y derechos. No hay pacto global acreditado.\nPNV | Posibles acuerdos técnicos o económicos, sujetos a autogobierno y agenda vasca. | Su rechazo a un bloque con Vox impide tratarlo como complemento automático. PP-PNV no se infiere de afinidad económica. [35]\nUPN | Acuerdo electoral con PP mencionado oficialmente el 16/11. [32] | No duplicar diputados hipotéticos ni convertir una alianza electoral en apoyo separado a cada medida.\nCoalición Canaria | Hipótesis de negociación sobre islas, conectividad y servicios. | No se atribuye compromiso nacional de 2026 sin evidencia específica. Condicionar cualquier apoyo a texto y contraprestaciones.\nJunts, ERC, EH Bildu, BNG | Pueden existir coincidencias parciales en servicios o intereses territoriales. | No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley.\nFrente Amplio y Podemos | Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común. | La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]"
+    },
+    {
+      "section": "08 | MAPA DE NEGOCIACIÓN",
+      "page": 30,
+      "heading": "",
+      "text": "Las compatibilidades no documentadas son hipótesis analíticas, no declaraciones de los otros partidos. Para convertirlas en apoyo se exigirían una posición explícita, una negociación o un acuerdo firmado."
+    },
+    {
+      "section": "08 | MAPA DE NEGOCIACIÓN",
+      "page": 30,
+      "heading": "Cuatro mapas separados",
+      "text": "Investidura: elegir presidente. Presupuestos: autorizar ingresos y gasto. Leyes sectoriales: negociar cada texto. Ejecución territorial: colaborar en servicios, permisos y financiación. Un sí en uno de ellos no acredita un sí en los demás."
+    },
+    {
+      "section": "08 | PAQUETES Y VERSIONES POSIBLES",
+      "page": 31,
+      "heading": "Cómo cambiaría el programa en una negociación",
+      "text": "Paquete hipotético | Concesión o condición necesaria | Efecto sobre el programa\nVivienda: oferta + garantías | Suelo y plazos acompañados de protección vulnerable, financiación local y seguridad jurídica. | Más negociable que una derogación íntegra sin transición. No es un acuerdo existente.\nSalud + financiación territorial | Recursos por necesidades y objetivos compartidos, con seguimiento y competencias claras. | Puede ampliar apoyos; condiciona otras rebajas o gastos a disponibilidad.\nFiscalidad gradual + revisión del gasto | Aplicar medidas por tramos tras verificar financiación y proteger ingresos vulnerables. | Reduce el alcance inmediato, pero puede aumentar permanencia y credibilidad fiscal.\nNuclear + redes + transición | Seguridad, residuos, inversión territorial y compromisos de descarbonización. | Distingue continuidad de centrales de una derogación general de la política climática.\nIA + garantías administrativas | Pilotos, auditoría, trazabilidad, recurso humano y contratación competitiva. | Puede ampliar respaldo sin presentar automatización como sustitución de derechos.\nRegeneración institucional | Incompatibilidades y transparencia con reglas simétricas, nombramientos y transición pactados. | Más opciones para reformas parciales que para reconfiguración constitucional completa."
+    },
+    {
+      "section": "08 | PAQUETES Y VERSIONES POSIBLES",
+      "page": 31,
+      "heading": "Qué no puede intercambiarse sin límites",
+      "text": "Un pacto político no elimina las obligaciones constitucionales o europeas, la autonomía judicial ni los derechos de terceros. Tampoco crea dinero, suelo urbanizado o profesionales. La aprobación por socios compatibles es necesaria en algunos escenarios, pero no suficiente para ejecutar."
+    },
+    {
+      "section": "08 | PAQUETES Y VERSIONES POSIBLES",
+      "page": 31,
+      "heading": "Aritmética que falta antes del resultado",
+      "text": "Se deberán usar los escaños efectivos, la mayoría exigida por cada trámite y las posiciones verificadas. No se han introducido encuestas ni porcentajes de formación de Gobierno. Incluso con votos suficientes, los vetos cruzados pueden impedir el paquete."
+    },
+    {
+      "section": "08 | PAQUETES Y VERSIONES POSIBLES",
+      "page": 31,
+      "heading": "Señales que elevarían la probabilidad",
+      "text": "Acuerdo escrito con medida, versión, partida, responsable y plazo; negociación de enmiendas pública; apoyo autonómico ejecutor; ausencia de incompatibilidades entre socios; mecanismo de resolución de disputas. Una coincidencia de titulares tiene menos valor que esos compromisos."
+    },
+    {
+      "section": "09 | QUÉ TENDRÍA QUE OCURRIR",
+      "page": 32,
+      "heading": "Capacidad de ejecución: secuencia y dependencias",
+      "text": "Fase analítica | Entregas verificables | Dependencias\nPrimeros 100 días | Alcance de auditoría; inventario de compromisos vigentes; propuestas legales; apertura de trámites nucleares donde proceda. | Equipo, datos, normas y solicitudes. Abrir un expediente no equivale a resolverlo.\nPrimer semestre | Acuerdos de financiación; programación de plantillas; cartera de vivienda y obras; pilotos administrativos. | Comunidades, municipios, financiación y administraciones ejecutoras.\nPrimer año | Leyes y presupuestos con memoria; primeras entregas; evaluación de pilotos; sistemas de seguimiento públicos. | Contratación, compras, recursos, infraestructuras tecnológicas.\nAños 2-4 | Servicios y obras en funcionamiento; nuevas viviendas terminadas; efectos medidos y correcciones. | Capacidad de suministro, continuidad presupuestaria y cooperación territorial.\nMás allá del mandato | Plan de salud mental e infraestructuras plurianuales. | Pactos, anualidades, mantenimiento y decisiones de gobiernos posteriores."
+    },
+    {
+      "section": "09 | QUÉ TENDRÍA QUE OCURRIR",
+      "page": 32,
+      "heading": "",
+      "text": "Esta secuencia es una propuesta de evaluación del informe, no un calendario oficial adicional del PP. Los plazos anunciados se conservan en cada ficha; donde no existen, no se inventa un compromiso."
+    },
+    {
+      "section": "09 | QUÉ TENDRÍA QUE OCURRIR",
+      "page": 32,
+      "heading": "Dependencias compartidas",
+      "text": "Vivienda necesita licencias, mano de obra, redes y crédito. Sanidad y cuidados compiten por profesionales y presupuesto. Administración digital requiere datos y rediseño previo, no solo modelos de IA. Industria necesita energía, formación y suelo. Rebajas fiscales compiten por financiación con todos esos objetivos."
+    },
+    {
+      "section": "09 | QUÉ TENDRÍA QUE OCURRIR",
+      "page": 32,
+      "heading": "Riesgos de implementación",
+      "text": "Concentrar reformas en pocos equipos puede retrasar incluso medidas viables por separado. Reducir personal o instituciones antes de conocer su función puede debilitar supervisión y tramitación. Las obligaciones nuevas a territorios sin recursos generan derechos nominales y servicios incompletos."
+    },
+    {
+      "section": "09 | QUÉ TENDRÍA QUE OCURRIR",
+      "page": 32,
+      "heading": "Permanencia",
+      "text": "Un servicio operativo con financiación recurrente y acuerdos territoriales suele estar mejor protegido que un anuncio o una norma sin despliegue. La permanencia de impuestos y regulaciones depende también de cambios de mayoría y litigios. Se debe reestimar cuando cambien recursos, diseño o alianzas."
+    },
+    {
+      "section": "10 | DEL ANUNCIO AL RESULTADO",
+      "page": 33,
+      "heading": "Cuadro de seguimiento y criterios de revisión",
+      "text": "Control | Indicador o documento exigible | Cuándo cambiar la valoración\nFiscal | Memoria plurianual, distribución y financiación verificable. | Sube al cerrar cobertura; baja si se reutilizan ahorros o se pospone sin transición.\nVivienda | Cartera madura, inicio y final de obra, adicionalidad y localización. | Sube con suelo y obras ejecutables; no por nuevas ruedas de prensa.\nSanidad | Convenios territoriales, plantillas netas y presupuesto recurrente. | Sube con retención y cobertura real; baja si el aumento es solo cambio de empleador.\nEducación y cuidados | Capacidad, financiación por plaza y plan de calidad. | Sube con oferta efectiva; baja si gratuidad desplaza costes no financiados.\nInstituciones | Informe jurídico, mayorías, texto y transición. | Sube con ruta constitucional viable y socios explícitos.\nMigración | Acuerdos de readmisión, capacidad por fase y salvaguardias. | Sube con ejecución legal verificable; baja con anulaciones o bloqueos externos.\nEnergía e industria | Solicitudes, informes, inversión comprometida y capacidad de red. | Sube con autorizaciones y entregas; no solo con eliminación de un calendario.\nDigitalización | Pilotos comparados, costes completos, errores y recursos. | Sube con eficacia y seguridad demostradas; baja con exclusión o incidentes repetidos."
+    },
+    {
+      "section": "10 | DEL ANUNCIO AL RESULTADO",
+      "page": 33,
+      "heading": "Registro mínimo por actualización",
+      "text": "Identificador; versión exacta; fuente y fecha; responsable; estado (anuncio / acuerdo / norma / presupuesto / despliegue / resultado); cambio en coste y alcance; apoyo interno explícito; socios; obstáculo decisivo; nuevo juicio y razón del cambio."
+    },
+    {
+      "section": "10 | DEL ANUNCIO AL RESULTADO",
+      "page": 33,
+      "heading": "Evaluación retrospectiva",
+      "text": "Archivar los pronósticos antes del resultado. Clasificar cumplimiento total, parcial o no cumplimiento con el umbral definido previamente. No ajustar el objetivo a posteriori para acomodar lo ocurrido. Si se construye una serie suficiente, convertir el historial en estimaciones calibradas y comprobar su precisión."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Coste total",
+      "text": "Cuál es el coste incremental anual y acumulado, qué recursos lo cubren y qué se aplaza si los ingresos decepcionan."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Prioridad real",
+      "text": "Qué compromisos son irrenunciables, cuáles se pueden graduar y qué parte se sacrificaría en una negociación."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Fiscalidad joven",
+      "text": "Cuota afectada, límites de renta, transición, definición de primeros ejercicios y tratamiento de contribuyentes ya activos."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Vivienda",
+      "text": "Si la meta se cuenta por iniciadas o terminadas; cartera, suelo, cobertura territorial y parte adicional a proyectos existentes."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Personal sanitario",
+      "text": "Incremento neto o bruto; distribución por categoría y territorio; sustitución de jubilaciones y calendario de incorporación."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Infantil y dependencia",
+      "text": "Coste unitario, obligaciones por comunidad, calidad, oferta suficiente y garantías para hogares con menos renta."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Activación",
+      "text": "Compatibilidades, retirada de ayudas, definición de oferta adecuada y protección en discapacidad, cuidados o falta real de empleo."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Reformas institucionales",
+      "text": "Vía jurídica de cada medida, transición y apoyos reforzados donde procedan."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Apoyo territorial",
+      "text": "Fórmula de financiación con resultados por comunidad y compromisos de ejecución de cada administración."
+    },
+    {
+      "section": "11 | INCERTIDUMBRES DECISIVAS",
+      "page": 34,
+      "heading": "Preguntas que faltan para cerrar la evaluación: Campaña y versión final",
+      "text": "Contenido definitivo de los espacios reservados y relación entre anuncios posteriores y programa base. Estas preguntas no son objeciones partidistas: son condiciones para verificar las promesas de cualquier formación con el mismo estándar."
+    },
+    {
+      "section": "ANEXO A | TRAZABILIDAD TEMÁTICA",
+      "page": 35,
+      "heading": "Mapa de cobertura del programa",
+      "text": "Bloques del documento del PP | Dónde se analizan en este informe\n1.1-1.3 | Estado, normas y presencia | Economía; instituciones; tecnología; protección social; territorio.\n1.4 | Seguridad y ley | Seguridad y justicia; protección social; instituciones.\n1.5-1.6 | Fronteras e integración | Inmigración, asilo e integración; empleo; territorio.\n1.7-1.8 | Emergencias y defensa | Energía/medioambiente; infraestructuras; exterior y defensa.\n2.1-2.5 | Reglas e instituciones | Instituciones; territorio; perfiles, gobernanza e integridad.\n3.1 | Derechos y oportunidades | Territorio; educación; salud; digitalización.\n3.2 | Territorios y generaciones | Financiación territorial; pensiones; familia; protección social.\n3.3-3.5 | Infraestructuras, cultura y ciudadanía | Movilidad; cultura; inmigración y nacionalidad.\n4.1-4.4 | Vivienda, familia, trabajo e impuestos | Vivienda; familia/cuidados; empleo; fiscalidad.\n4.5-4.6 | Productividad y rural | Economía; tecnología; agricultura, pesca y medio rural.\n4.7-4.10 | Educación, sanidad, energía y exterior | Las cuatro fichas correspondientes y su análisis fiscal y de acuerdos."
+    },
+    {
+      "section": "ANEXO A | TRAZABILIDAD TEMÁTICA",
+      "page": 35,
+      "heading": "Cobertura y exclusiones",
+      "text": "Las 76 unidades priorizan medidas con impacto, concreción o tensión de ejecución relevante. Los compromisos secundarios conexos se incluyen en el comentario temático. No se han puntuado por separado todas las subcláusulas ni los ocho espacios reservados del archivo base. No se atribuyen posiciones por silencio."
+    },
+    {
+      "section": "ANEXO A | TRAZABILIDAD TEMÁTICA",
+      "page": 35,
+      "heading": "Principio de atribución",
+      "text": "Una propuesta puede sobrevivir parcialmente, cambiar de instrumento o ser adoptada por otro partido. El seguimiento debe registrar esa versión y quién la aprobó y ejecutó. No basta con que un resultado ocurra durante un mandato para contarlo como cumplimiento causado por el programa."
+    },
+    {
+      "section": "ANEXO A | TRAZABILIDAD TEMÁTICA",
+      "page": 35,
+      "heading": "Conclusión final",
+      "text": "El programa del PP ofrece una agenda identificable, pero su transformación en resultados depende de decisiones que siguen abiertas: financiación, secuencia, acuerdos y capacidad. La lectura más informativa no es \"realista\" o \"irrealista\" en bloque, sino qué compromisos tienen ruta definida, cuáles necesitan condiciones adicionales y qué evidencia cambiaría esa evaluación."
+    }
+  ],
+  "internal_support": [
+    {
+      "area": "Programa nacional",
+      "evidence": "Presentación de Feijóo y Alma Ezcurra el 10/11. [3, 47]",
+      "inference_and_limit": "Respaldo formal de la dirección. No equivale a votación individual de afiliados.",
+      "refs": [
+        3,
+        47
+      ]
+    },
+    {
+      "area": "Financiación territorial",
+      "evidence": "Declaración de Zaragoza, 18/01; ratificaciones de Balears y Cantabria. [24-26]",
+      "inference_and_limit": "Apoyo a reglas multilaterales. Reparto final y ponderaciones siguen abiertos.",
+      "refs": [
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "area": "Sanidad",
+      "evidence": "Fúnez expone agenda el 7/10; programa la incorpora. [18]",
+      "inference_and_limit": "Patrocinio sectorial identificable. No prueba compromiso presupuestario autonómico.",
+      "refs": [
+        18
+      ]
+    },
+    {
+      "area": "Educación",
+      "evidence": "Presentación de Galiana en La Rioja el 10/11. [22]",
+      "inference_and_limit": "Ratificación sectorial/territorial concreta, no evidencia de unanimidad nacional.",
+      "refs": [
+        22
+      ]
+    },
+    {
+      "area": "Activación",
+      "evidence": "Anuncio de Feijóo y respaldo de Urrutia el 16/11. [11, 12]",
+      "inference_and_limit": "Apoyo explícito reciente, sin texto legislativo o detalle de transición.",
+      "refs": [
+        11,
+        12
+      ]
+    },
+    {
+      "area": "Rural",
+      "evidence": "Presentación sectorial del 16/11 y referencia al Libro Blanco. [29]",
+      "inference_and_limit": "Continuidad y prioridad de campaña; consultar versión final para objetivos y coste.",
+      "refs": [
+        29
+      ]
+    },
+    {
+      "area": "Otras materias",
+      "evidence": "Texto del programa. [2]",
+      "inference_and_limit": "Posición oficial; intensidad del apoyo interno no medida.",
+      "refs": [
+        2
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Alberto Núñez Feijóo",
+      "role": "Presidente del PP y candidato",
+      "verified_trajectory": "Presidente del PP y candidato; presidencia de la Xunta entre 2009 y 2022. [38-40]",
+      "what_it_allows_to_assess": "Experiencia ejecutiva autonómica. No demuestra por sí sola viabilidad de una mayoría nacional o de cada propuesta.",
+      "refs": [
+        38,
+        39,
+        40
+      ],
+      "page": 28
+    },
+    {
+      "name": "Miguel Tellado",
+      "role": "Secretario general y director de campaña de 2026",
+      "verified_trajectory": "Secretario general y director de campaña de 2026. [38, 41]",
+      "what_it_allows_to_assess": "Organización, coordinación y prioridad partidista; no es garantía de acuerdo parlamentario.",
+      "refs": [
+        38,
+        41
+      ],
+      "page": 28
+    },
+    {
+      "name": "Alma Ezcurra",
+      "role": "Participa junto al presidente en la presentación del programa",
+      "verified_trajectory": "Participa junto al presidente en la presentación del programa. [47]",
+      "what_it_allows_to_assess": "Interlocución sobre diseño programático y coherencia entre áreas; no se presume futuro ministerio.",
+      "refs": [
+        47
+      ],
+      "page": 28
+    },
+    {
+      "name": "Juan Bravo",
+      "role": "Responsabilidad en Hacienda, Vivienda e Infraestructuras",
+      "verified_trajectory": "Inspector de Hacienda; experiencia de gestión financiera autonómica; responsabilidad en Hacienda, Vivienda e Infraestructuras. [39, 42]",
+      "what_it_allows_to_assess": "Capacidad para discutir costes, presupuestos y secuencia; requiere memoria concreta del conjunto.",
+      "refs": [
+        39,
+        42
+      ],
+      "page": 28
+    },
+    {
+      "name": "Alberto Nadal",
+      "role": "Responsable económico y de desarrollo sostenible",
+      "verified_trajectory": "Experiencia estatal en Energía y Presupuestos; responsable económico y de desarrollo sostenible. [43]",
+      "what_it_allows_to_assess": "Conocimiento de regulación y finanzas; importante contrastar compatibilidad entre energía, industria y senda fiscal.",
+      "refs": [
+        43
+      ],
+      "page": 28
+    },
+    {
+      "name": "Ester Muñoz",
+      "role": "Portavoz parlamentaria",
+      "verified_trajectory": "Portavoz parlamentaria, experiencia como senadora y responsabilidad territorial en León. [39, 44]",
+      "what_it_allows_to_assess": "Pregunta de control: Qué textos separables puede negociar y qué concesiones preservarían el compromiso esencial.",
+      "refs": [
+        39,
+        44
+      ],
+      "page": 29
+    },
+    {
+      "name": "Cuca Gamarra",
+      "role": "Responsabilidad de Regeneración Institucional",
+      "verified_trajectory": "Responsabilidad de Regeneración Institucional y candidatura por La Rioja. [39]",
+      "what_it_allows_to_assess": "Pregunta de control: Qué reformas requieren ley ordinaria, orgánica o constitucional y qué apoyos existen realmente.",
+      "refs": [
+        39
+      ],
+      "page": 29
+    },
+    {
+      "name": "Carmen Fúnez",
+      "role": "Responsabilidad de Sanidad y Política Social",
+      "verified_trajectory": "Responsabilidad de Sanidad y Política Social; experiencia parlamentaria y territorial. [39, 45]",
+      "what_it_allows_to_assess": "Pregunta de control: Cómo se pactan plantilla, financiación y rendición de cuentas con las comunidades.",
+      "refs": [
+        39,
+        45
+      ],
+      "page": 29
+    },
+    {
+      "name": "Elías Bendodo",
+      "role": "Responsabilidad de Política Autonómica y Municipal",
+      "verified_trajectory": "Responsabilidad de Política Autonómica y Municipal. [39]",
+      "what_it_allows_to_assess": "Pregunta de control: Cómo se transforma la coincidencia formal territorial en reparto y calendario ejecutables.",
+      "refs": [
+        39
+      ],
+      "page": 29
+    }
+  ],
+  "integrity_and_governance": [
+    {
+      "topic": "No confundir equipo electoral con Gobierno confirmado",
+      "text": "Las responsabilidades publicadas permiten identificar patrocinadores y experiencia. No establecen quién ocupará cada ministerio ni qué competencias tendrá. Los nombramientos futuros y equipos técnicos son una variable de ejecución, no un hecho consumado.",
+      "refs": [],
+      "page": 28
+    },
+    {
+      "topic": "Lectura de la experiencia ejecutiva",
+      "text": "Una evaluación retrospectiva seria necesitaría promesas originales, recursos y competencias, plazos y resultados comparables. No se convierte la permanencia en el cargo en una nota de eficacia ni se atribuye todo resultado regional al dirigente que ocupaba la presidencia.",
+      "refs": [],
+      "page": 28
+    },
+    {
+      "topic": "Antecedente relevante de integridad",
+      "text": "En 2020, el Tribunal Supremo confirmó la responsabilidad del PP como partícipe a título lucrativo en la primera época de Gürtel. Es un antecedente institucional pertinente para evaluar controles de contratación y financiación. Esa figura es de responsabilidad civil; no equivale a condena penal del partido ni acredita responsabilidad personal de la dirección actual. [46]",
+      "refs": [
+        46
+      ],
+      "page": 29
+    },
+    {
+      "topic": "Exigencias observables para las promesas de regeneración",
+      "text": "Publicación de conflictos de intereses y agendas; criterios de nombramiento; contratos y subvenciones trazables; seguimiento de recomendaciones; canal protegido de denuncia; sanciones y controles aplicables también al propio partido y sus administraciones. La misma prueba debe aplicarse a cualquier formación.",
+      "refs": [],
+      "page": 29
+    },
+    {
+      "topic": "Negociación: antecedente con doble lectura",
+      "text": "El acuerdo judicial de junio de 2024 y la reforma posterior muestran capacidad de transacción entre PP y PSOE; también llegaron tras años de bloqueo. Ninguno de los dos hechos, aislado, permite predecir la cooperación de la siguiente legislatura. Lo relevante es el incentivo y el texto de cada pacto. [36, 37]",
+      "refs": [
+        36,
+        37
+      ],
+      "page": 29
+    },
+    {
+      "topic": "Límite de este perfil",
+      "text": "No se produce un inventario exhaustivo de controversias personales ni se infiere honestidad, personalidad o competencia a partir de simpatía política. Las controversias solo entran si tienen evidencia y relación concreta con capacidad, controles o ejecución.",
+      "refs": [],
+      "page": 29
+    }
+  ],
+  "agreements": [
+    {
+      "counterpart": "Vox",
+      "common_ground": "Rebajas fiscales, oferta de vivienda, nuclear y parte de la agenda de seguridad. [33, 50]",
+      "frictions": "Discrepancias sobre arraigo, clima, autonomías y enfoque de protección social. Negociación de prioridades y financiación.",
+      "documented_agreement": false,
+      "refs": [
+        33,
+        50
+      ]
+    },
+    {
+      "counterpart": "PSOE",
+      "common_ground": "Servicios, industria, formación, infraestructura, digitalización y pactos institucionales acotados. [34, 36]",
+      "frictions": "Disenso relevante en alquiler, orientación fiscal, LOMLOE, memoria y derechos. No hay pacto global acreditado.",
+      "documented_agreement": false,
+      "refs": [
+        34,
+        36
+      ]
+    },
+    {
+      "counterpart": "PNV",
+      "common_ground": "Posibles acuerdos técnicos o económicos, sujetos a autogobierno y agenda vasca.",
+      "frictions": "Su rechazo a un bloque con Vox impide tratarlo como complemento automático. PP-PNV no se infiere de afinidad económica. [35]",
+      "documented_agreement": false,
+      "refs": [
+        35
+      ]
+    },
+    {
+      "counterpart": "UPN",
+      "common_ground": "Acuerdo electoral con PP mencionado oficialmente el 16/11. [32]",
+      "frictions": "No duplicar diputados hipotéticos ni convertir una alianza electoral en apoyo separado a cada medida.",
+      "documented_agreement": true,
+      "refs": [
+        32
+      ]
+    },
+    {
+      "counterpart": "Coalición Canaria",
+      "common_ground": "Hipótesis de negociación sobre islas, conectividad y servicios.",
+      "frictions": "No se atribuye compromiso nacional de 2026 sin evidencia específica. Condicionar cualquier apoyo a texto y contraprestaciones.",
+      "documented_agreement": false,
+      "refs": []
+    },
+    {
+      "counterpart": "Junts, ERC, EH Bildu, BNG",
+      "common_ground": "Pueden existir coincidencias parciales en servicios o intereses territoriales.",
+      "frictions": "No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley.",
+      "documented_agreement": false,
+      "refs": []
+    },
+    {
+      "counterpart": "Frente Amplio y Podemos",
+      "common_ground": "Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común.",
+      "frictions": "La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]",
+      "documented_agreement": false,
+      "refs": [
+        17
+      ]
+    }
+  ],
+  "negotiation_packages": [
+    {
+      "package": "Vivienda: oferta + garantías",
+      "condition": "Suelo y plazos acompañados de protección vulnerable, financiación local y seguridad jurídica.",
+      "effect": "Más negociable que una derogación íntegra sin transición. No es un acuerdo existente."
+    },
+    {
+      "package": "Salud + financiación territorial",
+      "condition": "Recursos por necesidades y objetivos compartidos, con seguimiento y competencias claras.",
+      "effect": "Puede ampliar apoyos; condiciona otras rebajas o gastos a disponibilidad."
+    },
+    {
+      "package": "Fiscalidad gradual + revisión del gasto",
+      "condition": "Aplicar medidas por tramos tras verificar financiación y proteger ingresos vulnerables.",
+      "effect": "Reduce el alcance inmediato, pero puede aumentar permanencia y credibilidad fiscal."
+    },
+    {
+      "package": "Nuclear + redes + transición",
+      "condition": "Seguridad, residuos, inversión territorial y compromisos de descarbonización.",
+      "effect": "Distingue continuidad de centrales de una derogación general de la política climática."
+    },
+    {
+      "package": "IA + garantías administrativas",
+      "condition": "Pilotos, auditoría, trazabilidad, recurso humano y contratación competitiva.",
+      "effect": "Puede ampliar respaldo sin presentar automatización como sustitución de derechos."
+    },
+    {
+      "package": "Regeneración institucional",
+      "condition": "Incompatibilidades y transparencia con reglas simétricas, nombramientos y transición pactados.",
+      "effect": "Más opciones para reformas parciales que para reconfiguración constitucional completa."
+    }
+  ],
+  "fiscal": {
+    "summary": "El informe no certifica el coste neto conjunto de rebajas fiscales, nuevos servicios e inversiones: no hay memoria consolidada ni microsimulación fiscal completa. AIReF (4/11/2026) proyecta déficit del 2,8% del PIB en 2026 y del 2,6% en 2027 bajo políticas vigentes y advierte del incumplimiento de la senda de gasto; no es una estimación del coste del PP. Ahorros de auditoría, crecimiento y lucha contra el fraude no son financiación garantizada antes de verificarse. Menores ingresos (IRPF, IVA, cotizaciones, incentivos familiares, vivienda e inversión) conviven con gasto recurrente nuevo (personal sanitario, infantil, dependencia, seguridad, defensa). Paquete negociable descrito: fiscalidad gradual por tramos tras verificar financiación. (p. 2, 6, 24-25, 31)",
+    "key_figures": [
+      {
+        "figure": "1.000.000 viviendas",
+        "reading": "Meta de oferta total; 250.000/año es una media aritmética de cuatro años.",
+        "missing": "Terminadas o iniciadas, adicionalidad, distribución territorial y cartera madura."
+      },
+      {
+        "figure": "300.000 millones",
+        "reading": "Plan de inversión pública y privada a 15 años; media de 20.000 millones/año.",
+        "missing": "Cuota pública, calendario, inversiones ya previstas y compromisos futuros."
+      },
+      {
+        "figure": "4.500 médicos",
+        "reading": "Incremento anunciado en primaria. La entrega exige definir efectivos netos y jornada.",
+        "missing": "Bajas esperadas, movilidad, plazas, retención y coste laboral completo."
+      },
+      {
+        "figure": "700 millones/año",
+        "reading": "Anuncio sanitario de octubre ligado a salud mental, no partida aprobada.",
+        "missing": "Integración con plan 2027-2037, cofinanciación, perfiles y calendario."
+      },
+      {
+        "figure": "0-3 al 50/50",
+        "reading": "Reparto anunciado del coste entre Estado y comunidades.",
+        "missing": "Coste unitario, plazas nuevas/existentes, cobertura y disponibilidad de centros."
+      },
+      {
+        "figure": "Ahorro de 2.000 euros",
+        "reading": "Aportación anual máxima a Hucha Hogar Joven; deducción del 20%.",
+        "missing": "Elegibilidad y cuota: máximo aritmético de 400 euros/año antes de restricciones."
+      },
+      {
+        "figure": "Aval hasta 40.000",
+        "reading": "Límite ligado al ahorro acumulado en ese instrumento; no cheque en efectivo.",
+        "missing": "Pérdida esperada, recuperaciones, comisiones y acumulación con otros avales."
+      }
+    ]
+  },
+  "ambiguities_and_open_questions": [
+    "Coste total: Cuál es el coste incremental anual y acumulado, qué recursos lo cubren y qué se aplaza si los ingresos decepcionan. (p. 34)",
+    "Prioridad real: Qué compromisos son irrenunciables, cuáles se pueden graduar y qué parte se sacrificaría en una negociación. (p. 34)",
+    "Fiscalidad joven: Cuota afectada, límites de renta, transición, definición de primeros ejercicios y tratamiento de contribuyentes ya activos. (p. 34)",
+    "Vivienda: Si la meta se cuenta por iniciadas o terminadas; cartera, suelo, cobertura territorial y parte adicional a proyectos existentes. (p. 34)",
+    "Personal sanitario: Incremento neto o bruto; distribución por categoría y territorio; sustitución de jubilaciones y calendario de incorporación. (p. 34)",
+    "Infantil y dependencia: Coste unitario, obligaciones por comunidad, calidad, oferta suficiente y garantías para hogares con menos renta. (p. 34)",
+    "Activación: Compatibilidades, retirada de ayudas, definición de oferta adecuada y protección en discapacidad, cuidados o falta real de empleo. (p. 34)",
+    "Reformas institucionales: Vía jurídica de cada medida, transición y apoyos reforzados donde procedan. (p. 34)",
+    "Apoyo territorial: Fórmula de financiación con resultados por comunidad y compromisos de ejecución de cada administración. (p. 34)",
+    "Campaña y versión final: Contenido definitivo de los espacios reservados y relación entre anuncios posteriores y programa base. Estas preguntas no son objeciones partidistas: son condiciones para verificar las promesas de cualquier formación con el mismo estándar. (p. 34)",
+    "F01 IRPF general: Falta tarifa completa para calcular distribución y coste. (p. 6)",
+    "F02 IRPF joven: Precisar cuota, transición y límites. (p. 6)",
+    "F03 IVA alimentario: Definir cesta, fin de la medida y traslado efectivo a precios. (p. 6)",
+    "V01 Un millón de viviendas: falta una cartera territorial de proyectos con plazos. (p. 9)",
+    "S02 Listas de espera: Sin objetivo numérico homogéneo, el cumplimiento final no tiene umbral verificable. (p. 10)",
+    "FA01 Crédito familiar mensual: Falta cuantía y escala completas. (p. 12)",
+    "FA03 Permisos y flexibilidad: Sin duración final ni calendario, no hay compromiso único cuantificable. (p. 12)",
+    "T01 Nueva financiación: Falta una tabla de recursos y resultados por comunidad. (p. 17)",
+    "EX01 Programación de defensa: El programa revisado no permite atribuir una cifra total cerrada y financiada al conjunto. (p. 22)",
+    "Espacios reservados del programa sin contenido: 83, 109, 132, 164, 167, 173, 200 y 210. (p. 3)",
+    "Anuncio del 16/11 sobre voto de desplazados por ETA: exige definir prueba, censo y garantías contra doble inscripción; no se asigna a una casilla reservada. (p. 16)",
+    "IN04 Dos prórrogas: elecciones: puede requerir reforma constitucional (arts. 115 y 134.4); vía jurídica sin definir. (p. 16)"
+  ],
+  "explicit_non_positions": [
+    {
+      "text": "No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus.",
+      "ambito": 3,
+      "page": 7
+    },
+    {
+      "text": "No se presupone acuerdo sobre edad de retiro o modelo mixto.",
+      "ambito": 4,
+      "page": 8
+    },
+    {
+      "text": "El texto de paliativos no basta para afirmar una derogación expresa de la ley de eutanasia. [2, m.226]",
+      "ambito": 6,
+      "page": 10
+    },
+    {
+      "text": "Las propuestas de gestación y reproducción no se convierten por inferencia en una posición completa sobre aborto.",
+      "ambito": 8,
+      "page": 12
+    },
+    {
+      "text": "Las medidas reservadas 164 y 167 no se puntúan como compromisos definidos.",
+      "ambito": 8,
+      "page": 12
+    },
+    {
+      "text": "No se atribuye unanimidad interna ni apoyo judicial por la sola presentación del programa.",
+      "ambito": 11,
+      "page": 15
+    },
+    {
+      "text": "El anuncio del 16/11 sobre voto de desplazados por ETA se registra aparte: exige definir prueba, censo y garantías contra doble inscripción; no se asigna a una casilla reservada sin evidencia. [32, 39]",
+      "ambito": 12,
+      "page": 16
+    },
+    {
+      "text": "La medida 200 reservada no se interpreta como una promesa ya definida.",
+      "ambito": 15,
+      "page": 19
+    },
+    {
+      "text": "La medida 132 reservada queda fuera del pronóstico hasta su concreción.",
+      "ambito": 19,
+      "page": 23
+    },
+    {
+      "text": "Se evita convertir un titular periodístico en una derogación o una cifra no contenida expresamente en el texto.",
+      "ambito": 0,
+      "page": 3
+    },
+    {
+      "text": "Activación del 10/11 y ratificación 16/11; agenda rural y reforma censal del 16/11. No se asignan automáticamente a casillas reservadas. [11, 12, 29, 32]",
+      "ambito": 0,
+      "page": 3
+    },
+    {
+      "text": "No se han puntuado por separado todas las subcláusulas ni los ocho espacios reservados del archivo base. No se atribuyen posiciones por silencio.",
+      "ambito": 0,
+      "page": 35
+    }
+  ],
+  "mentions_of_other_parties": [
+    {
+      "party": "Vox",
+      "text": "Hay coincidencias en impuestos, vivienda y nuclear; existen diferencias en arraigo, clima y organización territorial.",
+      "page": 2
+    },
+    {
+      "party": "PNV",
+      "text": "PNV rechaza un bloque con Vox: no se agregan sus votos como piezas automáticamente compatibles. [33, 35, 50]",
+      "page": 2
+    },
+    {
+      "party": "PSOE",
+      "text": "El pacto judicial de 2024 es un precedente real, no una garantía de apoyo futuro. [34, 36, 37]",
+      "page": 2
+    },
+    {
+      "party": "Vox",
+      "text": "Gobierno sostenido por PP y Vox con votos suficientes para esas leyes, pero negociación de contenido y prioridades. No se presupone acuerdo global.",
+      "page": 4
+    },
+    {
+      "party": "Vox",
+      "text": "Compatibilidad potencial con Vox en desregulación y con PSOE o partidos territoriales en industria; no existe acuerdo acreditado para este paquete. [38, 42, 43]",
+      "page": 5
+    },
+    {
+      "party": "PSOE",
+      "text": "Compatibilidad potencial con Vox en desregulación y con PSOE o partidos territoriales en industria; no existe acuerdo acreditado para este paquete. [38, 42, 43]",
+      "page": 5
+    },
+    {
+      "party": "Vox",
+      "text": "Vox converge en bajar impuestos, no necesariamente en tramos ni financiación.",
+      "page": 6
+    },
+    {
+      "party": "PSOE",
+      "text": "Con el PSOE serían más negociables alivios acotados que una reforma completa. [9, 33, 34]",
+      "page": 6
+    },
+    {
+      "party": "Vox",
+      "text": "Vox coincide en oferta y derogación, con diferencias en prioridad por nacionalidad.",
+      "page": 9
+    },
+    {
+      "party": "PSOE",
+      "text": "PSOE y Frente Amplio defienden otros instrumentos de alquiler: coincidencia en construir no significa acuerdo sobre su régimen. [17, 33]",
+      "page": 9
+    },
+    {
+      "party": "Frente Amplio",
+      "text": "PSOE y Frente Amplio defienden otros instrumentos de alquiler: coincidencia en construir no significa acuerdo sobre su régimen. [17, 33]",
+      "page": 9
+    },
+    {
+      "party": "Vox",
+      "text": "Vox comparte partes de la reforma, pero no se ha verificado un acuerdo sobre todas.",
+      "page": 11
+    },
+    {
+      "party": "PSOE",
+      "text": "El PSOE puede coincidir en refuerzos y FP sin aceptar sustitución de LOMLOE o diseño de conciertos. [21, 22, 34]",
+      "page": 11
+    },
+    {
+      "party": "PSOE",
+      "text": "Existe terreno potencial con PSOE en infantil y conciliación, y con Vox en apoyos familiares, sin identidad en condiciones ni enfoque.",
+      "page": 12
+    },
+    {
+      "party": "Vox",
+      "text": "Existe terreno potencial con PSOE en infantil y conciliación, y con Vox en apoyos familiares, sin identidad en condiciones ni enfoque.",
+      "page": 12
+    },
+    {
+      "party": "Vox",
+      "text": "Vox puede respaldar condiciones más estrictas; PSOE y fuerzas de izquierda pueden coincidir en automatizar acceso sin aceptar recortes o cambios registrales. [11, 12, 33, 34]",
+      "page": 13
+    },
+    {
+      "party": "PSOE",
+      "text": "Vox puede respaldar condiciones más estrictas; PSOE y fuerzas de izquierda pueden coincidir en automatizar acceso sin aceptar recortes o cambios registrales. [11, 12, 33, 34]",
+      "page": 13
+    },
+    {
+      "party": "Vox",
+      "text": "Vox converge en restricciones, pero suprimir el arraigo no es igual que conservarlo como excepcional.",
+      "page": 14
+    },
+    {
+      "party": "PSOE",
+      "text": "No se acredita apoyo de PSOE o PNV al paquete.",
+      "page": 14
+    },
+    {
+      "party": "PNV",
+      "text": "No se acredita apoyo de PSOE o PNV al paquete.",
+      "page": 14
+    },
+    {
+      "party": "Vox",
+      "text": "Respaldo nacional; coincidencia potencial con Vox en endurecimiento.",
+      "page": 15
+    },
+    {
+      "party": "PSOE",
+      "text": "El acuerdo PP-PSOE de 2024 acredita capacidad de pacto puntual tras un bloqueo prolongado; no prueba apoyo socialista a toda la agenda actual.",
+      "page": 16
+    },
+    {
+      "party": "Vox",
+      "text": "Vox, PNV y otras fuerzas tienen prioridades territoriales distintas; no se suman como aliados intercambiables. [24-26, 33, 35]",
+      "page": 17
+    },
+    {
+      "party": "PNV",
+      "text": "Vox, PNV y otras fuerzas tienen prioridades territoriales distintas; no se suman como aliados intercambiables. [24-26, 33, 35]",
+      "page": 17
+    },
+    {
+      "party": "Vox",
+      "text": "Vox coincide en nuclear, pero su postura climática no es idéntica al compromiso del PP con descarbonización.",
+      "page": 18
+    },
+    {
+      "party": "Vox",
+      "text": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox.",
+      "page": 22
+    },
+    {
+      "party": "PSOE",
+      "text": "Con el PSOE existen espacios posibles en defensa de intereses europeos y apoyo exterior, pero no un pacto de ejecución de este programa.",
+      "page": 22
+    },
+    {
+      "party": "PSOE",
+      "text": "El acuerdo judicial de junio de 2024 y la reforma posterior muestran capacidad de transacción entre PP y PSOE; también llegaron tras años de bloqueo.",
+      "page": 29
+    },
+    {
+      "party": "Vox",
+      "text": "Vox: Terreno potencial: Rebajas fiscales, oferta de vivienda, nuclear y parte de la agenda de seguridad. [33, 50] Condiciones y fricciones: Discrepancias sobre arraigo, clima, autonomías y enfoque de protección social. Negociación de prioridades y financiación.",
+      "page": 30
+    },
+    {
+      "party": "PSOE",
+      "text": "PSOE: Terreno potencial: Servicios, industria, formación, infraestructura, digitalización y pactos institucionales acotados. [34, 36] Condiciones y fricciones: Disenso relevante en alquiler, orientación fiscal, LOMLOE, memoria y derechos. No hay pacto global acreditado.",
+      "page": 30
+    },
+    {
+      "party": "PNV",
+      "text": "PNV: Terreno potencial: Posibles acuerdos técnicos o económicos, sujetos a autogobierno y agenda vasca. Condiciones y fricciones: Su rechazo a un bloque con Vox impide tratarlo como complemento automático. PP-PNV no se infiere de afinidad económica. [35]",
+      "page": 30
+    },
+    {
+      "party": "UPN",
+      "text": "UPN: Terreno potencial: Acuerdo electoral con PP mencionado oficialmente el 16/11. [32] Condiciones y fricciones: No duplicar diputados hipotéticos ni convertir una alianza electoral en apoyo separado a cada medida.",
+      "page": 30
+    },
+    {
+      "party": "Coalición Canaria",
+      "text": "Coalición Canaria: Terreno potencial: Hipótesis de negociación sobre islas, conectividad y servicios. Condiciones y fricciones: No se atribuye compromiso nacional de 2026 sin evidencia específica. Condicionar cualquier apoyo a texto y contraprestaciones.",
+      "page": 30
+    },
+    {
+      "party": "Junts",
+      "text": "Junts, ERC, EH Bildu, BNG: Terreno potencial: Pueden existir coincidencias parciales en servicios o intereses territoriales. Condiciones y fricciones: No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley.",
+      "page": 30
+    },
+    {
+      "party": "ERC",
+      "text": "Junts, ERC, EH Bildu, BNG: Terreno potencial: Pueden existir coincidencias parciales en servicios o intereses territoriales. Condiciones y fricciones: No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley.",
+      "page": 30
+    },
+    {
+      "party": "EH Bildu",
+      "text": "Junts, ERC, EH Bildu, BNG: Terreno potencial: Pueden existir coincidencias parciales en servicios o intereses territoriales. Condiciones y fricciones: No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley.",
+      "page": 30
+    },
+    {
+      "party": "BNG",
+      "text": "Junts, ERC, EH Bildu, BNG: Terreno potencial: Pueden existir coincidencias parciales en servicios o intereses territoriales. Condiciones y fricciones: No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley.",
+      "page": 30
+    },
+    {
+      "party": "Frente Amplio",
+      "text": "Frente Amplio y Podemos: Terreno potencial: Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común. Condiciones y fricciones: La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]",
+      "page": 30
+    },
+    {
+      "party": "Podemos",
+      "text": "Frente Amplio y Podemos: Terreno potencial: Coincidencias posibles sobre necesidades sociales no equivalen a instrumento común. Condiciones y fricciones: La diferencia en regulación de vivienda está documentada para Frente Amplio; no se presume apoyo al paquete fiscal o territorial. [17]",
+      "page": 30
+    }
+  ],
+  "references": [
+    {
+      "n": 1,
+      "source": "BOE",
+      "date": "05/10/2026",
+      "title": "Real Decreto 806/2026: convocatoria de elecciones generales",
+      "note": "Fecha electoral y calendario oficial."
+    },
+    {
+      "n": 2,
+      "source": "Partido Popular",
+      "date": "10/11/2026",
+      "title": "La Reconstrucción Nacional. Programa electoral 2026",
+      "note": "Documento base; las referencias m. remiten a sus medidas numeradas."
+    },
+    {
+      "n": 3,
+      "source": "Partido Popular",
+      "date": "10/11/2026",
+      "title": "Presentación de los cuatro pilares y compromisos prioritarios",
+      "note": ""
+    },
+    {
+      "n": 4,
+      "source": "RTVE",
+      "date": "10/11/2026",
+      "title": "Presentación del programa del PP para el 29N",
+      "note": ""
+    },
+    {
+      "n": 5,
+      "source": "EFE",
+      "date": "10/11/2026",
+      "title": "Programa electoral del PP para las elecciones del 29N",
+      "note": ""
+    },
+    {
+      "n": 6,
+      "source": "AIReF",
+      "date": "04/11/2026",
+      "title": "Riesgo de incumplimiento del plan fiscal desde 2026",
+      "note": "Escenario de políticas vigentes, no estimación del programa del PP."
+    },
+    {
+      "n": 7,
+      "source": "Banco de España",
+      "date": "T3 2026",
+      "title": "Proyecciones e informe trimestral de la economía española",
+      "note": ""
+    },
+    {
+      "n": 8,
+      "source": "BOE",
+      "date": "Consulta 17/11/2026",
+      "title": "Constitución Española: texto consolidado",
+      "note": "Arts. 9, 14, 24, 25, 53, 81, 99, 115, 122, 124, 134, 149, 167 y 168."
+    },
+    {
+      "n": 9,
+      "source": "Europa Press",
+      "date": "10/11/2026",
+      "title": "Propuestas fiscales: IRPF, IVA y autónomos",
+      "note": ""
+    },
+    {
+      "n": 10,
+      "source": "Comisión Europea",
+      "date": "Consulta 17/11/2026",
+      "title": "Régimen de IVA para pequeñas empresas",
+      "note": "Condiciones del régimen y límitación de la deducción del IVA soportado."
+    },
+    {
+      "n": 11,
+      "source": "Europa Press",
+      "date": "10/11/2026",
+      "title": "Renta de activación y compatibilidad con el empleo",
+      "note": ""
+    },
+    {
+      "n": 12,
+      "source": "PP Cantabria",
+      "date": "16/11/2026",
+      "title": "Respaldo de Isabel Urrutia a la renta de activación",
+      "note": ""
+    },
+    {
+      "n": 13,
+      "source": "AIReF",
+      "date": "07/2026",
+      "title": "Quinta opinión sobre el ingreso mínimo vital",
+      "note": "Datos observados de 2025, no de noviembre de 2026."
+    },
+    {
+      "n": 14,
+      "source": "AIReF",
+      "date": "04/02/2026",
+      "title": "Evaluación de la incapacidad temporal",
+      "note": ""
+    },
+    {
+      "n": 15,
+      "source": "BOE",
+      "date": "28/12/2021",
+      "title": "Ley 21/2021 de garantía del poder adquisitivo de las pensiones",
+      "note": "Antecedente legal de la indexación al IPC; no novedad electoral de 2026."
+    },
+    {
+      "n": 16,
+      "source": "PP",
+      "date": "Consulta 17/11/2026",
+      "title": "Propuestas de vivienda",
+      "note": ""
+    },
+    {
+      "n": 17,
+      "source": "EFE",
+      "date": "16/11/2026",
+      "title": "Comparación de las propuestas de vivienda de PP, Vox, PSOE y Frente Amplio",
+      "note": "Cuando un resumen difiere del programa, se conserva el alcance del documento primario."
+    },
+    {
+      "n": 18,
+      "source": "PP",
+      "date": "07/10/2026",
+      "title": "Carmen Fúnez expone el proyecto sanitario",
+      "note": "Incluye anuncio de salud mental: 10.000 profesionales y 700 millones anuales."
+    },
+    {
+      "n": 19,
+      "source": "Ministerio de Sanidad",
+      "date": "Actualización 24/09/2026",
+      "title": "Sistema de información de listas de espera del SNS",
+      "note": "Serie de diciembre de 2025 rectificada; las comunidades aportan los datos."
+    },
+    {
+      "n": 20,
+      "source": "Ministerio de Sanidad",
+      "date": "T3 2026",
+      "title": "Indicadores clave del SNS",
+      "note": "Recursos, actividad y resultados; las fechas de observación difieren por indicador."
+    },
+    {
+      "n": 21,
+      "source": "Europa Press",
+      "date": "10/11/2026",
+      "title": "Propuestas educativas: LOMLOE, promoción y PAU",
+      "note": ""
+    },
+    {
+      "n": 22,
+      "source": "Europa Press",
+      "date": "10/11/2026",
+      "title": "Alberto Galiana presenta las propuestas educativas en La Rioja",
+      "note": ""
+    },
+    {
+      "n": 23,
+      "source": "Consejo de la UE",
+      "date": "01/10/2026",
+      "title": "Adopción de las nuevas reglas europeas de retorno",
+      "note": "Calendario de aplicación y salvaguardias; no equivale a retornos automáticos."
+    },
+    {
+      "n": 24,
+      "source": "PP",
+      "date": "18/01/2026",
+      "title": "Declaración territorial sobre financiación autonómica",
+      "note": ""
+    },
+    {
+      "n": 25,
+      "source": "PP Balears",
+      "date": "18/01/2026",
+      "title": "Prohens firma la Declaración de Zaragoza",
+      "note": ""
+    },
+    {
+      "n": 26,
+      "source": "PP Cantabria",
+      "date": "18/01/2026",
+      "title": "Buruaga firma la Declaración de Zaragoza",
+      "note": ""
+    },
+    {
+      "n": 27,
+      "source": "BOE",
+      "date": "12/08/2026",
+      "title": "Orden TED/864/2026: autorización de Almaraz hasta junio de 2030",
+      "note": "Distinguir la prórroga ya autorizada del resto del calendario nuclear."
+    },
+    {
+      "n": 28,
+      "source": "MITECO",
+      "date": "14/08/2026",
+      "title": "Publicación de la renovación de Almaraz",
+      "note": ""
+    },
+    {
+      "n": 29,
+      "source": "PP",
+      "date": "16/11/2026",
+      "title": "Pacto nacional para agricultura, ganadería, pesca y montes",
+      "note": ""
+    },
+    {
+      "n": 30,
+      "source": "Comisión Europea",
+      "date": "Consulta 17/11/2026",
+      "title": "Calendario actualizado de aplicación del Reglamento de IA",
+      "note": "Incorpora las modificaciones del Digital Omnibus on AI."
+    },
+    {
+      "n": 31,
+      "source": "Comisión Europea",
+      "date": "Consulta 17/11/2026",
+      "title": "Marco regulatorio de inteligencia artificial",
+      "note": ""
+    },
+    {
+      "n": 32,
+      "source": "PP",
+      "date": "16/11/2026",
+      "title": "Reforma electoral para desplazados por violencia de ETA y acuerdo PP-UPN",
+      "note": ""
+    },
+    {
+      "n": 33,
+      "source": "Vox",
+      "date": "12/11/2026",
+      "title": "Medidas oficiales para el 29N",
+      "note": ""
+    },
+    {
+      "n": 34,
+      "source": "PSOE",
+      "date": "11/2026",
+      "title": "Programa electoral del 29N",
+      "note": "Usado para contrastar compatibilidad, no para realizar una evaluación completa del PSOE."
+    },
+    {
+      "n": 35,
+      "source": "Europa Press",
+      "date": "10/10/2026",
+      "title": "PNV: rechazo a un bloque con Vox",
+      "note": ""
+    },
+    {
+      "n": 36,
+      "source": "RTVE",
+      "date": "25/06/2024",
+      "title": "Acuerdo PSOE-PP para renovar el CGPJ",
+      "note": ""
+    },
+    {
+      "n": 37,
+      "source": "BOE",
+      "date": "02/08/2024",
+      "title": "Ley Orgánica 3/2024: reforma de la LOPJ y Estatuto Fiscal",
+      "note": "Norma resultante del proceso; no prueba acuerdo sobre toda la reforma propuesta en 2026."
+    },
+    {
+      "n": 38,
+      "source": "PP",
+      "date": "Consulta 17/11/2026",
+      "title": "Estructura nacional del partido",
+      "note": ""
+    },
+    {
+      "n": 39,
+      "source": "PP",
+      "date": "10/2026",
+      "title": "Aprobación de las listas al Congreso y Senado para el 29N",
+      "note": ""
+    },
+    {
+      "n": 40,
+      "source": "Xunta de Galicia",
+      "date": "Consulta 17/11/2026",
+      "title": "Presidentes de la Xunta: trayectoria institucional",
+      "note": ""
+    },
+    {
+      "n": 41,
+      "source": "EFE",
+      "date": "08/10/2026",
+      "title": "Miguel Tellado dirigirá la campaña del PP",
+      "note": ""
+    },
+    {
+      "n": 42,
+      "source": "PP",
+      "date": "Consulta 17/11/2026",
+      "title": "Juan Bravo Baena: perfil institucional",
+      "note": ""
+    },
+    {
+      "n": 43,
+      "source": "PP",
+      "date": "Consulta 17/11/2026",
+      "title": "Alberto Nadal Belda: perfil institucional",
+      "note": ""
+    },
+    {
+      "n": 44,
+      "source": "PP",
+      "date": "Consulta 17/11/2026",
+      "title": "Ester Muñoz de la Iglesia: perfil institucional",
+      "note": ""
+    },
+    {
+      "n": 45,
+      "source": "PP",
+      "date": "Consulta 17/11/2026",
+      "title": "Carmen Fúnez de Gregorio: perfil institucional",
+      "note": ""
+    },
+    {
+      "n": 46,
+      "source": "RTVE",
+      "date": "14/10/2020",
+      "title": "El Supremo confirma la responsabilidad civil del PP como partícipe a título lucrativo en Gürtel",
+      "note": "No equivale a condena penal del partido ni acredita responsabilidad personal de la dirección actual."
+    },
+    {
+      "n": 47,
+      "source": "PP",
+      "date": "10/11/2026",
+      "title": "Presentación del programa junto a Alma Ezcurra",
+      "note": ""
+    },
+    {
+      "n": 48,
+      "source": "PP",
+      "date": "10/2026",
+      "title": "Decálogo de reformas económicas",
+      "note": ""
+    },
+    {
+      "n": 49,
+      "source": "Electosfera",
+      "date": "Consulta 17/11/2026",
+      "title": "Registro y estructura de las medidas del programa PP",
+      "note": "Apoyo de navegación; el documento oficial prevalece sobre la clasificación del portal."
+    },
+    {
+      "n": 50,
+      "source": "Europa Press",
+      "date": "12/11/2026",
+      "title": "Programa electoral de Vox: restricciones migratorias y vivienda",
+      "note": ""
+    },
+    {
+      "n": 51,
+      "source": "AIReF",
+      "date": "Consulta 17/11/2026",
+      "title": "Evaluaciones del ingreso mínimo vital",
+      "note": ""
+    },
+    {
+      "n": 52,
+      "source": "La Moncloa",
+      "date": "06/11/2026",
+      "title": "Guía oficial de las elecciones generales del 29N",
+      "note": ""
+    },
+    {
+      "n": 53,
+      "source": "OCDE",
+      "date": "2025",
+      "title": "Participación inclusiva en educación infantil y cuidados",
+      "note": ""
+    },
+    {
+      "n": 54,
+      "source": "Federal Reserve Bank of San Francisco / Monras y García-Montalvo",
+      "date": "2023",
+      "title": "The Effect of Second-Generation Rent Controls: New Evidence from Catalonia",
+      "note": "Investigación sobre la intervención catalana de 2020; no estimación de todas las leyes posteriores."
+    },
+    {
+      "n": 55,
+      "source": "Jofre-Monseny, Martínez-Mazza y Segú / UCL",
+      "date": "2023",
+      "title": "Effectiveness and supply effects of high-coverage rent control policies",
+      "note": "Resultados y diseño diferentes de otros estudios del mismo episodio."
+    },
+    {
+      "n": 56,
+      "source": "OCDE",
+      "date": "2025",
+      "title": "Trayectorias educativas y repetición de curso",
+      "note": ""
+    }
+  ]
+}

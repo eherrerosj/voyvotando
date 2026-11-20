@@ -1,0 +1,254 @@
+{
+ "completo": [
+  "Q01",
+  "Q02",
+  "Q03",
+  "Q04",
+  "Q05",
+  "Q07",
+  "Q08",
+  "Q09",
+  "Q10",
+  "Q11",
+  "Q12",
+  "Q13",
+  "Q14",
+  "Q15",
+  "Q16",
+  "Q17",
+  "Q18",
+  "Q19",
+  "Q20",
+  "Q22",
+  "Q23",
+  "Q24",
+  "Q25",
+  "Q26",
+  "Q27",
+  "Q28",
+  "Q29",
+  "Q31",
+  "Q33",
+  "Q35",
+  "Q36",
+  "Q37",
+  "Q40",
+  "Q41",
+  "Q42",
+  "Q45",
+  "Q47",
+  "Q49",
+  "Q50",
+  "Q52"
+ ],
+ "rapido": [
+  "Q03",
+  "Q05",
+  "Q07",
+  "Q08",
+  "Q11",
+  "Q12",
+  "Q13",
+  "Q16",
+  "Q18",
+  "Q20",
+  "Q26",
+  "Q27",
+  "Q28",
+  "Q33",
+  "Q37",
+  "Q40",
+  "Q41",
+  "Q49",
+  "Q50",
+  "Q52"
+ ],
+ "simulacion": {
+  "autotest": {
+   "podemos": {
+    "top": "podemos",
+    "score": 0.893,
+    "margen": 0.055
+   },
+   "fa": {
+    "top": "fa",
+    "score": 0.868,
+    "margen": 0.018
+   },
+   "psoe": {
+    "top": "psoe",
+    "score": 0.807,
+    "margen": 0.1
+   },
+   "pp": {
+    "top": "pp",
+    "score": 0.836,
+    "margen": 0.053
+   },
+   "vox": {
+    "top": "vox",
+    "score": 0.884,
+    "margen": 0.086
+   },
+   "salf": {
+    "top": "salf",
+    "score": 0.893,
+    "margen": 0.082
+   }
+  },
+  "recuperacion_sigma_0.75": {
+   "podemos": 1.0,
+   "fa": 0.974,
+   "psoe": 1.0,
+   "pp": 0.988,
+   "vox": 1.0,
+   "salf": 1.0
+  },
+  "recuperacion_sigma_1.25": {
+   "podemos": 0.985,
+   "fa": 0.928,
+   "psoe": 0.965,
+   "pp": 0.953,
+   "vox": 0.997,
+   "salf": 0.985
+  },
+  "azar_primer_puesto": {
+   "podemos": 0.12,
+   "fa": 0.144,
+   "psoe": 0.282,
+   "pp": 0.196,
+   "vox": 0.123,
+   "salf": 0.135
+  },
+  "usuario_todo_neutral": {
+   "psoe": 0.587,
+   "pp": 0.557,
+   "fa": 0.545,
+   "salf": 0.533,
+   "podemos": 0.53,
+   "vox": 0.529
+  }
+ },
+ "simulacion_rapido": {
+  "autotest": {
+   "podemos": {
+    "top": "podemos",
+    "score": 0.862,
+    "margen": 0.05
+   },
+   "fa": {
+    "top": "fa",
+    "score": 0.846,
+    "margen": 0.022
+   },
+   "psoe": {
+    "top": "psoe",
+    "score": 0.775,
+    "margen": 0.111
+   },
+   "pp": {
+    "top": "pp",
+    "score": 0.8,
+    "margen": 0.066
+   },
+   "vox": {
+    "top": "vox",
+    "score": 0.849,
+    "margen": 0.105
+   },
+   "salf": {
+    "top": "salf",
+    "score": 0.864,
+    "margen": 0.106
+   }
+  },
+  "recuperacion_sigma_0.75": {
+   "podemos": 0.995,
+   "fa": 0.685,
+   "psoe": 0.982,
+   "pp": 0.979,
+   "vox": 0.998,
+   "salf": 0.998
+  },
+  "recuperacion_sigma_1.25": {
+   "podemos": 0.958,
+   "fa": 0.553,
+   "psoe": 0.91,
+   "pp": 0.895,
+   "vox": 0.956,
+   "salf": 0.982
+  },
+  "azar_primer_puesto": {
+   "podemos": 0.135,
+   "fa": 0.122,
+   "psoe": 0.257,
+   "pp": 0.192,
+   "vox": 0.136,
+   "salf": 0.158
+  },
+  "usuario_todo_neutral": {
+   "psoe": 0.585,
+   "pp": 0.562,
+   "fa": 0.536,
+   "vox": 0.533,
+   "salf": 0.522,
+   "podemos": 0.519
+  }
+ },
+ "acuerdo": {
+  "podemos": {
+   "n": 53,
+   "igual": 27,
+   "dif1": 6,
+   "dif2": 0,
+   "nulo_vs_valor": 5,
+   "ambos_nulos": 9,
+   "unica": 6
+  },
+  "fa": {
+   "n": 53,
+   "igual": 23,
+   "dif1": 3,
+   "dif2": 0,
+   "nulo_vs_valor": 9,
+   "ambos_nulos": 13,
+   "unica": 5
+  },
+  "psoe": {
+   "n": 53,
+   "igual": 15,
+   "dif1": 5,
+   "dif2": 0,
+   "nulo_vs_valor": 7,
+   "ambos_nulos": 21,
+   "unica": 5
+  },
+  "pp": {
+   "n": 53,
+   "igual": 23,
+   "dif1": 1,
+   "dif2": 2,
+   "nulo_vs_valor": 1,
+   "ambos_nulos": 22,
+   "unica": 4
+  },
+  "vox": {
+   "n": 53,
+   "igual": 30,
+   "dif1": 1,
+   "dif2": 0,
+   "nulo_vs_valor": 0,
+   "ambos_nulos": 21,
+   "unica": 1
+  },
+  "salf": {
+   "n": 53,
+   "igual": 28,
+   "dif1": 2,
+   "dif2": 0,
+   "nulo_vs_valor": 2,
+   "ambos_nulos": 17,
+   "unica": 4
+  }
+ }
+}

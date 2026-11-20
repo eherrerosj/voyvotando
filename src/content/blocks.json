@@ -1,0 +1,69 @@
+[
+ {
+  "id": 1,
+  "name": "Economía, impuestos y trabajo",
+  "ambitos": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "id": 2,
+  "name": "Vivienda",
+  "ambitos": [
+   5
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Sanidad y educación",
+  "ambitos": [
+   6,
+   7
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Familia, derechos e igualdad",
+  "ambitos": [
+   8,
+   9
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Inmigración y seguridad",
+  "ambitos": [
+   10,
+   11
+  ]
+ },
+ {
+  "id": 6,
+  "name": "Instituciones y territorio",
+  "ambitos": [
+   12,
+   13
+  ]
+ },
+ {
+  "id": 7,
+  "name": "Clima, energía, movilidad y tecnología",
+  "ambitos": [
+   14,
+   15,
+   16,
+   17
+  ]
+ },
+ {
+  "id": 8,
+  "name": "Europa, defensa y memoria",
+  "ambitos": [
+   18,
+   19
+  ]
+ }
+]

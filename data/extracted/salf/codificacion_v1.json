@@ -1,0 +1,1052 @@
+{
+ "party_id": "salf",
+ "coder": "v1-ciego",
+ "codings": [
+  {
+   "id": "Q01",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VIII.6",
+     "page": 8,
+     "quote": "Derogar dos regulaciones empresariales por cada nueva que se apruebe",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VIII.3",
+     "page": 12,
+     "quote": "Permitir licencia de actividad en veinticuatro horas mediante declaración responsable",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VIII.6 deroga dos normas por cada nueva. VIII.3 sustituye la licencia previa por declaración responsable en 24 horas: menos control previo."
+  },
+  {
+   "id": "Q02",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Ninguna unidad propone crear o ampliar empresas públicas en energía, banca o alimentación. GOV reduce entidades públicas de 452 a 300 sin referirse a sectores básicos; no se infiere posición."
+  },
+  {
+   "id": "Q03",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.1",
+     "page": 9,
+     "quote": "Elevar el mínimo anunciado a 15.000 euros en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "No debe presentarse el calendario de mínimos del IRPF como incondicional",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "III.1 eleva el mínimo exento a 35.000 euros y III.3 deflacta tarifas. La rebaja está condicionada a ahorro certificado por AIReF; figura en conclusiones ejecutivas."
+  },
+  {
+   "id": "Q04",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.6",
+     "page": 9,
+     "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "III.6 suprime Patrimonio y el impuesto sobre grandes fortunas: lo contrario de un impuesto anual a la riqueza."
+  },
+  {
+   "id": "Q05",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "GOV",
+     "page": 34,
+     "quote": "reducir secretarías de Estado de treinta y cinco a quince, direcciones generales de 128 a setenta, altos cargos de 823 a 450",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VII.15",
+     "page": 38,
+     "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Los 57.000 M€ atribuidos a duplicidades autonómicas representan el 64,4% de las fuentes.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "GOV recorta cargos y entidades (452 a 300). VII.15 suprime organismos. El cuadro fiscal se apoya en 57.000 M€ de ahorro autonómico, citado en conclusiones."
+  },
+  {
+   "id": "Q06",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.6",
+     "page": 9,
+     "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "III.6 suprime Sucesiones y Donaciones de forma explícita."
+  },
+  {
+   "id": "Q07",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.5",
+     "page": 9,
+     "quote": "Bajar el tipo general al 20% en dos años, aplicar 15% al beneficio reinvertido",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "III.5 baja el tipo general de Sociedades al 20%, con 15% para beneficio reinvertido y 10% para empresas nuevas."
+  },
+  {
+   "id": "Q08",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta propuesta sobre jornada laboral máxima. 'Jornada' solo aparece al homogeneizar retribuciones sanitarias y policiales."
+  },
+  {
+   "id": "Q09",
+   "value": -1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VIII.2",
+     "page": 13,
+     "quote": "Sustituir modalidades por un contrato indefinido único con indemnización creciente entre doce y treinta y tres días.",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VIII.2",
+     "page": 13,
+     "quote": "El programa presenta la aportación como adicional a la indemnización.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VIII.2 crea un contrato único con indemnización creciente desde 12 días; la nota trata el contrato único con menos días como negativo. La mochila del 1,53% es adicional a la indemnización, por eso -1 y no -2."
+  },
+  {
+   "id": "Q10",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "V.3",
+     "page": 15,
+     "quote": "Destinar el 2% del salario a una cuenta individual heredable, con comisión máxima del 0,3%, para menores de 45 años.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V.3 'Capitalización obligatoria para menores de 45 años': cuenta individual obligatoria que complementa la pensión pública."
+  },
+  {
+   "id": "Q11",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "V.5",
+     "page": 16,
+     "quote": "permitir jubilación sin penalización con cuarenta años cotizados",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "II.5",
+     "page": 31,
+     "quote": "permitir jubilación a los sesenta sin penalización",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Alta"
+   },
+   "rationale": "No baja la edad ordinaria general. V.5 permite jubilación sin penalización con 40 años cotizados (carreras largas = +1 según la nota); II.5 lo amplía a policías."
+  },
+  {
+   "id": "Q12",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre topes al alquiler ni sobre la Ley de Vivienda de 2023. El bloque de vivienda de SALF no incluye control de rentas."
+  },
+  {
+   "id": "Q13",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "I.1",
+     "page": 17,
+     "quote": "Eliminar ITP y AJD en primera vivienda; IVA del 4% reintegrado en el IRPF, suelo público sin precio y licencias rápidas.",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "I.5",
+     "page": 18,
+     "quote": "Resolver obras menores en un mes, mayores en dos y grandes desarrollos en tres; silencio positivo",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "El bloque de vivienda combina rebajas fiscales (I.1), cesión de suelo (I.4) y licencias rápidas con silencio positivo (I.5), sin control de precios."
+  },
+  {
+   "id": "Q14",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "I.3",
+     "page": 17,
+     "quote": "Desalojo policial en 48 horas con denuncia y título de propiedad",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "I.3 propone desalojo policial en 48 horas, tal como la afirmación."
+  },
+  {
+   "id": "Q15",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta propuesta sobre expropiar o gravar viviendas vacías. La vivienda de SALF se centra en propiedad, suelo y licencias."
+  },
+  {
+   "id": "Q16",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "I.9",
+     "page": 18,
+     "quote": "registro turístico sin prohibiciones",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "I.9 prevé un registro de alquiler turístico 'sin prohibiciones': rechaza explícitamente prohibir. Aparece de pasada dentro de la ficha de construcción industrializada."
+  },
+  {
+   "id": "Q17",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IV.10",
+     "page": 29,
+     "quote": "Exigir cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "IV.10 exige 5 años de residencia legal y cotización para ayudas y vivienda pública; según la nota equivale a +1. No fija prioridad por nacionalidad."
+  },
+  {
+   "id": "Q18",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI.2",
+     "page": 19,
+     "quote": "superado el plazo, elegir centro público o privado financiado por el SNS",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VI.6",
+     "page": 19,
+     "quote": "Ofrecer cita médica en 48 horas o pagar una consulta privada",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "VI.2 y VI.6 pagan con fondos públicos atención privada al superar plazos de espera: lo contrario según la nota."
+  },
+  {
+   "id": "Q19",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VI.7",
+     "page": 20,
+     "quote": "Reservar tarjeta a españoles y residentes legales con cotización o cobertura, garantizar urgencias para todos",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI.7 reserva la tarjeta sanitaria a españoles y residentes legales y deja urgencias para el resto: -2 según la nota."
+  },
+  {
+   "id": "Q20",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IX.6",
+     "page": 24,
+     "quote": "mediante un cheque utilizable en centros públicos, concertados o privados",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IX.6 propone cheque escolar válido en centros públicos, concertados y privados: -2 según la nota."
+  },
+  {
+   "id": "Q21",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IX.2",
+     "page": 22,
+     "quote": "Garantizar a las familias la exigibilidad de enseñanza en castellano en cualquier territorio",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IX.2 garantiza el derecho exigible a enseñanza en castellano en cualquier territorio, con Alta Inspección sancionadora."
+  },
+  {
+   "id": "Q22",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "Aprobar una ley educativa para veinte años por dos tercios",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "pruebas externas al terminar cada etapa y una selectividad única",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.5",
+     "page": 23,
+     "quote": "Condicionar titulación al aprendizaje",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IX.1 propone una nueva ley educativa con pruebas externas en cada etapa; IX.5 condiciona la titulación. El informe no nombra la LOMLOE: la sustitución se deduce de la nueva ley."
+  },
+  {
+   "id": "Q23",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el aborto. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'."
+  },
+  {
+   "id": "Q24",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VIII.10",
+     "page": 27,
+     "quote": "Extinguir la prestación tras rechazar dos ofertas adecuadas",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VIII.10 extingue el IMV tras rechazar dos ofertas adecuadas."
+  },
+  {
+   "id": "Q25",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre autodeterminación registral. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'."
+  },
+  {
+   "id": "Q26",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la ley de violencia de género ni una ley de violencia intrafamiliar. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'."
+  },
+  {
+   "id": "Q27",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IV.2",
+     "page": 28,
+     "quote": "Derogar la regularización de 2026, revisar individualmente autorizaciones concedidas y prohibir regularizaciones masivas mediante ley orgánica.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IV.2 deroga la regularización de 2026 y prohíbe por ley orgánica regularizaciones masivas: -2 según la nota."
+  },
+  {
+   "id": "Q28",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IV.1",
+     "page": 28,
+     "quote": "Identificar, ordenar y ejecutar expulsiones en 48 horas, cumplir todas las órdenes en noventa días",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "IV.1 promete ejecutar todas las órdenes de expulsión en 90 días e internamiento hasta la salida: expulsión sistemática."
+  },
+  {
+   "id": "Q29",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IV.5",
+     "page": 29,
+     "quote": "exigir diez años de residencia legal, examen, ausencia de antecedentes e independencia de ayudas para la nacionalidad",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IV.6",
+     "page": 29,
+     "quote": "nacionalidad a dobles nacionales por terrorismo, crimen organizado o delitos sexuales graves",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "IV.5 añade examen e independencia de ayudas a 10 años de residencia legal; IV.6 retira la nacionalidad en ciertos delitos."
+  },
+  {
+   "id": "Q30",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "II.2",
+     "page": 30,
+     "quote": "ampliar prisión permanente revisable a violaciones de menores o con lesiones graves y excluir suspensión tras tres condenas",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "II.2 elimina reducciones y permisos, amplía la prisión permanente revisable y excluye la suspensión de pena tras tres condenas (reincidentes)."
+  },
+  {
+   "id": "Q31",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la Ley de Seguridad Ciudadana de 2015."
+  },
+  {
+   "id": "Q32",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre cannabis."
+  },
+  {
+   "id": "Q33",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VII.9",
+     "page": 36,
+     "quote": "Blindar constitucionalmente un CGPJ elegido por jueces, antigüedad o sorteo",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VII.9",
+     "page": 36,
+     "quote": "todavía abiertos entre tres mecanismos distintos",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VII.9 saca al CGPJ de la elección parlamentaria, pero combina elección judicial, antigüedad y sorteo sin fijar la fórmula. No garantiza que los jueces elijan la mayoría: +1."
+  },
+  {
+   "id": "Q34",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona monarquía, Corona ni referéndum sobre la forma de Estado."
+  },
+  {
+   "id": "Q35",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VII.15",
+     "page": 38,
+     "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Eliminar Senado o Tribunal Constitucional, blindar determinadas reglas y alterar obligaciones europeas exige procedimientos adicionales.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VII.15 suprime el Senado. Las conclusiones ejecutivas recogen que exige reforma constitucional."
+  },
+  {
+   "id": "Q36",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IX.2",
+     "page": 22,
+     "quote": "atribuir a la Alta Inspección estatal capacidad sancionadora",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "Fijar contenidos mínimos comunes al cien por cien",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VI.1",
+     "page": 19,
+     "quote": "Compra sanitaria centralizada obligatoria",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Uniforma y centraliza (Alta Inspección sancionadora, currículo común al 100%, compra sanitaria única), sin propuesta explícita de devolver competencias: +1 según la nota."
+  },
+  {
+   "id": "Q37",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.11",
+     "page": 39,
+     "quote": "oponerse a condonaciones de deuda entre administraciones, salvo catástrofes",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Alta",
+    "E": "Alta"
+   },
+   "rationale": "III.11 se opone a condonaciones de deuda autonómica salvo catástrofes: -2 según la nota."
+  },
+  {
+   "id": "Q38",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre plurinacionalidad."
+  },
+  {
+   "id": "Q39",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "VII.3",
+     "page": 35,
+     "quote": "Reformar la Constitución para prohibir amnistías",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VII.3 prohíbe amnistías futuras por reforma constitucional; no pide derogar la ley de 2024. +1 según la nota."
+  },
+  {
+   "id": "Q40",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la energía nuclear. Ámbito 14: 'Faltan metas desarrolladas sobre mix eléctrico, redes, almacenamiento, emisiones, adaptación y gestión del agua'."
+  },
+  {
+   "id": "Q41",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "X.2",
+     "page": 41,
+     "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde, incluida la normativa de restauración",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.2 bloquea el Pacto Verde y la normativa de restauración mediante oposición en el Consejo."
+  },
+  {
+   "id": "Q42",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.7",
+     "page": 40,
+     "quote": "Establecer permanentemente IVA del 4% en electricidad y agua y eliminar el impuesto sobre la producción eléctrica.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "III.7 baja el IVA eléctrico al 4% y suprime el impuesto a la producción eléctrica. No hay rebaja en carburantes: versión parcial."
+  },
+  {
+   "id": "Q43",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona caza ni tauromaquia. Ámbito 19: 'No se desarrolla una política general de cultura, patrimonio, deporte o consumo'."
+  },
+  {
+   "id": "Q44",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "X.2",
+     "page": 41,
+     "quote": "Bloquear Mercosur",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.2 bloquea el acuerdo UE-Mercosur mediante oposición española en el Consejo."
+  },
+  {
+   "id": "Q45",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta gratuidad del transporte. Ámbito 16: 'Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana'. X.6 solo adelanta el pago de la bonificación canaria vigente."
+  },
+  {
+   "id": "Q46",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la prohibición de 2035. La oposición genérica al Pacto Verde (X.2) no se extiende a esta norma por inferencia."
+  },
+  {
+   "id": "Q47",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre impuestos a plataformas tecnológicas. Ámbito 17: 'No se identifica una estrategia propia de IA, computación, innovación tecnológica o ciberseguridad'."
+  },
+  {
+   "id": "Q48",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "III.13",
+     "page": 8,
+     "quote": "Proteger constitucionalmente pagos y cobros en efectivo sin límite, eliminar el tope nacional de 1.000 euros",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "III.13 elimina el tope de 1.000 euros y protege constitucionalmente el efectivo sin límite."
+  },
+  {
+   "id": "Q49",
+   "value": 0,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "X.12",
+     "page": 44,
+     "quote": "Destinar el 2% del PIB a Defensa con prioridad industrial española",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "X.12",
+     "page": 44,
+     "quote": "La OTAN ya confirmó que España alcanzó el 2% en 2025; mantener esa referencia no equivale por sí solo a aumentar gasto.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.12 fija el 2% del PIB. El informe dice que España ya lo alcanzó en 2025 y que mantenerlo no equivale a aumentar gasto. No congela ni recorta: posición intermedia."
+  },
+  {
+   "id": "Q50",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "X.1",
+     "page": 42,
+     "quote": "Convocar un referéndum sobre renegociar la relación con la Unión Europea",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "X.1",
+     "page": 42,
+     "quote": "un segundo referéndum sobre salida",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "III.13",
+     "page": 8,
+     "quote": "impedir el límite europeo",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.1 plantea renegociar la relación con la UE y, si se rechaza, un referéndum de salida. III.13 y X.2 se oponen a normas europeas; las conclusiones citan alterar obligaciones europeas."
+  },
+  {
+   "id": "Q51",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no atribuye a SALF propuesta de salir de la OTAN. X.12 solo fija el 2% del PIB en Defensa."
+  },
+  {
+   "id": "Q52",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la Ley de Memoria Democrática."
+  },
+  {
+   "id": "Q53",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre lenguas cooficiales en el Congreso o en instituciones del Estado. IX.1 solo fija una selectividad única en castellano."
+  }
+ ]
+}

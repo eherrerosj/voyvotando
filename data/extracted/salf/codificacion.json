@@ -1,0 +1,2008 @@
+{
+  "party_id": "salf",
+  "codings": [
+    {
+      "id": "ECO1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VIII.6",
+          "page": 8,
+          "quote": "Derogar dos regulaciones empresariales por cada nueva que se apruebe"
+        },
+        {
+          "unit_id": "I.5",
+          "page": 18,
+          "quote": "silencio positivo, compensación municipal por retraso y reformas sin declaración responsable"
+        },
+        {
+          "unit_id": "VIII.3",
+          "page": 12,
+          "quote": "Permitir licencia de actividad en veinticuatro horas mediante declaración responsable"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VIII.6 deroga dos regulaciones por cada nueva y da validez nacional a lo autorizado en una comunidad. I.5 y VIII.3 añaden silencio positivo y licencias por declaración responsable."
+    },
+    {
+      "id": "ECO2",
+      "value": -1,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "GOV",
+          "page": 34,
+          "quote": "entidades públicas de 452 a trescientas, transfiriendo funciones útiles"
+        },
+        {
+          "unit_id": "",
+          "page": 48,
+          "quote": "Entes, empresas y fundaciones sin función | 3.000"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "No hay propuesta de empresa pública. GOV reduce entidades públicas de 452 a 300 y el cuadro fiscal cuenta 3.000 M€ por suprimir entes, empresas y fundaciones sin función."
+    },
+    {
+      "id": "ECO3",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.2",
+          "page": 41,
+          "quote": "Orientar estas decisiones a proteger producción agraria española"
+        },
+        {
+          "unit_id": "X.12",
+          "page": 44,
+          "quote": "Destinar el 2% del PIB a Defensa con prioridad industrial española"
+        },
+        {
+          "unit_id": "X.11",
+          "page": 44,
+          "quote": "Promover una Comunidad Hispánica voluntaria con libre comercio"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Protección sectorial: bloqueo de Mercosur para proteger la producción agraria y prioridad industrial nacional en defensa. X.11 promueve libre comercio con países hispánicos, así que no es un proteccionismo general."
+    },
+    {
+      "id": "ECO4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna propuesta de participación de los trabajadores en decisiones o beneficios de las empresas."
+    },
+    {
+      "id": "FIS1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "III.1",
+          "page": 9,
+          "quote": "Elevar el mínimo anunciado a 15.000 euros en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030"
+        },
+        {
+          "unit_id": "III.3",
+          "page": 9,
+          "quote": "Actualizar automáticamente tarifas, mínimos y deducciones con el IPC cada año."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "Mínimo exento escalonado hasta 35.000 euros (43.000 M€/año en 2030) y deflactación anual. El calendario queda condicionado al ahorro certificado por AIReF (III.8)."
+    },
+    {
+      "id": "FIS2",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "III.6",
+          "page": 9,
+          "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "III.6 suprime Patrimonio y el impuesto sobre grandes fortunas, junto con Sucesiones y Donaciones (3.500 M€/año)."
+    },
+    {
+      "id": "FIS3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "III.6",
+          "page": 9,
+          "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "III.6 suprime Sucesiones y Donaciones (3.500 M€/año en el paquete con Patrimonio)."
+    },
+    {
+      "id": "FIS4",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "III.14",
+          "page": 11,
+          "quote": "Cobrar a entidades herederas de cajas 4.700 M€ anuales quince años, con tope del 40% del beneficio"
+        },
+        {
+          "unit_id": "III.7",
+          "page": 40,
+          "quote": "eliminar el impuesto sobre la producción eléctrica"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Cobro específico a las entidades herederas de cajas por el rescate, ligado al beneficio. No es un gravamen sobre beneficios extraordinarios y, en energía, III.7 suprime un impuesto."
+    },
+    {
+      "id": "FIS5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "GOV",
+          "page": 34,
+          "quote": "reducir secretarías de Estado de treinta y cinco a quince, direcciones generales de 128 a setenta, altos cargos de 823 a 450"
+        },
+        {
+          "unit_id": "VII.15",
+          "page": 38,
+          "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales, publicidad institucional y subvenciones sindicales y patronales"
+        },
+        {
+          "unit_id": "",
+          "page": 48,
+          "quote": "Duplicidades y redundancias autonómicas | 57.000"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "GOV y VII.15 recortan estructura y organismos. El cuadro fiscal atribuye 57.000 M€ a duplicidades autonómicas y 1.500 M€ a suprimir diputaciones; está en las conclusiones ejecutivas."
+    },
+    {
+      "id": "FIS6",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge IVA cero para alimentos. El único IVA superreducido propuesto es el 4% en electricidad y agua (III.7)."
+    },
+    {
+      "id": "FIS7",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "III.5",
+          "page": 9,
+          "quote": "Bajar el tipo general al 20% en dos años, aplicar 15% al beneficio reinvertido"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "III.5 baja el tipo general de Sociedades al 20%, con 15% para beneficio reinvertido y 10% para empresas nuevas (6.000 M€/año)."
+    },
+    {
+      "id": "EMP1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge propuestas sobre la duración de la jornada laboral."
+    },
+    {
+      "id": "EMP2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "VIII.1",
+          "page": 12,
+          "quote": "eliminación de cotización del trabajador con salario mínimo"
+        }
+      ],
+      "viability": {},
+      "rationale": "No hay propuesta sobre la cuantía del SMI. VIII.1 solo elimina la cotización del trabajador con salario mínimo."
+    },
+    {
+      "id": "EMP3",
+      "value": 0,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VIII.2",
+          "page": 13,
+          "quote": "Sustituir modalidades por un contrato indefinido único con indemnización creciente entre doce y treinta y tres días."
+        },
+        {
+          "unit_id": "VIII.2",
+          "page": 13,
+          "quote": "El programa presenta la aportación como adicional a la indemnización."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Contrato único con indemnización creciente de 12 a 33 días más una mochila del 1,53% presentada como adicional. Reordena el despido sin encarecerlo ni abaratarlo de forma inequívoca."
+    },
+    {
+      "id": "EMP4",
+      "value": -1,
+      "confidence": "alta",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "VII.15",
+          "page": 38,
+          "quote": "publicidad institucional y subvenciones sindicales y patronales"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VII.15 suprime las subvenciones sindicales y patronales. El informe no recoge propuestas sobre negociación colectiva."
+    },
+    {
+      "id": "EMP5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "III.4",
+          "page": 12,
+          "quote": "Suprimir permanentemente toda cuota obligatoria de autónomos"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "III.4 y VIII.3 eliminan la cuota para todos los autónomos (12.000 M€/año), lo que incluye a los de pocos ingresos. V.9 deja abierta qué protección conserva quien no cotice."
+    },
+    {
+      "id": "PEN1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V.1",
+          "page": 15,
+          "quote": "Blindar en la Constitución la actualización con el IPC y la prohibición de recortes para las pensiones actuales."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "V.1 propone blindar constitucionalmente la revalorización con el IPC."
+    },
+    {
+      "id": "PEN2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V.3",
+          "page": 15,
+          "quote": "Destinar el 2% del salario a una cuenta individual heredable, con comisión máxima del 0,3%, para menores de 45 años."
+        },
+        {
+          "unit_id": "VIII.1",
+          "page": 12,
+          "quote": "traslado del 0,9% a cuentas individuales"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "V.3 crea una capitalización obligatoria del 2% del salario para menores de 45 años (transición de 6.000 M€/año) y VIII.1 desvía el 0,9% a cuentas individuales."
+    },
+    {
+      "id": "PEN3",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "V.5",
+          "page": 16,
+          "quote": "permitir jubilación sin penalización con cuarenta años cotizados."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Alta"
+      },
+      "rationale": "Jubilación sin penalización solo con 40 años cotizados, y a los sesenta para policías y vigilantes (II.5, II.14). A la vez amplía la jubilación activa compatible con el 100% de la pensión."
+    },
+    {
+      "id": "PEN4",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "V.6",
+          "page": 16,
+          "quote": "Garantizar al menos 1.000 euros mensuales en catorce pagas tras 35 años de cotización."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Alta"
+      },
+      "rationale": "Sube la mínima contributiva para carreras de 35 años (2.000 M€/año). No propone subir las no contributivas, y IV.10 exige cinco años de residencia legal y cotización para acceder a ellas."
+    },
+    {
+      "id": "VIV1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "No hay unidad sobre limitación de alquileres. Las medidas de alquiler son un seguro público de impago (I.8) y desalojo rápido por impago (I.3)."
+    },
+    {
+      "id": "VIV2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "I.1",
+          "page": 17,
+          "quote": "Eliminar ITP y AJD en primera vivienda; IVA del 4% reintegrado en el IRPF, suelo público sin precio y licencias rápidas."
+        },
+        {
+          "unit_id": "I.4",
+          "page": 17,
+          "quote": "Sacar a concurso en doce meses todo el suelo de Sareb y del Estado"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "El bloque I combina rebajas fiscales (I.1), suelo público (I.4), plazos de licencia y silencio positivo (I.5) y construcción industrializada (I.9). No hay control de precios."
+    },
+    {
+      "id": "VIV3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "I.3",
+          "page": 17,
+          "quote": "Desalojo policial en 48 horas con denuncia y título de propiedad"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "I.3 propone desalojo policial en 48 horas y lanzamiento por impago en 30 días."
+    },
+    {
+      "id": "VIV4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "No hay propuesta de expropiación o uso forzoso de viviendas vacías. I.6 grava al 25% las SOCIMI con más de cien viviendas, que es una medida fiscal."
+    },
+    {
+      "id": "VIV5",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "I.9",
+          "page": 18,
+          "quote": "registro turístico sin prohibiciones."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "I.9 plantea un registro de alquiler turístico sin prohibiciones."
+    },
+    {
+      "id": "VIV6",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IV.10",
+          "page": 29,
+          "quote": "Exigir cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "El criterio es residencia legal y cotización, no nacionalidad. Restringe el acceso de extranjeros recientes a vivienda pública y ayudas al alquiler."
+    },
+    {
+      "id": "VIV7",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "I.4",
+          "page": 17,
+          "quote": "cedido sin precio, para vivienda protegida en propiedad a precio tasado; 100.000 viviendas en obra en 2030."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "El modelo es vivienda protegida en propiedad sobre suelo público (100.000 en obra en 2030). El informe no recoge un parque público en alquiler."
+    },
+    {
+      "id": "SAN1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VI.2",
+          "page": 19,
+          "quote": "superado el plazo, elegir centro público o privado financiado por el SNS."
+        },
+        {
+          "unit_id": "VI.6",
+          "page": 19,
+          "quote": "Ofrecer cita médica en 48 horas o pagar una consulta privada"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "VI.2 y VI.6 financian atención privada cuando se superan los plazos máximos. Es libre elección con centros privados."
+    },
+    {
+      "id": "SAN2",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VI.7",
+          "page": 20,
+          "quote": "Reservar tarjeta a españoles y residentes legales con cotización o cobertura, garantizar urgencias para todos"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VI.7 limita la tarjeta sanitaria a españoles y residentes legales con cotización o cobertura y deja las urgencias para todos."
+    },
+    {
+      "id": "SAN3",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VI.10",
+          "page": 21,
+          "quote": "Disponer de un psicólogo clínico por cada 10.000 habitantes en centros de salud"
+        },
+        {
+          "unit_id": "VI.9",
+          "page": 21,
+          "quote": "Eliminar el copago en farmacia para todos los menores de tres años en España."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Amplía salud mental en primaria (VI.10) y suprime copagos farmacéuticos (VI.8, VI.9). No incluye dentista ni óptica."
+    },
+    {
+      "id": "SAN4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre la ley de eutanasia."
+    },
+    {
+      "id": "EDU1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IX.6",
+          "page": 24,
+          "quote": "Asignar igual financiación por estudiante mediante un cheque utilizable en centros públicos, concertados o privados"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "IX.6 propone un cheque escolar igual por alumno válido en centros públicos, concertados o privados."
+    },
+    {
+      "id": "EDU2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IX.2",
+          "page": 22,
+          "quote": "Garantizar a las familias la exigibilidad de enseñanza en castellano en cualquier territorio"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "IX.2 garantiza la enseñanza en castellano en cualquier territorio y da poder sancionador a la Alta Inspección."
+    },
+    {
+      "id": "EDU3",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IX.1",
+          "page": 22,
+          "quote": "Aprobar una ley educativa para veinte años por dos tercios"
+        },
+        {
+          "unit_id": "IX.1",
+          "page": 22,
+          "quote": "pruebas externas al terminar cada etapa y una selectividad única"
+        },
+        {
+          "unit_id": "IX.5",
+          "page": 23,
+          "quote": "Condicionar titulación al aprendizaje"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone una nueva ley educativa con pruebas externas por etapa y titulación condicionada al aprendizaje. No nombra la LOMLOE ni la repetición."
+    },
+    {
+      "id": "EDU4",
+      "value": 1,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "II.8",
+          "page": 42,
+          "quote": "matrícula gratuita en universidad y FP."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "La matrícula gratuita solo se ofrece a quienes completen el servicio voluntario (II.8). IX.9 añade becas de 2.000 euros en FP superior."
+    },
+    {
+      "id": "EDU5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "IX.7",
+          "page": 24,
+          "quote": "exigir neutralidad ideológica en las aulas"
+        }
+      ],
+      "viability": {},
+      "rationale": "IX.7 exige neutralidad ideológica y revisión académica de libros, sin un mecanismo de consentimiento o veto de los padres."
+    },
+    {
+      "id": "FAM1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "III.2",
+          "page": 26,
+          "quote": "No es una transferencia de 5.000 euros"
+        }
+      ],
+      "viability": {},
+      "rationale": "III.2 eleva el mínimo de IRPF por hijo. El informe precisa: 'No es una transferencia de 5.000 euros'. No hay prestación universal por hijo."
+    },
+    {
+      "id": "FAM2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre el aborto."
+    },
+    {
+      "id": "FAM3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 26,
+          "quote": "No desarrolla un sistema general de dependencia, cuidados de larga duración, permisos o educación infantil comparable en detalle a sus bloques principales."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'No desarrolla un sistema general de dependencia, cuidados de larga duración, permisos o educación infantil comparable en detalle a sus bloques principales.'"
+    },
+    {
+      "id": "FAM4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 26,
+          "quote": "No desarrolla un sistema general de dependencia, cuidados de larga duración, permisos o educación infantil comparable en detalle a sus bloques principales."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'No desarrolla un sistema general de dependencia, cuidados de larga duración, permisos o educación infantil comparable en detalle a sus bloques principales.'"
+    },
+    {
+      "id": "SOC1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VIII.10",
+          "page": 27,
+          "quote": "Extinguir la prestación tras rechazar dos ofertas adecuadas"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VIII.10 extingue el IMV tras rechazar dos ofertas adecuadas y retira la prestación 50 céntimos por euro ganado."
+    },
+    {
+      "id": "SOC2",
+      "value": -2,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "VIII.10",
+          "page": 27,
+          "quote": "Extinguir la prestación tras rechazar dos ofertas adecuadas y rediseñar el complemento salarial"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Mantiene un IMV condicionado a aceptar empleo, con extinción tras dos rechazos. Es lo contrario de una renta incondicional."
+    },
+    {
+      "id": "SOC3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre la ley trans."
+    },
+    {
+      "id": "SOC4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre la ley de violencia de género."
+    },
+    {
+      "id": "SOC5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 27,
+          "quote": "No se identifica un diseño integral de discapacidad, dependencia o igualdad"
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad; no se asigna una nota negativa por falta de una propuesta formulada.'"
+    },
+    {
+      "id": "INM1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IV.2",
+          "page": 28,
+          "quote": "Derogar la regularización de 2026, revisar individualmente autorizaciones concedidas y prohibir regularizaciones masivas mediante ley orgánica."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "IV.2 deroga la regularización de 2026, revisa las autorizaciones y prohíbe por ley orgánica las regularizaciones masivas."
+    },
+    {
+      "id": "INM2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IV.1",
+          "page": 28,
+          "quote": "Identificar, ordenar y ejecutar expulsiones en 48 horas, cumplir todas las órdenes en noventa días"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "IV.1 propone ejecutar expulsiones en 48 horas y cumplir todas las órdenes en 90 días, con internamiento hasta la salida."
+    },
+    {
+      "id": "INM3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IV.4",
+          "page": 28,
+          "quote": "exigir para los demás contrato previo y cupo anual votado en el Congreso."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "IV.4 exige contrato previo y cupo anual votado en el Congreso; IV.5 da prioridad en cupos a Hispanoamérica."
+    },
+    {
+      "id": "INM4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IV.9",
+          "page": 27,
+          "quote": "Prohibir burka y niqab en el espacio público."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "IV.9 prohíbe burka y niqab en el espacio público."
+    },
+    {
+      "id": "INM5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IV.5",
+          "page": 29,
+          "quote": "exigir diez años de residencia legal, examen, ausencia de antecedentes e independencia de ayudas para la nacionalidad"
+        },
+        {
+          "unit_id": "IV.6",
+          "page": 29,
+          "quote": "nacionalidad a dobles nacionales por terrorismo, crimen organizado o delitos sexuales graves."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "IV.5 endurece los requisitos de nacionalidad y IV.6 añade su pérdida para dobles nacionales por delitos graves."
+    },
+    {
+      "id": "INM6",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IV.4",
+          "page": 28,
+          "quote": "Suspender durante la legislatura inmigración desde países que no colaboren"
+        },
+        {
+          "unit_id": "IV.1",
+          "page": 28,
+          "quote": "SALF: 300 M€/año, compensados en acogida."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "No hay propuesta de más acogida ni de vías seguras. IV.4 plantea una moratoria por países y IV.1 se financia con menos gasto de acogida; el informe recuerda que la moratoria debe distinguir asilo."
+    },
+    {
+      "id": "SEG1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "II.2",
+          "page": 30,
+          "quote": "Eliminar reducciones y permisos para determinados delitos, ampliar prisión permanente revisable a violaciones de menores o con lesiones graves y excluir suspensión tras tres condenas."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "II.2 endurece el cumplimiento y la reincidencia; VII.2 exige cumplimiento íntegro en corrupción."
+    },
+    {
+      "id": "SEG2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre la Ley de Seguridad Ciudadana."
+    },
+    {
+      "id": "SEG3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "II.5",
+          "page": 31,
+          "quote": "Equiparar retribuciones con Mossos en dos años, reconocer profesión de riesgo"
+        },
+        {
+          "unit_id": "II.12",
+          "page": 32,
+          "quote": "Ampliar UCO a 1.800 y UDEF a 1.000 agentes"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "II.5 equipara salarios de Policía y Guardia Civil con Mossos y reconoce profesión de riesgo; II.12 amplía unidades de investigación (400 M€/año)."
+    },
+    {
+      "id": "SEG4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "II.1",
+          "page": 30,
+          "quote": "Construir una macrocárcel para los delitos enumerados, con régimen sin permisos, tercer grado ni teléfono"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "II.1 propone una macrocárcel de máxima seguridad de 3.000 M€ pagada con decomisos."
+    },
+    {
+      "id": "INS1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VII.9",
+          "page": 36,
+          "quote": "Blindar constitucionalmente un CGPJ elegido por jueces, antigüedad o sorteo"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VII.9 propone un CGPJ elegido por jueces, por antigüedad o por sorteo, blindado en la Constitución."
+    },
+    {
+      "id": "INS2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre monarquía o república."
+    },
+    {
+      "id": "INS3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "VII.1",
+          "page": 34,
+          "quote": "Eliminar el límite temporal para perseguir cohecho, malversación, prevaricación, tráfico de influencias y financiación ilegal"
+        },
+        {
+          "unit_id": "VII.4",
+          "page": 34,
+          "quote": "Imponer una responsabilidad civil equivalente al triple de lo sustraído"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "El bloque VII (Corrupción) incluye imprescriptibilidad (VII.1), cumplimiento íntegro sin indulto (VII.2) y triple restitución con inhabilitación (VII.4)."
+    },
+    {
+      "id": "INS4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna propuesta de reforma de la ley electoral."
+    },
+    {
+      "id": "INS5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "GOV",
+          "page": 34,
+          "quote": "altos cargos de 823 a 450, asesores a cuatrocientos"
+        },
+        {
+          "unit_id": "VII.15",
+          "page": 38,
+          "quote": "bajar asesores del Gobierno de 1.255 a cuatrocientos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "GOV recorta altos cargos y asesores y VII.15 limita a quince años los cargos remunerados; figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "INS6",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VII.11",
+          "page": 36,
+          "quote": "Suprimir los aforamientos para que sus actuales beneficiarios sean juzgados por los órganos ordinariamente competentes."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VII.11 suprime los aforamientos y presenta la reforma constitucional el primer día de gobierno."
+    },
+    {
+      "id": "TER1",
+      "value": 1,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "IX.1",
+          "page": 22,
+          "quote": "Fijar contenidos mínimos comunes al cien por cien"
+        },
+        {
+          "unit_id": "VI.1",
+          "page": 19,
+          "quote": "Establecer una central única con precios netos públicos"
+        },
+        {
+          "unit_id": "",
+          "page": 48,
+          "quote": "Duplicidades y redundancias autonómicas | 57.000"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "No propone devolver competencias de forma expresa, pero uniformiza currículo y selectividad (IX.1), compras sanitarias (VI.1) e historia clínica (VI.4) y cuenta 57.000 M€ de duplicidades autonómicas."
+    },
+    {
+      "id": "TER2",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "VII.3",
+          "page": 35,
+          "quote": "Reformar la Constitución para prohibir amnistías y limitar indultos"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VII.3 prohíbe constitucionalmente las amnistías. El informe no recoge una propuesta expresa de derogar la ley vigente."
+    },
+    {
+      "id": "TER3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre referendos de independencia."
+    },
+    {
+      "id": "TER4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre un Estado plurinacional o federal."
+    },
+    {
+      "id": "TER5",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "III.11",
+          "page": 39,
+          "quote": "Defender criterios territoriales objetivos, iguales, solidarios y transparentes y oponerse a condonaciones de deuda entre administraciones, salvo catástrofes."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Alta",
+        "E": "Alta"
+      },
+      "rationale": "Criterios iguales y rechazo a condonaciones. El informe señala que no fija fórmula ni trata regímenes forales, y X.5 y X.6 amplían ventajas fiscales en Ceuta, Melilla y Canarias."
+    },
+    {
+      "id": "ENE1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 40,
+          "quote": "Faltan metas desarrolladas sobre mix eléctrico, redes, almacenamiento, emisiones, adaptación y gestión del agua"
+        }
+      ],
+      "viability": {},
+      "rationale": "No hay posición sobre nucleares. El informe dice: 'Faltan metas desarrolladas sobre mix eléctrico, redes, almacenamiento, emisiones, adaptación y gestión del agua'."
+    },
+    {
+      "id": "ENE2",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.2",
+          "page": 41,
+          "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde, incluida la normativa de restauración"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.2 propone bloquear el Pacto Verde y la normativa de restauración para reducir restricciones. El informe señala que no hay metas propias de emisiones o mix eléctrico."
+    },
+    {
+      "id": "ENE3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.2",
+          "page": 41,
+          "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde, incluida la normativa de restauración"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.2 propone bloquear el Pacto Verde en el Consejo. El informe no menciona la Agenda 2030."
+    },
+    {
+      "id": "ENE4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna propuesta de empresa pública de energía."
+    },
+    {
+      "id": "ENE5",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "III.7",
+          "page": 40,
+          "quote": "Establecer permanentemente IVA del 4% en electricidad y agua y eliminar el impuesto sobre la producción eléctrica."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "Rebaja explícita de impuestos a la electricidad (2.600 M€/año). No menciona carburantes."
+    },
+    {
+      "id": "AGR1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.2",
+          "page": 41,
+          "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.2 propone bloquear Mercosur mediante oposición española en el Consejo."
+    },
+    {
+      "id": "AGR2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 41,
+          "quote": "No se identifica un plan nacional detallado de pesca, explotaciones, regadío o despoblación"
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'No se identifica un plan nacional detallado de pesca, explotaciones, regadío o despoblación'."
+    },
+    {
+      "id": "AGR3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre caza o tauromaquia."
+    },
+    {
+      "id": "AGR4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "X.2 se opone al recorte de la PAC en conjunto, sin criterio de reparto entre explotaciones pequeñas y grandes."
+    },
+    {
+      "id": "INF1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 47,
+          "quote": "Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana.' X.6 solo acelera el pago de la bonificación canaria ya existente."
+    },
+    {
+      "id": "INF2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 47,
+          "quote": "Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana.'"
+    },
+    {
+      "id": "INF3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la prohibición de 2035 ni el automóvil. El bloqueo del Pacto Verde (X.2) es solo un indicio indirecto."
+    },
+    {
+      "id": "TEC1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre menores y redes sociales."
+    },
+    {
+      "id": "TEC2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre fiscalidad o regulación de plataformas."
+    },
+    {
+      "id": "TEC3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 47,
+          "quote": "No se identifica una estrategia propia de IA, computación, innovación tecnológica o ciberseguridad en este contrato."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'No se identifica una estrategia propia de IA, computación, innovación tecnológica o ciberseguridad en este contrato.' Hay digitalización transversal (II.9, VI.4, VII.13-14, VIII.9), sin IA."
+    },
+    {
+      "id": "TEC4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "III.13",
+          "page": 8,
+          "quote": "Proteger constitucionalmente pagos y cobros en efectivo sin límite, eliminar el tope nacional de 1.000 euros, impedir el límite europeo"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "III.13 blinda en la Constitución el pago en efectivo sin límite y rechaza los topes nacional y europeo."
+    },
+    {
+      "id": "EXT1",
+      "value": 0,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.12",
+          "page": 44,
+          "quote": "Destinar el 2% del PIB a Defensa con prioridad industrial española"
+        },
+        {
+          "unit_id": "X.12",
+          "page": 44,
+          "quote": "La OTAN ya confirmó que España alcanzó el 2% en 2025; mantener esa referencia no equivale por sí solo a aumentar gasto."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Fija el 2% del PIB, nivel ya alcanzado en 2025 según el informe. Es mantenimiento, sin compromiso de subir hacia objetivos superiores."
+    },
+    {
+      "id": "EXT2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre Ucrania."
+    },
+    {
+      "id": "EXT3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre Israel."
+    },
+    {
+      "id": "EXT4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "X.1",
+          "page": 42,
+          "quote": "Convocar un referéndum sobre renegociar la relación con la Unión Europea y, si la propuesta es rechazada"
+        },
+        {
+          "unit_id": "IV.3",
+          "page": 28,
+          "quote": "vetar cualquier acuerdo europeo que no lo exija."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.1 plantea referéndum de renegociación y otro de salida; X.2, IV.3 y III.13 buscan vetar o desplazar normas europeas. Figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "EXT5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre la permanencia en la OTAN; X.12 fija el gasto en el 2% del PIB."
+    },
+    {
+      "id": "EXT6",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.10",
+          "page": 44,
+          "quote": "Retirar el apoyo expresado por el Gobierno español en 2022 a la posición marroquí sobre el Sáhara y volver a la referencia de Naciones Unidas."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Retira el apoyo de 2022 a la posición marroquí y vuelve a la referencia de Naciones Unidas. El informe no usa la palabra autodeterminación."
+    },
+    {
+      "id": "CUL1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no recoge ninguna posición sobre la Ley de Memoria Democrática."
+    },
+    {
+      "id": "CUL2",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "IX.1",
+          "page": 22,
+          "quote": "una selectividad única, en castellano, para todo el país."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Indicio indirecto: prioriza el castellano en la selectividad estatal (IX.1) y en la enseñanza (IX.2). El informe no trata el uso de lenguas cooficiales en el Congreso."
+    },
+    {
+      "id": "CUL3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona RTVE. VII.15 suprime la publicidad institucional, que es otra materia."
+    },
+    {
+      "id": "CUL4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "",
+          "page": 46,
+          "quote": "No se desarrolla una política general de cultura, patrimonio, deporte o consumo"
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe dice: 'No se desarrolla una política general de cultura, patrimonio, deporte o consumo, por lo que no se completan esos ámbitos con supuestos.'"
+    }
+  ],
+  "extra_statements": [
+    {
+      "id": "X_salf_1",
+      "ambito": 12,
+      "texto": "Habría que suprimir el Tribunal Constitucional y pasar el control de las leyes a una sala especial del Tribunal Supremo.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "VII.8",
+          "page": 35,
+          "quote": "Suprimir mediante reforma constitucional el Tribunal Constitucional y transferir el control de leyes y actuaciones públicas a una sala especial del Supremo."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VII.8 suprime el TC por reforma constitucional; figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "X_salf_2",
+      "ambito": 12,
+      "texto": "Habría que suprimir el Senado y el Consejo de Estado, aunque para ello haga falta reformar la Constitución.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "VII.15",
+          "page": 38,
+          "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "VII.15 suprime Senado y Consejo de Estado; el informe recuerda que tienen base constitucional."
+    },
+    {
+      "id": "X_salf_3",
+      "ambito": 2,
+      "texto": "Cualquier subida de impuestos debería necesitar, por mandato constitucional, el voto de tres quintos del Congreso.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "III.10",
+          "page": 10,
+          "quote": "Reformar la Constitución para exigir tres quintos del Congreso a toda subida tributaria"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "III.10 exige tres quintos para toda subida tributaria y una cuenta fiscal individual anual."
+    },
+    {
+      "id": "X_salf_4",
+      "ambito": 2,
+      "texto": "Las rebajas de impuestos solo deberían aplicarse cuando un organismo fiscal independiente certifique un ahorro estructural equivalente en el gasto.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "III.8",
+          "page": 10,
+          "quote": "Condicionar cada rebaja a ahorro estructural certificado por AIReF"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Baja"
+      },
+      "rationale": "III.8 condiciona cada rebaja a ahorro certificado por AIReF; es una de las conclusiones ejecutivas."
+    },
+    {
+      "id": "X_salf_5",
+      "ambito": 2,
+      "texto": "Habría que eliminar el IBI y que los ayuntamientos compensen la pérdida con ahorro, sin subir otros impuestos.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "I.10",
+          "page": 11,
+          "quote": "Eliminar el IBI para todos, sin compensación estatal ni otros impuestos; los ayuntamientos absorberían la pérdida mediante ahorro."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "I.10 suprime el IBI (13.400 M€/año de ingresos municipales) sin compensación."
+    },
+    {
+      "id": "X_salf_6",
+      "ambito": 2,
+      "texto": "Las entidades herederas de las cajas rescatadas deberían devolver al Estado el dinero del rescate bancario con pagos anuales.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "III.14",
+          "page": 11,
+          "quote": "Cobrar a entidades herederas de cajas 4.700 M€ anuales quince años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "III.14 cobra 4.700 M€ anuales durante quince años, con tope del 40% del beneficio."
+    },
+    {
+      "id": "X_salf_7",
+      "ambito": 18,
+      "texto": "España debería celebrar un referéndum para renegociar su relación con la Unión Europea y, si fracasa, otro sobre la salida.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "X.1",
+          "page": 42,
+          "quote": "Convocar un referéndum sobre renegociar la relación con la Unión Europea y, si la propuesta es rechazada"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.1 encadena un referéndum de renegociación y otro de salida si las instituciones europeas rechazan la propuesta."
+    },
+    {
+      "id": "X_salf_8",
+      "ambito": 11,
+      "texto": "Quien se defienda de una intrusión forzada en su casa o negocio debería tener presunción de legítima defensa, incluso con armas legales.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "II.10",
+          "page": 32,
+          "quote": "Presunción de defensa legítima ante intrusión forzada o nocturna, incluso con armas legales"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "II.10 traslada a la acusación la carga de probar el exceso y facilita licencias de defensa."
+    },
+    {
+      "id": "X_salf_9",
+      "ambito": 18,
+      "texto": "El Estado debería ofrecer un servicio militar o civil voluntario bien pagado, con ventajas fiscales y en oposiciones al terminarlo.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "II.7",
+          "page": 42,
+          "quote": "Ofrecer 30.000 plazas anuales, de seis a doce meses para personas de 18 a 30 años, con 1.600 euros netos mensuales"
+        },
+        {
+          "unit_id": "II.8",
+          "page": 42,
+          "quote": "mínimo exento de IRPF de 50.000 euros durante diez años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "II.7 y II.8 crean el servicio voluntario (1.200 M€/año) con beneficios fiscales posteriores (250 M€/año)."
+    },
+    {
+      "id": "X_salf_10",
+      "ambito": 13,
+      "texto": "Ceuta, Melilla y Canarias deberían tener impuestos mucho más bajos que el resto de España para atraer empleo e inversión.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.5",
+          "page": 39,
+          "quote": "Eliminar IRPF para residentes, fijar Sociedades cero durante diez años para empresas que creen empleo"
+        },
+        {
+          "unit_id": "X.6",
+          "page": 39,
+          "quote": "deducción de mil euros por contribuyente residente en Canarias"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.5 y X.6 suprimen o reducen IRPF y Sociedades en Ceuta, Melilla y Canarias (unos 280 y 880 M€/año)."
+    },
+    {
+      "id": "X_salf_11",
+      "ambito": 18,
+      "texto": "España debería imponer un bloqueo comercial total a Marruecos si este usa la migración como presión o bloquea un puerto español.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X.4",
+          "page": 42,
+          "quote": "Aplicar bloqueo comercial total si Marruecos bloquea un puerto español o utiliza migración como ataque híbrido."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "X.4 añade reivindicar el Rif y denunciar internacionalmente a Marruecos."
+    },
+    {
+      "id": "X_salf_12",
+      "ambito": 11,
+      "texto": "Habría que prohibir la financiación extranjera de los lugares de culto y expulsar a los imanes que prediquen contra la Constitución.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IV.8",
+          "page": 33,
+          "quote": "impedir financiación extranjera del culto, registrar donaciones y cerrar centros incumplidores; expulsar imanes que prediquen contra la Constitución."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "IV.8 y X.3 añaden ilegalizar a los Hermanos Musulmanes e incluirlos en listas terroristas."
+    }
+  ],
+  "salience_by_ambito": [
+    {
+      "ambito": 1,
+      "salience": "media",
+      "reason": "2 unidades (VIII.6, III.13); sin bloque propio en el contrato."
+    },
+    {
+      "ambito": 2,
+      "salience": "alta",
+      "reason": "11 unidades; bloque III Impuestos; tres conclusiones ejecutivas (ahorro territorial, regla AIReF, mínimos del IRPF)."
+    },
+    {
+      "ambito": 3,
+      "salience": "alta",
+      "reason": "10 unidades; bloque VIII Empleo; cuota cero de autónomos de 12.000 M€/año."
+    },
+    {
+      "ambito": 4,
+      "salience": "alta",
+      "reason": "7 unidades; bloque V Pensiones."
+    },
+    {
+      "ambito": 5,
+      "salience": "alta",
+      "reason": "8 unidades; bloque I Vivienda, primero del contrato; primer paquete de negociación con PP/Vox."
+    },
+    {
+      "ambito": 6,
+      "salience": "alta",
+      "reason": "11 unidades; bloque VI Sanidad."
+    },
+    {
+      "ambito": 7,
+      "salience": "alta",
+      "reason": "10 unidades; bloque IX Educación; sin estrategia de I+D."
+    },
+    {
+      "ambito": 8,
+      "salience": "media",
+      "reason": "2 unidades (III.2, VI.12); sin desarrollo de dependencia, permisos ni educación infantil."
+    },
+    {
+      "ambito": 9,
+      "salience": "media",
+      "reason": "2 unidades (VIII.10, IV.9); sin diseño integral de igualdad o dependencia."
+    },
+    {
+      "ambito": 10,
+      "salience": "alta",
+      "reason": "8 unidades; bloque IV Inmigración; control migratorio en la matriz de apoyos."
+    },
+    {
+      "ambito": 11,
+      "salience": "alta",
+      "reason": "16 unidades; bloque II Seguridad; macrocárcel de 3.000 M€."
+    },
+    {
+      "ambito": 12,
+      "salience": "alta",
+      "reason": "17 unidades; bloque VII Corrupción más GOV y PEN; dos conclusiones ejecutivas (agenda institucional, cláusula personal)."
+    },
+    {
+      "ambito": 13,
+      "salience": "alta",
+      "reason": "3 unidades; conclusión ejecutiva: 57.000 M€ de duplicidades autonómicas son el 64,4% de las fuentes."
+    },
+    {
+      "ambito": 14,
+      "salience": "media",
+      "reason": "1 unidad (III.7); faltan metas de mix eléctrico, redes y emisiones."
+    },
+    {
+      "ambito": 15,
+      "salience": "media",
+      "reason": "1 unidad (X.2) sobre Mercosur, PAC y Pacto Verde."
+    },
+    {
+      "ambito": 16,
+      "salience": "baja",
+      "reason": "Sin unidades; solo X.6 y X.7 de pasada."
+    },
+    {
+      "ambito": 17,
+      "salience": "baja",
+      "reason": "Sin unidades; digitalización transversal en II.9, VI.4, VII.13-14 y VIII.9."
+    },
+    {
+      "ambito": 18,
+      "salience": "alta",
+      "reason": "11 unidades; bloque X Geopolítica; conclusión ejecutiva sobre obligaciones europeas."
+    },
+    {
+      "ambito": 19,
+      "salience": "media",
+      "reason": "1 unidad (X.13) sobre financiación extranjera de medios y organizaciones."
+    }
+  ]
+}

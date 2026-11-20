@@ -1,0 +1,131 @@
+---
+import Base from "../layouts/Base.astro";
+import { META, PARTIES, minutesFor } from "../lib/data";
+
+const fmtDate = (iso: string) => new Date(iso + "T12:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "long" });
+const steps = [
+  { n: "01", t: `${META.questions} afirmaciones, escala de 5 puntos`, d: "De «muy en desacuerdo» a «muy de acuerdo», con la opción de no responder. Antes de empezar puedes elegir hasta 3 temas prioritarios, que pesan ×2,0, ×1,5 y ×1,2." },
+  { n: "02", t: "Posiciones sacadas de 6 informes", d: `Cada posición de partido sale de un informe de evaluación de su programa, con cita literal y página. Dos codificaciones hechas por separado con IA coinciden en el 88% de los casos, y una persona revisa las dudosas.` },
+  { n: "03", t: "Proximidad y dirección, a partes iguales", d: "Por pregunta, el acuerdo mezcla lo cerca que estáis en la escala y si estáis del mismo lado. Si un partido no se ha pronunciado sobre un tema, ese tema no cuenta para él." },
+  { n: "04", t: "Margen de error y empate técnico", d: "Repetimos el cálculo 1.000 veces remuestreando tus respuestas. Si dos partidos no se separan con claridad, lo decimos." },
+  { n: "05", t: "Tus respuestas no salen de tu móvil", d: "Sin registro, sin cookies y sin servidor. El cálculo se hace en tu navegador. El código es abierto, así que cualquiera puede comprobarlo." },
+];
+---
+<Base title="Voy Votando: ¿con qué partido coinciden tus ideas?">
+  <section class="hero">
+    <div class="wrap">
+      <p class="kicker">Elecciones generales · domingo 29 de noviembre de 2026</p>
+      <h1 class="display hero__title">¿Con quién <span class="outline">coincides</span> el 29N?</h1>
+      <p class="hero__lead">Responde {META.questions} afirmaciones sobre impuestos, vivienda, sanidad, inmigración o Europa. Te enseñamos con qué programa coinciden más tus ideas, por qué, y qué podría aprobarse de lo que compartes.</p>
+      <div class="hero__cta">
+        <a class="btn btn--solid" href="/test">Empezar ({META.questions} preguntas) <span class="arrow" aria-hidden="true">→</span></a>
+        <a class="btn" href="/test?modo=rapido">Modo rápido ({META.fast}) <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+      <ul class="counters" aria-label="El test en cifras">
+        <li><strong class="display">{META.questions}</strong><span>preguntas</span></li>
+        <li><strong class="display">{minutesFor(META.questions)}</strong><span>minutos</span></li>
+        <li><strong class="display">{META.parties}</strong><span>partidos</span></li>
+        <li><strong class="display">{META.units}</strong><span>propuestas analizadas</span></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--orange" id="como-funciona">
+    <div class="wrap">
+      <p class="kicker">Cómo funciona</p>
+      <h2 class="display h2">Metodología <span class="outline">a la vista</span></h2>
+      <ol class="steps">
+        {steps.map((s) => (
+          <li>
+            <span class="steps__n display">{s.n}</span>
+            <h3 class="serif">{s.t}</h3>
+            <p>{s.d}</p>
+          </li>
+        ))}
+      </ol>
+      <a class="btn" href="/metodologia">Fórmula completa <span class="arrow" aria-hidden="true">→</span></a>
+    </div>
+  </section>
+
+  <section class="section" id="datos">
+    <div class="wrap">
+      <p class="kicker">De dónde salen los datos</p>
+      <h2 class="display h2">6 informes, {META.reportPages} páginas</h2>
+      <p class="lead">Cada programa tiene un informe de evaluación elaborado para Voy Votando con ayuda de IA, a partir del programa oficial y de fuentes públicas como el BOE o la AIReF. Los 6 usan el mismo marco: 19 ámbitos de política, cada propuesta con su instrumento y una valoración de si podría aprobarse y ejecutarse. Los partidos aparecen por orden alfabético.</p>
+      <ul class="reports">
+        {PARTIES.map((p) => (
+          <li class="card">
+            <p class="display reports__name">{p.short}</p>
+            <p class="small muted">{p.name}</p>
+            <dl>
+              <div><dt>Programa</dt><dd>{p.report.programTitle || "Programa electoral"}, {fmtDate(p.report.programDate)}</dd></div>
+              <div><dt>Informe</dt><dd>{p.report.pages} páginas, {p.report.units} propuestas</dd></div>
+            </dl>
+            <a href={`/partidos/${p.id}`}>Ficha del partido →</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--teal" id="que-no-es">
+    <div class="wrap two-col">
+      <div>
+        <p class="kicker">Qué no es</p>
+        <h2 class="display h2">No te dice a quién votar</h2>
+      </div>
+      <ul class="plain-list">
+        <li>Mide coincidencias entre tus respuestas y los programas. La decisión es tuya.</li>
+        <li>No usa encuestas ni estima escaños.</li>
+        <li>No da una nota de credibilidad a ningún partido. Los informes lo desaconsejan.</li>
+        <li>Incluye 6 partidos de ámbito estatal con informe propio. No incluye PNV, Junts, ERC, EH Bildu, BNG, Coalición Canaria ni UPN, porque no tienen informe.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="como-se-vota">
+    <div class="wrap two-col">
+      <div>
+        <p class="kicker">Cómo se vota</p>
+        <h2 class="display h2">El 29N no se elige presidente</h2>
+      </div>
+      <div>
+        <p>Se eligen 350 diputados en 52 circunscripciones, una por provincia más Ceuta y Melilla, y se vota al Senado.</p>
+        <p>Después, el Congreso vota la investidura (artículo 99 de la Constitución). En la primera votación hace falta mayoría absoluta: 176 diputados. Por eso importa con quién podría pactar cada partido, y lo enseñamos en tus resultados.</p>
+        <a class="btn" href="/test">Empezar el test <span class="arrow" aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: 56px 0 72px; }
+  .hero__title { font-size: clamp(44px, 9vw, 120px); margin: 16px 0 24px; }
+  .hero__title .outline { -webkit-text-stroke-width: 2px; text-transform: none; font-style: italic; }
+  .hero__lead { font-size: clamp(18px, 2.2vw, 22px); max-width: 720px; margin: 0 0 32px; }
+  .hero__cta { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 48px; }
+  .counters { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0; border-top: var(--border) solid var(--line); }
+  .counters li { padding: 20px 12px 0 0; display: flex; flex-direction: column; }
+  .counters strong { font-size: clamp(36px, 6vw, 64px); color: var(--ink-strong); line-height: 1; }
+  .counters span { font-size: 14px; color: var(--muted); text-transform: uppercase; letter-spacing: 2px; margin-top: 6px; }
+  @media (min-width: 760px) { .counters { grid-template-columns: repeat(4, 1fr); } }
+  .h2 { font-size: clamp(32px, 5.5vw, 64px); margin-bottom: 32px; }
+  .section--orange .outline, .section--teal .outline { text-transform: none; font-style: italic; }
+  .steps { list-style: none; padding: 0; margin: 0 0 40px; display: grid; gap: 28px; }
+  @media (min-width: 860px) { .steps { grid-template-columns: repeat(5, 1fr); gap: 24px; } }
+  .steps li { border-top: var(--border) solid #1f1f1f; padding-top: 16px; }
+  .steps__n { font-size: 28px; }
+  .steps h3 { font-size: 20px; margin: 8px 0; }
+  .steps p { margin: 0; font-size: 15px; }
+  .lead { max-width: 760px; font-size: 18px; margin-bottom: 32px; }
+  .reports { list-style: none; padding: 0; margin: 0; display: grid; gap: 20px; grid-template-columns: 1fr; }
+  @media (min-width: 640px) { .reports { grid-template-columns: repeat(2, 1fr); } }
+  @media (min-width: 980px) { .reports { grid-template-columns: repeat(3, 1fr); } }
+  .reports__name { font-size: 28px; margin: 0; color: var(--ink-strong); }
+  .reports dl { margin: 16px 0; display: grid; gap: 8px; font-size: 14px; }
+  .reports dt { font-weight: 700; color: var(--ink-strong); }
+  .reports dd { margin: 0; }
+  .two-col { display: grid; gap: 24px; }
+  @media (min-width: 860px) { .two-col { grid-template-columns: 1fr 1fr; gap: 64px; } }
+  .plain-list { margin: 0; padding-left: 20px; display: grid; gap: 12px; font-size: 18px; }
+</style>

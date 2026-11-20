@@ -1,0 +1,125 @@
+---
+import "../styles/global.css";
+import { META } from "../lib/data";
+
+interface Props {
+  title: string;
+  description?: string;
+  bodyClass?: string;
+}
+const { title, description = "Compara tus ideas con los programas de 6 partidos para las elecciones generales del 29 de noviembre de 2026. Sin registro. No es una recomendación de voto.", bodyClass = "" } = Astro.props;
+const path = Astro.url.pathname;
+const nav = [
+  { href: "/test", label: "Hacer el test" },
+  { href: "/partidos", label: "Partidos" },
+  { href: "/metodologia", label: "Metodología" },
+];
+---
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:image" content={new URL("/og.png", Astro.site).toString()} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Voy Votando: compara tus ideas con los programas de 6 partidos para el 29N" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#f3efe3" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body class={bodyClass}>
+    <a class="skip" href="#main">Saltar al contenido</a>
+    <header class="site-header" data-header>
+      <div class="wrap site-header__inner">
+        <a class="brand display" href="/" aria-label="Voy Votando, inicio">Voy <span>Votando</span></a>
+        <nav aria-label="Principal">
+          <ul>
+            {nav.map((item) => (
+              <li><a href={item.href} aria-current={path.startsWith(item.href) ? "page" : undefined}>{item.label}</a></li>
+            ))}
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap site-footer__grid">
+        <div>
+          <p class="display brand-footer">Voy Votando</p>
+          <p>Proyecto independiente, sin afiliación a ningún partido. Mide coincidencias con programas. No es una recomendación de voto.</p>
+        </div>
+        <div>
+          <p class="footer-title serif">El test</p>
+          <ul>
+            <li><a href="/test">Modo completo ({META.questions} preguntas)</a></li>
+            <li><a href="/test?modo=rapido">Modo rápido ({META.fast} preguntas)</a></li>
+            <li><a href="/partidos">Los 6 partidos</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="footer-title serif">Transparencia</p>
+          <ul>
+            <li><a href="/metodologia">Metodología y fórmula</a></li>
+            <li><a href="/metodologia#fuentes">Fuentes: 6 informes</a></li>
+            <li><a href="/privacidad">Privacidad</a></li>
+            <li><a href="https://github.com/eherrerosj/voyvotando" rel="noopener">Código abierto en GitHub</a></li>
+          </ul>
+        </div>
+        <div>
+          <p class="footer-title serif">Datos</p>
+          <p class="small">Versión {META.version}. Corte de información: 18/11/2026. Huella SHA-256: <code>{META.sha256.slice(0, 12)}</code>.</p>
+        </div>
+      </div>
+    </footer>
+    <script>
+      const header = document.querySelector("[data-header]");
+      const onScroll = () => header?.classList.toggle("is-slim", window.scrollY > 40);
+      window.addEventListener("scroll", onScroll, { passive: true });
+      onScroll();
+    </script>
+  </body>
+</html>
+
+<style is:global>
+  .skip { position: absolute; left: -999px; top: 8px; background: var(--ink-strong); color: var(--paper); padding: 8px 12px; z-index: 100; }
+  .skip:focus { left: 8px; }
+  .site-header {
+    position: sticky; top: 0; z-index: 50; background: color-mix(in srgb, var(--paper) 92%, transparent);
+    backdrop-filter: blur(6px); border-bottom: 2px solid transparent; transition: border-color var(--t) var(--ease);
+  }
+  .site-header.is-slim { border-bottom-color: var(--line); }
+  /* Pantallas bajas (móvil en horizontal): la cabecera no se queda fija para dejar sitio al contenido. */
+  @media (max-height: 500px) { .site-header { position: static; } }
+  /* Altura fija: cambiarla al hacer scroll movía la página y hacía oscilar el estado de la cabecera. */
+  .site-header__inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; min-height: 64px; }
+  .brand { font-size: 20px; color: var(--ink-strong); text-decoration: none; display: inline-block; padding: 12px 0; }
+  .brand span { color: var(--orange-text); }
+  .site-header nav ul { display: flex; gap: 20px; list-style: none; margin: 0; padding: 0; }
+  .site-header nav a { color: var(--ink-strong); text-decoration: none; font-weight: 600; font-size: 15px; display: inline-block; padding: 12px 0; }
+  .site-header nav a[aria-current="page"], .site-header nav a:hover { color: var(--orange-text); text-decoration: underline; }
+  @media (max-width: 640px) {
+    .site-header nav li:not(:first-child) { display: none; }
+    .brand { font-size: 17px; }
+  }
+  .site-footer { background: #444444; color: #f3efe3; padding: 64px 0 48px; margin-top: 0; }
+  .site-footer a { color: #f3efe3; }
+  .site-footer ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 8px; }
+  .site-footer__grid { display: grid; gap: 32px; grid-template-columns: 1fr; }
+  @media (min-width: 860px) {
+    .site-footer__grid { grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 0; }
+    .site-footer__grid > div { padding: 0 28px; border-left: 1px solid #f3efe3; }
+    .site-footer__grid > div:first-child { padding-left: 0; border-left: 0; }
+  }
+  .brand-footer { font-size: 22px; margin: 0 0 12px; }
+  .footer-title { font-size: 22px; margin: 0 0 12px; }
+  .site-footer code { font-size: 12px; }
+</style>

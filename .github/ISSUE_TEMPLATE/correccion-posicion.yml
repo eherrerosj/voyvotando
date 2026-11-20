@@ -1,0 +1,48 @@
+name: Corrección de una posición
+description: Un partido aparece con una posición que no coincide con su informe.
+title: "[Datos] Q__ · partido: "
+labels: ["datos", "corrección"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por revisar los datos. Cada posición sale de un informe de evaluación y lleva una cita con su página. Para corregirla necesitamos la cita que la contradice.
+  - type: input
+    id: pregunta
+    attributes:
+      label: Pregunta
+      description: Su número en la web (por ejemplo 12) o el texto de la afirmación.
+    validations:
+      required: true
+  - type: dropdown
+    id: partido
+    attributes:
+      label: Partido
+      options: ["Frente Amplio", "Podemos", "PP", "PSOE", "SALF", "Vox"]
+    validations:
+      required: true
+  - type: input
+    id: actual
+    attributes:
+      label: Posición que muestra la web
+      placeholder: "Por ejemplo: «Lo propone»"
+    validations:
+      required: true
+  - type: dropdown
+    id: propuesta
+    attributes:
+      label: Posición que debería mostrar
+      options: ["Lo propone (+2)", "A favor con matices (+1)", "Posición intermedia (0)", "En contra con matices (−1)", "Propone lo contrario (−2)", "Sin posición documentada"]
+    validations:
+      required: true
+  - type: textarea
+    id: cita
+    attributes:
+      label: Cita y página
+      description: Copia la frase del informe o del programa que respalda la corrección e indica la página.
+    validations:
+      required: true
+  - type: textarea
+    id: comentario
+    attributes:
+      label: Comentario

@@ -1,0 +1,9 @@
+---
+import Base from "../layouts/Base.astro";
+import Quiz from "../components/test/Quiz.tsx";
+import { META, minutesFor } from "../lib/data";
+---
+<Base title="El test · Voy Votando" description={`${META.questions} afirmaciones sobre los programas de 6 partidos para el 29N. Unos ${minutesFor(META.questions)} minutos, sin registro.`}>
+  <Quiz client:load />
+  <noscript><p class="wrap">El test necesita JavaScript para calcular tu resultado en tu navegador. Ninguna respuesta se envía a un servidor.</p></noscript>
+</Base>

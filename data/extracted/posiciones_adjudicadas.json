@@ -1,0 +1,6935 @@
+{
+ "Q03": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "Modificar la escala estatal del IRPF;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "Los cambios buscan mayor progresividad y recaudar para servicios.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "retirar incentivos a planes de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El informe no indica rebaja del IRPF para la mayoría: describe cambios de escala para más progresividad y recaudación y la retirada de incentivos. No precisa la dirección de los tipos, de ahí la confianza baja.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "F06",
+     "page": 8,
+     "quote": "Aproximar capital y trabajo; rebajar IRPF a salarios hasta 27.000",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "F06",
+     "page": 8,
+     "quote": "euros y elevar al 52% el marginal desde 300.000.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F06 rebaja el IRPF a salarios hasta 27.000 euros y sube el marginal al 52% desde 300.000. Rebaja focalizada en rentas del trabajo bajas, no general: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "F04",
+     "page": 6,
+     "quote": "Deducción reembolsable y prestación de crianza; exención efectiva del SMI.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "F02",
+     "page": 6,
+     "quote": "Elevar tramos altos del ahorro, con marginal del 35% por encima de 300.000 euros; mantener los dos primeros tramos.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Rebajas focalizadas en hogares con hijos y salarios del SMI, y subida de los tramos altos del ahorro. No hay rebaja del IRPF para la mayoría: posición mixta.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 +1, v1 0). Se confirma 0: la rebaja solo alcanza a hogares con hijos y al SMI. FA recibe +1 porque rebaja a todos los salarios hasta 27.000 euros.",
+   "antes": {
+    "value": 0,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": 1,
+    "v1": 0
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "F01",
+     "page": 6,
+     "quote": "Deflactación, mayores mínimos y protección del SMI.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "F02",
+     "page": 6,
+     "quote": "18-35 años: rebajas 100/75/50/25% en los cuatro primeros",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Alta"
+   },
+   "rationale": "F01 propone deflactar el IRPF y subir mínimos, rebaja general; F02 añade rebajas para jóvenes. Las rebajas fiscales salen en las conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "FI01",
+     "page": 7,
+     "quote": "Rebaja y simplificación con modulación familiar.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La plataforma reúne rebajas fiscales",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "FI01 propone una rebaja general del IRPF con modulación familiar. Faltan tipos y tramos, pero la rebaja es explícita.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "III.1",
+     "page": 9,
+     "quote": "Elevar el mínimo anunciado a 15.000 euros en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "No debe presentarse el calendario de mínimos del IRPF como incondicional",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "III.1 eleva el mínimo exento a 35.000 euros y III.3 deflacta tarifas. La rebaja está condicionada a ahorro certificado por AIReF; figura en conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  }
+ },
+ "Q02": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-01-01",
+     "page": 8,
+     "quote": "Operadores públicos en mercados",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-02",
+     "page": 8,
+     "quote": "Banco público que reúna ICO, CDTI y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-01-03",
+     "page": 8,
+     "quote": "Red pública de supermercados y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Repsol se incorporaría mediante compra de acciones.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidades explícitas de operadores públicos en mercados esenciales, banca pública, red pública de supermercados y compra de mayoría en Repsol. Aparece en las conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "E02",
+     "page": 5,
+     "quote": "Creación o refuerzo empresarial en sectores seleccionados.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "E03",
+     "page": 5,
+     "quote": "Ampliar el papel del ICO y estudiar instrumentos de banca pública y",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN02",
+     "page": 24,
+     "quote": "Entrada del 30% en nuevos proyectos dentro del perímetro",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "E02 (empresas públicas estratégicas), E03 (banca pública e ICO) y EN02 (entrada pública del 30% en nuevos proyectos renovables) crean o amplían empresas públicas en energía y banca. No consta alimentación.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "E05",
+     "page": 5,
+     "quote": "Utilizar participaciones públicas para autonomía productiva.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "E05 usa participaciones públicas en empresas para autonomía productiva. No crea empresas públicas ni cita energía, banca o alimentación: versión parcial.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 +2, v1 +1). Se confirma +1: participaciones estatales sin sector ni empresa nueva.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": 2,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona crear o ampliar empresas públicas en energía, banca o alimentación. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no documenta propuestas de empresas públicas en energía, banca o alimentación.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "GOV",
+     "page": 34,
+     "quote": "entidades públicas de 452 a trescientas, transfiriendo funciones útiles",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 48,
+     "quote": "Entes, empresas y fundaciones sin función",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El informe no documenta posición sobre empresas públicas en energía, banca o alimentación. GOV reduce entidades públicas de 452 a 300 y el cuadro fiscal suprime 'entes, empresas y fundaciones sin función' (p. 48): racionalización administrativa, objeto distinto.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: reducir las entidades públicas de 452 a 300 y suprimir entes y empresas sin función se interpreta como posición contraria a ampliar el sector público empresarial (antes None).",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   },
+   "revisar_humano": false,
+   "salience": "baja"
+  }
+ },
+ "Q01": {
+  "podemos": {
+   "value": 0,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "POD-02-09",
+     "page": 11,
+     "quote": "franquicia de IVA y criterio de caja para pequeños negocios",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-17-03",
+     "page": 41,
+     "quote": "Condicionar centros de datos a disponibilidad de agua y red, eficiencia, renovables adicionales y costes a cargo del operador.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Simplifica obligaciones fiscales de pequeños negocios y añade condiciones previas a grandes empresas (centros de datos, moratoria de macrogranjas). Sin propuesta general sobre trámites: posición mixta.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: se mantiene 0: simplifica para pequeños negocios y añade obligaciones a grandes empresas, mismo criterio que Frente Amplio (antes 0).",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": null,
+    "v1": -1
+   },
+   "revisar_humano": false
+  },
+  "fa": {
+   "value": 0,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "E05",
+     "page": 6,
+     "quote": "Simplificación y pagos puntuales ofrecen un posible terreno transversal; la cogestión obligatoria o el control de rentas requiere negociación separada.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Menores cargas administrativas pueden coexistir con nuevas obligaciones laborales, ambientales o de participación.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "E05 simplifica IVA y cotización de pymes, pero el informe dice que esas menores cargas coexisten con nuevas obligaciones laborales, ambientales y de participación. No hay propuesta general de menos controles previos: posición mixta.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 0,
+    "confidence": "baja",
+    "flag": null,
+    "v0": 0,
+    "v1": 0
+   },
+   "salience": "baja"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "E04",
+     "page": 5,
+     "quote": "Régimen 20 y coordinación administrativa.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "R03",
+     "page": 23,
+     "quote": "Menos carga administrativa y apoyo a producción sostenible.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone simplificación administrativa (Régimen 20) y menos carga agraria. No documenta reducir controles previos ni una desregulación fuerte: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "E01",
+     "page": 5,
+     "quote": "Reducción del 25%; 35% para pymes antes de 2029.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 5,
+     "quote": "Riesgos: trasladar controles al final sin recursos de inspección",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "E01 fija una reducción cuantificada de cargas administrativas (25%, 35% en pymes). El informe advierte que traslada controles al final, lo que encaja con 'menos controles previos'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EC01",
+     "page": 6,
+     "quote": "Revisar obligaciones y eliminar tres normas por cada nueva.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Reducir revisiones previas puede trasladar trabajo a inspecciones posteriores.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Figaredo ratificó desregulación y rebajas fiscales el 4/11",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EC01 propone eliminar tres normas por cada nueva y EC02 añade silencio positivo. El informe asume menos revisiones previas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VIII.6",
+     "page": 8,
+     "quote": "Derogar dos regulaciones empresariales por cada nueva que se apruebe",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VIII.3",
+     "page": 12,
+     "quote": "Permitir licencia de actividad en veinticuatro horas mediante declaración responsable",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VIII.6 deroga dos normas por cada nueva. VIII.3 sustituye la licencia previa por declaración responsable en 24 horas: menos control previo.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q04": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-02-01",
+     "page": 9,
+     "quote": "Impuesto estatal permanente",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-01",
+     "page": 9,
+     "quote": "patrimonios superiores a 100",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: impuesto estatal permanente sobre grandes patrimonios coordinado con Patrimonio.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "F01",
+     "page": 7,
+     "quote": "Suelo del 2% sobre patrimonios superiores a un millón y del 3% por",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F01 fija un suelo del 2% sobre patrimonios de más de un millón y del 3% por encima de 50 millones. La recaudación de 111.000 millones es solo de IU y no se usa como posición común.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "No documenta un impuesto anual sobre la riqueza. F02 aclara: 'No es un 35% sobre toda renta ni todo patrimonio'. V08 grava a grandes tenedores de vivienda, objeto distinto.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre un impuesto anual al patrimonio o la riqueza. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona un impuesto sobre patrimonio o riqueza.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "III.6",
+     "page": 9,
+     "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "III.6 suprime Patrimonio y el impuesto sobre grandes fortunas: lo contrario de un impuesto anual a la riqueza.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  }
+ },
+ "Q05": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-06-05",
+     "page": 19,
+     "quote": "Elevar financiación hasta 2.900 euros",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-07-01",
+     "page": 21,
+     "quote": "Financiación educativa del 7% del",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 46,
+     "quote": "El programa combina prestaciones, servicios universales, contratación pública y adquisición de activos.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El programa amplía gasto, servicios y organismos públicos (sanidad, educación, banca pública, cuidados). Es lo contrario de reducir gasto y Administración; se deduce del conjunto de unidades.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 14,
+     "quote": "Alcanzar el 8% del PIB sanitario público y reforzar plantillas.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 16,
+     "quote": "Objetivo del 7% del PIB en 2030.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "M02",
+     "page": 20,
+     "quote": "Ampliar personal y acortar citas, registro y entrevistas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El programa sube los objetivos de gasto (sanidad 8% del PIB, educación 7%) y amplía plantillas (S01, M02, F08, L08). Es lo contrario de reducir gasto y Administración; se deduce de las unidades, sin frase literal.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 11,
+     "quote": "Acercar gasto sanitario público al 7% del PIB, reforzar atención primaria y",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 39,
+     "quote": "Crianza, sanidad, educación y cuidados generan gasto permanente",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 39,
+     "quote": "Nuevas autoridades, registros, prestaciones y leyes compiten por los mismos especialistas",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "F01",
+     "page": 6,
+     "quote": "Presentar un plan en primavera de 2027 y reducir déficit y deuda,",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Amplía gasto recurrente (sanidad al 7% del PIB, crianza, cuidados) y crea nuevas autoridades, aunque promete reducir déficit. Versión parcial de lo contrario.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "IN01",
+     "page": 16,
+     "quote": "Revisar gasto y estructura es posible",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 24,
+     "quote": "La reducción de estructura administrativa debe proteger precisamente las plantillas que tramitan vivienda, prestaciones, contratos y evaluaciones.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 32,
+     "quote": "Reducir personal o instituciones antes de conocer su función puede debilitar supervisión y tramitación.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Alta",
+    "E": "Media"
+   },
+   "rationale": "IN01 propone auditar y revisar gasto y estructura, y el informe habla de reducción de estructura administrativa. No hay compromiso explícito de suprimir organismos y puestos, y el programa amplía plantillas en sanidad y seguridad: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "FI03",
+     "page": 7,
+     "quote": "Revisión de gasto y retirada progresiva de determinadas",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 25,
+     "quote": "Figaredo propone revisar grandes partidas y expresa ambición de recorte",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "No equivale simplemente a reducir el Estado: también propone vivienda protegida, inversión, personal y nuevas comprobaciones administrativas.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Vox propone revisar gasto y retirar subvenciones de forma progresiva. También amplía personal y servicios, y no consta supresión de organismos: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "GOV",
+     "page": 34,
+     "quote": "reducir secretarías de Estado de treinta y cinco a quince, direcciones generales de 128 a setenta, altos cargos de 823 a 450",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VII.15",
+     "page": 38,
+     "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Los 57.000 M€ atribuidos a duplicidades autonómicas representan el 64,4% de las fuentes.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "GOV recorta cargos y entidades (452 a 300). VII.15 suprime organismos. El cuadro fiscal se apoya en 57.000 M€ de ahorro autonómico, citado en conclusiones.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  }
+ },
+ "Q08": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-03-02",
+     "page": 12,
+     "quote": "Primer paso de 35 horas y objetivo de 30 durante la legislatura, sin rebaja salarial",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "POD-03-02 fija 35 horas y después 30 en la legislatura, sin rebaja salarial: por debajo del umbral de 32.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1, redacción nueva). v0 sobre la redacción anterior también daba +2. Se confirma.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "L03",
+     "page": 9,
+     "quote": "37,5 horas en 2026 y avance posterior hacia 32, sin rebaja salarial.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "L03 fija 37,5 horas en 2026 y un avance posterior hacia 32 sin rebaja salarial, sin plazo: versión gradual.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +1: las 32 horas son meta gradual sin calendario.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "L01",
+     "page": 7,
+     "quote": "Legislar 37,5 horas; avanzar hacia 35 mediante negociación colectiva.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "37,5 horas por ley y 35 por negociación colectiva. No propone 32 horas por ley. La nota da -1 o 0 a 37,5 h; el avance a 35 lo sitúa en 0.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma 0 según la nota del catálogo.",
+   "antes": {
+    "value": 0,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 0
+   },
+   "salience": "alta"
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 7,
+     "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 51,
+     "quote": "Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "rationale": "Hecho documentado en los informes del PSOE y de FA: el PP votó la devolución de la ley de 37,5 h (10/09/2025). La nota codifica ese voto como -2. La frase del informe propio ('No se atribuye al PP ... una jornada concreta', p. 7) se refiere al programa, no al voto.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1, evidencia cruzada). Se confirma -2 media: es el ejemplo de PLAN.md 5.2 regla 3. Cita de FA p. 51 recortada a texto literal contiguo.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": -2
+   },
+   "salience": "baja"
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 7,
+     "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 51,
+     "quote": "Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "rationale": "El informe de Vox no trata la jornada. Hecho documentado en los informes del PSOE y de FA: Vox votó la devolución de la ley de 37,5 h (10/09/2025). Según la nota, -2.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1, evidencia cruzada). Se confirma -2 media (PLAN.md 5.2 regla 3).",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": -2
+   },
+   "salience": "baja"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta propuesta sobre jornada laboral máxima. 'Jornada' solo aparece al homogeneizar retribuciones sanitarias y policiales.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q07": {
+  "podemos": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-02-05",
+     "page": 10,
+     "quote": "Mínimo del 19% sobre beneficios;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-05",
+     "page": 10,
+     "quote": "mínimos y tipos superiores para",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone un mínimo del 19% y tipos superiores para oligopolios: subir, no bajar, Sociedades.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "F05",
+     "page": 8,
+     "quote": "Suelo efectivo del 20% para grandes empresas y revisión de",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F05 impone un suelo efectivo del 20% a grandes empresas y revisa beneficios fiscales. Sube la tributación efectiva de Sociedades, lo contrario de bajarla.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el impuesto de sociedades. F03 propone gravámenes nuevos sobre empresas con brechas salariales extremas, sin tocar el tipo general.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "F04",
+     "page": 6,
+     "quote": "Amortización inmediata e incentivos anticipados.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "F04 rebaja la carga sobre la inversión empresarial con amortización inmediata e incentivos. No se documenta una bajada del tipo de sociedades: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "FI02",
+     "page": 7,
+     "quote": "Rebajas sin tipo cerrado en el programa.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "La unidad FI02 (IVA y sociedades) propone rebajas del impuesto de sociedades sin tipo cerrado.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "III.5",
+     "page": 9,
+     "quote": "Bajar el tipo general al 20% en dos años, aplicar 15% al beneficio reinvertido",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "III.5 baja el tipo general de Sociedades al 20%, con 15% para beneficio reinvertido y 10% para empresas nuevas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q09": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-03-04",
+     "page": 12,
+     "quote": "indemnización de 45 días y mayores",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-03-04",
+     "page": 12,
+     "quote": "garantías de readmisión y despido.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: indemnización de 45 días y más garantías de readmisión.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "L06",
+     "page": 10,
+     "quote": "Reforzar reparación, control y derechos laborales.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 10,
+     "quote": "La escala de cogestión, el diseño del despido y la financiación de la protección son puntos abiertos a negociación",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "L06 (despido) refuerza reparación, control y derechos laborales, lo que encarece o dificulta despedir. El diseño concreto queda abierto, por eso confianza media.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "L03",
+     "page": 7,
+     "quote": "Cambiar reparación por despido, salarios de tramitación y plazos.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "L03",
+     "page": 7,
+     "quote": "no basta anunciar compensación suficiente",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "L03 cambia la reparación por despido y los salarios de tramitación; la dirección (compensación suficiente) se deduce del comentario de la ficha. Sin cuantía: versión parcial.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 +2, v1 +1). Se toma +1: la unidad dice 'cambiar', sin dirección explícita. FA (+2 media) dice 'reforzar reparación'; Podemos (+2 alta) fija 45 días.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": 2,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: 'No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus' (p. 7). No documenta posición sobre coste del despido.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice de EM02: \"El texto no concreta el régimen alternativo completo.\" No documenta posición sobre coste del despido.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "VIII.2",
+     "page": 13,
+     "quote": "Sustituir modalidades por un contrato indefinido único con indemnización creciente entre doce y treinta y tres días.",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VIII.2",
+     "page": 13,
+     "quote": "El programa presenta la aportación como adicional a la indemnización.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Contrato único con indemnización que empieza en 12 días; la nota codifica 'contrato único con menos días' como negativo. La cuenta del 1,53% es adicional a la indemnización, por eso -1 y no -2.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: se mantiene -1: el contrato único abarata el despido con poca antigüedad (antes -1).",
+   "antes": {
+    "value": 0,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": 0,
+    "v1": -1
+   },
+   "revisar_humano": false,
+   "salience": "media"
+  }
+ },
+ "Q10": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "POD-02-06",
+     "page": 10,
+     "quote": "retirar incentivos a planes de pensiones y al régimen de impatriados.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Retira incentivos fiscales a los planes de pensiones privados: indicio indirecto contra el ahorro de capitalización. No trata cuentas obligatorias.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1). Se toma -1 baja: la medida trata planes voluntarios, no cuentas obligatorias; -2 exigiría rechazo explícito.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "baja"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "P04 'Reforzar protección pública y blindaje constitucional' (p. 11) no trata cuentas de capitalización. SALF propone a la vez blindaje constitucional (V.1) y capitalización obligatoria (V.3): blindar la pensión pública no excluye capitalizar.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 media, v1 nulo). Pasa a nulo: el silencio sobre capitalización no es posición. Con este cambio Q10 queda con 2 partidos con posición (Podemos y SALF). Pregunta retirada en 1.0-rc2: no se revisa.",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   },
+   "revisar_humano": false,
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Sin propuesta de capitalización obligatoria. E03 es una cuenta de ahorro orientada a inversión europea, no un complemento de pensiones.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: 'No se presupone acuerdo sobre edad de retiro o modelo mixto' (p. 8). No atribuye al PP cuentas de capitalización obligatorias.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: \"La formulación del programa no acredita una nueva edad de jubilación, una fórmula completa de cálculo ni una sustitución del sistema.\"",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "V.3",
+     "page": 15,
+     "quote": "Destinar el 2% del salario a una cuenta individual heredable, con comisión máxima del 0,3%, para menores de 45 años.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V.3 'Capitalización obligatoria para menores de 45 años': cuenta individual obligatoria que complementa la pensión pública.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q11": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-04-01",
+     "page": 14,
+     "quote": "Jubilación ordinaria a los 63 años",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "POD-04-01 fija la jubilación ordinaria a los 63 años, por debajo de 65.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). v0 con la redacción anterior también daba +2. Se confirma.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "P02",
+     "page": 11,
+     "quote": "Jubilación a los 65 Generalizar esa edad y adaptar supuestos penosos o carreras largas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "P02 generaliza la jubilación a los 65 para todos (hoy 66 y 10 meses sin carrera larga).",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +2.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "P04",
+     "page": 8,
+     "quote": "Mejorar incapacidad oncológica y retorno gradual; evaluar jubilación por penosidad.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Solo propone evaluar la jubilación por penosidad, vía anticipada para colectivos. No toca la edad ordinaria; análogo débil al +1 de carreras largas.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +1 baja: 'evaluar' es un compromiso de estudio.",
+   "antes": {
+    "value": 1,
+    "confidence": "baja",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "P02",
+     "page": 8,
+     "quote": "Incentivos fiscales a compatibilizar actividad y pensión.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 8,
+     "quote": "Un incentivo a prolongar actividad puede aumentar oferta de trabajo",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "P02 incentiva seguir trabajando con la pensión; la nota codifica incentivar trabajar más años como negativo. No cambia la edad ordinaria: -1.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma -1. 'No se presupone acuerdo sobre edad de retiro' (p. 8) habla de acuerdos con otros partidos, no es una no atribución.",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: \"La formulación del programa no acredita una nueva edad de jubilación\". No hay posición sobre la edad ordinaria.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "V.5",
+     "page": 16,
+     "quote": "Compatibilizar trabajo y el 100% de pensión sin recortes ni cotización extra y permitir jubilación sin penalización con cuarenta años cotizados.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Alta"
+   },
+   "rationale": "V.5 combina jubilación sin penalización con 40 años cotizados (+1 según la nota) y jubilación activa con el 100% de la pensión, un incentivo a prolongar actividad que la nota cuenta como negativo. Posición mixta.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: se mantiene 0: jubilación sin penalización con 40 años cotizados e incentivo a seguir trabajando se compensan (antes 0).",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "revisar_humano": false,
+   "salience": "media"
+  }
+ },
+ "Q12": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-05-01",
+     "page": 16,
+     "quote": "Rebajar rentas un 40% con condición",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "La rebaja íntegra del 40 % de Podemos necesitaría un acuerdo adicional.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 56,
+     "quote": "Montero anunció condiciones de investidura",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone rebajar por ley las rentas un 40% con referencia a la media de zona, más que un tope. Es condición de investidura y sale en las conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "V05",
+     "page": 13,
+     "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "Vivienda es una prioridad explícita de la coalición.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V05 propone topes de alquiler por referencia e ingresos y contratos indefinidos. Vivienda es prioridad explícita y aparece en la lectura ejecutiva.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "V07",
+     "page": 10,
+     "quote": "Mayor duración y protección, seguros, intermediación e incentivos fiscales.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V07",
+     "page": 10,
+     "quote": "Separar lo vigente del nuevo compromiso de prórrogas, cuyo decreto tuvo",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 10,
+     "quote": "los controles pueden proteger a inquilinos cubiertos",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone mayor duración y prórrogas de alquiler, y el informe analiza sus controles sobre inquilinos cubiertos. No documenta topes de precio explícitos: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "alta"
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "V04",
+     "page": 9,
+     "quote": "Derogación de la Ley de Vivienda e incentivos a permanencia.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "Vox coincide en oferta y derogación",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V04 propone derogar la Ley de Vivienda; la nota fija derogarla como -2. Vivienda es prioridad declarada de Feijóo.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 43,
+     "quote": "Ley 12/2023 por el derecho a la vivienda",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI03 propone derogar la Ley de Vivienda (Ley 12/2023). Según la nota, derogarla es -2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre topes al alquiler ni sobre la Ley de Vivienda de 2023. El bloque de vivienda de SALF no incluye control de rentas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q13": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-05-01",
+     "page": 16,
+     "quote": "Rebajar rentas un 40% con condición",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-02-07",
+     "page": 10,
+     "quote": "Fiscalidad de viviendas vacías,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El programa apuesta por intervenir el mercado (rebaja de rentas, expropiación de uso, límites de compra) y por gravar más los inmuebles. No propone liberar suelo ni bajar impuestos.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "V05",
+     "page": 13,
+     "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "F03",
+     "page": 7,
+     "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El programa interviene el mercado: topes (V05), gravamen del 10% a la acumulación de vivienda (F03) y expropiación (V02). Es lo contrario de preferir liberar suelo y bajar impuestos; se deduce de las unidades.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "V03",
+     "page": 9,
+     "quote": "Banco de suelo, industrialización, FP de construcción y agilización urbanística.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V08",
+     "page": 10,
+     "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V02",
+     "page": 9,
+     "quote": "Llegar a 100.000 viviendas estatales mediante adquisición y construcción;",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Combina suelo y agilización urbanística con intervención: gravamen y restricciones a grandes tenedores y parque estatal. No antepone liberalizar a intervenir: mixta.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 0,
+    "confidence": "media",
+    "flag": null,
+    "v0": 0,
+    "v1": 0
+   },
+   "salience": "alta"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "V02",
+     "page": 9,
+     "quote": "Agilización y plazo de tres meses.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "V03",
+     "page": 9,
+     "quote": "IVA del 4% para primera compra joven y apoyo al ahorro.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "Respaldo prioritario de Feijóo y equipo económico.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "V02 agiliza suelo y licencias con plazo de tres meses y V03 baja el IVA de compra; V04 retira la regulación del alquiler. Es la vía de oferta frente a intervenir el mercado.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VI01",
+     "page": 10,
+     "quote": "Reforma de suelo, permisos, menores cargas y financiación.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "VI04",
+     "page": 10,
+     "quote": "IVA cero en obra nueva e ITP bonificado en usada.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "La vía de Vox es suelo, permisos, menos cargas y rebajas fiscales (VI01, VI04), y deroga la ley que interviene el alquiler (VI03).",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "I.1",
+     "page": 17,
+     "quote": "Eliminar ITP y AJD en primera vivienda; IVA del 4% reintegrado en el IRPF, suelo público sin precio y licencias rápidas.",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "I.5",
+     "page": 18,
+     "quote": "Resolver obras menores en un mes, mayores en dos y grandes desarrollos en tres; silencio positivo",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "El bloque de vivienda combina rebajas fiscales (I.1), cesión de suelo (I.4) y licencias rápidas con silencio positivo (I.5), sin control de precios.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q16": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-05-05",
+     "page": 17,
+     "quote": "Eliminar usos turísticos residenciales",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-05",
+     "page": 17,
+     "quote": "durante la emergencia, con retirada",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita: eliminar usos turísticos residenciales durante la emergencia con retirada de licencias.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "V06",
+     "page": 13,
+     "quote": "Extinguir licencias turísticas en tres años en zonas tensionadas y",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V06 extingue las licencias turísticas en tres años en zonas tensionadas y evita la elusión por temporada o habitaciones.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "V09",
+     "page": 10,
+     "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "V08",
+     "page": 10,
+     "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "La ficha de vivienda vacía y turística propone instrumentos locales y cambios de uso; V08 restringe usos no residenciales. Sin prohibición: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona pisos turísticos. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "VI03",
+     "page": 10,
+     "quote": "regular pisos turísticos",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI03 propone \"regular pisos turísticos\" sin precisar alcance. Se codifica como versión parcial; no consta prohibición ni límite fuerte.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "baja"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "I.9",
+     "page": 18,
+     "quote": "registro turístico sin prohibiciones",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "I.9 prevé un registro de alquiler turístico 'sin prohibiciones': rechaza explícitamente prohibir. Aparece de pasada dentro de la ficha de construcción industrializada.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "baja"
+  }
+ },
+ "Q14": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "POD-05-04",
+     "page": 16,
+     "quote": "lanzamientos sin alternativa próxima",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-04",
+     "page": 16,
+     "quote": "y persecución del acoso y desalojo",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {},
+   "rationale": "POD-05-04 'Mayor protección frente a lanzamientos sin alternativa próxima y persecución del acoso y desalojo extrajudicial' (p. 16) trata desahucios y coerción privada. El informe no menciona la ocupación ilegal.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: frenar los lanzamientos sin alternativa y perseguir el desalojo extrajudicial se interpreta como posición contraria al desalojo exprés (antes None).",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "revisar_humano": false,
+   "salience": "baja"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "V07 trata la protección ante desahucios. El informe no documenta posición sobre desalojar viviendas ocupadas ilegalmente.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "J05",
+     "page": 18,
+     "quote": "Digitalizar procesos y agilizar procedimientos sobre ocupación. No prometer",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "J05",
+     "page": 18,
+     "quote": "desalojo automático en 48 horas para toda disputa: importan el tipo de caso y",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Agiliza procedimientos sobre ocupación sin plazo exprés; el informe advierte que no promete desalojo automático en 48 horas. Nota: +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "J03",
+     "page": 15,
+     "quote": "Requiere decisión judicial y clasificación correcta del supuesto.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "La recuperación judicial en 48 horas se evalúa en justicia",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "J03 propone recuperar la vivienda ocupada en 48 horas. La nota reserva +1 para agilizar sin plazo exprés; aquí hay plazo de 48 h, aunque con decisión judicial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VI05",
+     "page": 10,
+     "quote": "Desalojo inferior a 24 horas y respuesta penal.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 16,
+     "quote": "El desalojo universal en 24 horas tiene problemas distintos de un supuesto flagrante.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "VI05 propone desalojo en menos de 24 horas, un plazo más corto que el de 48 horas de la afirmación.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "I.3",
+     "page": 17,
+     "quote": "Desalojo policial en 48 horas con denuncia y título de propiedad",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "I.3 propone desalojo policial en 48 horas, tal como la afirmación.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q15": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-05-03",
+     "page": 16,
+     "quote": "Se propone expropiar el uso, no necesariamente la",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-03",
+     "page": 16,
+     "quote": "encima de diez en grandes tenedores",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Expropiación del uso de viviendas de grandes tenedores para alquiler público o regulado; la nota la cuenta como +2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "V02",
+     "page": 12,
+     "quote": "Expropiación compensada de parque corporativo: fases para más de",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "La expropiación se describe como compensada: no debe analizarse como adquisición gratuita ni como retirada indiscriminada de viviendas a familias.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "V02 propone expropiar con justiprecio el parque corporativo de grandes tenedores, por fases de 1.000, 700 y 50 viviendas. Cubre más que las viviendas vacías.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "V09",
+     "page": 10,
+     "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Para vivienda vacía propone instrumentos locales, alquiler garantizado y cambios de uso, sin expropiación. Movilizar vacías sin expropiar: +1 según la nota.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona expropiar viviendas vacías ni sancionarlas. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona expropiar ni sancionar viviendas vacías.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta propuesta sobre expropiar o gravar viviendas vacías. La vivienda de SALF se centra en propiedad, suelo y licencias.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q18": {
+  "podemos": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-06-03",
+     "page": 19,
+     "quote": "Gestión sanitaria pública directa;",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "ni un acuerdo con otros partidos sobre gestión exclusivamente directa.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Gestión sanitaria pública directa con reversión de concesiones; el informe habla de gestión exclusivamente directa. No detalla conciertos ni derivaciones.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "S05",
+     "page": 15,
+     "quote": "Cambiar el marco de colaboración y avanzar en integración de",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 15,
+     "quote": "La orientación hacia gestión pública está documentada en el texto común y en IU.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "S05 cambia el marco de colaboración con la privada e integra mutualidades, con auditoría y transición. Retirada gradual hacia gestión directa, sin fin inmediato de los pagos: +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 11,
+     "quote": "personal, y priorizar gestión pública directa.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Prioriza la gestión pública directa en sanidad. No propone dejar de pagar a centros privados: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta derivación a centros privados ni su rechazo; S02 solo cita 'Pacto y plan urgente' (p. 10). Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "SA03",
+     "page": 11,
+     "quote": "Plan nacional, derivación interterritorial y colaboración privada evaluada.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "SA03 incluye colaboración privada evaluada contra las listas de espera; la nota la codifica como negativa. Es acotada y evaluada, frente al pago de centros privados al superar plazos de SALF (-2).",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1). Se toma -1: colaboración condicionada a evaluación, no garantía general de derivación.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VI.2",
+     "page": 19,
+     "quote": "superado el plazo, elegir centro público o privado financiado por el SNS",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VI.6",
+     "page": 19,
+     "quote": "Ofrecer cita médica en 48 horas o pagar una consulta privada",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "VI.2 y VI.6 pagan con fondos públicos atención privada al superar plazos de espera: lo contrario según la nota.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  }
+ },
+ "Q19": {
+  "podemos": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "Acceso efectivo a educación, salud,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-06-02",
+     "page": 19,
+     "quote": "Universalidad y ampliación de",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone universalidad sanitaria y acceso efectivo de las familias migrantes a la salud. No distingue situación administrativa.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el acceso sanitario de inmigrantes en situación irregular.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no trata el acceso sanitario de inmigrantes en situación irregular.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre acceso sanitario de inmigrantes en situación irregular. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "SA05",
+     "page": 11,
+     "quote": "Cobertura limitada a urgencias graves para residentes",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 26,
+     "quote": "Limitarla a urgencia grave exige modificar ese marco y resolver excepciones",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "SA05 limita la cobertura de residentes irregulares a urgencias graves. Según la nota, -2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VI.7",
+     "page": 20,
+     "quote": "Reservar tarjeta a españoles y residentes legales con cotización o cobertura, garantizar urgencias para todos",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI.7 reserva la tarjeta sanitaria a españoles y residentes legales y deja urgencias para el resto: -2 según la nota.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  }
+ },
+ "Q20": {
+  "podemos": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-07-01",
+     "page": 21,
+     "quote": "La absorción voluntaria de centros y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "La expansión pública y los límites a centros privados son instrumentos separables y negociables de forma distinta.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Expansión de la red pública con absorción voluntaria de centros y límites a centros privados. Es una versión gradual, sin supresión explícita de conciertos.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 16,
+     "quote": "Reorientar progresivamente recursos hacia provisión pública.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "ED03 (Red pública y conciertos) reorienta recursos hacia la provisión pública de forma progresiva y mantiene la escolarización durante la transición. No fija el fin de toda financiación concertada: +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Sin posición sobre conciertos educativos. ED01 universaliza la oferta pública de 0-3 sin hablar de conciertos; la mención del informe del PP es hipótesis.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 11,
+     "quote": "Ampliar estabilidad de conciertos y elección.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "ED03 amplía la estabilidad de los conciertos y la elección de centro; la nota codifica ampliar conciertos como -2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 12,
+     "quote": "Elección de centro, distrito único, becas y FP.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El informe no habla de conciertos. ED03 propone libertad de elección de centro, indicio indirecto contrario a financiar solo la escuela pública.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "baja"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IX.6",
+     "page": 24,
+     "quote": "mediante un cheque utilizable en centros públicos, concertados o privados",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IX.6 propone cheque escolar válido en centros públicos, concertados y privados: -2 según la nota.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  }
+ },
+ "Q22": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la LOMLOE, exámenes externos o promoción de curso.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la LOMLOE ni exámenes externos. ED01-ED04 tratan financiación, ratios, conciertos y becas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la LOMLOE. Las menciones del informe del PP ('puede coincidir', 'disenso relevante') son análisis, no hechos documentados.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "ED01",
+     "page": 11,
+     "quote": "Sustituir LOMLOE y reforzar lectoescritura/cálculo",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "Los criterios de aprobación más exigentes deben acompañarse de apoyos",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": "ED02",
+     "page": 11,
+     "quote": "Acuerdo con comunidades y universidades; requiere concretar",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "ED01 sustituye la LOMLOE y el informe recoge criterios de aprobación más exigentes; ED02 añade una PAU común como prueba externa.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "ED02",
+     "page": 12,
+     "quote": "Sustituir LOMLOE, reforzar disciplina, limitar móviles y",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 12,
+     "quote": "Contenidos comunes, reválidas y EVAU única.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "ED02 propone sustituir la LOMLOE con más disciplina; ED01 añade reválidas, es decir, exámenes externos.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "Aprobar una ley educativa para veinte años por dos tercios",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "pruebas externas al terminar cada etapa y una selectividad única",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.5",
+     "page": 23,
+     "quote": "Condicionar titulación al aprendizaje",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IX.1 propone una nueva ley educativa con pruebas externas en cada etapa; IX.5 condiciona la titulación. El informe no nombra la LOMLOE: la sustitución se deduce de la nueva ley.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q23": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-09-03",
+     "page": 25,
+     "quote": "Blindaje constitucional del aborto y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone blindar el aborto en la Constitución; la nota lo cuenta como +2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "S08",
+     "page": 15,
+     "quote": "Mejor acceso efectivo, prevención y protección de derechos.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "S08 (Prevención y derechos reproductivos) mejora el acceso efectivo y protege esos derechos. El informe no nombra el aborto literalmente, por eso confianza media.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IG02",
+     "page": 16,
+     "quote": "Protección constitucional del aborto y mejoras asistenciales.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone proteger el aborto en la Constitución (reforma del artículo 43). Nota: blindarlo en la Constitución es +2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe dice: 'Las propuestas de gestación y reproducción no se convierten por inferencia en una posición completa sobre aborto' (p. 12). La nota manda null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "FA05",
+     "page": 13,
+     "quote": "Protección desde concepción hasta muerte natural, conciencia",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 13,
+     "quote": "Tampoco procede traducir la medida 98 en un articulado completo de aborto o eutanasia que el programa no detalla.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "FA05 declara protección desde la concepción, principio contrario al aborto como derecho. El informe dice: \"Tampoco procede traducir la medida 98 en un articulado completo de aborto\"; por eso -1 y confianza baja.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el aborto. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q17": {
+  "podemos": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "POD-10-05",
+     "page": 27,
+     "quote": "Acceso efectivo a educación, salud, empleo y protección de familias migrantes.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-05-07",
+     "page": 17,
+     "quote": "Regular temporada y habitaciones, registro de alquileres, negociación y protección frente a discriminación.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Acceso efectivo de las familias migrantes a la protección social y protección frente a discriminación en el alquiler: indicio indirecto contra la prioridad por nacionalidad.",
+   "decision": "cambio_horizontal",
+   "motivo": "Cambio horizontal (-2 baja a -1 baja). -2 exige proponer lo contrario de forma explícita y la evidencia es indirecta; el valor -2 con confianza baja es incoherente con la escala.",
+   "antes": {
+    "value": -2,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "M04 'Medidas antirracistas y ampliación de derechos políticos' (p. 20) no trata prioridad por nacionalidad en vivienda o ayudas.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 baja, v1 nulo). Pasa a nulo por coherencia con el PSOE, nulo con el mismo tipo de evidencia (PS03, medidas contra racismo y discriminación).",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Sin posición documentada sobre prioridad por nacionalidad en vivienda o ayudas. La frase de la p. 17 sobre nacionalidad es una recomendación de seguimiento del analista.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 0,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 33,
+     "quote": "En Extremadura, PP y Vox explicaron de forma distinta la prioridad nacional tras su acuerdo de abril",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "El acuerdo extremeño muestra una diferencia entre nacionalidad y arraigo territorial, no una equivalencia.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 9,
+     "quote": "Vox coincide en oferta y derogación, con diferencias en prioridad por nacionalidad.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {},
+   "rationale": "Hecho documentado en el informe de Vox: el PP firmó en abril el acuerdo extremeño de prioridad nacional y lo explicó como arraigo territorial, criterio de residencia que la nota codifica +1. El informe propio marca diferencias con Vox en prioridad por nacionalidad.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: 0: el PP acepta una prioridad por años de residencia y rechaza la prioridad por nacionalidad, según el acuerdo de Extremadura que documenta el informe de Vox (antes 1).",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": null,
+    "v1": 1
+   },
+   "revisar_humano": false
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VI06",
+     "page": 10,
+     "quote": "Prioridad en ayudas y vivienda; residencia legal para alquilar.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "PS02",
+     "page": 14,
+     "quote": "Preferencia en servicios, vivienda y prestaciones.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "PS01",
+     "page": 14,
+     "quote": "Reservar el IMV a españoles.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "Prioridad nacional tiene ratificación de la dirección",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VI06, PS01 y PS02 proponen prioridad por nacionalidad en vivienda, ayudas e IMV. Las conclusiones ejecutivas la destacan.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IV.10",
+     "page": 29,
+     "quote": "Exigir cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "IV.10 exige 5 años de residencia legal y cotización para ayudas y vivienda pública; según la nota equivale a +1. No fija prioridad por nacionalidad.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  }
+ },
+ "Q25": {
+  "podemos": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-09-04",
+     "page": 25,
+     "quote": "Modelo Barnahus, derechos LGTBIQA+, reconocimiento registral y justicia especializada.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Apoya el reconocimiento registral dentro de los derechos LGTBIQA+. El informe no precisa que sea por declaración propia: versión parcial.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 +2, v1 +1). Se toma +1 media: falta el procedimiento de autodeclaración. Mismo valor que FA, con el mismo tipo de evidencia.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": 2,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "IG04",
+     "page": 19,
+     "quote": "Desplegar protección LGTBI y reconocimiento de personas no binarias. Definir efectos registrales, interoperabilidad, privacidad y acceso a servicios.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IG04 extiende el reconocimiento registral a personas no binarias. No menciona el cambio por declaración propia: versión parcial.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 +2, v1 +1 baja). Se toma +1 y se sube la confianza a media para igualarla con Podemos: ambas unidades citan reconocimiento registral sin procedimiento.",
+   "antes": {
+    "value": 1,
+    "confidence": "baja",
+    "flag": "dif1",
+    "v0": 2,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "PS04 'Desarrollar protección y perseguir prácticas de conversión' (p. 15) no trata el cambio registral de sexo.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 +1 baja, v1 nulo). Pasa a nulo: proteger derechos LGTBI no documenta posición sobre la autodeterminación registral.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": 1,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "SO04",
+     "page": 13,
+     "quote": "Revisión de la autodeterminación registral.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "SO04 propone revisar la autodeterminación registral; la nota lo codifica como negativo. El informe no dice si la suprime, por eso -1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata el cambio registral de sexo. CU02 habla solo de criterios de categoría femenina en deporte.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre autodeterminación registral. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q24": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-09-01",
+     "page": 25,
+     "quote": "Reforzar el IMV con el horizonte de",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-09-01",
+     "page": 25,
+     "quote": "una renta universal incondicionada.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "Propone reforzar el IMV con horizonte de renta universal incondicionada, lo contrario de condicionarlo a aceptar empleo. Sin cuantía ni calendario.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IG01 amplía y automatiza el IMV (p. 19) sin tratar su retirada por rechazar ofertas de empleo.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 baja, v1 nulo). Pasa a nulo por coherencia con el PSOE, nulo con la misma evidencia (PS01 automatiza el IMV). Podemos sí es -2 porque propone renta 'incondicionada'.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "PS01 automatiza el acceso al IMV; no trata su retirada a quien rechace ofertas de empleo.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "SO01",
+     "page": 13,
+     "quote": "Integrar IMV y subsidios con empleo/formación.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 13,
+     "quote": "definir ofertas adecuadas y causas justificadas antes de sancionar.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 34,
+     "quote": "Compatibilidades, retirada de ayudas, definición de oferta adecuada y protección en discapacidad, cuidados o falta real de empleo.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "SO01 liga el IMV a empleo y formación; el informe trata sanciones y retirada de ayudas ante ofertas adecuadas como parte del diseño. La activación sale en las conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no vincula el IMV al rechazo de ofertas de empleo. PS01 trata solo la nacionalidad.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VIII.10",
+     "page": 27,
+     "quote": "Extinguir la prestación tras rechazar dos ofertas adecuadas",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VIII.10 extingue el IMV tras rechazar dos ofertas adecuadas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q26": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "POD-09-02 financia asistencia especializada a víctimas (p. 25). El informe no menciona la ley de violencia de género ni su sustitución.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -2 baja, v1 nulo). Pasa a nulo: asistir a víctimas es compatible con ambas leyes (Vox propone sustituir la ley y ampliar protección a víctimas).",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -2,
+    "v1": null
+   }
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IG03 'Transparencia salarial y respuesta frente a violencia y discriminación' (p. 19) no trata la ley de violencia de género.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 baja, v1 nulo). Pasa a nulo: sin referencia a la ley ni a su sustitución.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IG03 'Prevención, violencia vicaria, riesgos, reparación y apoyo a víctimas' (p. 16). El informe del PSOE no usa la expresión 'violencia de género' ni trata la ley vigente o su sustitución.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -2 media, v1 nulo). Pasa a nulo: vincular 'violencia vicaria' con la ley de 2004 exige conocimiento externo al informe. Consecuencia: Q26 queda con 2 partidos con posición (PP -1 baja, Vox +2 media). Pregunta retirada en 1.0-rc2: no se revisa.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": "un_nulo",
+    "v0": -2,
+    "v1": null
+   },
+   "revisar_humano": false,
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 15,
+     "quote": "La protección frente a violencia de género debe evaluarse por acceso y seguridad, no solo por dispositivos.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {},
+   "rationale": "Indicio indirecto: el informe evalúa medidas del PP de protección frente a violencia de género, sin propuesta de sustituir la ley. No hay unidad sobre la ley.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "baja"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "PS04",
+     "page": 14,
+     "quote": "Sustituir las denominadas leyes de género y ampliar",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "La cobertura de otras víctimas puede estudiarse separadamente de la derogación del modelo vigente.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "PS04 propone sustituir las leyes de género y ampliar la protección a otras víctimas. El informe no detalla el modelo sustitutivo; confianza media.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la ley de violencia de género ni una ley de violencia intrafamiliar. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q27": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-10-04",
+     "page": 27,
+     "quote": "Vía permanente de regularización,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 28,
+     "quote": "La vía permanente propuesta debe distinguirse de la regularización extraordinaria existente.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone una vía permanente de regularización; la nota la cuenta como +2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "M01",
+     "page": 20,
+     "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "M01 completa los procesos de regularización abiertos y crea cauces permanentes. La nota del catálogo cuenta ambas cosas como +2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "MI02 refuerza vías regulares, pero el informe dice que 'no equivale a una regularización nueva de alcance indefinido'. No se atribuye regularización.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IM03",
+     "page": 14,
+     "quote": "Restringir regularizaciones y condicionar renovaciones.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "Vox converge en restricciones, pero suprimir el arraigo no es igual que conservarlo como excepcional.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IM03 restringe regularizaciones y conserva el arraigo como excepcional. La nota reserva -2 para prohibir regularizaciones o suprimir el arraigo.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1). Se toma -1: restringir no es prohibir, y el arraigo se conserva.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IN01",
+     "page": 15,
+     "quote": "Suprimir vías de arraigo y prohibir regularizaciones amplias.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Suprimir arraigos tampoco elimina las obligaciones de asilo",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IN01 propone suprimir el arraigo y prohibir regularizaciones amplias. Según la nota, -2.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IV.2",
+     "page": 28,
+     "quote": "Derogar la regularización de 2026, revisar individualmente autorizaciones concedidas y prohibir regularizaciones masivas mediante ley orgánica.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IV.2 deroga la regularización de 2026 y prohíbe por ley orgánica regularizaciones masivas: -2 según la nota.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  }
+ },
+ "Q28": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-10-02",
+     "page": 27,
+     "quote": "Sustituir la Ley de Extranjería y cerrar",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-10-02",
+     "page": 27,
+     "quote": "CIE mediante alternativas",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone sustituir la Ley de Extranjería y cerrar los CIE, además de regularización permanente. Es lo contrario de la expulsión sistemática.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "M03",
+     "page": 20,
+     "quote": "Revisar centros, retornos y vías de protección.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "Eliminar internamiento exige diseñar alternativas; no equivale por sí mismo a eliminar toda obligación de retorno.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "M01",
+     "page": 20,
+     "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "M03 revisa retornos y busca alternativas al internamiento, y M01 abre cauces permanentes de regularización. El informe aclara que no elimina toda obligación de retorno, pero la propuesta es contraria a expulsar de forma sistemática.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Sin posición sobre expulsiones o retornos de inmigrantes en situación irregular.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IM04",
+     "page": 14,
+     "quote": "Más exigencias y cooperación exterior.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 14,
+     "quote": "Posición oficial y prioridad de Feijóo.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "IM04 propone más retornos mediante exigencias y cooperación de readmisión; la nota codifica esto como +1. No hay expulsión sistemática.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IN02",
+     "page": 15,
+     "quote": "Expedientes de salida y readmisión. El compromiso general no",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 27,
+     "quote": "Por ello, la entrega universal e inmediata no tiene una probabilidad defendible",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 35,
+     "quote": "Migración: procedimientos y readmisión antes de fijar una tasa universal de salida.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "IN02 compromete el retorno de los irregulares con carácter general. Las garantías individuales son condiciones del informe, no del programa.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IV.1",
+     "page": 28,
+     "quote": "Identificar, ordenar y ejecutar expulsiones en 48 horas, cumplir todas las órdenes en noventa días",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "IV.1 promete ejecutar todas las órdenes de expulsión en 90 días e internamiento hasta la salida: expulsión sistemática.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q29": {
+  "podemos": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-10-03",
+     "page": 27,
+     "quote": "Ampliar vías de nacionalidad y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone ampliar las vías de acceso a la nacionalidad, incluida la atribución por nacimiento con condiciones.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre requisitos de nacionalidad. Dice 'No se equiparan regularización, asilo y nacionalidad' y que la regularización 'no supone ciudadanía automática'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Sin posición sobre los requisitos para obtener la nacionalidad.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "IM04",
+     "page": 14,
+     "quote": "Más exigencias y cooperación exterior.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "La unidad IM04 'Retornos y nacionalidad' añade más exigencias. La atribución de las exigencias a la nacionalidad se deduce del título de la unidad.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IN05",
+     "page": 15,
+     "quote": "Endurecer adquisición, revisar fraude y favorecer retorno de",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IN05 propone endurecer la adquisición de la nacionalidad.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IV.5",
+     "page": 29,
+     "quote": "exigir diez años de residencia legal, examen, ausencia de antecedentes e independencia de ayudas para la nacionalidad",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IV.6",
+     "page": 29,
+     "quote": "nacionalidad a dobles nacionales por terrorismo, crimen organizado o delitos sexuales graves",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "IV.5 añade examen e independencia de ayudas a 10 años de residencia legal; IV.6 retira la nacionalidad en ciertos delitos.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q31": {
+  "podemos": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-11-05",
+     "page": 29,
+     "quote": "Reformar seguridad ciudadana y",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-11-05",
+     "page": 29,
+     "quote": "protección de protesta; límites a",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone reformar la regulación de seguridad ciudadana y protesta. El informe dice reformar, no sustituir por una ley nueva.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "J01",
+     "page": 21,
+     "quote": "Reformar seguridad ciudadana y delitos de expresión.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "J01 reforma la ley de seguridad ciudadana y los delitos de expresión. El informe dice reformar, no sustituir por una ley nueva: +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "J02",
+     "page": 18,
+     "quote": "Sustituir la Ley Orgánica 4/2015, con garantías y medios como cámaras",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone sustituir la Ley Orgánica 4/2015 de Seguridad Ciudadana por una nueva con garantías.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la Ley de Seguridad Ciudadana de 2015. La mención del informe del PSOE ('No acredita apoyo futuro a reformar ... seguridad ciudadana', p. 18) no es un hecho. Null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona la Ley de Seguridad Ciudadana.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la Ley de Seguridad Ciudadana de 2015.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q37": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre asumir deuda autonómica. Dice que \"el programa no desarrolla aquí un modelo fiscal autonómico completo y cuantificado.\"",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 23,
+     "quote": "Reestructurar obligaciones y fijar mínimos tributarios. La quita entre administraciones cambia reparto interno",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "T02 reestructura la deuda autonómica con una quita entre administraciones sin cuantificar. No consta que sea una parte importante: +1.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +1 media.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 20,
+     "quote": "Asunción estatal de 83.000 millones de deuda autonómica.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Propone que el Estado asuma 83.000 millones de deuda autonómica.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 17,
+     "quote": "Responsabilidad autonómica y reestructuración multilateral. No equivale a una condonación general definida.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Reestructuración multilateral con énfasis en responsabilidad autonómica, sin condonación general. La nota da +1 o 0 a reestructurar sin quita: 0.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma 0 media.",
+   "antes": {
+    "value": 0,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 0
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata la deuda autonómica ni condonaciones.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "III.11",
+     "page": 39,
+     "quote": "oponerse a condonaciones de deuda entre administraciones, salvo catástrofes",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Alta",
+    "E": "Alta"
+   },
+   "rationale": "III.11 se opone a condonaciones de deuda entre administraciones salvo catástrofes. La nota codifica rechazar condonaciones como -2.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma -2.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": -2
+   },
+   "salience": "media"
+  }
+ },
+ "Q33": {
+  "podemos": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-12-03",
+     "page": 31,
+     "quote": "Revisar aforamientos y renovación judicial; nueva mayoría para el turno judicial del CGPJ y horizonte de elección directa.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Una nueva mayoría para elegir el turno judicial mantiene la elección parlamentaria de los vocales judiciales, negativa según la nota. El horizonte de elección directa no se concreta.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1 baja). Se toma -1 y confianza media: la unidad nombra el turno judicial de forma explícita; -2 exigiría rechazo expreso de la elección por jueces.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IN02 'Modificar reglas de elección y desbloqueo' (p. 22). El informe advierte: 'El programa distingue la elección de vocales judiciales de otros integrantes del consejo. No se debe resumir como una propuesta para elegir a todos por mayoría absoluta.' No consta quién elegiría a los vocales judiciales.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 media, v1 nulo). Pasa a nulo: el propio informe impide atribuir a FA la elección parlamentaria de los vocales judiciales.",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Documenta el acuerdo PSOE-PP de 2024 para renovar el CGPJ, sin detallar el sistema de elección de sus miembros.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "IN02",
+     "page": 16,
+     "quote": "Reformas de nombramientos y autonomía.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IN02 reforma los nombramientos del CGPJ para ganar autonomía. El informe no dice que los jueces elijan a la mayoría: indicio indirecto.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "ID01",
+     "page": 17,
+     "quote": "Elección judicial de doce vocales y mayor autonomía fiscal.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "ID01 propone que los jueces elijan a doce vocales, mayoría de los veinte del CGPJ.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "VII.9",
+     "page": 36,
+     "quote": "Blindar constitucionalmente un CGPJ elegido por jueces, antigüedad o sorteo",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VII.9",
+     "page": 36,
+     "quote": "todavía abiertos entre tres mecanismos distintos",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VII.9 saca al CGPJ de la elección parlamentaria, pero deja abierta la fórmula entre elección judicial, antigüedad y sorteo. No garantiza que los jueces elijan a la mayoría: +1.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 +2, v1 +1). Se toma +1: dos de los tres mecanismos no son elección por jueces.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": 2,
+    "v1": 1
+   },
+   "salience": "media"
+  }
+ },
+ "Q35": {
+  "podemos": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "Senado de orientación federal, con igual representación de comunidades y elección proporcional.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Transforma el Senado en cámara federal, no lo suprime. La nota codifica la cámara territorial o federal como -1.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma -1.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el Senado.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 20,
+     "quote": "Regular cooperación y conferencias; orientar el Senado a representación territorial.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Orienta el Senado a la representación territorial, no lo suprime. Según la nota, -1.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma -1.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona suprimir o reformar el Senado. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe cita el Senado solo por el pacto electoral PP-Vox; no hay propuesta de suprimirlo.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "VII.15",
+     "page": 38,
+     "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "VII.15 suprime el Senado; el informe recuerda que exige reforma constitucional.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1, coincide con la extra propuesta en v0). Se confirma +2.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "alta"
+  }
+ },
+ "Q36": {
+  "podemos": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-13-02",
+     "page": 33,
+     "quote": "Senado de orientación federal, con igual representación de comunidades y elección proporcional.",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 33,
+     "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Senado federal y programa plurinacional: dirección contraria a recentralizar, negativa según la nota. Sin propuesta explícita de ampliar competencias: -1.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1 baja). Se toma -1 y confianza media, igual que FA, que tiene el mismo tipo de evidencia (unidad federal explícita).",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "baja"
+  },
+  "fa": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 23,
+     "quote": "Servicios territoriales, insularidad y desarrollo federal.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "IN04",
+     "page": 22,
+     "quote": "República federal y laicidad Transformación del modelo de Estado y de determinadas garantías.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Los mínimos fiscales y la capacidad de decisión territorial pueden entrar en tensión dentro del mismo programa.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Desarrollo federal (T04) y república federal (IN04) van contra recentralizar; los mínimos tributarios comunes (T02) son coordinación (+1 según la nota). Saldo -1.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1). Se toma -1 media.",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 20,
+     "quote": "Regular cooperación y conferencias; orientar el Senado a representación territorial.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "T05",
+     "page": 20,
+     "quote": "Mejorar atención en lenguas cooficiales y tratamientos territoriales",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Refuerza la cooperación (coordinar, +1 según la nota) y a la vez Senado territorial y tratamientos territoriales específicos (negativo). No propone recuperar competencias: mixta.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -1, v1 0). Se toma 0 baja.",
+   "antes": {
+    "value": 0,
+    "confidence": "baja",
+    "flag": "dif1",
+    "v0": -1,
+    "v1": 0
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "T03",
+     "page": 17,
+     "quote": "Interoperabilidad sanitaria/social y simplificación.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "T03 coordina servicios sanitarios y sociales entre comunidades sin devolver competencias (+1 según la nota). El informe describe al PP dentro del Estado autonómico, sin propuesta de más autogobierno. Indicio débil: confianza baja.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: se mantiene +1 baja: coordinar y uniformar servicios sin recuperar competencias, según la nota de la escala (antes 1).",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "adjudicar",
+    "v0": -1,
+    "v1": 1
+   },
+   "revisar_humano": false
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 18,
+     "quote": "La plataforma contiene propuestas uniformizadoras y de coordinación, pero no desarrolla una reforma completa de supresión del sistema autonómico.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "MT01",
+     "page": 18,
+     "quote": "Reducir brechas territoriales en sanidad, educación, seguridad",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 12,
+     "quote": "Contenidos comunes, reválidas y EVAU única.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El informe atribuye propuestas uniformizadoras y de coordinación sin devolución de competencias. Según la nota, +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "IX.2",
+     "page": 22,
+     "quote": "atribuir a la Alta Inspección estatal capacidad sancionadora",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "IX.1",
+     "page": 22,
+     "quote": "Fijar contenidos mínimos comunes al cien por cien",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "VI.1",
+     "page": 19,
+     "quote": "Compra sanitaria centralizada obligatoria",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Uniforma y centraliza (Alta Inspección sancionadora, currículo común al 100%, compra sanitaria única), sin propuesta explícita de devolver competencias: +1 según la nota.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  }
+ },
+ "Q40": {
+  "podemos": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-14-09",
+     "page": 36,
+     "quote": "Cierre nuclear conforme al calendario vigente, gestión de residuos y transición territorial.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Cierre nuclear según el calendario vigente; la nota codifica mantener el calendario como -1.",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1). Se toma -1 por la nota del catálogo.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 24,
+     "quote": "Mantener el cierre de Almaraz en 2027-2028 según el programa.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN04",
+     "page": 24,
+     "quote": "autorización vigente llega al 8/06/2030; cambiarla requiere una",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "El cierre anunciado de Almaraz en 2027-2028 no coincide con la autorización vigente hasta junio de 2030.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "EN04 cierra Almaraz en 2027-2028, antes de la autorización vigente hasta el 8/06/2030. La nota cuenta cerrar antes del calendario como -2; el informe advierte que el programa usa un calendario anterior.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "psoe": {
+   "value": -1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EN03",
+     "page": 21,
+     "quote": "Mantener horizonte de cierre en 2035.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "Mantiene el horizonte de cierre en 2035: calendario vigente, -1 según la nota (ejemplo de docs/metodologia.md 5.6).",
+   "decision": "adjudicada",
+   "motivo": "Dif. 1 (v0 -2, v1 -1). Se toma -1 por la nota del catálogo.",
+   "antes": {
+    "value": -1,
+    "confidence": "alta",
+    "flag": "dif1",
+    "v0": -2,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 18,
+     "quote": "Tramitar extensiones en 100 días",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 18,
+     "quote": "Eliminar un calendario político no sustituye esos requisitos.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Almaraz ya tiene permiso hasta junio de 2030.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN01 tramita extensiones de las centrales en 100 días y elimina el calendario de cierre. La nuclear sale en las conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 19,
+     "quote": "Mantener centrales y revisar cierres.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN01 propone mantener las centrales y revisar el calendario de cierres.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la energía nuclear. Ámbito 14: 'Faltan metas desarrolladas sobre mix eléctrico, redes, almacenamiento, emisiones, adaptación y gestión del agua'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q41": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-14-03",
+     "page": 34,
+     "quote": "aspiración del 65%, neutralidad en",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-14-03",
+     "page": 34,
+     "quote": "Objetivos más exigentes pueden orientar inversión y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone objetivos climáticos más exigentes (aspiración del 65% en 2030, neutralidad en 2040). Es lo contrario de frenar las normas climáticas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 24,
+     "quote": "Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN05",
+     "page": 25,
+     "quote": "Objetivo anual del 3,5% del PIB.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN01 (100% de electricidad renovable en 2040) y EN05 (inversión climática del 3,5% del PIB) refuerzan la política climática: contrario a frenar el Pacto Verde.",
+   "decision": "cambio_horizontal",
+   "motivo": "Cambio horizontal (confianza baja a media). El PSOE tiene -2 media con la misma evidencia (81% renovable en 2030); FA debe tener la misma confianza.",
+   "antes": {
+    "value": -2,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 21,
+     "quote": "Alcanzar el 81% de generación renovable en 2030.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": "CL01",
+     "page": 22,
+     "quote": "Ley de adaptación, refugios, alerta y medios contra incendios.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone acelerar la transición: 81% de generación renovable en 2030, ley de adaptación y restauración ecológica. Sentido contrario a frenar las normas climáticas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 18,
+     "quote": "Ajustar el ritmo de transición y mejorar resiliencia.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 18,
+     "quote": "Vox coincide en nuclear, pero su postura climática no es idéntica al compromiso del PP con descarbonización.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN04 ajusta el ritmo de la transición sin incumplir compromisos europeos, y el informe recoge el compromiso del PP con la descarbonización. La nota da +1 o 0 a ajustar el ritmo: +1 porque el ajuste es una versión parcial de frenar.",
+   "decision": "revision_humana",
+   "motivo": "Revisión humana del 20/11/2026: 0: ajustar el ritmo de la transición pesa igual que su compromiso con la descarbonización y con las normas europeas (antes 1).",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "adjudicar",
+    "v0": -1,
+    "v1": 1
+   },
+   "revisar_humano": false
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 19,
+     "quote": "Revertir restricciones del Pacto Verde y ZBE.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "EN04 propone revertir restricciones del Pacto Verde.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "X.2",
+     "page": 41,
+     "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde, incluida la normativa de restauración",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.2 bloquea el Pacto Verde y la normativa de restauración mediante oposición en el Consejo.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  }
+ },
+ "Q42": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "POD-14-02 contiene tarifas y precios del gas (p. 34): regulación, no impuestos. POD-02-02 grava a empresas de energía y POD-02-03 a consumos de alta huella (p. 9); ninguno trata impuestos a electricidad o carburantes del consumidor.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 baja, v1 nulo). Pasa a nulo: no hay posición sobre estos impuestos.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   }
+  },
+  "fa": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "F07 'Reorientar gravamen según objetivos distributivos y ambientales' (p. 8) no nombra electricidad ni carburantes; EN03 abarata la luz por tarifa.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 baja, v1 nulo). Pasa a nulo: fiscalidad ambiental genérica.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   }
+  },
+  "psoe": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "F03 grava 'consumos intensivos en carbono de lujo' (p. 6), objeto distinto de la electricidad y los carburantes de uso general.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 -1 baja, v1 nulo). Pasa a nulo.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": "un_nulo",
+    "v0": -1,
+    "v1": null
+   }
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EN02",
+     "page": 18,
+     "quote": "Retirar impuesto del 7% y cambiar apoyos sociales.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN02 retira el impuesto del 7% sobre la electricidad. El informe no menciona impuestos a carburantes: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EN03",
+     "page": 19,
+     "quote": "Menores impuestos y otras medidas de coste.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN03 propone menos impuestos sobre el coste energético. No precisa electricidad ni carburantes; confianza media.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "III.7",
+     "page": 40,
+     "quote": "Establecer permanentemente IVA del 4% en electricidad y agua y eliminar el impuesto sobre la producción eléctrica.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "III.7 baja el IVA eléctrico al 4% y suprime el impuesto a la producción eléctrica. No hay rebaja en carburantes: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  }
+ },
+ "Q45": {
+  "podemos": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-16-01",
+     "page": 39,
+     "quote": "Gratuidad de transporte público en todos los niveles administrativos y tarjeta interoperable.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "POD-16-01 propone la gratuidad del transporte público en todas las administraciones.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +2.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "TR01",
+     "page": 27,
+     "quote": "Tarifas y abonos de Cercanías con condiciones por edad.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "TR01 abarata tarifas y abonos con condiciones por edad, sin gratuidad general. La nota cuenta abonos baratos o gratuidad para grupos como +1.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +1.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "TR03",
+     "page": 24,
+     "quote": "Financiación estable, integración, ayudas y movilidad activa.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "TR03 propone ayudas e integración tarifaria sin gratuidad ni cuantía. Indicio débil de abaratar: +1 baja.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +1 baja.",
+   "antes": {
+    "value": 1,
+    "confidence": "baja",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "salience": "baja"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona gratuidad del transporte público. Silencio: null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no menciona la gratuidad del transporte público.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta gratuidad del transporte. Ámbito 16: 'Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana'. X.6 solo adelanta el pago de la bonificación canaria vigente.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q47": {
+  "podemos": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-01-05",
+     "page": 8,
+     "quote": "Refuerzo de obligaciones laborales y fiscales de plataformas y protección de servicios regulados.",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "POD-01-05 refuerza las obligaciones fiscales de las plataformas: más cumplimiento, sin impuesto nuevo. Versión parcial.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +1 media. La cita de v1 sobre 'bases fiscales, también transfronterizas' es texto del analista y se sustituye por la unidad.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 34,
+     "quote": "Servicios digitales: 15%; depósitos bancarios: 1%; energía: 1,2% sobre cifra de negocio con incentivos de reinversión.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "D08",
+     "page": 34,
+     "quote": "Gravamen del 50% pagadero en acciones para empresas con ingresos europeos de IA superiores a 200 millones anuales.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "El programa grava los servicios digitales al 15% y añade un gravamen europeo del 50% en acciones a grandes empresas de IA.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +2.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "F03",
+     "page": 6,
+     "quote": "Fiscalidad digital/IA, consumos intensivos en carbono de lujo y brechas salariales extremas en empresas.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "F03 propone un gravamen nuevo sobre la economía digital y la IA. Bases y sujetos por concretar: confianza media.",
+   "decision": "adjudicada",
+   "motivo": "Codificación única (v1). Se confirma +2 media.",
+   "antes": {
+    "value": 2,
+    "confidence": "media",
+    "flag": "codificacion_unica",
+    "v0": null,
+    "v1": 2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona impuestos a plataformas tecnológicas; solo 'restricción de plataformas' para menores (p. 21). Null.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "vox": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Silencio: el informe no trata impuestos a plataformas tecnológicas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre impuestos a plataformas tecnológicas. Ámbito 17: 'No se identifica una estrategia propia de IA, computación, innovación tecnológica o ciberseguridad'.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ },
+ "Q49": {
+  "podemos": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "POD-18-02",
+     "page": 42,
+     "quote": "Revertir aumentos militares, congelar",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": null,
+     "page": 58,
+     "quote": "Viabilidad relativa media para un compromiso contra el objetivo militar del 5 %",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone revertir aumentos y congelar el gasto militar; la nota lo cuenta como -2. La defensa sale en las conclusiones ejecutivas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "alta"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "X01",
+     "page": 30,
+     "quote": "Rechazar la senda de aumento y reorientar seguridad.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X01 rechaza la senda de aumento del gasto en defensa. La nota cuenta congelar el gasto militar como -2. IU va más allá y pide salir de la OTAN, lo que no se atribuye al conjunto.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EX05",
+     "page": 27,
+     "quote": "Modernización, cooperación, capacidades industriales, ciberseguridad y bienestar militar.",
+     "source_report": "psoe"
+    },
+    {
+     "unit_id": null,
+     "page": 27,
+     "quote": "No atribuir al programa una cifra cerrada de gasto militar que no concreta en sus compromisos.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EX05 moderniza capacidades sin cifra ni compromiso de aumento. La nota da 0 o +1 a modernizar sin cifra; sin mención de más presupuesto, 0. La frase del informe excluye atribuir una cifra, no una posición.",
+   "decision": "adjudicada",
+   "motivo": "Un nulo (v0 nulo, v1 0 media). Se mantiene 0 media; el PP recibe +1 porque su ficha añade más presupuesto.",
+   "antes": {
+    "value": 0,
+    "confidence": "media",
+    "flag": "un_nulo",
+    "v0": null,
+    "v1": 0
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EX01",
+     "page": 22,
+     "quote": "Ley plurianual y modernización.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "Incrementar presupuesto no garantiza entregas.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EX01 propone ley plurianual y modernización con más presupuesto, sin cifra cerrada. La nota codifica modernizar sin cifra como 0 o +1; el aumento de presupuesto da +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EX03",
+     "page": 23,
+     "quote": "Más inversión, recursos, salarios, vivienda y reconocimiento",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": "EX03",
+     "page": 23,
+     "quote": "No se fija en el programa una cuota concreta del",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EX03 propone más inversión en defensa sin cuota del PIB. Según la nota, modernizar sin cifra es 0 o +1; se pone +1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 0,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "X.12",
+     "page": 44,
+     "quote": "Destinar el 2% del PIB a Defensa con prioridad industrial española",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "X.12",
+     "page": 44,
+     "quote": "La OTAN ya confirmó que España alcanzó el 2% en 2025; mantener esa referencia no equivale por sí solo a aumentar gasto.",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.12 fija el 2% del PIB. El informe dice que España ya lo alcanzó en 2025 y que mantenerlo no equivale a aumentar gasto. No congela ni recorta: posición intermedia.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 0,
+    "confidence": "media",
+    "flag": null,
+    "v0": 0,
+    "v1": 0
+   },
+   "salience": "media"
+  }
+ },
+ "Q50": {
+  "podemos": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre recuperar competencias de la UE. La mención a la soberanía en el ámbito 18 no se vincula a competencias europeas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  },
+  "fa": {
+   "value": -1,
+   "confidence": "baja",
+   "evidence": [
+    {
+     "unit_id": "X04",
+     "page": 30,
+     "quote": "Cambiar gobernanza fiscal y funciones monetarias.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "D08",
+     "page": 29,
+     "quote": "Requiere decisión europea, definición de base, valoración y derechos",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "X04 cambia la gobernanza fiscal europea y las funciones del BCE, y D08 crea un fondo europeo con un gravamen común. Pide más capacidad fiscal europea, no recuperar competencias; sin frase explícita: -1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "baja",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "EX02",
+     "page": 27,
+     "quote": "Profundizar capacidad fiscal y democracia europeas, así como prioridades",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Baja"
+   },
+   "rationale": "Propone profundizar la capacidad fiscal y la democracia europeas. Nota: pedir más capacidad fiscal europea es negativo.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": -1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 22,
+     "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {},
+   "rationale": "El informe califica de europeísta la orientación del PP, contraria a recuperar competencias de la UE. No hay unidad sobre reparto de competencias europeas, por eso -1.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -1,
+    "confidence": "media",
+    "flag": null,
+    "v0": -1,
+    "v1": -1
+   },
+   "salience": "baja"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "EX05",
+     "page": 23,
+     "quote": "Cambiar reglas comerciales y otras restricciones.",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Abascal y la dirección ratifican fronteras y soberanía.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "EX05 pide cambiar reglas y restricciones europeas y la dirección ratifica la soberanía. No consta recuperación general de competencias: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": 2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "X.1",
+     "page": 42,
+     "quote": "Convocar un referéndum sobre renegociar la relación con la Unión Europea",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "X.1",
+     "page": 42,
+     "quote": "un segundo referéndum sobre salida",
+     "source_report": "salf"
+    },
+    {
+     "unit_id": "III.13",
+     "page": 8,
+     "quote": "impedir el límite europeo",
+     "source_report": "salf"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X.1 plantea renegociar la relación con la UE y, si se rechaza, un referéndum de salida. III.13 y X.2 se oponen a normas europeas; las conclusiones citan alterar obligaciones europeas.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": 2,
+    "v1": 2
+   },
+   "salience": "alta"
+  }
+ },
+ "Q52": {
+  "podemos": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "POD-12-08",
+     "page": 32,
+     "quote": "Desarrollar memoria, archivos,",
+     "source_report": "podemos"
+    },
+    {
+     "unit_id": "POD-12-08",
+     "page": 32,
+     "quote": "reparación de víctimas y",
+     "source_report": "podemos"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone desarrollar la memoria, los archivos y la reparación de víctimas, lo contrario de derogar la ley.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "fa": {
+   "value": -2,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "CU04",
+     "page": 31,
+     "quote": "Archivos, reparación y cambios en protecciones legales específicas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "CU04 (Memoria y protección cultural) amplía archivos y reparación. Es contrario a derogar la Ley de Memoria; el informe no nombra la ley, por eso confianza media.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "media",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "psoe": {
+   "value": -2,
+   "confidence": "alta",
+   "evidence": [
+    {
+     "unit_id": "IN05",
+     "page": 19,
+     "quote": "Desarrollar reparación, exhumaciones y divulgación.",
+     "source_report": "psoe"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone desarrollar la memoria democrática (reparación, exhumaciones, divulgación). Es lo contrario de derogar la ley.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": -2,
+    "confidence": "alta",
+    "flag": null,
+    "v0": -2,
+    "v1": -2
+   },
+   "salience": "media"
+  },
+  "pp": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "CU02",
+     "page": 23,
+     "quote": "Cambios de marco y uso institucional.",
+     "source_report": "pp"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Patrimonio, deporte de base y protección del consumidor admiten acuerdos más amplios que memoria, lengua parlamentaria o gobernanza de medios.",
+     "source_report": "pp"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "CU02 'Memoria y lenguas' cambia el marco legal de memoria, con disenso del PSOE. El informe no dice 'derogación' (p. 3 evita convertir titulares en derogaciones): versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "vox": {
+   "value": 1,
+   "confidence": "media",
+   "evidence": [
+    {
+     "unit_id": "ID05",
+     "page": 17,
+     "quote": "Cambios en memoria, expresión y protección penal de",
+     "source_report": "vox"
+    },
+    {
+     "unit_id": null,
+     "page": 17,
+     "quote": "Modificar leyes de memoria exige identificar qué disposiciones cambian, no suponer un articulado que el programa no desarrolla.",
+     "source_report": "vox"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "ID05 propone cambios en las leyes de memoria sin decir que se deroguen. El informe no supone un articulado: versión parcial.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": 1,
+    "confidence": "media",
+    "flag": null,
+    "v0": 1,
+    "v1": 1
+   },
+   "salience": "media"
+  },
+  "salf": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la Ley de Memoria Democrática.",
+   "decision": "sin_cambio",
+   "motivo": "Celda no marcada y nula. Revisión horizontal sin cambios.",
+   "antes": {
+    "value": null,
+    "confidence": null,
+    "flag": null,
+    "v0": null,
+    "v1": null
+   }
+  }
+ }
+}

@@ -1,0 +1,95 @@
+---
+import Base from "../layouts/Base.astro";
+import { META, PARTIES } from "../lib/data";
+const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" }) : "");
+---
+<Base title="Metodología · Voy Votando" description="Cómo se codifican las posiciones, cómo se calcula la afinidad y qué límites tiene el test.">
+  <article class="wrap meth">
+    <p class="kicker">Metodología · datos versión {META.version}</p>
+    <h1 class="display title">Cómo funciona</h1>
+    <p class="lead">Todo el cálculo está aquí. Si encuentras un error en una posición, cada una enlaza su cita y su página para que puedas comprobarla.</p>
+
+    <h2 class="serif" id="fuentes">1. Fuentes</h2>
+    <p>Las posiciones de los partidos salen solo de 6 informes de evaluación de sus programas para el 29N. El autor del proyecto los elaboró con ayuda de IA a partir de cada programa oficial y de las fuentes públicas que citan, como el BOE, la AIReF o el Banco de España. Se publican completos para que cualquiera pueda revisarlos. Suman {META.reportPages} páginas y {META.units} propuestas analizadas. Todos usan el mismo marco: 19 ámbitos de política, cada propuesta con su instrumento y una valoración cualitativa de si podría aprobarse (escenarios A, B y C) y ejecutarse (E).</p>
+    <table class="table">
+      <thead><tr><th>Partido</th><th>Programa</th><th>Informe</th><th>Corte</th></tr></thead>
+      <tbody>
+        {PARTIES.map((p) => <tr><th scope="row"><a href={`/partidos/${p.id}`}>{p.name}</a></th><td data-label="Programa">{fmt(p.report.programDate)}</td><td data-label="Informe"><a href={p.report.pdf} target="_blank" rel="noopener">{p.report.pages} páginas, {p.report.units} propuestas</a></td><td data-label="Corte">{fmt(p.report.cutoff)}</td></tr>)}
+      </tbody>
+    </table>
+
+    <h2 class="serif">2. Cómo se codifica cada posición</h2>
+    <p>Para cada afirmación del test, cada partido recibe un valor de −2 (propone lo contrario) a +2 (lo propone de forma explícita), o queda sin posición.</p>
+    <ul>
+      <li>El silencio no es posición. Si el informe no documenta postura, el partido queda sin posición en esa pregunta, y esa pregunta no cuenta para él.</li>
+      <li>Nunca se deduce una posición por ideología ni por lo que proponen partidos afines.</li>
+      <li>Cada valor lleva una cita literal de 25 palabras como máximo, su página y la propuesta del informe de la que sale.</li>
+      <li>Cada posición tiene una confianza: alta si hay una propuesta explícita, media si se deduce de un párrafo o de un voto documentado, baja si es un indicio indirecto.</li>
+      <li>Dos agentes de IA codificaron cada informe por separado y a ciegas. Cuando ambos dan valor, coinciden exactamente en el 88% de los casos y a un punto o menos en el 99%.</li>
+      <li>Un script comprueba que cada cita aparece en su página del informe. Si una cita no aparece, la publicación de los datos falla.</li>
+      <li>Las discrepancias se resolvieron con reglas fijas leyendo el PDF, y una persona revisó las 10 más dudosas.</li>
+      <li>Los datos, los prompts y los scripts de todo el proceso son públicos en el repositorio.</li>
+    </ul>
+
+    <h2 class="serif">3. Cómo se calcula tu afinidad</h2>
+    <p>Para cada pregunta, el acuerdo entre tu respuesta <em>u</em> y la posición del partido <em>p</em> mezcla a partes iguales la proximidad en la escala y la dirección:</p>
+    <p class="formula">a = 0,5 × (1 − |u − p| / 4) + 0,5 × (0,5 + u × p / 8)</p>
+    <p>La afinidad con cada partido es la media ponderada de esos acuerdos, con tu prioridad y la confianza de la posición como pesos. Se añaden 4 preguntas ficticias con acuerdo 0,5 para que un partido con poca evidencia no salte a los extremos:</p>
+    <p class="formula">Afinidad = 100 × (Σ w·c·a + 2) / (Σ w·c + 4)</p>
+    <ul>
+      <li>w es tu peso: 2,0, 1,5 o 1,2 en tus 3 bloques prioritarios, 1 en el resto.</li>
+      <li>c es la confianza de la posición: 1 alta, 0,75 media, 0,5 baja.</li>
+      <li>Si el partido no tiene posición en una pregunta, esa pregunta no cuenta para él. La cobertura te dice en qué parte de tus respuestas se apoya cada porcentaje.</li>
+    </ul>
+    <p>La mezcla de proximidad y dirección reduce una ventaja conocida de los partidos con posiciones moderadas: con respuestas al azar, la proximidad pura daba el primer puesto a un mismo partido el 42% de las veces; la mezcla lo baja al 28%.</p>
+
+    <h2 class="serif">4. Margen de error y empates</h2>
+    <p>Otro test con preguntas parecidas podría dar un resultado algo distinto. Para medirlo, repetimos el cálculo 1.000 veces y en cada vuelta usamos una mezcla al azar de tus propias respuestas: algunas cuentan dos veces y otras se quedan fuera. Es la técnica estadística llamada bootstrap.</p>
+    <ul>
+      <li>El margen que ves junto a cada porcentaje recoge el 90% de esas vueltas.</li>
+      <li>Si el primero gana en menos del 70% de las vueltas, lo llamamos empate técnico.</li>
+      <li>La seguridad del primer puesto es alta si gana en el 90% de las vueltas o más, media entre el 70% y el 90%, y baja por debajo del 70%.</li>
+      <li>Con menos de 10 respuestas no se muestra ranking.</li>
+    </ul>
+
+    <h2 class="serif">5. Cómo se ha comprobado</h2>
+    <ul>
+      <li>Si se responde con las posiciones de un partido, ese partido queda primero en los 6 casos.</li>
+      <li>Con votantes simulados que responden como un partido más ruido, el test completo acierta el partido de origen entre el 97,4% y el 100% de las veces con ruido moderado, y entre el 92,8% y el 99,7% con ruido alto.</li>
+      <li>El par más difícil de separar es Frente Amplio y Podemos: su cercanía en las preguntas del test es de 90 sobre 100.</li>
+    </ul>
+
+    <h2 class="serif">6. Límites</h2>
+    <ul>
+      <li>Solo incluye 6 partidos de ámbito estatal con informe propio.</li>
+      <li>Los anuncios posteriores al corte de los informes (17 y 18 de noviembre de 2026) no están.</li>
+      <li>Las valoraciones de viabilidad son juicios cualitativos de los informes. No son probabilidades y no se promedian.</li>
+      <li>Frente Amplio se mide por su programa común. Las posiciones propias de sus integrantes no puntúan.</li>
+    </ul>
+
+    <h2 class="serif">7. Versión de los datos</h2>
+    <p>Versión {META.version}. Huella SHA-256 <code>{META.sha256}</code>. Cada enlace de resultado guarda la versión con la que se calculó.</p>
+
+    <h2 class="serif">8. Código y datos abiertos</h2>
+    <p>Todo el proyecto está en <a href="https://github.com/eherrerosj/voyvotando" rel="noopener">GitHub</a>: el código (licencia AGPL-3.0), los 6 informes, las dos codificaciones, la adjudicación y los scripts (licencia CC BY 4.0). Si encuentras una posición mal codificada, abre un issue con la cita que la corrige.</p>
+  </article>
+</Base>
+<style>
+  .meth { max-width: 860px; padding-top: 48px; padding-bottom: 80px; }
+  .title { font-size: clamp(40px, 8vw, 96px); margin: 12px 0 16px; }
+  .lead { font-size: 19px; }
+  h2 { font-size: 28px; margin-top: 48px; }
+  .formula { font-family: var(--font-serif); font-size: 21px; background: var(--surface); border: 3px solid var(--line); padding: 14px 16px; overflow-x: auto; }
+  .table { width: 100%; border-collapse: collapse; font-size: 15px; display: block; overflow-x: auto; }
+  .table th, .table td { text-align: left; padding: 8px; border-bottom: 1px solid var(--line); }
+  .table a { display: block; padding: 10px 0; }
+  /* Móvil: cada informe es una tarjeta apilada. */
+  @media (max-width: 640px) {
+    .table, .table tbody, .table tr, .table th, .table td { display: block; width: 100%; }
+    .table thead { display: none; }
+    .table tr { border-top: 3px solid var(--line); padding: 6px 0 10px; }
+    .table th, .table td { border-bottom: 0; padding: 2px 0; }
+    .table td::before { content: attr(data-label) ": "; font-weight: 700; color: var(--ink-strong); }
+    .table td a { display: inline-block; padding: 10px 0; }
+  }
+</style>

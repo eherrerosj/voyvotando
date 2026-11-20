@@ -1,0 +1,6298 @@
+[
+ {
+  "id": "Q03",
+  "order": 1,
+  "block": 1,
+  "ambito": 2,
+  "text": "Hay que bajar el IRPF a la mayoría de los contribuyentes.",
+  "axis": "ECO",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Rebaja del IRPF para la mayoría",
+   "ahora": "El IRPF combina una parte estatal y otra autonómica. Hoy la tarifa, los mínimos y las deducciones no se actualizan cada año con el IPC.",
+   "aFavor": "Bajar el IRPF puede dejar más dinero a los hogares y evitar que la inflación eleve la carga fiscal.",
+   "enContra": "Bajar el IRPF necesita financiación y puede ayudar poco a los hogares de renta baja que apenas pagan este impuesto.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "salf",
+     "pagina": 12
+    },
+    {
+     "informe": "pp",
+     "pagina": 6
+    },
+    {
+     "informe": "vox",
+     "pagina": 7
+    },
+    {
+     "informe": "fa",
+     "pagina": 8
+    },
+    {
+     "informe": "podemos",
+     "pagina": 11
+    },
+    {
+     "informe": "psoe",
+     "pagina": 6
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "F06",
+      "page": 8,
+      "quote": "Aproximar capital y trabajo; rebajar IRPF a salarios hasta 27.000",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "F06",
+      "page": 8,
+      "quote": "euros y elevar al 52% el marginal desde 300.000.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "F06 rebaja el IRPF a salarios hasta 27.000 euros y sube el marginal al 52% desde 300.000. Rebaja focalizada en rentas del trabajo bajas, no general: versión parcial."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-02-06",
+      "page": 10,
+      "quote": "Modificar la escala estatal del IRPF;",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 11,
+      "quote": "Los cambios buscan mayor progresividad y recaudar para servicios.",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-02-06",
+      "page": 10,
+      "quote": "retirar incentivos a planes de",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "El informe no indica rebaja del IRPF para la mayoría: describe cambios de escala para más progresividad y recaudación y la retirada de incentivos. No precisa la dirección de los tipos, de ahí la confianza baja."
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "F01",
+      "page": 6,
+      "quote": "Deflactación, mayores mínimos y protección del SMI.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": "F02",
+      "page": 6,
+      "quote": "18-35 años: rebajas 100/75/50/25% en los cuatro primeros",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Alta"
+    },
+    "rationale": "F01 propone deflactar el IRPF y subir mínimos, rebaja general; F02 añade rebajas para jóvenes. Las rebajas fiscales salen en las conclusiones ejecutivas."
+   },
+   "psoe": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "F04",
+      "page": 6,
+      "quote": "Deducción reembolsable y prestación de crianza; exención efectiva del SMI.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "F02",
+      "page": 6,
+      "quote": "Elevar tramos altos del ahorro, con marginal del 35% por encima de 300.000 euros; mantener los dos primeros tramos.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Rebajas focalizadas en hogares con hijos y salarios del SMI, y subida de los tramos altos del ahorro. No hay rebaja del IRPF para la mayoría: posición mixta."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "III.1",
+      "page": 9,
+      "quote": "Elevar el mínimo anunciado a 15.000 euros en 2027, 22.000 en 2028, 28.000 en 2029 y 35.000 en 2030",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "No debe presentarse el calendario de mínimos del IRPF como incondicional",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "III.1 eleva el mínimo exento a 35.000 euros y III.3 deflacta tarifas. La rebaja está condicionada a ahorro certificado por AIReF; figura en conclusiones ejecutivas."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "FI01",
+      "page": 7,
+      "quote": "Rebaja y simplificación con modulación familiar.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "La plataforma reúne rebajas fiscales",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "FI01 propone una rebaja general del IRPF con modulación familiar. Faltan tipos y tramos, pero la rebaja es explícita."
+   }
+  }
+ },
+ {
+  "id": "Q02",
+  "order": 2,
+  "block": 1,
+  "ambito": 1,
+  "text": "El Estado debería crear o ampliar empresas públicas en sectores básicos como la energía, la banca o la alimentación.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Empresas públicas en energía, banca y alimentación",
+   "ahora": "El Estado posee, a través de la SEPI, el 20% de Redeia, matriz de Red Eléctrica. El fondo España Crece prevé aportar 13.300 millones al ICO.",
+   "aFavor": "Una empresa pública puede corregir fallos de financiación e invertir donde el mercado no llega por sí solo.",
+   "enContra": "Una empresa pública necesita capital del Estado y puede generar pérdidas y recapitalizaciones a cargo del presupuesto.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 50
+    },
+    {
+     "informe": "psoe",
+     "pagina": 5
+    },
+    {
+     "informe": "fa",
+     "pagina": 5
+    },
+    {
+     "informe": "podemos",
+     "pagina": 8
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "E02",
+      "page": 5,
+      "quote": "Creación o refuerzo empresarial en sectores seleccionados.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "E03",
+      "page": 5,
+      "quote": "Ampliar el papel del ICO y estudiar instrumentos de banca pública y",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "EN02",
+      "page": 24,
+      "quote": "Entrada del 30% en nuevos proyectos dentro del perímetro",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "E02 (empresas públicas estratégicas), E03 (banca pública e ICO) y EN02 (entrada pública del 30% en nuevos proyectos renovables) crean o amplían empresas públicas en energía y banca. No consta alimentación."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "POD-01-01",
+      "page": 8,
+      "quote": "Operadores públicos en mercados",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-01-02",
+      "page": 8,
+      "quote": "Banco público que reúna ICO, CDTI y",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-01-03",
+      "page": 8,
+      "quote": "Red pública de supermercados y",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "Repsol se incorporaría mediante compra de acciones.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Unidades explícitas de operadores públicos en mercados esenciales, banca pública, red pública de supermercados y compra de mayoría en Repsol. Aparece en las conclusiones ejecutivas."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona crear o ampliar empresas públicas en energía, banca o alimentación. Silencio: null."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "E05",
+      "page": 5,
+      "quote": "Utilizar participaciones públicas para autonomía productiva.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "E05 usa participaciones públicas en empresas para autonomía productiva. No crea empresas públicas ni cita energía, banca o alimentación: versión parcial."
+   },
+   "salf": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "GOV",
+      "page": 34,
+      "quote": "entidades públicas de 452 a trescientas, transfiriendo funciones útiles",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": null,
+      "page": 48,
+      "quote": "Entes, empresas y fundaciones sin función",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "El informe no documenta posición sobre empresas públicas en energía, banca o alimentación. GOV reduce entidades públicas de 452 a 300 y el cuadro fiscal suprime 'entes, empresas y fundaciones sin función' (p. 48): racionalización administrativa, objeto distinto."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no documenta propuestas de empresas públicas en energía, banca o alimentación."
+   }
+  }
+ },
+ {
+  "id": "Q01",
+  "order": 3,
+  "block": 1,
+  "ambito": 1,
+  "text": "Hay que reducir con fuerza los trámites y normas que deben cumplir las empresas.",
+  "axis": "ECO",
+  "dir": 1,
+  "polarity": "D",
+  "fast": false,
+  "help": {
+   "medida": "Menos trámites y normas para las empresas",
+   "ahora": "La Ley 39/2015 ya aplica el silencio positivo en algunos trámites. También existe ya una ley de unidad de mercado.",
+   "aFavor": "Menos trámites y normas pueden reducir los costes fijos de las empresas, sobre todo de las pequeñas.",
+   "enContra": "Menos trámites y normas pueden trasladar el control a inspecciones posteriores y eliminar protecciones sin mejorar la productividad.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 6
+    },
+    {
+     "informe": "salf",
+     "pagina": 8
+    },
+    {
+     "informe": "pp",
+     "pagina": 5
+    },
+    {
+     "informe": "fa",
+     "pagina": 6
+    },
+    {
+     "informe": "psoe",
+     "pagina": 5
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 0,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "E05",
+      "page": 6,
+      "quote": "Simplificación y pagos puntuales ofrecen un posible terreno transversal; la cogestión obligatoria o el control de rentas requiere negociación separada.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 6,
+      "quote": "Menores cargas administrativas pueden coexistir con nuevas obligaciones laborales, ambientales o de participación.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "E05 simplifica IVA y cotización de pymes, pero el informe dice que esas menores cargas coexisten con nuevas obligaciones laborales, ambientales y de participación. No hay propuesta general de menos controles previos: posición mixta."
+   },
+   "podemos": {
+    "value": 0,
+    "confidence": "baja",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": "POD-02-09",
+      "page": 11,
+      "quote": "franquicia de IVA y criterio de caja para pequeños negocios",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-17-03",
+      "page": 41,
+      "quote": "Condicionar centros de datos a disponibilidad de agua y red, eficiencia, renovables adicionales y costes a cargo del operador.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Simplifica obligaciones fiscales de pequeños negocios y añade condiciones previas a grandes empresas (centros de datos, moratoria de macrogranjas). Sin propuesta general sobre trámites: posición mixta."
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "E01",
+      "page": 5,
+      "quote": "Reducción del 25%; 35% para pymes antes de 2029.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 5,
+      "quote": "Riesgos: trasladar controles al final sin recursos de inspección",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "E01 fija una reducción cuantificada de cargas administrativas (25%, 35% en pymes). El informe advierte que traslada controles al final, lo que encaja con 'menos controles previos'."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "E04",
+      "page": 5,
+      "quote": "Régimen 20 y coordinación administrativa.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "R03",
+      "page": 23,
+      "quote": "Menos carga administrativa y apoyo a producción sostenible.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone simplificación administrativa (Régimen 20) y menos carga agraria. No documenta reducir controles previos ni una desregulación fuerte: versión parcial."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VIII.6",
+      "page": 8,
+      "quote": "Derogar dos regulaciones empresariales por cada nueva que se apruebe",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "VIII.3",
+      "page": 12,
+      "quote": "Permitir licencia de actividad en veinticuatro horas mediante declaración responsable",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VIII.6 deroga dos normas por cada nueva. VIII.3 sustituye la licencia previa por declaración responsable en 24 horas: menos control previo."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EC01",
+      "page": 6,
+      "quote": "Revisar obligaciones y eliminar tres normas por cada nueva.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 6,
+      "quote": "Reducir revisiones previas puede trasladar trabajo a inspecciones posteriores.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 6,
+      "quote": "Figaredo ratificó desregulación y rebajas fiscales el 4/11",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EC01 propone eliminar tres normas por cada nueva y EC02 añade silencio positivo. El informe asume menos revisiones previas."
+   }
+  }
+ },
+ {
+  "id": "Q04",
+  "order": 4,
+  "block": 1,
+  "ambito": 2,
+  "text": "Las personas con patrimonios muy grandes deberían pagar un impuesto anual específico sobre su riqueza.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Impuesto anual a los grandes patrimonios",
+   "ahora": "Ya existen el Impuesto sobre el Patrimonio, cedido a las comunidades, y el impuesto de solidaridad de las grandes fortunas. Este último nació con la Ley 38/2022 y está prorrogado.",
+   "aFavor": "Un impuesto anual a grandes patrimonios puede elevar lo que pagan quienes más riqueza acumulan y aportar recaudación.",
+   "enContra": "Un impuesto anual a grandes patrimonios puede provocar cambios de residencia o de bienes y recaudar menos de lo previsto.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "podemos",
+     "pagina": 49
+    },
+    {
+     "informe": "podemos",
+     "pagina": 67
+    },
+    {
+     "informe": "podemos",
+     "pagina": 11
+    },
+    {
+     "informe": "fa",
+     "pagina": 7
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "F01",
+      "page": 7,
+      "quote": "Suelo del 2% sobre patrimonios superiores a un millón y del 3% por",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "F01 fija un suelo del 2% sobre patrimonios de más de un millón y del 3% por encima de 50 millones. La recaudación de 111.000 millones es solo de IU y no se usa como posición común."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-02-01",
+      "page": 9,
+      "quote": "Impuesto estatal permanente",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-02-01",
+      "page": 9,
+      "quote": "patrimonios superiores a 100",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Unidad explícita: impuesto estatal permanente sobre grandes patrimonios coordinado con Patrimonio."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre un impuesto anual al patrimonio o la riqueza. Silencio: null."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "No documenta un impuesto anual sobre la riqueza. F02 aclara: 'No es un 35% sobre toda renta ni todo patrimonio'. V08 grava a grandes tenedores de vivienda, objeto distinto."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "III.6",
+      "page": 9,
+      "quote": "Suprimir Sucesiones, Donaciones, Patrimonio y el impuesto sobre grandes fortunas.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "III.6 suprime Patrimonio y el impuesto sobre grandes fortunas: lo contrario de un impuesto anual a la riqueza."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no menciona un impuesto sobre patrimonio o riqueza."
+   }
+  }
+ },
+ {
+  "id": "Q05",
+  "order": 5,
+  "block": 1,
+  "ambito": 2,
+  "text": "Hay que reducir el gasto público y suprimir organismos de la Administración.",
+  "axis": "ECO",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Recorte del gasto y de organismos públicos",
+   "ahora": "La AIReF estima que el gasto primario neto crecerá un 5,7% de media entre 2026 y 2028. El compromiso fijado era un crecimiento del 3,2%.",
+   "aFavor": "Suprimir organismos y recortar gasto puede ahorrar altos cargos, gabinetes, sedes y duplicidades.",
+   "enContra": "Suprimir organismos y recortar gasto puede eliminar controles útiles, y las funciones trasladadas siguen necesitando personal y gasto.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 6
+    },
+    {
+     "informe": "salf",
+     "pagina": 50
+    },
+    {
+     "informe": "salf",
+     "pagina": 34
+    },
+    {
+     "informe": "vox",
+     "pagina": 32
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "S01",
+      "page": 14,
+      "quote": "Alcanzar el 8% del PIB sanitario público y reforzar plantillas.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "ED01",
+      "page": 16,
+      "quote": "Objetivo del 7% del PIB en 2030.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "M02",
+      "page": 20,
+      "quote": "Ampliar personal y acortar citas, registro y entrevistas.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "El programa sube los objetivos de gasto (sanidad 8% del PIB, educación 7%) y amplía plantillas (S01, M02, F08, L08). Es lo contrario de reducir gasto y Administración; se deduce de las unidades, sin frase literal."
+   },
+   "podemos": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-06-05",
+      "page": 19,
+      "quote": "Elevar financiación hasta 2.900 euros",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-07-01",
+      "page": 21,
+      "quote": "Financiación educativa del 7% del",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 46,
+      "quote": "El programa combina prestaciones, servicios universales, contratación pública y adquisición de activos.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "El programa amplía gasto, servicios y organismos públicos (sanidad, educación, banca pública, cuidados). Es lo contrario de reducir gasto y Administración; se deduce del conjunto de unidades."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "IN01",
+      "page": 16,
+      "quote": "Revisar gasto y estructura es posible",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 24,
+      "quote": "La reducción de estructura administrativa debe proteger precisamente las plantillas que tramitan vivienda, prestaciones, contratos y evaluaciones.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 32,
+      "quote": "Reducir personal o instituciones antes de conocer su función puede debilitar supervisión y tramitación.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Alta",
+     "E": "Media"
+    },
+    "rationale": "IN01 propone auditar y revisar gasto y estructura, y el informe habla de reducción de estructura administrativa. No hay compromiso explícito de suprimir organismos y puestos, y el programa amplía plantillas en sanidad y seguridad: versión parcial."
+   },
+   "psoe": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "S01",
+      "page": 11,
+      "quote": "Acercar gasto sanitario público al 7% del PIB, reforzar atención primaria y",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": null,
+      "page": 39,
+      "quote": "Crianza, sanidad, educación y cuidados generan gasto permanente",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": null,
+      "page": 39,
+      "quote": "Nuevas autoridades, registros, prestaciones y leyes compiten por los mismos especialistas",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "F01",
+      "page": 6,
+      "quote": "Presentar un plan en primavera de 2027 y reducir déficit y deuda,",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Amplía gasto recurrente (sanidad al 7% del PIB, crianza, cuidados) y crea nuevas autoridades, aunque promete reducir déficit. Versión parcial de lo contrario."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "GOV",
+      "page": 34,
+      "quote": "reducir secretarías de Estado de treinta y cinco a quince, direcciones generales de 128 a setenta, altos cargos de 823 a 450",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "VII.15",
+      "page": 38,
+      "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "Los 57.000 M€ atribuidos a duplicidades autonómicas representan el 64,4% de las fuentes.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "GOV recorta cargos y entidades (452 a 300). VII.15 suprime organismos. El cuadro fiscal se apoya en 57.000 M€ de ahorro autonómico, citado en conclusiones."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "FI03",
+      "page": 7,
+      "quote": "Revisión de gasto y retirada progresiva de determinadas",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 25,
+      "quote": "Figaredo propone revisar grandes partidas y expresa ambición de recorte",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "No equivale simplemente a reducir el Estado: también propone vivienda protegida, inversión, personal y nuevas comprobaciones administrativas.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Vox propone revisar gasto y retirar subvenciones de forma progresiva. También amplía personal y servicios, y no consta supresión de organismos: versión parcial."
+   }
+  }
+ },
+ {
+  "id": "Q08",
+  "order": 6,
+  "block": 1,
+  "ambito": 3,
+  "text": "La jornada laboral máxima debería bajar por ley hasta 32 horas semanales o menos, sin reducir el salario.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Jornada máxima de 32 horas sin bajar salario",
+   "ahora": "La jornada legal general sigue en 40 horas semanales. En septiembre de 2025 el Congreso rechazó, por 178 votos contra 170, un proyecto para bajarla a 37,5 horas.",
+   "aFavor": "Trabajar menos horas puede mejorar el bienestar y ayudar a que el personal siga en la empresa. Los ensayos voluntarios con menos horas aportan evidencia de más bienestar en la plantilla.",
+   "enContra": "A igual salario, pasar de 40 a 32 horas sube un 25% el coste de cada hora trabajada. Los ensayos de cuatro días no prueban que todos los sectores mantengan su productividad.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 9
+    },
+    {
+     "informe": "psoe",
+     "pagina": 32
+    },
+    {
+     "informe": "podemos",
+     "pagina": 12
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "L03",
+      "page": 9,
+      "quote": "37,5 horas en 2026 y avance posterior hacia 32, sin rebaja salarial.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "L03 fija 37,5 horas en 2026 y un avance posterior hacia 32 sin rebaja salarial, sin plazo: versión gradual."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "POD-03-02",
+      "page": 12,
+      "quote": "Primer paso de 35 horas y objetivo de 30 durante la legislatura, sin rebaja salarial",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "POD-03-02 fija 35 horas y después 30 en la legislatura, sin rebaja salarial: por debajo del umbral de 32."
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 7,
+      "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": null,
+      "page": 51,
+      "quote": "Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {},
+    "rationale": "Hecho documentado en los informes del PSOE y de FA: el PP votó la devolución de la ley de 37,5 h (10/09/2025). La nota codifica ese voto como -2. La frase del informe propio ('No se atribuye al PP ... una jornada concreta', p. 7) se refiere al programa, no al voto."
+   },
+   "psoe": {
+    "value": 0,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "L01",
+      "page": 7,
+      "quote": "Legislar 37,5 horas; avanzar hacia 35 mediante negociación colectiva.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "37,5 horas por ley y 35 por negociación colectiva. No propone 32 horas por ley. La nota da -1 o 0 a 37,5 h; el avance a 35 lo sitúa en 0."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta propuesta sobre jornada laboral máxima. 'Jornada' solo aparece al homogeneizar retribuciones sanitarias y policiales."
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 7,
+      "quote": "El proyecto de 37,5 horas fue devuelto en septiembre de 2025 con el apoyo de PP, Vox y Junts a las enmiendas de totalidad.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": null,
+      "page": 51,
+      "quote": "Enmiendas de devolución de Junts, Vox y PP: 178 votos favorables, 170 contrarios.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {},
+    "rationale": "El informe de Vox no trata la jornada. Hecho documentado en los informes del PSOE y de FA: Vox votó la devolución de la ley de 37,5 h (10/09/2025). Según la nota, -2."
+   }
+  }
+ },
+ {
+  "id": "Q07",
+  "order": 7,
+  "block": 1,
+  "ambito": 2,
+  "text": "El impuesto de sociedades debería mantenerse o subir.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Rebaja del impuesto de sociedades",
+   "ahora": "La Ley 27/2014 regula el impuesto de sociedades. La Ley 7/2024 somete a los grandes grupos a un impuesto complementario mínimo.",
+   "aFavor": "Bajar el impuesto puede atraer traslados solo contables, y en grandes grupos el mínimo global puede cobrar la diferencia.",
+   "enContra": "Bajar el impuesto deja más beneficio para reinvertir, y sus incentivos fiscales pueden atraer inversión.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "salf",
+     "pagina": 39
+    },
+    {
+     "informe": "vox",
+     "pagina": 7
+    },
+    {
+     "informe": "pp",
+     "pagina": 6
+    },
+    {
+     "informe": "fa",
+     "pagina": 8
+    },
+    {
+     "informe": "podemos",
+     "pagina": 10
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "F05",
+      "page": 8,
+      "quote": "Suelo efectivo del 20% para grandes empresas y revisión de",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "F05 impone un suelo efectivo del 20% a grandes empresas y revisa beneficios fiscales. Sube la tributación efectiva de Sociedades, lo contrario de bajarla."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-02-05",
+      "page": 10,
+      "quote": "Mínimo del 19% sobre beneficios;",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-02-05",
+      "page": 10,
+      "quote": "mínimos y tipos superiores para",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone un mínimo del 19% y tipos superiores para oligopolios: subir, no bajar, Sociedades."
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "F04",
+      "page": 6,
+      "quote": "Amortización inmediata e incentivos anticipados.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "F04 rebaja la carga sobre la inversión empresarial con amortización inmediata e incentivos. No se documenta una bajada del tipo de sociedades: versión parcial."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona el impuesto de sociedades. F03 propone gravámenes nuevos sobre empresas con brechas salariales extremas, sin tocar el tipo general."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "III.5",
+      "page": 9,
+      "quote": "Bajar el tipo general al 20% en dos años, aplicar 15% al beneficio reinvertido",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "III.5 baja el tipo general de Sociedades al 20%, con 15% para beneficio reinvertido y 10% para empresas nuevas."
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "FI02",
+      "page": 7,
+      "quote": "Rebajas sin tipo cerrado en el programa.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "La unidad FI02 (IVA y sociedades) propone rebajas del impuesto de sociedades sin tipo cerrado."
+   }
+  }
+ },
+ {
+  "id": "Q09",
+  "order": 8,
+  "block": 1,
+  "ambito": 3,
+  "text": "Despedir a un trabajador debería ser más caro o más difícil para las empresas.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Despido más caro o más difícil",
+   "ahora": "El marco laboral vigente incluye la reforma laboral de 2021, el Real Decreto-ley 32/2021, y sus modificaciones.",
+   "aFavor": "Más garantías frente al despido pueden reducir despidos injustificados y la rotación, y beneficiar a personas con empleo precario.",
+   "enContra": "Más garantías frente al despido pueden frenar nuevas contrataciones y favorecer a quien ya tiene empleo frente a quien lo busca.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 8
+    },
+    {
+     "informe": "vox",
+     "pagina": 43
+    },
+    {
+     "informe": "fa",
+     "pagina": 10
+    },
+    {
+     "informe": "podemos",
+     "pagina": 12
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "L06",
+      "page": 10,
+      "quote": "Reforzar reparación, control y derechos laborales.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 10,
+      "quote": "La escala de cogestión, el diseño del despido y la financiación de la protección son puntos abiertos a negociación",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "L06 (despido) refuerza reparación, control y derechos laborales, lo que encarece o dificulta despedir. El diseño concreto queda abierto, por eso confianza media."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-03-04",
+      "page": 12,
+      "quote": "indemnización de 45 días y mayores",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-03-04",
+      "page": 12,
+      "quote": "garantías de readmisión y despido.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Unidad explícita: indemnización de 45 días y más garantías de readmisión."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe dice: 'No se atribuye al PP una derogación íntegra de la reforma laboral ni una jornada concreta sin compromiso explícito en el corpus' (p. 7). No documenta posición sobre coste del despido."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "L03",
+      "page": 7,
+      "quote": "Cambiar reparación por despido, salarios de tramitación y plazos.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "L03",
+      "page": 7,
+      "quote": "no basta anunciar compensación suficiente",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "L03 cambia la reparación por despido y los salarios de tramitación; la dirección (compensación suficiente) se deduce del comentario de la ficha. Sin cuantía: versión parcial."
+   },
+   "salf": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VIII.2",
+      "page": 13,
+      "quote": "Sustituir modalidades por un contrato indefinido único con indemnización creciente entre doce y treinta y tres días.",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "VIII.2",
+      "page": 13,
+      "quote": "El programa presenta la aportación como adicional a la indemnización.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Contrato único con indemnización que empieza en 12 días; la nota codifica 'contrato único con menos días' como negativo. La cuenta del 1,53% es adicional a la indemnización, por eso -1 y no -2."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe dice de EM02: \"El texto no concreta el régimen alternativo completo.\" No documenta posición sobre coste del despido."
+   }
+  }
+ },
+ {
+  "id": "Q11",
+  "order": 9,
+  "block": 1,
+  "ambito": 4,
+  "text": "La edad ordinaria de jubilación debería bajar a los 65 años o menos.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Jubilación ordinaria a los 65 años o antes",
+   "ahora": "En 2026 la edad ordinaria de jubilación es 65 años con al menos 38 años y 3 meses cotizados. En otro caso es 66 años y 10 meses.",
+   "aFavor": "Adelantar la jubilación da más años de pensión y puede reducir las carencias económicas de las personas mayores.",
+   "enContra": "Adelantar la jubilación da menos años de cotización y crea necesidades de financiación permanentes, distintas para cada generación.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 11
+    },
+    {
+     "informe": "podemos",
+     "pagina": 14
+    },
+    {
+     "informe": "podemos",
+     "pagina": 15
+    },
+    {
+     "informe": "pp",
+     "pagina": 8
+    },
+    {
+     "informe": "salf",
+     "pagina": 16
+    },
+    {
+     "informe": "salf",
+     "pagina": 52
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "P02",
+      "page": 11,
+      "quote": "Jubilación a los 65 Generalizar esa edad y adaptar supuestos penosos o carreras largas.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "P02 generaliza la jubilación a los 65 para todos (hoy 66 y 10 meses sin carrera larga)."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-04-01",
+      "page": 14,
+      "quote": "Jubilación ordinaria a los 63 años",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "POD-04-01 fija la jubilación ordinaria a los 63 años, por debajo de 65."
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "P02",
+      "page": 8,
+      "quote": "Incentivos fiscales a compatibilizar actividad y pensión.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 8,
+      "quote": "Un incentivo a prolongar actividad puede aumentar oferta de trabajo",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "P02 incentiva seguir trabajando con la pensión; la nota codifica incentivar trabajar más años como negativo. No cambia la edad ordinaria: -1."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "P04",
+      "page": 8,
+      "quote": "Mejorar incapacidad oncológica y retorno gradual; evaluar jubilación por penosidad.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Solo propone evaluar la jubilación por penosidad, vía anticipada para colectivos. No toca la edad ordinaria; análogo débil al +1 de carreras largas."
+   },
+   "salf": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "V.5",
+      "page": 16,
+      "quote": "Compatibilizar trabajo y el 100% de pensión sin recortes ni cotización extra y permitir jubilación sin penalización con cuarenta años cotizados.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Alta"
+    },
+    "rationale": "V.5 combina jubilación sin penalización con 40 años cotizados (+1 según la nota) y jubilación activa con el 100% de la pensión, un incentivo a prolongar actividad que la nota cuenta como negativo. Posición mixta."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe dice: \"La formulación del programa no acredita una nueva edad de jubilación\". No hay posición sobre la edad ordinaria."
+   }
+  }
+ },
+ {
+  "id": "Q12",
+  "order": 10,
+  "block": 2,
+  "ambito": 5,
+  "text": "El Estado debería poder fijar topes al precio del alquiler en las zonas con precios muy altos.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Topes al precio del alquiler en zonas tensionadas",
+   "ahora": "La Ley 12/2023 por el derecho a la vivienda ya incluye mecanismos para zonas de mercado tensionado. Activarlos, ampliarlos o sustituirlos exige revisar qué competencias tienen el Estado y las comunidades.",
+   "aFavor": "Los topes pueden reducir lo que pagan los inquilinos que quedan cubiertos por la regulación. Un estudio sobre San Francisco encontró que el control protegió a los inquilinos frente al desplazamiento.",
+   "enContra": "Los topes pueden llevar a los propietarios a cambiar el mantenimiento, la selección de inquilinos o el tipo de alquiler que ofrecen. El mismo estudio sobre San Francisco encontró que parte de los propietarios retiró viviendas del alquiler.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 13
+    },
+    {
+     "informe": "psoe",
+     "pagina": 10
+    },
+    {
+     "informe": "pp",
+     "pagina": 9
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V05",
+      "page": 13,
+      "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 12,
+      "quote": "Vivienda es una prioridad explícita de la coalición.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "V05 propone topes de alquiler por referencia e ingresos y contratos indefinidos. Vivienda es prioridad explícita y aparece en la lectura ejecutiva."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "POD-05-01",
+      "page": 16,
+      "quote": "Rebajar rentas un 40% con condición",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 58,
+      "quote": "La rebaja íntegra del 40 % de Podemos necesitaría un acuerdo adicional.",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 56,
+      "quote": "Montero anunció condiciones de investidura",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone rebajar por ley las rentas un 40% con referencia a la media de zona, más que un tope. Es condición de investidura y sale en las conclusiones ejecutivas."
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V04",
+      "page": 9,
+      "quote": "Derogación de la Ley de Vivienda e incentivos a permanencia.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 9,
+      "quote": "Vox coincide en oferta y derogación",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "V04 propone derogar la Ley de Vivienda; la nota fija derogarla como -2. Vivienda es prioridad declarada de Feijóo."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V07",
+      "page": 10,
+      "quote": "Mayor duración y protección, seguros, intermediación e incentivos fiscales.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "V07",
+      "page": 10,
+      "quote": "Separar lo vigente del nuevo compromiso de prórrogas, cuyo decreto tuvo",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": null,
+      "page": 10,
+      "quote": "los controles pueden proteger a inquilinos cubiertos",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone mayor duración y prórrogas de alquiler, y el informe analiza sus controles sobre inquilinos cubiertos. No documenta topes de precio explícitos: versión parcial."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre topes al alquiler ni sobre la Ley de Vivienda de 2023. El bloque de vivienda de SALF no incluye control de rentas."
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VI03",
+      "page": 10,
+      "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 43,
+      "quote": "Ley 12/2023 por el derecho a la vivienda",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VI03 propone derogar la Ley de Vivienda (Ley 12/2023). Según la nota, derogarla es -2."
+   }
+  }
+ },
+ {
+  "id": "Q13",
+  "order": 11,
+  "block": 2,
+  "ambito": 5,
+  "text": "La mejor forma de abaratar la vivienda es liberar suelo, agilizar licencias y bajar impuestos, más que intervenir el mercado.",
+  "axis": "ECO",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Más suelo, licencias rápidas y menos impuestos",
+   "ahora": "La Ley 12/2023 permite aplicar medidas al alquiler en zonas de mercado tensionado. La vivienda nueva paga IVA al comprarse y la de segunda mano paga el impuesto de transmisiones (ITP).",
+   "aFavor": "Aumentar la oferta efectiva de viviendas puede mejorar el acceso a la vivienda a medio plazo. Simplificar licencias puede acortar demoras administrativas si hay expedientes completos, personal y controles técnicos.",
+   "enContra": "Si la oferta crece despacio, parte de las rebajas fiscales a la compra puede trasladarse al precio. Una licencia más rápida no entrega una vivienda si faltan suelo urbanizado, trabajadores y financiación.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 13
+    },
+    {
+     "informe": "pp",
+     "pagina": 9
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    },
+    {
+     "informe": "salf",
+     "pagina": 18
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V05",
+      "page": 13,
+      "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "F03",
+      "page": 7,
+      "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "El programa interviene el mercado: topes (V05), gravamen del 10% a la acumulación de vivienda (F03) y expropiación (V02). Es lo contrario de preferir liberar suelo y bajar impuestos; se deduce de las unidades."
+   },
+   "podemos": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "POD-05-01",
+      "page": 16,
+      "quote": "Rebajar rentas un 40% con condición",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-02-07",
+      "page": 10,
+      "quote": "Fiscalidad de viviendas vacías,",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "El programa apuesta por intervenir el mercado (rebaja de rentas, expropiación de uso, límites de compra) y por gravar más los inmuebles. No propone liberar suelo ni bajar impuestos."
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V02",
+      "page": 9,
+      "quote": "Agilización y plazo de tres meses.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": "V03",
+      "page": 9,
+      "quote": "IVA del 4% para primera compra joven y apoyo al ahorro.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 9,
+      "quote": "Respaldo prioritario de Feijóo y equipo económico.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "V02 agiliza suelo y licencias con plazo de tres meses y V03 baja el IVA de compra; V04 retira la regulación del alquiler. Es la vía de oferta frente a intervenir el mercado."
+   },
+   "psoe": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V03",
+      "page": 9,
+      "quote": "Banco de suelo, industrialización, FP de construcción y agilización urbanística.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "V08",
+      "page": 10,
+      "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "V02",
+      "page": 9,
+      "quote": "Llegar a 100.000 viviendas estatales mediante adquisición y construcción;",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Combina suelo y agilización urbanística con intervención: gravamen y restricciones a grandes tenedores y parque estatal. No antepone liberalizar a intervenir: mixta."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "I.1",
+      "page": 17,
+      "quote": "Eliminar ITP y AJD en primera vivienda; IVA del 4% reintegrado en el IRPF, suelo público sin precio y licencias rápidas.",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "I.5",
+      "page": 18,
+      "quote": "Resolver obras menores en un mes, mayores en dos y grandes desarrollos en tres; silencio positivo",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "El bloque de vivienda combina rebajas fiscales (I.1), cesión de suelo (I.4) y licencias rápidas con silencio positivo (I.5), sin control de precios."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "VI01",
+      "page": 10,
+      "quote": "Reforma de suelo, permisos, menores cargas y financiación.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "VI04",
+      "page": 10,
+      "quote": "IVA cero en obra nueva e ITP bonificado en usada.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "VI03",
+      "page": 10,
+      "quote": "Derogar la Ley de Vivienda, incentivar alquiler estable",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "La vía de Vox es suelo, permisos, menos cargas y rebajas fiscales (VI01, VI04), y deroga la ley que interviene el alquiler (VI03)."
+   }
+  }
+ },
+ {
+  "id": "Q16",
+  "order": 12,
+  "block": 2,
+  "ambito": 5,
+  "text": "Habría que prohibir o limitar mucho los pisos turísticos en las zonas con escasez de vivienda.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Prohibir o limitar pisos turísticos en zonas tensionadas",
+   "ahora": "Cualquier límite a los pisos turísticos depende de licencias, competencias repartidas e inspección de los ayuntamientos. Los informes no citan una norma estatal vigente que los prohíba.",
+   "aFavor": "Limitar los pisos turísticos puede devolver viviendas al uso residencial en las zonas con escasez.",
+   "enContra": "Limitar los pisos turísticos puede desviar viviendas a alquileres de temporada o por habitaciones en lugar del alquiler habitual.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 17
+    },
+    {
+     "informe": "fa",
+     "pagina": 13
+    },
+    {
+     "informe": "psoe",
+     "pagina": 10
+    },
+    {
+     "informe": "salf",
+     "pagina": 18
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "V06",
+      "page": 13,
+      "quote": "Extinguir licencias turísticas en tres años en zonas tensionadas y",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "V06 extingue las licencias turísticas en tres años en zonas tensionadas y evita la elusión por temporada o habitaciones."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-05-05",
+      "page": 17,
+      "quote": "Eliminar usos turísticos residenciales",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-05-05",
+      "page": 17,
+      "quote": "durante la emergencia, con retirada",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Unidad explícita: eliminar usos turísticos residenciales durante la emergencia con retirada de licencias."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona pisos turísticos. Silencio: null."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "V09",
+      "page": 10,
+      "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "V08",
+      "page": 10,
+      "quote": "Gravamen y restricciones a usos o compras no residenciales.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "La ficha de vivienda vacía y turística propone instrumentos locales y cambios de uso; V08 restringe usos no residenciales. Sin prohibición: versión parcial."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "I.9",
+      "page": 18,
+      "quote": "registro turístico sin prohibiciones",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "I.9 prevé un registro de alquiler turístico 'sin prohibiciones': rechaza explícitamente prohibir. Aparece de pasada dentro de la ficha de construcción industrializada."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "VI03",
+      "page": 10,
+      "quote": "regular pisos turísticos",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VI03 propone \"regular pisos turísticos\" sin precisar alcance. Se codifica como versión parcial; no consta prohibición ni límite fuerte."
+   }
+  }
+ },
+ {
+  "id": "Q14",
+  "order": 13,
+  "block": 2,
+  "ambito": 5,
+  "text": "La policía debería poder desalojar una vivienda ocupada ilegalmente en un plazo máximo de 48 horas.",
+  "axis": "SOC",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Desalojo policial de viviendas ocupadas en 48 horas",
+   "ahora": "La vía para recuperar una vivienda cambia según sea allanamiento, usurpación o impago de alquiler. Acelerarla exige notificación, defensa, prueba y decisión judicial cuando proceda.",
+   "aFavor": "Un desalojo rápido refuerza la protección de los propietarios frente a la ocupación de su vivienda. En casos concretos, como una ocupación flagrante, los análisis ven más viable cumplir un plazo corto.",
+   "enContra": "Un desalojo rápido puede causar errores, porque un título de propiedad no resuelve por sí solo el derecho a ocupar. Los análisis ven poco viable cumplir el plazo en todos los casos sin más juzgados ni alojamiento alternativo.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 17
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    },
+    {
+     "informe": "vox",
+     "pagina": 16
+    },
+    {
+     "informe": "pp",
+     "pagina": 15
+    },
+    {
+     "informe": "psoe",
+     "pagina": 18
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "V07 trata la protección ante desahucios. El informe no documenta posición sobre desalojar viviendas ocupadas ilegalmente."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "POD-05-04",
+      "page": 16,
+      "quote": "lanzamientos sin alternativa próxima",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-05-04",
+      "page": 16,
+      "quote": "y persecución del acoso y desalojo",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {},
+    "rationale": "POD-05-04 'Mayor protección frente a lanzamientos sin alternativa próxima y persecución del acoso y desalojo extrajudicial' (p. 16) trata desahucios y coerción privada. El informe no menciona la ocupación ilegal."
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "J03",
+      "page": 15,
+      "quote": "Requiere decisión judicial y clasificación correcta del supuesto.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 9,
+      "quote": "La recuperación judicial en 48 horas se evalúa en justicia",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "J03 propone recuperar la vivienda ocupada en 48 horas. La nota reserva +1 para agilizar sin plazo exprés; aquí hay plazo de 48 h, aunque con decisión judicial."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "J05",
+      "page": 18,
+      "quote": "Digitalizar procesos y agilizar procedimientos sobre ocupación. No prometer",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "J05",
+      "page": 18,
+      "quote": "desalojo automático en 48 horas para toda disputa: importan el tipo de caso y",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Agiliza procedimientos sobre ocupación sin plazo exprés; el informe advierte que no promete desalojo automático en 48 horas. Nota: +1."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "I.3",
+      "page": 17,
+      "quote": "Desalojo policial en 48 horas con denuncia y título de propiedad",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "I.3 propone desalojo policial en 48 horas, tal como la afirmación."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VI05",
+      "page": 10,
+      "quote": "Desalojo inferior a 24 horas y respuesta penal.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 16,
+      "quote": "El desalojo universal en 24 horas tiene problemas distintos de un supuesto flagrante.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "VI05 propone desalojo en menos de 24 horas, un plazo más corto que el de 48 horas de la afirmación."
+   }
+  }
+ },
+ {
+  "id": "Q15",
+  "order": 14,
+  "block": 2,
+  "ambito": 5,
+  "text": "El Estado debería poder expropiar, con compensación, viviendas vacías de grandes propietarios para destinarlas a alquiler social.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "T",
+  "fast": false,
+  "help": {
+   "medida": "Expropiar con compensación viviendas vacías de grandes propietarios",
+   "ahora": "Hoy una expropiación exige una causa pública, un expediente, un justiprecio y el pago al propietario.",
+   "aFavor": "Expropiar viviendas vacías amplía el parque público de alquiler sin esperar a construir otras nuevas.",
+   "enContra": "Expropiar viviendas vacías cuesta dinero público en justiprecio y gestión, y no todas son habitables o están donde hay demanda.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 12
+    },
+    {
+     "informe": "psoe",
+     "pagina": 9
+    },
+    {
+     "informe": "psoe",
+     "pagina": 10
+    },
+    {
+     "informe": "podemos",
+     "pagina": 18
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "V02",
+      "page": 12,
+      "quote": "Expropiación compensada de parque corporativo: fases para más de",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 12,
+      "quote": "La expropiación se describe como compensada: no debe analizarse como adquisición gratuita ni como retirada indiscriminada de viviendas a familias.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "V02 propone expropiar con justiprecio el parque corporativo de grandes tenedores, por fases de 1.000, 700 y 50 viviendas. Cubre más que las viviendas vacías."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "POD-05-03",
+      "page": 16,
+      "quote": "Se propone expropiar el uso, no necesariamente la",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-05-03",
+      "page": 16,
+      "quote": "encima de diez en grandes tenedores",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "La intervención inmobiliaria incluye expropiación de uso;",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Expropiación del uso de viviendas de grandes tenedores para alquiler público o regulado; la nota la cuenta como +2."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona expropiar viviendas vacías ni sancionarlas. Silencio: null."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "V09",
+      "page": 10,
+      "quote": "Instrumentos locales, alquiler garantizado y cambios de uso.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Para vivienda vacía propone instrumentos locales, alquiler garantizado y cambios de uso, sin expropiación. Movilizar vacías sin expropiar: +1 según la nota."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta propuesta sobre expropiar o gravar viviendas vacías. La vivienda de SALF se centra en propiedad, suelo y licencias."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no menciona expropiar ni sancionar viviendas vacías."
+   }
+  }
+ },
+ {
+  "id": "Q18",
+  "order": 15,
+  "block": 3,
+  "ambito": 6,
+  "text": "La sanidad pública debería dejar de pagar a centros privados para atender a sus pacientes.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Dejar de pagar a centros sanitarios privados",
+   "ahora": "Las comunidades autónomas gestionan gran parte de la sanidad pública. Parte de la atención se presta hoy mediante contratos y concesiones con centros privados.",
+   "aFavor": "Pasar a gestión pública directa puede cambiar los incentivos y el control sobre la atención. Pagar a centros privados no añade capacidad si usan los mismos especialistas que la red pública.",
+   "enContra": "Cambiar la forma de gestión no crea personal ni equipos, y la red pública debe absorber esa actividad. Revertir contratos tiene costes propios, como indemnizaciones, y riesgo de interrumpir la atención a pacientes.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 10
+    },
+    {
+     "informe": "podemos",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 20
+    },
+    {
+     "informe": "fa",
+     "pagina": 15
+    },
+    {
+     "informe": "salf",
+     "pagina": 19
+    },
+    {
+     "informe": "vox",
+     "pagina": 11
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "S05",
+      "page": 15,
+      "quote": "Cambiar el marco de colaboración y avanzar en integración de",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 15,
+      "quote": "La orientación hacia gestión pública está documentada en el texto común y en IU.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "S05 cambia el marco de colaboración con la privada e integra mutualidades, con auditoría y transición. Retirada gradual hacia gestión directa, sin fin inmediato de los pagos: +1."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-06-03",
+      "page": 19,
+      "quote": "Gestión sanitaria pública directa;",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 20,
+      "quote": "ni un acuerdo con otros partidos sobre gestión exclusivamente directa.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Gestión sanitaria pública directa con reversión de concesiones; el informe habla de gestión exclusivamente directa. No detalla conciertos ni derivaciones."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta derivación a centros privados ni su rechazo; S02 solo cita 'Pacto y plan urgente' (p. 10). Silencio: null."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "S01",
+      "page": 11,
+      "quote": "personal, y priorizar gestión pública directa.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Prioriza la gestión pública directa en sanidad. No propone dejar de pagar a centros privados: versión parcial."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VI.2",
+      "page": 19,
+      "quote": "superado el plazo, elegir centro público o privado financiado por el SNS",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "VI.6",
+      "page": 19,
+      "quote": "Ofrecer cita médica en 48 horas o pagar una consulta privada",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "VI.2 y VI.6 pagan con fondos públicos atención privada al superar plazos de espera: lo contrario según la nota."
+   },
+   "vox": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "SA03",
+      "page": 11,
+      "quote": "Plan nacional, derivación interterritorial y colaboración privada evaluada.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "SA03 incluye colaboración privada evaluada contra las listas de espera; la nota la codifica como negativa. Es acotada y evaluada, frente al pago de centros privados al superar plazos de SALF (-2)."
+   }
+  }
+ },
+ {
+  "id": "Q19",
+  "order": 16,
+  "block": 3,
+  "ambito": 6,
+  "text": "Los inmigrantes en situación irregular deberían tener acceso a la sanidad pública igual que el resto de residentes.",
+  "axis": "SOC",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Igual acceso sanitario para inmigrantes en situación irregular",
+   "ahora": "La Ley 16/2003 y el Real Decreto 180/2026 regulan el acceso sanitario de personas sin residencia legal, con protecciones específicas. Esa cobertura no depende solo de haber cotizado.",
+   "aFavor": "El acceso ordinario evita retrasos en la atención que pueden acabar trasladando casos a urgencias.",
+   "enContra": "El acceso ordinario añade gasto en consultas de personas sin residencia legal, que una cobertura solo de urgencias no tendría.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 11
+    },
+    {
+     "informe": "vox",
+     "pagina": 26
+    },
+    {
+     "informe": "salf",
+     "pagina": 20
+    },
+    {
+     "informe": "podemos",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona el acceso sanitario de inmigrantes en situación irregular."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-10-05",
+      "page": 27,
+      "quote": "Acceso efectivo a educación, salud,",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-06-02",
+      "page": 19,
+      "quote": "Universalidad y ampliación de",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone universalidad sanitaria y acceso efectivo de las familias migrantes a la salud. No distingue situación administrativa."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre acceso sanitario de inmigrantes en situación irregular. Silencio: null."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no trata el acceso sanitario de inmigrantes en situación irregular."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VI.7",
+      "page": 20,
+      "quote": "Reservar tarjeta a españoles y residentes legales con cotización o cobertura, garantizar urgencias para todos",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VI.7 reserva la tarjeta sanitaria a españoles y residentes legales y deja urgencias para el resto: -2 según la nota."
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "SA05",
+      "page": 11,
+      "quote": "Cobertura limitada a urgencias graves para residentes",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 26,
+      "quote": "Limitarla a urgencia grave exige modificar ese marco y resolver excepciones",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "SA05 limita la cobertura de residentes irregulares a urgencias graves. Según la nota, -2."
+   }
+  }
+ },
+ {
+  "id": "Q20",
+  "order": 17,
+  "block": 3,
+  "ambito": 7,
+  "text": "El dinero público para educación debería ir solo a la escuela pública, reduciendo los conciertos con colegios privados.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Dinero educativo solo para la escuela pública",
+   "ahora": "Hoy el dinero público financia centros públicos y centros privados concertados. Las comunidades autónomas gestionan buena parte de esa financiación.",
+   "aFavor": "La elección de centro puede aumentar la separación de alumnos entre centros, según las reglas de admisión y plazas. Pasar recursos a la red pública puede beneficiar a unas familias, según dónde se amplíen las plazas.",
+   "enContra": "La elección de centro puede ampliar las oportunidades de las familias, según las reglas de admisión y plazas. El mismo cambio de red puede obligar a otras familias a cambiar de centro durante la transición.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 11
+    },
+    {
+     "informe": "fa",
+     "pagina": 16
+    },
+    {
+     "informe": "vox",
+     "pagina": 12
+    },
+    {
+     "informe": "salf",
+     "pagina": 24
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "ED03",
+      "page": 16,
+      "quote": "Reorientar progresivamente recursos hacia provisión pública.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "ED03 (Red pública y conciertos) reorienta recursos hacia la provisión pública de forma progresiva y mantiene la escolarización durante la transición. No fija el fin de toda financiación concertada: +1."
+   },
+   "podemos": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-07-01",
+      "page": 21,
+      "quote": "La absorción voluntaria de centros y",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 22,
+      "quote": "La expansión pública y los límites a centros privados son instrumentos separables y negociables de forma distinta.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Expansión de la red pública con absorción voluntaria de centros y límites a centros privados. Es una versión gradual, sin supresión explícita de conciertos."
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "ED03",
+      "page": 11,
+      "quote": "Ampliar estabilidad de conciertos y elección.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "ED03 amplía la estabilidad de los conciertos y la elección de centro; la nota codifica ampliar conciertos como -2."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Sin posición sobre conciertos educativos. ED01 universaliza la oferta pública de 0-3 sin hablar de conciertos; la mención del informe del PP es hipótesis."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IX.6",
+      "page": 24,
+      "quote": "mediante un cheque utilizable en centros públicos, concertados o privados",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IX.6 propone cheque escolar válido en centros públicos, concertados y privados: -2 según la nota."
+   },
+   "vox": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "ED03",
+      "page": 12,
+      "quote": "Elección de centro, distrito único, becas y FP.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "El informe no habla de conciertos. ED03 propone libertad de elección de centro, indicio indirecto contrario a financiar solo la escuela pública."
+   }
+  }
+ },
+ {
+  "id": "Q22",
+  "order": 18,
+  "block": 3,
+  "ambito": 7,
+  "text": "La ley educativa actual (LOMLOE) debería sustituirse por otra con más exámenes externos y más exigencia para pasar de curso.",
+  "axis": "SOC",
+  "dir": 1,
+  "polarity": "T",
+  "fast": false,
+  "help": {
+   "medida": "Sustituir la LOMLOE por una ley más exigente",
+   "ahora": "La LOMLOE (Ley Orgánica 3/2020) reformó la Ley Orgánica 2/2006 de Educación, que sigue vigente con esos cambios. Cambiar el sistema exige otra ley orgánica y su aplicación por las comunidades.",
+   "aFavor": "Las pruebas externas comunes permiten comparar resultados y detectar antes los problemas de aprendizaje.",
+   "enContra": "Exigir más para aprobar sin dar apoyos puede aumentar la repetición sin mejorar el aprendizaje.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "salf",
+     "pagina": 75
+    },
+    {
+     "informe": "pp",
+     "pagina": 11
+    },
+    {
+     "informe": "salf",
+     "pagina": 22
+    },
+    {
+     "informe": "vox",
+     "pagina": 12
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona la LOMLOE ni exámenes externos. ED01-ED04 tratan financiación, ratios, conciertos y becas."
+   },
+   "podemos": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la LOMLOE, exámenes externos o promoción de curso."
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "ED01",
+      "page": 11,
+      "quote": "Sustituir LOMLOE y reforzar lectoescritura/cálculo",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 11,
+      "quote": "Los criterios de aprobación más exigentes deben acompañarse de apoyos",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": "ED02",
+      "page": 11,
+      "quote": "Acuerdo con comunidades y universidades; requiere concretar",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "ED01 sustituye la LOMLOE y el informe recoge criterios de aprobación más exigentes; ED02 añade una PAU común como prueba externa."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona la LOMLOE. Las menciones del informe del PP ('puede coincidir', 'disenso relevante') son análisis, no hechos documentados."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IX.1",
+      "page": 22,
+      "quote": "Aprobar una ley educativa para veinte años por dos tercios",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "IX.1",
+      "page": 22,
+      "quote": "pruebas externas al terminar cada etapa y una selectividad única",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "IX.5",
+      "page": 23,
+      "quote": "Condicionar titulación al aprendizaje",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IX.1 propone una nueva ley educativa con pruebas externas en cada etapa; IX.5 condiciona la titulación. El informe no nombra la LOMLOE: la sustitución se deduce de la nueva ley."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "ED02",
+      "page": 12,
+      "quote": "Sustituir LOMLOE, reforzar disciplina, limitar móviles y",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "ED01",
+      "page": 12,
+      "quote": "Contenidos comunes, reválidas y EVAU única.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "ED02 propone sustituir la LOMLOE con más disciplina; ED01 añade reválidas, es decir, exámenes externos."
+   }
+  }
+ },
+ {
+  "id": "Q23",
+  "order": 19,
+  "block": 4,
+  "ambito": 8,
+  "text": "El aborto debería seguir siendo un derecho garantizado en la sanidad pública.",
+  "axis": "SOC",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Aborto garantizado en la sanidad pública",
+   "ahora": "En abril de 2026 el Gobierno propuso proteger el aborto en el artículo 43 de la Constitución, sin aprobación todavía. Los informes distinguen entre aplicar los derechos reproductivos ya vigentes y añadir esa protección constitucional.",
+   "aFavor": "Mantener el aborto como derecho garantizado obliga a la red pública a prestarlo en todos los territorios. Protegerlo en la Constitución impediría restringirlo con una mayoría parlamentaria ordinaria.",
+   "enContra": "Mantener el aborto como derecho garantizado deja sin aplicar el principio de proteger la vida desde la concepción. Protegerlo en la Constitución impediría aplicar ese principio con una mayoría parlamentaria ordinaria.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 16
+    },
+    {
+     "informe": "psoe",
+     "pagina": 46
+    },
+    {
+     "informe": "fa",
+     "pagina": 15
+    },
+    {
+     "informe": "podemos",
+     "pagina": 25
+    },
+    {
+     "informe": "vox",
+     "pagina": 13
+    },
+    {
+     "informe": "podemos",
+     "pagina": 19
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "S08",
+      "page": 15,
+      "quote": "Mejor acceso efectivo, prevención y protección de derechos.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "S08 (Prevención y derechos reproductivos) mejora el acceso efectivo y protege esos derechos. El informe no nombra el aborto literalmente, por eso confianza media."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-09-03",
+      "page": 25,
+      "quote": "Blindaje constitucional del aborto y",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone blindar el aborto en la Constitución; la nota lo cuenta como +2."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe dice: 'Las propuestas de gestación y reproducción no se convierten por inferencia en una posición completa sobre aborto' (p. 12). La nota manda null."
+   },
+   "psoe": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IG02",
+      "page": 16,
+      "quote": "Protección constitucional del aborto y mejoras asistenciales.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone proteger el aborto en la Constitución (reforma del artículo 43). Nota: blindarlo en la Constitución es +2."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona el aborto. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'."
+   },
+   "vox": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "FA05",
+      "page": 13,
+      "quote": "Protección desde concepción hasta muerte natural, conciencia",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 13,
+      "quote": "Tampoco procede traducir la medida 98 en un articulado completo de aborto o eutanasia que el programa no detalla.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "NE",
+     "E": "NE"
+    },
+    "rationale": "FA05 declara protección desde la concepción, principio contrario al aborto como derecho. El informe dice: \"Tampoco procede traducir la medida 98 en un articulado completo de aborto\"; por eso -1 y confianza baja."
+   }
+  }
+ },
+ {
+  "id": "Q17",
+  "order": 20,
+  "block": 4,
+  "ambito": 9,
+  "text": "Las personas con nacionalidad española deberían tener prioridad sobre los extranjeros residentes en la vivienda pública y las ayudas sociales.",
+  "axis": "SOC",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Prioridad de nacionales en vivienda y ayudas",
+   "ahora": "El Ingreso Mínimo Vital ya exige, con excepciones, residencia legal y efectiva en España. Las normas europeas exigen igualdad en ayudas sociales para trabajadores de la UE y residentes de larga duración, con algunos límites.",
+   "aFavor": "La preferencia adelanta en las listas de vivienda y ayudas a quienes tienen nacionalidad española. Reducir el número de personas con derecho puede rebajar el gasto en prestaciones.",
+   "enContra": "La preferencia no crea plazas nuevas y puede dejar fuera a hogares extranjeros con menores. El ahorro depende de cuántas personas quedan excluidas, y pueden aparecer costes en otras administraciones.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 10
+    },
+    {
+     "informe": "vox",
+     "pagina": 14
+    },
+    {
+     "informe": "vox",
+     "pagina": 26
+    },
+    {
+     "informe": "salf",
+     "pagina": 29
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    },
+    {
+     "informe": "psoe",
+     "pagina": 17
+    },
+    {
+     "informe": "pp",
+     "pagina": 9
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "M04 'Medidas antirracistas y ampliación de derechos políticos' (p. 20) no trata prioridad por nacionalidad en vivienda o ayudas."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-10-05",
+      "page": 27,
+      "quote": "Acceso efectivo a educación, salud, empleo y protección de familias migrantes.",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-05-07",
+      "page": 17,
+      "quote": "Regular temporada y habitaciones, registro de alquileres, negociación y protección frente a discriminación.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Acceso efectivo de las familias migrantes a la protección social y protección frente a discriminación en el alquiler: indicio indirecto contra la prioridad por nacionalidad."
+   },
+   "pp": {
+    "value": 0,
+    "confidence": "baja",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 33,
+      "quote": "En Extremadura, PP y Vox explicaron de forma distinta la prioridad nacional tras su acuerdo de abril",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 14,
+      "quote": "El acuerdo extremeño muestra una diferencia entre nacionalidad y arraigo territorial, no una equivalencia.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 9,
+      "quote": "Vox coincide en oferta y derogación, con diferencias en prioridad por nacionalidad.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {},
+    "rationale": "Hecho documentado en el informe de Vox: el PP firmó en abril el acuerdo extremeño de prioridad nacional y lo explicó como arraigo territorial, criterio de residencia que la nota codifica +1. El informe propio marca diferencias con Vox en prioridad por nacionalidad."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Sin posición documentada sobre prioridad por nacionalidad en vivienda o ayudas. La frase de la p. 17 sobre nacionalidad es una recomendación de seguimiento del analista."
+   },
+   "salf": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IV.10",
+      "page": 29,
+      "quote": "Exigir cinco años de residencia legal y cotización para prestaciones no contributivas, ayudas al alquiler y vivienda pública",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "IV.10 exige 5 años de residencia legal y cotización para ayudas y vivienda pública; según la nota equivale a +1. No fija prioridad por nacionalidad."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "VI06",
+      "page": 10,
+      "quote": "Prioridad en ayudas y vivienda; residencia legal para alquilar.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "PS02",
+      "page": 14,
+      "quote": "Preferencia en servicios, vivienda y prestaciones.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "PS01",
+      "page": 14,
+      "quote": "Reservar el IMV a españoles.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 14,
+      "quote": "Prioridad nacional tiene ratificación de la dirección",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VI06, PS01 y PS02 proponen prioridad por nacionalidad en vivienda, ayudas e IMV. Las conclusiones ejecutivas la destacan."
+   }
+  }
+ },
+ {
+  "id": "Q25",
+  "order": 21,
+  "block": 4,
+  "ambito": 9,
+  "text": "Las personas trans deberían poder cambiar su sexo en el registro civil con su propia declaración.",
+  "axis": "SOC",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Cambio de sexo registral por declaración propia",
+   "ahora": "El registro civil permite hoy la autodeterminación del sexo, y una de las propuestas plantea revisarla. Otra propuesta plantea reconocer también a las personas no binarias.",
+   "aFavor": "El cambio por declaración propia puede facilitar el reconocimiento legal de la persona y su acceso a servicios.",
+   "enContra": "El cambio por declaración propia puede generar conflictos con otros derechos en ámbitos que separan por sexo, como el deporte.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 13
+    },
+    {
+     "informe": "fa",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 25
+    },
+    {
+     "informe": "vox",
+     "pagina": 24
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IG04",
+      "page": 19,
+      "quote": "Desplegar protección LGTBI y reconocimiento de personas no binarias. Definir efectos registrales, interoperabilidad, privacidad y acceso a servicios.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IG04 extiende el reconocimiento registral a personas no binarias. No menciona el cambio por declaración propia: versión parcial."
+   },
+   "podemos": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-09-04",
+      "page": 25,
+      "quote": "Modelo Barnahus, derechos LGTBIQA+, reconocimiento registral y justicia especializada.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Apoya el reconocimiento registral dentro de los derechos LGTBIQA+. El informe no precisa que sea por declaración propia: versión parcial."
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "SO04",
+      "page": 13,
+      "quote": "Revisión de la autodeterminación registral.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "SO04 propone revisar la autodeterminación registral; la nota lo codifica como negativo. El informe no dice si la suprime, por eso -1."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "PS04 'Desarrollar protección y perseguir prácticas de conversión' (p. 15) no trata el cambio registral de sexo."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre autodeterminación registral. Ámbito 09: 'No se identifica un diseño integral de discapacidad, dependencia o igualdad'."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no trata el cambio registral de sexo. CU02 habla solo de criterios de categoría femenina en deporte."
+   }
+  }
+ },
+ {
+  "id": "Q24",
+  "order": 22,
+  "block": 4,
+  "ambito": 9,
+  "text": "Rechazar ofertas de empleo no debería suponer perder el Ingreso Mínimo Vital.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "I",
+  "fast": false,
+  "help": {
+   "medida": "Retirada del Ingreso Mínimo Vital por rechazar ofertas de empleo",
+   "ahora": "La Ley 19/2021 regula el Ingreso Mínimo Vital, que ya incluye un incentivo para compatibilizarlo con un empleo. AIReF estima que en 2025 no lo pedía el 52% de los hogares que cumplían los requisitos.",
+   "aFavor": "Retirar el Ingreso Mínimo Vital por rechazar ofertas puede desproteger a hogares si no se define qué oferta es adecuada.",
+   "enContra": "Retirar el Ingreso Mínimo Vital por rechazar ofertas adecuadas puede acelerar la aceptación de empleo entre quienes lo cobran.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 39
+    },
+    {
+     "informe": "salf",
+     "pagina": 27
+    },
+    {
+     "informe": "pp",
+     "pagina": 13
+    },
+    {
+     "informe": "podemos",
+     "pagina": 25
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "IG01 amplía y automatiza el IMV (p. 19) sin tratar su retirada por rechazar ofertas de empleo."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-09-01",
+      "page": 25,
+      "quote": "Reforzar el IMV con el horizonte de",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-09-01",
+      "page": 25,
+      "quote": "una renta universal incondicionada.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "NE",
+     "E": "NE"
+    },
+    "rationale": "Propone reforzar el IMV con horizonte de renta universal incondicionada, lo contrario de condicionarlo a aceptar empleo. Sin cuantía ni calendario."
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "SO01",
+      "page": 13,
+      "quote": "Integrar IMV y subsidios con empleo/formación.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 13,
+      "quote": "definir ofertas adecuadas y causas justificadas antes de sancionar.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 34,
+      "quote": "Compatibilidades, retirada de ayudas, definición de oferta adecuada y protección en discapacidad, cuidados o falta real de empleo.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "SO01 liga el IMV a empleo y formación; el informe trata sanciones y retirada de ayudas ante ofertas adecuadas como parte del diseño. La activación sale en las conclusiones ejecutivas."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "PS01 automatiza el acceso al IMV; no trata su retirada a quien rechace ofertas de empleo."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VIII.10",
+      "page": 27,
+      "quote": "Extinguir la prestación tras rechazar dos ofertas adecuadas",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VIII.10 extingue el IMV tras rechazar dos ofertas adecuadas."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no vincula el IMV al rechazo de ofertas de empleo. PS01 trata solo la nacionalidad."
+   }
+  }
+ },
+ {
+  "id": "Q27",
+  "order": 23,
+  "block": 5,
+  "ambito": 10,
+  "text": "Debería aprobarse una regularización extraordinaria de los inmigrantes que ya viven y trabajan en España.",
+  "axis": "SOC",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Regularización extraordinaria de inmigrantes",
+   "ahora": "En abril de 2026 el Real Decreto 316/2026 aprobó un proceso extraordinario de regularización por arraigo, cuyos expedientes siguen en trámite. La normativa de extranjería contempla además vías ordinarias de arraigo.",
+   "aFavor": "Regularizar puede facilitar el empleo formal, el pago de cotizaciones y el acceso a derechos.",
+   "enContra": "Regularizar exige personal, intérpretes y sistemas, y sus efectos sobre vivienda y servicios varían por territorio.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 20
+    },
+    {
+     "informe": "fa",
+     "pagina": 50
+    },
+    {
+     "informe": "salf",
+     "pagina": 73
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    },
+    {
+     "informe": "vox",
+     "pagina": 15
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "M01",
+      "page": 20,
+      "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "M01 completa los procesos de regularización abiertos y crea cauces permanentes. La nota del catálogo cuenta ambas cosas como +2."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-10-04",
+      "page": 27,
+      "quote": "Vía permanente de regularización,",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 28,
+      "quote": "La vía permanente propuesta debe distinguirse de la regularización extraordinaria existente.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone una vía permanente de regularización; la nota la cuenta como +2."
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "IM03",
+      "page": 14,
+      "quote": "Restringir regularizaciones y condicionar renovaciones.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 14,
+      "quote": "Vox converge en restricciones, pero suprimir el arraigo no es igual que conservarlo como excepcional.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IM03 restringe regularizaciones y conserva el arraigo como excepcional. La nota reserva -2 para prohibir regularizaciones o suprimir el arraigo."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "MI02 refuerza vías regulares, pero el informe dice que 'no equivale a una regularización nueva de alcance indefinido'. No se atribuye regularización."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IV.2",
+      "page": 28,
+      "quote": "Derogar la regularización de 2026, revisar individualmente autorizaciones concedidas y prohibir regularizaciones masivas mediante ley orgánica.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IV.2 deroga la regularización de 2026 y prohíbe por ley orgánica regularizaciones masivas: -2 según la nota."
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "IN01",
+      "page": 15,
+      "quote": "Suprimir vías de arraigo y prohibir regularizaciones amplias.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "Suprimir arraigos tampoco elimina las obligaciones de asilo",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IN01 propone suprimir el arraigo y prohibir regularizaciones amplias. Según la nota, -2."
+   }
+  }
+ },
+ {
+  "id": "Q28",
+  "order": 24,
+  "block": 5,
+  "ambito": 10,
+  "text": "Los inmigrantes en situación irregular deberían ser expulsados de forma sistemática.",
+  "axis": "SOC",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Expulsión sistemática de inmigrantes en situación irregular",
+   "ahora": "La Ley Orgánica 4/2000 y la Directiva europea 2008/115 exigen examinar cada caso y prohíben devolver a quien corre un riesgo grave. Las nuevas reglas europeas de retorno, adoptadas el 1 de octubre de 2026, se aplican por fases y mantienen esas garantías.",
+   "aFavor": "Más medios y personal pueden mejorar la ejecución de las órdenes de expulsión. Condicionar ayudas y visados puede servir para negociar que otros países readmitan a sus nacionales.",
+   "enContra": "Una orden de expulsión no equivale a una salida si falta identificar a la persona o al país receptor. Ninguna ley española obliga a otro país a readmitir, y cortar la cooperación puede dificultarlo.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 15
+    },
+    {
+     "informe": "vox",
+     "pagina": 38
+    },
+    {
+     "informe": "vox",
+     "pagina": 39
+    },
+    {
+     "informe": "pp",
+     "pagina": 14
+    },
+    {
+     "informe": "salf",
+     "pagina": 28
+    },
+    {
+     "informe": "salf",
+     "pagina": 65
+    },
+    {
+     "informe": "fa",
+     "pagina": 20
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "M03",
+      "page": 20,
+      "quote": "Revisar centros, retornos y vías de protección.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 20,
+      "quote": "Eliminar internamiento exige diseñar alternativas; no equivale por sí mismo a eliminar toda obligación de retorno.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "M01",
+      "page": 20,
+      "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "M03 revisa retornos y busca alternativas al internamiento, y M01 abre cauces permanentes de regularización. El informe aclara que no elimina toda obligación de retorno, pero la propuesta es contraria a expulsar de forma sistemática."
+   },
+   "podemos": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-10-02",
+      "page": 27,
+      "quote": "Sustituir la Ley de Extranjería y cerrar",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-10-02",
+      "page": 27,
+      "quote": "CIE mediante alternativas",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone sustituir la Ley de Extranjería y cerrar los CIE, además de regularización permanente. Es lo contrario de la expulsión sistemática."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "IM04",
+      "page": 14,
+      "quote": "Más exigencias y cooperación exterior.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 14,
+      "quote": "Posición oficial y prioridad de Feijóo.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "IM04 propone más retornos mediante exigencias y cooperación de readmisión; la nota codifica esto como +1. No hay expulsión sistemática."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Sin posición sobre expulsiones o retornos de inmigrantes en situación irregular."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IV.1",
+      "page": 28,
+      "quote": "Identificar, ordenar y ejecutar expulsiones en 48 horas, cumplir todas las órdenes en noventa días",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "IV.1 promete ejecutar todas las órdenes de expulsión en 90 días e internamiento hasta la salida: expulsión sistemática."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "IN02",
+      "page": 15,
+      "quote": "Expedientes de salida y readmisión. El compromiso general no",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 27,
+      "quote": "Por ello, la entrega universal e inmediata no tiene una probabilidad defendible",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 35,
+      "quote": "Migración: procedimientos y readmisión antes de fijar una tasa universal de salida.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "IN02 compromete el retorno de los irregulares con carácter general. Las garantías individuales son condiciones del informe, no del programa."
+   }
+  }
+ },
+ {
+  "id": "Q29",
+  "order": 25,
+  "block": 5,
+  "ambito": 10,
+  "text": "Los requisitos para obtener la nacionalidad española no deberían endurecerse.",
+  "axis": "SOC",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Requisitos más exigentes para obtener la nacionalidad",
+   "ahora": "El Código Civil fija un plazo general de residencia para pedir la nacionalidad y otros más cortos, por ejemplo para iberoamericanos.",
+   "aFavor": "Más requisitos exigen excepciones y control de proporcionalidad, y necesitan más capacidad para tramitar los expedientes.",
+   "enContra": "Más requisitos, como un examen o más años de residencia, permiten comprobar más condiciones antes de conceder la nacionalidad.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 29
+    },
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "vox",
+     "pagina": 15
+    },
+    {
+     "informe": "pp",
+     "pagina": 14
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre requisitos de nacionalidad. Dice 'No se equiparan regularización, asilo y nacionalidad' y que la regularización 'no supone ciudadanía automática'."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-10-03",
+      "page": 27,
+      "quote": "Ampliar vías de nacionalidad y",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone ampliar las vías de acceso a la nacionalidad, incluida la atribución por nacimiento con condiciones."
+   },
+   "pp": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IM04",
+      "page": 14,
+      "quote": "Más exigencias y cooperación exterior.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "La unidad IM04 'Retornos y nacionalidad' añade más exigencias. La atribución de las exigencias a la nacionalidad se deduce del título de la unidad."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Sin posición sobre los requisitos para obtener la nacionalidad."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IV.5",
+      "page": 29,
+      "quote": "exigir diez años de residencia legal, examen, ausencia de antecedentes e independencia de ayudas para la nacionalidad",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "IV.6",
+      "page": 29,
+      "quote": "nacionalidad a dobles nacionales por terrorismo, crimen organizado o delitos sexuales graves",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "IV.5 añade examen e independencia de ayudas a 10 años de residencia legal; IV.6 retira la nacionalidad en ciertos delitos."
+   },
+   "vox": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IN05",
+      "page": 15,
+      "quote": "Endurecer adquisición, revisar fraude y favorecer retorno de",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IN05 propone endurecer la adquisición de la nacionalidad."
+   }
+  }
+ },
+ {
+  "id": "Q31",
+  "order": 26,
+  "block": 5,
+  "ambito": 11,
+  "text": "La Ley de Seguridad Ciudadana de 2015 debería sustituirse por otra nueva.",
+  "axis": "SOC",
+  "dir": -1,
+  "polarity": "T",
+  "fast": false,
+  "help": {
+   "medida": "Nueva ley de seguridad ciudadana",
+   "ahora": "La Ley Orgánica 4/2015 de seguridad ciudadana está en vigor y regula sanciones administrativas, entre ellas algunas ligadas a protestas.",
+   "aFavor": "Una ley nueva puede añadir garantías y controles, como cámaras corporales, que protegen a ciudadanos y agentes.",
+   "enContra": "Una ley nueva puede reducir la protección frente a amenazas o incitación al delito si retira sanciones sin sustituirlas.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 18
+    },
+    {
+     "informe": "fa",
+     "pagina": 21
+    },
+    {
+     "informe": "podemos",
+     "pagina": 29
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "J01",
+      "page": 21,
+      "quote": "Reformar seguridad ciudadana y delitos de expresión.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "J01 reforma la ley de seguridad ciudadana y los delitos de expresión. El informe dice reformar, no sustituir por una ley nueva: +1."
+   },
+   "podemos": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-11-05",
+      "page": 29,
+      "quote": "Reformar seguridad ciudadana y",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-11-05",
+      "page": 29,
+      "quote": "protección de protesta; límites a",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone reformar la regulación de seguridad ciudadana y protesta. El informe dice reformar, no sustituir por una ley nueva."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona la Ley de Seguridad Ciudadana de 2015. La mención del informe del PSOE ('No acredita apoyo futuro a reformar ... seguridad ciudadana', p. 18) no es un hecho. Null."
+   },
+   "psoe": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "J02",
+      "page": 18,
+      "quote": "Sustituir la Ley Orgánica 4/2015, con garantías y medios como cámaras",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone sustituir la Ley Orgánica 4/2015 de Seguridad Ciudadana por una nueva con garantías."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona la Ley de Seguridad Ciudadana de 2015."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no menciona la Ley de Seguridad Ciudadana."
+   }
+  }
+ },
+ {
+  "id": "Q37",
+  "order": 27,
+  "block": 6,
+  "ambito": 13,
+  "text": "El Estado debería asumir una parte importante de la deuda de las comunidades autónomas.",
+  "axis": "TER",
+  "dir": -1,
+  "polarity": "I",
+  "fast": true,
+  "help": {
+   "medida": "Asunción estatal de deuda autonómica",
+   "ahora": "En junio de 2026 el Ministerio de Hacienda propuso que el Estado asuma deuda de las comunidades autónomas. Aplicarlo exige aprobar leyes y reunir votos en las Cortes.",
+   "aFavor": "Asumir deuda autonómica reduce la que soportan las comunidades y les deja más dinero para sus pagos.",
+   "enContra": "Asumir deuda autonómica la traslada al Estado sin reducir el total que deben las administraciones públicas.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 47
+    },
+    {
+     "informe": "psoe",
+     "pagina": 20
+    },
+    {
+     "informe": "psoe",
+     "pagina": 29
+    },
+    {
+     "informe": "fa",
+     "pagina": 23
+    },
+    {
+     "informe": "pp",
+     "pagina": 17
+    },
+    {
+     "informe": "salf",
+     "pagina": 39
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "T02",
+      "page": 23,
+      "quote": "Reestructurar obligaciones y fijar mínimos tributarios. La quita entre administraciones cambia reparto interno",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "T02 reestructura la deuda autonómica con una quita entre administraciones sin cuantificar. No consta que sea una parte importante: +1."
+   },
+   "podemos": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre asumir deuda autonómica. Dice que \"el programa no desarrolla aquí un modelo fiscal autonómico completo y cuantificado.\""
+   },
+   "pp": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "T02",
+      "page": 17,
+      "quote": "Responsabilidad autonómica y reestructuración multilateral. No equivale a una condonación general definida.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Reestructuración multilateral con énfasis en responsabilidad autonómica, sin condonación general. La nota da +1 o 0 a reestructurar sin quita: 0."
+   },
+   "psoe": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "T02",
+      "page": 20,
+      "quote": "Asunción estatal de 83.000 millones de deuda autonómica.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone que el Estado asuma 83.000 millones de deuda autonómica."
+   },
+   "salf": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "III.11",
+      "page": 39,
+      "quote": "oponerse a condonaciones de deuda entre administraciones, salvo catástrofes",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Alta",
+     "E": "Alta"
+    },
+    "rationale": "III.11 se opone a condonaciones de deuda entre administraciones salvo catástrofes. La nota codifica rechazar condonaciones como -2."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no trata la deuda autonómica ni condonaciones."
+   }
+  }
+ },
+ {
+  "id": "Q33",
+  "order": 28,
+  "block": 6,
+  "ambito": 12,
+  "text": "Los jueces deberían elegir a la mayoría de los miembros del Consejo General del Poder Judicial.",
+  "axis": null,
+  "dir": 0,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Elección judicial de la mayoría del CGPJ",
+   "ahora": "La Constitución fija la composición del Consejo General del Poder Judicial y las mayorías para elegir a sus vocales. En 2024 un acuerdo renovó el Consejo tras un bloqueo prolongado, y el BOE publicó en agosto la Ley Orgánica 3/2024.",
+   "aFavor": "Que elijan los propios jueces puede reducir una vía de influencia política en los nombramientos del Consejo.",
+   "enContra": "Que elijan los propios jueces puede abrir otras vías de influencia, y exige controles de pluralidad y responsabilidad.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 17
+    },
+    {
+     "informe": "fa",
+     "pagina": 22
+    },
+    {
+     "informe": "pp",
+     "pagina": 16
+    },
+    {
+     "informe": "pp",
+     "pagina": 37
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": "media",
+    "evidence": [],
+    "viability": {},
+    "rationale": "IN02 'Modificar reglas de elección y desbloqueo' (p. 22). El informe advierte: 'El programa distingue la elección de vocales judiciales de otros integrantes del consejo. No se debe resumir como una propuesta para elegir a todos por mayoría absoluta.' No consta quién elegiría a los vocales judiciales."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-12-03",
+      "page": 31,
+      "quote": "Revisar aforamientos y renovación judicial; nueva mayoría para el turno judicial del CGPJ y horizonte de elección directa.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Una nueva mayoría para elegir el turno judicial mantiene la elección parlamentaria de los vocales judiciales, negativa según la nota. El horizonte de elección directa no se concreta."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IN02",
+      "page": 16,
+      "quote": "Reformas de nombramientos y autonomía.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "IN02 reforma los nombramientos del CGPJ para ganar autonomía. El informe no dice que los jueces elijan a la mayoría: indicio indirecto."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Documenta el acuerdo PSOE-PP de 2024 para renovar el CGPJ, sin detallar el sistema de elección de sus miembros."
+   },
+   "salf": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "VII.9",
+      "page": 36,
+      "quote": "Blindar constitucionalmente un CGPJ elegido por jueces, antigüedad o sorteo",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "VII.9",
+      "page": 36,
+      "quote": "todavía abiertos entre tres mecanismos distintos",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VII.9 saca al CGPJ de la elección parlamentaria, pero deja abierta la fórmula entre elección judicial, antigüedad y sorteo. No garantiza que los jueces elijan a la mayoría: +1."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "ID01",
+      "page": 17,
+      "quote": "Elección judicial de doce vocales y mayor autonomía fiscal.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "ID01 propone que los jueces elijan a doce vocales, mayoría de los veinte del CGPJ."
+   }
+  }
+ },
+ {
+  "id": "Q35",
+  "order": 29,
+  "block": 6,
+  "ambito": 12,
+  "text": "Habría que suprimir el Senado mediante una reforma de la Constitución.",
+  "axis": null,
+  "dir": 0,
+  "polarity": "D",
+  "fast": false,
+  "help": {
+   "medida": "Supresión del Senado mediante reforma constitucional",
+   "ahora": "El Senado tiene base en la Constitución, y suprimirlo exige más que una mayoría ordinaria. Hoy interviene en la tramitación de leyes, en nombramientos y en las reformas de la Constitución.",
+   "aFavor": "Suprimir el Senado ahorra el gasto de una segunda cámara y deja una fase menos en la tramitación de las leyes.",
+   "enContra": "Suprimir el Senado elimina una cámara que podría representar a las comunidades, y el ahorro debe descontar las funciones trasladadas.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 38
+    },
+    {
+     "informe": "salf",
+     "pagina": 2
+    },
+    {
+     "informe": "vox",
+     "pagina": 5
+    },
+    {
+     "informe": "podemos",
+     "pagina": 33
+    },
+    {
+     "informe": "psoe",
+     "pagina": 20
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona el Senado."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-13-02",
+      "page": 33,
+      "quote": "Senado de orientación federal, con igual representación de comunidades y elección proporcional.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Transforma el Senado en cámara federal, no lo suprime. La nota codifica la cámara territorial o federal como -1."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona suprimir o reformar el Senado. Silencio: null."
+   },
+   "psoe": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "T04",
+      "page": 20,
+      "quote": "Regular cooperación y conferencias; orientar el Senado a representación territorial.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Orienta el Senado a la representación territorial, no lo suprime. Según la nota, -1."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "VII.15",
+      "page": 38,
+      "quote": "suprimir Senado, Consejo de Estado, consejos económicos y sociales",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "VII.15 suprime el Senado; el informe recuerda que exige reforma constitucional."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe cita el Senado solo por el pacto electoral PP-Vox; no hay propuesta de suprimirlo."
+   }
+  }
+ },
+ {
+  "id": "Q36",
+  "order": 30,
+  "block": 6,
+  "ambito": 13,
+  "text": "El Estado debería recuperar competencias que hoy tienen las comunidades autónomas, como la educación o la sanidad.",
+  "axis": "TER",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Recentralización de competencias autonómicas en el Estado",
+   "ahora": "La Constitución reparte las competencias entre el Estado y las comunidades autónomas y protege su autonomía. El Estado fija bases y coordina, y las comunidades gestionan servicios como la sanidad y la educación.",
+   "aFavor": "Recuperar competencias puede reducir las diferencias entre territorios en sanidad, educación, seguridad y justicia. Una compra sanitaria centralizada y obligatoria puede mejorar la negociación de precios con los proveedores.",
+   "enContra": "Recuperar competencias no garantiza igual acceso en cada territorio, y un estándar común puede lograr cohesión sin cambiar la gestión. El ahorro de la compra conjunta depende de cada producto, y concentrar proveedores puede causar desabastecimiento.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 17
+    },
+    {
+     "informe": "vox",
+     "pagina": 18
+    },
+    {
+     "informe": "fa",
+     "pagina": 23
+    },
+    {
+     "informe": "salf",
+     "pagina": 19
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "T04",
+      "page": 23,
+      "quote": "Servicios territoriales, insularidad y desarrollo federal.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "IN04",
+      "page": 22,
+      "quote": "República federal y laicidad Transformación del modelo de Estado y de determinadas garantías.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 23,
+      "quote": "Los mínimos fiscales y la capacidad de decisión territorial pueden entrar en tensión dentro del mismo programa.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Desarrollo federal (T04) y república federal (IN04) van contra recentralizar; los mínimos tributarios comunes (T02) son coordinación (+1 según la nota). Saldo -1."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "POD-13-02",
+      "page": 33,
+      "quote": "Senado de orientación federal, con igual representación de comunidades y elección proporcional.",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 33,
+      "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Senado federal y programa plurinacional: dirección contraria a recentralizar, negativa según la nota. Sin propuesta explícita de ampliar competencias: -1."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": "T03",
+      "page": 17,
+      "quote": "Interoperabilidad sanitaria/social y simplificación.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 22,
+      "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "T03 coordina servicios sanitarios y sociales entre comunidades sin devolver competencias (+1 según la nota). El informe describe al PP dentro del Estado autonómico, sin propuesta de más autogobierno. Indicio débil: confianza baja."
+   },
+   "psoe": {
+    "value": 0,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "T04",
+      "page": 20,
+      "quote": "Regular cooperación y conferencias; orientar el Senado a representación territorial.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "T05",
+      "page": 20,
+      "quote": "Mejorar atención en lenguas cooficiales y tratamientos territoriales",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Refuerza la cooperación (coordinar, +1 según la nota) y a la vez Senado territorial y tratamientos territoriales específicos (negativo). No propone recuperar competencias: mixta."
+   },
+   "salf": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IX.2",
+      "page": 22,
+      "quote": "atribuir a la Alta Inspección estatal capacidad sancionadora",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "IX.1",
+      "page": 22,
+      "quote": "Fijar contenidos mínimos comunes al cien por cien",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "VI.1",
+      "page": 19,
+      "quote": "Compra sanitaria centralizada obligatoria",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Uniforma y centraliza (Alta Inspección sancionadora, currículo común al 100%, compra sanitaria única), sin propuesta explícita de devolver competencias: +1 según la nota."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 18,
+      "quote": "La plataforma contiene propuestas uniformizadoras y de coordinación, pero no desarrolla una reforma completa de supresión del sistema autonómico.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "MT01",
+      "page": 18,
+      "quote": "Reducir brechas territoriales en sanidad, educación, seguridad",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "ED01",
+      "page": 12,
+      "quote": "Contenidos comunes, reválidas y EVAU única.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "El informe atribuye propuestas uniformizadoras y de coordinación sin devolución de competencias. Según la nota, +1."
+   }
+  }
+ },
+ {
+  "id": "Q40",
+  "order": 31,
+  "block": 7,
+  "ambito": 14,
+  "text": "Las centrales nucleares deberían seguir funcionando más allá del calendario de cierre previsto.",
+  "axis": null,
+  "dir": 0,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Alargar la vida de las centrales nucleares",
+   "ahora": "Una orden de agosto de 2026 (TED/864/2026) autoriza la central de Almaraz hasta el 8 de junio de 2030. El calendario de cierre nuclear vigente sitúa el horizonte de cierre en 2035.",
+   "aFavor": "Alargar la vida de las centrales puede aportar energía firme al sistema eléctrico.",
+   "enContra": "Alargar la vida de las centrales exige inversiones adicionales y gestionar sus residuos durante más tiempo.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 18
+    },
+    {
+     "informe": "psoe",
+     "pagina": 21
+    },
+    {
+     "informe": "podemos",
+     "pagina": 36
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EN04",
+      "page": 24,
+      "quote": "Mantener el cierre de Almaraz en 2027-2028 según el programa.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "EN04",
+      "page": 24,
+      "quote": "autorización vigente llega al 8/06/2030; cambiarla requiere una",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "El cierre anunciado de Almaraz en 2027-2028 no coincide con la autorización vigente hasta junio de 2030.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Baja"
+    },
+    "rationale": "EN04 cierra Almaraz en 2027-2028, antes de la autorización vigente hasta el 8/06/2030. La nota cuenta cerrar antes del calendario como -2; el informe advierte que el programa usa un calendario anterior."
+   },
+   "podemos": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-14-09",
+      "page": 36,
+      "quote": "Cierre nuclear conforme al calendario vigente, gestión de residuos y transición territorial.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Cierre nuclear según el calendario vigente; la nota codifica mantener el calendario como -1."
+   },
+   "pp": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EN01",
+      "page": 18,
+      "quote": "Tramitar extensiones en 100 días",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 18,
+      "quote": "Eliminar un calendario político no sustituye esos requisitos.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "Almaraz ya tiene permiso hasta junio de 2030.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EN01 tramita extensiones de las centrales en 100 días y elimina el calendario de cierre. La nuclear sale en las conclusiones ejecutivas."
+   },
+   "psoe": {
+    "value": -1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN03",
+      "page": 21,
+      "quote": "Mantener horizonte de cierre en 2035.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "Mantiene el horizonte de cierre en 2035: calendario vigente, -1 según la nota (ejemplo de docs/metodologia.md 5.6)."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona la energía nuclear. Ámbito 14: 'Faltan metas desarrolladas sobre mix eléctrico, redes, almacenamiento, emisiones, adaptación y gestión del agua'."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN01",
+      "page": 19,
+      "quote": "Mantener centrales y revisar cierres.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EN01 propone mantener las centrales y revisar el calendario de cierres."
+   }
+  }
+ },
+ {
+  "id": "Q41",
+  "order": 32,
+  "block": 7,
+  "ambito": 14,
+  "text": "España debería frenar o revertir las normas climáticas del Pacto Verde Europeo.",
+  "axis": "SOC",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Frenar o revertir el Pacto Verde Europeo",
+   "ahora": "En España rigen la Ley 7/2021 de cambio climático y la ley europea del clima (Reglamento 2021/1119). Cambiar las normas europeas exige los procedimientos de la UE, donde no existe un veto nacional general.",
+   "aFavor": "Aliviar estas normas puede reducir los costes de algunos productores y usuarios. Frenar normas como la de restauración puede reducir restricciones sobre la producción agraria.",
+   "enContra": "Frenar estas normas puede elevar los costes de las emisiones, la contaminación y la adaptación al clima. Una ley española no puede anular esas obligaciones europeas, que seguirían vigentes.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 19
+    },
+    {
+     "informe": "vox",
+     "pagina": 42
+    },
+    {
+     "informe": "salf",
+     "pagina": 41
+    },
+    {
+     "informe": "pp",
+     "pagina": 18
+    },
+    {
+     "informe": "fa",
+     "pagina": 25
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN01",
+      "page": 24,
+      "quote": "Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "EN05",
+      "page": 25,
+      "quote": "Objetivo anual del 3,5% del PIB.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EN01 (100% de electricidad renovable en 2040) y EN05 (inversión climática del 3,5% del PIB) refuerzan la política climática: contrario a frenar el Pacto Verde."
+   },
+   "podemos": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-14-03",
+      "page": 34,
+      "quote": "aspiración del 65%, neutralidad en",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-14-03",
+      "page": 34,
+      "quote": "Objetivos más exigentes pueden orientar inversión y",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone objetivos climáticos más exigentes (aspiración del 65% en 2030, neutralidad en 2040). Es lo contrario de frenar las normas climáticas."
+   },
+   "pp": {
+    "value": 0,
+    "confidence": "media",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": "EN04",
+      "page": 18,
+      "quote": "Ajustar el ritmo de transición y mejorar resiliencia.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 18,
+      "quote": "Vox coincide en nuclear, pero su postura climática no es idéntica al compromiso del PP con descarbonización.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EN04 ajusta el ritmo de la transición sin incumplir compromisos europeos, y el informe recoge el compromiso del PP con la descarbonización. La nota da +1 o 0 a ajustar el ritmo: +1 porque el ajuste es una versión parcial de frenar."
+   },
+   "psoe": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN01",
+      "page": 21,
+      "quote": "Alcanzar el 81% de generación renovable en 2030.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": "CL01",
+      "page": 22,
+      "quote": "Ley de adaptación, refugios, alerta y medios contra incendios.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone acelerar la transición: 81% de generación renovable en 2030, ley de adaptación y restauración ecológica. Sentido contrario a frenar las normas climáticas."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "X.2",
+      "page": 41,
+      "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde, incluida la normativa de restauración",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "X.2 bloquea el Pacto Verde y la normativa de restauración mediante oposición en el Consejo."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN04",
+      "page": 19,
+      "quote": "Revertir restricciones del Pacto Verde y ZBE.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "EN04 propone revertir restricciones del Pacto Verde."
+   }
+  }
+ },
+ {
+  "id": "Q42",
+  "order": 33,
+  "block": 7,
+  "ambito": 14,
+  "text": "Habría que bajar los impuestos a la electricidad y los carburantes.",
+  "axis": "ECO",
+  "dir": 1,
+  "polarity": "T",
+  "fast": false,
+  "help": {
+   "medida": "Bajar impuestos a la electricidad y carburantes",
+   "ahora": "La electricidad paga IVA, regulado por la Ley 37/1992, y un impuesto estatal del 7% sobre su producción. La Directiva europea 2006/112 fija qué productos pueden tener tipos de IVA reducidos.",
+   "aFavor": "Bajar los impuestos sobre la luz puede reducir la factura de hogares y empresas.",
+   "enContra": "Bajar los impuestos sobre la luz puede dejar parte de la rebaja en el margen de las empresas y reduce la recaudación.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 18
+    },
+    {
+     "informe": "salf",
+     "pagina": 40
+    },
+    {
+     "informe": "salf",
+     "pagina": 73
+    },
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "vox",
+     "pagina": 19
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "F07 'Reorientar gravamen según objetivos distributivos y ambientales' (p. 8) no nombra electricidad ni carburantes; EN03 abarata la luz por tarifa."
+   },
+   "podemos": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "POD-14-02 contiene tarifas y precios del gas (p. 34): regulación, no impuestos. POD-02-02 grava a empresas de energía y POD-02-03 a consumos de alta huella (p. 9); ninguno trata impuestos a electricidad o carburantes del consumidor."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN02",
+      "page": 18,
+      "quote": "Retirar impuesto del 7% y cambiar apoyos sociales.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EN02 retira el impuesto del 7% sobre la electricidad. El informe no menciona impuestos a carburantes: versión parcial."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "F03 grava 'consumos intensivos en carbono de lujo' (p. 6), objeto distinto de la electricidad y los carburantes de uso general."
+   },
+   "salf": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "III.7",
+      "page": 40,
+      "quote": "Establecer permanentemente IVA del 4% en electricidad y agua y eliminar el impuesto sobre la producción eléctrica.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "III.7 baja el IVA eléctrico al 4% y suprime el impuesto a la producción eléctrica. No hay rebaja en carburantes: versión parcial."
+   },
+   "vox": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EN03",
+      "page": 19,
+      "quote": "Menores impuestos y otras medidas de coste.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EN03 propone menos impuestos sobre el coste energético. No precisa electricidad ni carburantes; confianza media."
+   }
+  }
+ },
+ {
+  "id": "Q44",
+  "order": 34,
+  "block": 7,
+  "ambito": 15,
+  "text": "España debería oponerse al acuerdo comercial entre la Unión Europea y Mercosur.",
+  "axis": "EUR",
+  "dir": 1,
+  "polarity": "T",
+  "fast": true,
+  "help": {
+   "medida": "Oposición al acuerdo UE y Mercosur",
+   "ahora": "El acuerdo comercial interino entre la Unión Europea y Mercosur se aplica de forma provisional desde el 1 de mayo de 2026.",
+   "aFavor": "Oponerse al acuerdo puede proteger a la producción agraria española de importaciones hechas con otras normas.",
+   "enContra": "Oponerse al acuerdo puede perjudicar a los exportadores, y no garantiza que todos los sectores ganen con su retirada.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 20
+    },
+    {
+     "informe": "vox",
+     "pagina": 23
+    },
+    {
+     "informe": "salf",
+     "pagina": 41
+    },
+    {
+     "informe": "pp",
+     "pagina": 19
+    },
+    {
+     "informe": "psoe",
+     "pagina": 23
+    },
+    {
+     "informe": "podemos",
+     "pagina": 37
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona Mercosur y dice: 'La afinidad en defensa del campo no acredita identidad en regulación ambiental, agua o política comercial' (p. 26)."
+   },
+   "podemos": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "POD-15-04 pide 'requisitos para productos importados' (p. 37), una exigencia de reciprocidad. El informe no menciona Mercosur."
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 75,
+      "quote": "PP: defensa de salvaguardias para el acuerdo UE-Mercosur. 2026-02-10.",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": null,
+      "page": 60,
+      "quote": "La UE, Mercosur, el coste fiscal y el alcance de cada medida separan los programas.",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "R02",
+      "page": 19,
+      "quote": "Defensa de fondos y reciprocidad.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "NE"
+    },
+    "rationale": "Evidencia cruzada del informe de SALF: declaración fechada del PP (10/02/2026) que defiende salvaguardias para el acuerdo, y Mercosur separa los programas del PP y de SALF, que lo bloquea. Aceptar con salvaguardias es versión parcial de lo contrario. Confianza baja: la declaración solo consta como título de fuente."
+   },
+   "psoe": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "R01 pide 'condiciones recíprocas de producción' (p. 23). El informe no menciona Mercosur; la reciprocidad no es oposición al acuerdo."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": "X.2",
+      "page": 41,
+      "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "X.2 propone bloquear Mercosur mediante oposición española en el Consejo."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "media",
+    "salience": null,
+    "evidence": [
+     {
+      "unitId": "RU01",
+      "page": 20,
+      "quote": "Revisar acuerdos y exigir condiciones equivalentes.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 23,
+      "quote": "La aplicación provisional del acuerdo UE-Mercosur es parte de la situación de partida. Reformarlo exige un procedimiento europeo",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "RU01 revisa los acuerdos comerciales y exige condiciones equivalentes; el informe lo lee como reformar el acuerdo con Mercosur, no como retirarse. Versión parcial."
+   }
+  }
+ },
+ {
+  "id": "Q45",
+  "order": 35,
+  "block": 7,
+  "ambito": 16,
+  "text": "El transporte público debería ser gratuito.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "T",
+  "fast": false,
+  "help": {
+   "medida": "Transporte público gratuito para todos",
+   "ahora": "El transporte público se financia hoy con billetes y abonos, además de fondos de varias administraciones.",
+   "aFavor": "La gratuidad elimina el pago del billete y puede mejorar el acceso al transporte. Si más personas dejan el coche, también puede reducir el impacto ambiental.",
+   "enContra": "La gratuidad puede hacer crecer la demanda más rápido que la capacidad, y obliga a financiar los ingresos perdidos. Los viajes nuevos en transporte público no siempre sustituyen viajes en coche.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 39
+    },
+    {
+     "informe": "podemos",
+     "pagina": 40
+    },
+    {
+     "informe": "fa",
+     "pagina": 27
+    },
+    {
+     "informe": "psoe",
+     "pagina": 24
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "TR01",
+      "page": 27,
+      "quote": "Tarifas y abonos de Cercanías con condiciones por edad.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "TR01 abarata tarifas y abonos con condiciones por edad, sin gratuidad general. La nota cuenta abonos baratos o gratuidad para grupos como +1."
+   },
+   "podemos": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-16-01",
+      "page": 39,
+      "quote": "Gratuidad de transporte público en todos los niveles administrativos y tarjeta interoperable.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "POD-16-01 propone la gratuidad del transporte público en todas las administraciones."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona gratuidad del transporte público. Silencio: null."
+   },
+   "psoe": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "TR03",
+      "page": 24,
+      "quote": "Financiación estable, integración, ayudas y movilidad activa.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "TR03 propone ayudas e integración tarifaria sin gratuidad ni cuantía. Indicio débil de abaratar: +1 baja."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta gratuidad del transporte. Ámbito 16: 'Sin ficha sectorial autónoma de red ferroviaria, carreteras o movilidad cotidiana'. X.6 solo adelanta el pago de la bonificación canaria vigente."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no menciona la gratuidad del transporte público."
+   }
+  }
+ },
+ {
+  "id": "Q47",
+  "order": 36,
+  "block": 7,
+  "ambito": 17,
+  "text": "Las grandes plataformas tecnológicas deberían pagar más impuestos en España.",
+  "axis": "ECO",
+  "dir": -1,
+  "polarity": "T",
+  "fast": false,
+  "help": {
+   "medida": "Más impuestos a las grandes plataformas tecnológicas",
+   "ahora": "Las plataformas ya tienen obligaciones fiscales y laborales en España, y su cumplimiento puede inspeccionarse. Los grandes grupos empresariales están sujetos al impuesto mínimo global, que puede exigir tributación complementaria.",
+   "aFavor": "Reforzar su tributación puede aumentar la recaudación sobre operaciones y beneficios que cruzan fronteras.",
+   "enContra": "Reforzar su tributación puede trasladar el coste a los clientes, y la recaudación es incierta sin una base definida.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 8
+    },
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "fa",
+     "pagina": 34
+    },
+    {
+     "informe": "psoe",
+     "pagina": 6
+    },
+    {
+     "informe": "psoe",
+     "pagina": 25
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 34,
+      "quote": "Servicios digitales: 15%; depósitos bancarios: 1%; energía: 1,2% sobre cifra de negocio con incentivos de reinversión.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "D08",
+      "page": 34,
+      "quote": "Gravamen del 50% pagadero en acciones para empresas con ingresos europeos de IA superiores a 200 millones anuales.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "El programa grava los servicios digitales al 15% y añade un gravamen europeo del 50% en acciones a grandes empresas de IA."
+   },
+   "podemos": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-01-05",
+      "page": 8,
+      "quote": "Refuerzo de obligaciones laborales y fiscales de plataformas y protección de servicios regulados.",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "POD-01-05 refuerza las obligaciones fiscales de las plataformas: más cumplimiento, sin impuesto nuevo. Versión parcial."
+   },
+   "pp": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona impuestos a plataformas tecnológicas; solo 'restricción de plataformas' para menores (p. 21). Null."
+   },
+   "psoe": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "F03",
+      "page": 6,
+      "quote": "Fiscalidad digital/IA, consumos intensivos en carbono de lujo y brechas salariales extremas en empresas.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "F03 propone un gravamen nuevo sobre la economía digital y la IA. Bases y sujetos por concretar: confianza media."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre impuestos a plataformas tecnológicas. Ámbito 17: 'No se identifica una estrategia propia de IA, computación, innovación tecnológica o ciberseguridad'."
+   },
+   "vox": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "Silencio: el informe no trata impuestos a plataformas tecnológicas."
+   }
+  }
+ },
+ {
+  "id": "Q49",
+  "order": 37,
+  "block": 8,
+  "ambito": 18,
+  "text": "España debería aumentar el gasto en defensa hasta los objetivos de la OTAN.",
+  "axis": null,
+  "dir": 0,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Aumento del gasto en defensa hasta objetivos OTAN",
+   "ahora": "La OTAN confirmó en marzo de 2026 que España alcanzó en 2025 un gasto en defensa del 2% del PIB. La referencia de la cumbre de La Haya de 2025 suma al menos 3,5% en defensa y hasta 1,5% en gasto relacionado.",
+   "aFavor": "Más presupuesto puede pagar equipos, personal y salarios, y reforzar la seguridad del país y su capacidad de resistir crisis.",
+   "enContra": "Más presupuesto compite con otras partidas y no garantiza por sí solo que lleguen los equipos.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 44
+    },
+    {
+     "informe": "salf",
+     "pagina": 76
+    },
+    {
+     "informe": "podemos",
+     "pagina": 51
+    },
+    {
+     "informe": "fa",
+     "pagina": 30
+    },
+    {
+     "informe": "vox",
+     "pagina": 23
+    },
+    {
+     "informe": "pp",
+     "pagina": 22
+    },
+    {
+     "informe": "psoe",
+     "pagina": 27
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "X01",
+      "page": 30,
+      "quote": "Rechazar la senda de aumento y reorientar seguridad.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "X01 rechaza la senda de aumento del gasto en defensa. La nota cuenta congelar el gasto militar como -2. IU va más allá y pide salir de la OTAN, lo que no se atribuye al conjunto."
+   },
+   "podemos": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "POD-18-02",
+      "page": 42,
+      "quote": "Revertir aumentos militares, congelar",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": null,
+      "page": 58,
+      "quote": "Viabilidad relativa media para un compromiso contra el objetivo militar del 5 %",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone revertir aumentos y congelar el gasto militar; la nota lo cuenta como -2. La defensa sale en las conclusiones ejecutivas."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EX01",
+      "page": 22,
+      "quote": "Ley plurianual y modernización.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 22,
+      "quote": "Incrementar presupuesto no garantiza entregas.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EX01 propone ley plurianual y modernización con más presupuesto, sin cifra cerrada. La nota codifica modernizar sin cifra como 0 o +1; el aumento de presupuesto da +1."
+   },
+   "psoe": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EX05",
+      "page": 27,
+      "quote": "Modernización, cooperación, capacidades industriales, ciberseguridad y bienestar militar.",
+      "sourceReport": "psoe"
+     },
+     {
+      "unitId": null,
+      "page": 27,
+      "quote": "No atribuir al programa una cifra cerrada de gasto militar que no concreta en sus compromisos.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EX05 moderniza capacidades sin cifra ni compromiso de aumento. La nota da 0 o +1 a modernizar sin cifra; sin mención de más presupuesto, 0. La frase del informe excluye atribuir una cifra, no una posición."
+   },
+   "salf": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "X.12",
+      "page": 44,
+      "quote": "Destinar el 2% del PIB a Defensa con prioridad industrial española",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "X.12",
+      "page": 44,
+      "quote": "La OTAN ya confirmó que España alcanzó el 2% en 2025; mantener esa referencia no equivale por sí solo a aumentar gasto.",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "X.12 fija el 2% del PIB. El informe dice que España ya lo alcanzó en 2025 y que mantenerlo no equivale a aumentar gasto. No congela ni recorta: posición intermedia."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EX03",
+      "page": 23,
+      "quote": "Más inversión, recursos, salarios, vivienda y reconocimiento",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": "EX03",
+      "page": 23,
+      "quote": "No se fija en el programa una cuota concreta del",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "EX03 propone más inversión en defensa sin cuota del PIB. Según la nota, modernizar sin cifra es 0 o +1; se pone +1."
+   }
+  }
+ },
+ {
+  "id": "Q50",
+  "order": 38,
+  "block": 8,
+  "ambito": 18,
+  "text": "La Unión Europea tiene demasiado poder y España debería recuperar competencias.",
+  "axis": "EUR",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Recuperación de competencias cedidas a la Unión Europea",
+   "ahora": "La política comercial común es hoy competencia de la Unión Europea. Cambiar los tratados exige acuerdo de otros Estados, y una salida seguiría el procedimiento del artículo 50.",
+   "aFavor": "Recuperar competencias permite fijar en España reglas de comercio, agricultura y medio ambiente adaptadas a la producción agraria.",
+   "enContra": "Recuperar competencias cambia reglas comerciales comunes que afectan de forma distinta a productores, consumidores y exportadores.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 42
+    },
+    {
+     "informe": "psoe",
+     "pagina": 27
+    },
+    {
+     "informe": "salf",
+     "pagina": 41
+    },
+    {
+     "informe": "vox",
+     "pagina": 23
+    },
+    {
+     "informe": "vox",
+     "pagina": 20
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -1,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "X04",
+      "page": 30,
+      "quote": "Cambiar gobernanza fiscal y funciones monetarias.",
+      "sourceReport": "fa"
+     },
+     {
+      "unitId": "D08",
+      "page": 29,
+      "quote": "Requiere decisión europea, definición de base, valoración y derechos",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "X04 cambia la gobernanza fiscal europea y las funciones del BCE, y D08 crea un fondo europeo con un gravamen común. Pide más capacidad fiscal europea, no recuperar competencias; sin frase explícita: -1."
+   },
+   "podemos": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre recuperar competencias de la UE. La mención a la soberanía en el ámbito 18 no se vincula a competencias europeas."
+   },
+   "pp": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": null,
+      "page": 22,
+      "quote": "La orientación europeísta y el Estado autonómico del PP no son idénticos al enfoque de Vox.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {},
+    "rationale": "El informe califica de europeísta la orientación del PP, contraria a recuperar competencias de la UE. No hay unidad sobre reparto de competencias europeas, por eso -1."
+   },
+   "psoe": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EX02",
+      "page": 27,
+      "quote": "Profundizar capacidad fiscal y democracia europeas, así como prioridades",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Baja"
+    },
+    "rationale": "Propone profundizar la capacidad fiscal y la democracia europeas. Nota: pedir más capacidad fiscal europea es negativo."
+   },
+   "salf": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "X.1",
+      "page": 42,
+      "quote": "Convocar un referéndum sobre renegociar la relación con la Unión Europea",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "X.1",
+      "page": 42,
+      "quote": "un segundo referéndum sobre salida",
+      "sourceReport": "salf"
+     },
+     {
+      "unitId": "III.13",
+      "page": 8,
+      "quote": "impedir el límite europeo",
+      "sourceReport": "salf"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "X.1 plantea renegociar la relación con la UE y, si se rechaza, un referéndum de salida. III.13 y X.2 se oponen a normas europeas; las conclusiones citan alterar obligaciones europeas."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EX05",
+      "page": 23,
+      "quote": "Cambiar reglas comerciales y otras restricciones.",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 23,
+      "quote": "Abascal y la dirección ratifican fronteras y soberanía.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "EX05 pide cambiar reglas y restricciones europeas y la dirección ratifica la soberanía. No consta recuperación general de competencias: versión parcial."
+   }
+  }
+ },
+ {
+  "id": "Q52",
+  "order": 39,
+  "block": 8,
+  "ambito": 19,
+  "text": "La Ley de Memoria Democrática debería derogarse.",
+  "axis": "SOC",
+  "dir": 1,
+  "polarity": "D",
+  "fast": true,
+  "help": {
+   "medida": "Derogación de la Ley de Memoria Democrática",
+   "ahora": "La Ley de Memoria Democrática está en vigor, y las propuestas para desarrollarla incluyen archivos, reparación de víctimas y exhumaciones. Las propuestas de cambiarla no detallan qué texto la sustituiría. Una de ellas une la memoria con cambios en la expresión y en la protección penal de símbolos.",
+   "aFavor": "Derogar la ley puede dejar el reconocimiento de hechos históricos a la investigación, fuera de una norma estatal.",
+   "enContra": "Derogar la ley puede frenar los archivos, la identificación de víctimas y las ayudas que aportan una reparación verificable.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 17
+    },
+    {
+     "informe": "psoe",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 32
+    },
+    {
+     "informe": "pp",
+     "pagina": 23
+    }
+   ]
+  },
+  "positions": {
+   "fa": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "CU04",
+      "page": 31,
+      "quote": "Archivos, reparación y cambios en protecciones legales específicas.",
+      "sourceReport": "fa"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "CU04 (Memoria y protección cultural) amplía archivos y reparación. Es contrario a derogar la Ley de Memoria; el informe no nombra la ley, por eso confianza media."
+   },
+   "podemos": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "POD-12-08",
+      "page": 32,
+      "quote": "Desarrollar memoria, archivos,",
+      "sourceReport": "podemos"
+     },
+     {
+      "unitId": "POD-12-08",
+      "page": 32,
+      "quote": "reparación de víctimas y",
+      "sourceReport": "podemos"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone desarrollar la memoria, los archivos y la reparación de víctimas, lo contrario de derogar la ley."
+   },
+   "pp": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "CU02",
+      "page": 23,
+      "quote": "Cambios de marco y uso institucional.",
+      "sourceReport": "pp"
+     },
+     {
+      "unitId": null,
+      "page": 23,
+      "quote": "Patrimonio, deporte de base y protección del consumidor admiten acuerdos más amplios que memoria, lengua parlamentaria o gobernanza de medios.",
+      "sourceReport": "pp"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "CU02 'Memoria y lenguas' cambia el marco legal de memoria, con disenso del PSOE. El informe no dice 'derogación' (p. 3 evita convertir titulares en derogaciones): versión parcial."
+   },
+   "psoe": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "IN05",
+      "page": 19,
+      "quote": "Desarrollar reparación, exhumaciones y divulgación.",
+      "sourceReport": "psoe"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone desarrollar la memoria democrática (reparación, exhumaciones, divulgación). Es lo contrario de derogar la ley."
+   },
+   "salf": {
+    "value": null,
+    "confidence": null,
+    "salience": null,
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona la Ley de Memoria Democrática."
+   },
+   "vox": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "ID05",
+      "page": 17,
+      "quote": "Cambios en memoria, expresión y protección penal de",
+      "sourceReport": "vox"
+     },
+     {
+      "unitId": null,
+      "page": 17,
+      "quote": "Modificar leyes de memoria exige identificar qué disposiciones cambian, no suponer un articulado que el programa no desarrolla.",
+      "sourceReport": "vox"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "ID05 propone cambios en las leyes de memoria sin decir que se deroguen. El informe no supone un articulado: versión parcial."
+   }
+  }
+ }
+]

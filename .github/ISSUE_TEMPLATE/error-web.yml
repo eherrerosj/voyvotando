@@ -1,0 +1,25 @@
+name: Error en la web
+description: Algo no funciona o no se ve bien.
+title: "[Web] "
+labels: ["error"]
+body:
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué ha pasado
+      description: Qué esperabas y qué has visto. No pegues tu enlace de resultado si no quieres compartir tus respuestas.
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para reproducirlo
+  - type: input
+    id: dispositivo
+    attributes:
+      label: Dispositivo y navegador
+      placeholder: "Por ejemplo: iPhone 13, Safari 18"
+  - type: textarea
+    id: captura
+    attributes:
+      label: Captura de pantalla

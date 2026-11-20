@@ -1,0 +1,2299 @@
+ANÁLISIS DE POLÍTICAS PÚBLICAS
+
+
+
+
+Vox
+Propuestas, viabilidad y escenarios de ejecución
+Elecciones generales de España | 29 de noviembre de 2026
+
+
+Qué podría cambiar realmente
+Evaluación neutral de los compromisos nacionales: instrumentos, financiación, restricciones, respaldo
+interno, acuerdos posibles y efectos esperados.
+19 ámbitos de política pública. Cobertura trazable de las 115 numeraciones del programa. Las fichas
+separan aprobación, ejecución y resultado social.
+El informe no recomienda un voto ni pronostica un ganador electoral. Las estimaciones de viabilidad son
+juicios condicionados, no probabilidades estadísticas calibradas.
+ Documento                              Corte de información
+
+ Informe de evaluación - versión
+                                        17 de noviembre de 2026
+ 1.0
+
+                                        Programa presentado el 12 de noviembre de 2026; anuncios
+ Base programática
+                                        complementarios identificados por separado.
+
+Fuentes primarias del partido, BOE, instituciones europeas, Congreso, AIReF, Banco de España e investigación. Referencias
+numeradas y enlaces al final.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 1
+LECTURA EN CINCO MINUTOS
+
+
+Conclusiones ejecutivas
+Una agenda que combina varios instrumentos
+La plataforma reúne rebajas fiscales, ampliación de determinados servicios, ayudas familiares, regulación
+migratoria más restrictiva y preferencias por nacionalidad. No equivale simplemente a reducir el Estado:
+también propone vivienda protegida, inversión, personal y nuevas comprobaciones administrativas. [2,3]
+La principal incertidumbre económica está en el conjunto
+No hay una memoria consolidada que reconcilie menos impuestos, más prestaciones e inversión y menor
+deuda. Figaredo anunció un IVA del 18% el 4 de noviembre; el programa del día 12 pide rebajas sin fijar
+ese tipo. Sus cifras de gasto recortable son declaraciones, no ahorros certificados. [2,6,22]
+Nacionalidad, residencia y necesidad no son equivalentes
+Una preferencia territorial por residencia no es lo mismo que reservar prestaciones a españoles. La
+igualdad de trato de trabajadores comunitarios y residentes de larga duración limita determinadas
+exclusiones. La viabilidad depende de cada prestación, colectivo y diseño. [12,13,15,30]
+Retorno legal no significa expulsión automática
+Hay instrumentos de retorno en el ordenamiento, pero requieren procedimientos individuales, garantías y
+cooperación de los países receptores. Suprimir arraigos tampoco elimina las obligaciones de asilo ni
+convierte todas las salidas en ejecutables. [10,11,14,54]
+El PP es un interlocutor real, no un respaldo indistinto
+Existen acuerdos electorales puntuales para el Senado y precedentes autonómicos. La interpretación de la
+prioridad nacional ya produjo diferencias públicas. Compartir un objetivo no asegura coincidencia en
+beneficiarios, financiación o reforma europea. [28,30,32,33]
+No todo el cambio depende de las Cortes
+IVA, comercio, clima y ciertos derechos de residentes tienen dimensión europea. Sanidad, educación,
+vivienda y dependencia necesitan a comunidades autónomas y ayuntamientos. Una mayoría parlamentaria
+no sustituye estos requisitos. [9,18,27,45-47,55,58]
+La evidencia no permite prometer un resultado agregado
+Menos trámites puede reducir costes; más oferta de vivienda puede aliviar restricciones. La magnitud
+exige medir capacidad, demanda y ejecución. Tampoco se puede asumir que endurecer penas o restringir
+atención sanitaria produzca el beneficio neto anunciado. [23,49-51]
+El respaldo formal no mide unanimidad interna
+El programa y la estructura nacional acreditan una posición oficial. No hay una votación pública
+desglosada que permita calcular el porcentaje de apoyo a cada medida. Los perfiles del equipo describen
+responsabilidades y trayectoria, no garantías personales de resultados. [3-5]
+
+
+
+
+                                                                                VOX | Evaluación de propuestas | 2
+01 | CONTROL DOCUMENTAL
+
+
+Alcance, versiones y navegación
+La convocatoria oficial fija la votación el 29 de noviembre. La base de este informe es el programa
+nacional de Vox presentado el 12 de noviembre, dividido en trece bloques y 115 numeraciones. No se
+atribuyen automáticamente al texto de 2026 los parámetros de documentos anteriores. [1-3]
+ Elemento                 Tratamiento
+
+                          Instrumento o conjunto inseparable de instrumentos. Una numeración puede contener
+ Unidad de análisis
+                          varias acciones; una acción puede afectar a varios ámbitos.
+
+                          Los 19 ámbitos del marco común, más análisis transversal. El índice de cobertura vincula
+ Cobertura
+                          las 115 numeraciones a las fichas; no es una transcripción.
+
+                          Base del 12/11/2026, comprobación al 17/11/2026. Las ratificaciones adicionales se
+ Recencia
+                          datan. La fecha de una noticia no renueva por sí sola una propuesta antigua.
+
+ Estados                  Programa oficial; anuncio complementario; antecedente histórico; norma vigente; análisis
+ documentales             propio. No son categorías intercambiables.
+
+                          No consta una memoria económica integral, una encuesta interna por medida ni un
+ Incertidumbre
+                          acuerdo estatal de gobierno que cierre el paquete.
+
+
+Tres niveles de lectura
+Los compromisos y sus identificadores remiten al programa. Las restricciones y situaciones de partida
+remiten a fuentes externas. Las condiciones de ejecución, los riesgos y los pronósticos son análisis del
+informe. Las afirmaciones del partido sobre culpabilidad, delincuencia, efectos migratorios o eficacia no se
+convierten en hechos por aparecer en su programa.
+Guía del documento
+Las fichas siguen el mismo orden temático que el informe del PP. Después se examinan el balance fiscal, la
+prioridad nacional, el retorno migratorio, la evidencia, el respaldo interno, siete perfiles, los acuerdos, la
+secuencia de ejecución y el seguimiento. Al final figuran el índice de las 115 numeraciones y las fuentes.
+Comparabilidad y límites
+El mismo criterio se aplica a cada partido: distinguir lo aprobado de lo entregado y de su efecto. El
+escenario de mayoría propia es una prueba de capacidad institucional, no una previsión electoral. Una
+dificultad jurídica identificada no impide proponer reformas; obliga a especificar el procedimiento y los
+apoyos necesarios.
+
+
+
+
+                                                                                        VOX | Evaluación de propuestas | 3
+02 | MÉTODO DE EVALUACIÓN
+
+
+Probabilidades condicionadas, no porcentajes aparentes
+ Escenario                 Supuesto utilizado en las fichas
+
+                           Gobierno de Vox con mayoría suficiente para legislación ordinaria y orgánica. No se
+ A - Mayoría propia        presupone mayoría de reforma constitucional, control judicial ni capacidad de cambiar
+                           unilateralmente normas europeas.
+
+                           Mayoría conjunta suficiente y negociación de un programa de gobierno. Se estima la
+ B - Acuerdo PP-Vox        aprobación de una versión sustancialmente fiel, no solo de cualquier medida con nombre
+                           parecido.
+
+ C - Influencia desde la   Vox no controla el Gobierno ni dispone de un pacto estable de ejecución. Solo puede
+ oposición                 promover iniciativas, negociar apoyos o ver adoptadas partes de su propuesta.
+
+
+Cómo leer A / B / C y E
+A/B/C expresa una estimación cualitativa de aprobación durante una legislatura bajo cada supuesto. E
+expresa la entrega material una vez aprobada legalmente y dotada de financiación suficiente. No es la
+probabilidad conjunta de ganar, aprobar, financiar y ejecutar. Horizonte: cuatro años salvo plazo explícito
+distinto.
+ Categoría                 Significado y criterio
+
+                           Ruta nacional identificable, instrumento relativamente definido y ausencia de un veto
+ Alta
+                           decisivo conocido bajo el supuesto. No equivale a certeza.
+
+                           Requiere negociación sustancial, concreción, coordinación o capacidad material. La
+ Media
+                           condición decisiva se explica.
+
+                           La versión completa encuentra una barrera jurídica, externa o temporal significativa que
+ Baja
+                           el escenario no resuelve. No significa que ninguna parte pueda avanzar.
+
+                           No estimable: resultado sin umbral verificable, sustitución normativa indefinida u
+ NE
+                           horizonte que impide una predicción razonable.
+
+
+Confianza y eficacia
+La confianza en los pronósticos es generalmente media-baja: no existe una tasa histórica calibrada para
+este programa. La confianza en el texto oficial o en una norma puede ser mayor. No se promedian
+restricciones decisivas ni se asigna una nota global al partido. La eficacia y la distribución se discuten por
+separado; contar leyes aprobadas no mide bienestar.
+Qué modificaría una estimación
+Un acuerdo firmado, un articulado concreto, una memoria presupuestaria, autorizaciones europeas,
+convenios territoriales o una cartera de proyectos maduros. Cada cambio debe generar una nueva versión
+de la ficha, conservando la anterior para comprobar el pronóstico.
+
+
+
+
+                                                                                          VOX | Evaluación de propuestas | 4
+03 | RUTAS INSTITUCIONALES
+
+
+Qué puede decidir un Gobierno y qué no
+ Ruta                  Aplicación a la agenda de Vox                   Condición decisiva
+
+                                                                       Competencia, dotación, contratación y
+ Gestión y             Auditorías, refuerzo de oficinas, prioridades
+                                                                       continuidad. Una orden no sustituye una
+ presupuesto           de inspección, convocatorias y proyectos.
+                                                                       ley.
+
+                       Buena parte de impuestos, vivienda,             Mayoría, coordinación territorial y respeto
+ Ley ordinaria
+                       prestaciones y administración.                  de normas superiores.
+
+                                                                       Mayoría absoluta del Congreso en la
+                       Reformas penales, educativas y de
+ Ley orgánica                                                          votación final del conjunto cuando
+                       determinados derechos o instituciones.
+                                                                       proceda.
+
+                                                                       Procedimiento del artículo 167 o, para
+                       Alteraciones que excedan las competencias
+ Constitución                                                          materias protegidas, del 168; no basta una
+                       o diseños que permite el texto vigente.
+                                                                       mayoría ordinaria.
+
+                                                                       Cambiar la norma en el nivel europeo o
+                       Tipos de IVA, comercio común, clima, libre
+ Unión Europea                                                         utilizar un margen que la norma ya
+                       circulación y derechos europeos.
+                                                                       permita.
+
+                       Suelo, centros educativos, asistencia           Competencias, convenios, recursos y
+ Comunidades y
+                       sanitaria, servicios sociales y numerosos       ejecución propia; no obediencia
+ municipios
+                       tributos cedidos.                               automática al Gobierno central.
+
+
+Tres distinciones que evitan conclusiones erróneas
+Un objetivo político no es un título jurídico. Una proposición no de ley no tiene el mismo efecto que una
+reforma legal. Una sentencia o autorización administrativa no puede sustituirse por un compromiso
+electoral. [9,20]
+El Senado puede influir en tramitación, nombramientos y revisiones constitucionales; no toda mayoría en
+esa Cámara equivale a un veto definitivo a la legislación ordinaria. Deben comprobarse los requisitos de
+cada procedimiento. [9]
+Aplicación práctica
+La ampliación de personal requiere presupuestos y selección; el IVA cero de primera vivienda exige encaje
+europeo; las expulsiones requieren expedientes individuales; cambiar la organización territorial requiere
+distinguir coordinación de transferencia o supresión de competencias. Estas rutas se evalúan
+separadamente, incluso dentro de una misma numeración. [9,14,18,19]
+Durabilidad
+Una reforma con costes permanentes necesita financiación recurrente. Una medida apoyada solo por un
+socio puede alterarse al romperse el pacto. Una norma recurrida no es automáticamente nula, pero el
+diseño debe prever las consecuencias de una eventual suspensión o anulación.
+
+
+
+
+                                                                                      VOX | Evaluación de propuestas | 5
+04 | FICHAS SECTORIALES
+
+
+01. Economía, productividad y empresas
+Base: 12/11/2026 | Programa: 5, 8, 36, 40-43 | Referencias: [2,6,20,53]
+A: mayoría Vox | B: acuerdo PP-Vox | C: oposición | E: entrega tras aprobación legal y financiación.
+
+ Unidad                       Instrumento y condición decisiva                                             A / B / C; E
+
+                              Revisar obligaciones y eliminar tres normas por cada nueva.                    Alta / Alta / Media; E:
+ EC01 - Menos cargas
+                              Contar normas no mide el coste real de cumplimiento.                                   Media
+
+                              Ventanilla única, reconocimiento territorial y silencio positivo.
+ EC02 - Licencias y                                                                                         Media / Media / Media;
+                              Deben preservarse las competencias y las excepciones
+ mercado                                                                                                           E: Media
+                              justificadas.
+
+ EC03 - Industria y           Plan industrial, incentivos a I+D+i, transferencia y retorno.                 Alta / Media / Media; E:
+ talento                      Requiere proyectos, criterios competitivos y encaje de ayudas.                        Media
+
+ EC04 - Turismo de            Diversificar hacia patrimonio y mundo rural. La inversión debe                 Alta / Alta / Media; E:
+ calidad                      corresponder a demanda, accesibilidad y capacidad local.                               Media
+
+
+
+Viabilidad y financiación
+La simplificación ofrece una ruta nacional en los trámites de su competencia. El silencio positivo ya existe
+en supuestos legales: el cambio debe identificar las excepciones que elimina, no anunciar su creación
+desde cero. Las ayudas sectoriales y restricciones a competidores necesitan examen europeo. [20,53]
+La digitalización exige gasto inicial, integración y seguridad. Reducir revisiones previas puede trasladar
+trabajo a inspecciones posteriores. No se acredita una cifra neta de ahorro para financiar simultáneamente
+todas las nuevas actuaciones.
+Eficacia y distribución
+Análisis: reducir costes fijos puede favorecer especialmente a pequeñas empresas. En cambio, una regla
+de tres derogaciones puede eliminar normas irrelevantes o concentrar muchas obligaciones en una sola.
+La evaluación debe medir tiempo, coste y riesgo, no volumen normativo. Los incentivos industriales deben
+distinguir inversión adicional de proyectos que habrían ocurrido igualmente.
+Respaldo y pactos
+Figaredo ratificó desregulación y rebajas fiscales el 4/11; es evidencia sectorial adicional al programa, no
+una auditoría de sus beneficios. Con el PP hay compatibilidad potencial de instrumentos. El
+proteccionismo comercial requiere otra negociación y no debe incorporarse al acuerdo por asociación.
+[6,28]
+Seguimiento
+Horas de trámite por empresa, coste por tamaño, plazos mediano y percentil 90, incidentes de inspección,
+inversión adicional y productividad. Publicar línea base y evaluaciones comparables antes de escalar
+incentivos.
+
+
+
+
+                                                                                                       VOX | Evaluación de propuestas | 6
+04 | FICHAS SECTORIALES
+
+
+02. Fiscalidad y cuentas públicas
+Base: 12/11/2026 | Programa: 2-4, 6, 21, 34-35, 43 | Referencias: [2,6,18,22,53]
+
+ Unidad                       Instrumento y condición decisiva                                     A / B / C; E
+
+                              Rebaja y simplificación con modulación familiar. Faltan tipos,         Alta / Media / Baja; E:
+ FI01 - IRPF e hijos
+                              tramos, base y tratamiento de hogares sin cuota.                                Alta
+
+                              Rebajas sin tipo cerrado en el programa. IVA del 18% es un
+                                                                                                     Alta / Media / Baja; E:
+ FI02 - IVA y sociedades      anuncio complementario de Figaredo, no una cifra del texto
+                                                                                                              Alta
+                              base.
+
+                              Revisión de gasto y retirada progresiva de determinadas
+ FI03 - Auditoría y                                                                                 Alta / Media / Media; E:
+                              subvenciones. Ahorro bruto no equivale a ahorro neto ni
+ subvenciones                                                                                               Media
+                              inmediato.
+
+                              Cambios en IGIC, AIEM, compensaciones e incentivos
+ FI04 - Insularidad y                                                                               Media / Media / Media;
+                              territoriales. Reparto competencial y reglas europeas
+ ruralidad                                                                                                 E: Media
+                              relevantes.
+
+                              Gravar remesas y aumentar fiscalidad de ciertos compradores
+ FI05 - Remesas y                                                                                    Media / Baja / Baja; E:
+                              no comunitarios o fondos. Sin base, tipos ni memoria
+ adquisiciones                                                                                              Media
+                              definidos.
+
+
+La condición fiscal decisiva
+El programa no permite calcular el saldo conjunto con fiabilidad. Hacen falta recaudación estática,
+cambios de conducta, coste de transición, distribución y efecto en todas las administraciones. El IVA cero
+de vivienda se analiza aparte por su dependencia europea. [18,19]
+Las transferencias entre administraciones se eliminan al consolidar cuentas: reducir una transferencia
+estatal puede trasladar la necesidad de gasto a una comunidad, no suprimir el servicio. Los importes de
+subvenciones que Figaredo se propone revisar no son una bolsa de ahorro libre de obligaciones. [6,22]
+Efectos y distribución
+Análisis: el beneficio del IRPF depende de renta y cuota; una deducción no reembolsable puede dejar
+fuera a hogares de baja renta. La traslación de una rebaja del IVA a precios no debe suponerse completa.
+Gravar remesas puede incentivar canales alternativos y necesita analizar libre circulación de capitales y
+proporcionalidad. [53]
+Respaldo y pactos
+La dirección respalda la orientación fiscal y Figaredo aporta concreciones. Su anuncio contempla
+negociación, pero no acredita aceptación del PP de tipos o recortes concretos. El apoyo territorial a
+cambios del IGIC o del ITP debe probarse separadamente. [3,6,28]
+Seguimiento
+Recaudación y gasto consolidados, renta disponible por decila y tipo de familia, precios finales, servicios
+afectados y deuda bajo escenarios de crecimiento prudentes. No contabilizar ingresos por crecimiento
+antes de justificar su magnitud.
+
+
+
+
+                                                                                               VOX | Evaluación de propuestas | 7
+04 | FICHAS SECTORIALES
+
+
+03. Empleo y relaciones laborales
+Base: 12/11/2026 | Programa: 2, 8, 23, 58, 74, 94, 99 | Referencias: [2,6,48,57]
+
+ Unidad                       Instrumento y condición decisiva                                   A / B / C; E
+
+ EM01 - Cuota de              Cero bajo el SMI; escala desde 50 EUR por encima. Definir           Alta / Media / Media; E:
+ autónomos                    rendimiento, periodo, regularización y derechos de protección.               Alta
+
+ EM02 - Legislación           Sustituir la legislación laboral atribuida al Gobierno de          Media / Media / Baja; E:
+ laboral                      Sánchez. El texto no concreta el régimen alternativo completo.              NE
+
+                              FP, relevo rural y retorno de españoles. Necesita
+ EM03 - Formación y                                                                                Alta / Alta / Media; E:
+                              correspondencia entre vacantes, cualificación y condiciones
+ retorno                                                                                                   Media
+                              reales.
+
+                              Incentivos empresariales y reincorporación de madres y
+ EM04 - Conciliación y                                                                            Alta / Media / Media; E:
+                              cuidadores. Definir elegibilidad, adicionalidad y control de
+ empleo                                                                                                   Media
+                              sustituciones.
+
+
+Punto de partida y viabilidad
+El marco laboral vigente incluye la reforma de 2021 y sus modificaciones. Una derogación genérica no
+informa de qué contratos, negociación colectiva o garantías sustituiría. No se puede estimar su efecto
+sobre empleo sin ese contrafactual. [57]
+La cuota reducida es un instrumento ejecutable, pero su coste debe coordinarse con la financiación de
+prestaciones. Un umbral mal diseñado puede incentivar la declaración de rendimientos justo por debajo
+del límite; la escala debe evitar saltos excesivos.
+Eficacia y distribución
+Análisis: menos cuota puede reducir barreras al autoempleo, aunque no demuestra por sí sola creación de
+actividad adicional. Conviene separar nuevas altas, formalización y sustitución de empleo asalariado. Las
+políticas familiares funcionan dentro de un conjunto que incluye horarios, cuidados y vivienda; no basta
+un incentivo aislado. [48]
+La restricción migratoria interactúa con la disponibilidad de trabajadores. El informe no presupone escasez
+en todas las ocupaciones: exige una evaluación por territorio y sector antes de prometer a la vez más
+construcción, cuidados y producción.
+Respaldo y pactos
+Existe respaldo formal y ratificación económica de Figaredo. El PP puede compartir alivio a autónomos o
+FP, pero eso no acredita una derogación laboral completa ni acuerdo sobre su sustitución. Sindicatos y
+empresas son actores de ejecución y negociación, no votos parlamentarios adicionales. [6,28]
+Seguimiento
+Altas netas y supervivencia del autoempleo, ingresos declarados, cobertura contributiva, horas trabajadas,
+salarios reales, colocaciones de FP y reincorporación tras cuidados. Comparar beneficiarios con grupos
+semejantes no beneficiarios.
+
+
+
+
+                                                                                             VOX | Evaluación de propuestas | 8
+04 | FICHAS SECTORIALES
+
+
+04. Pensiones y envejecimiento
+Base: 12/11/2026 | Programa: 7, 94-96 | Referencias: [2,21,48,58,61]
+
+ Unidad                      Instrumento y condición decisiva                                    A / B / C; E
+
+                             Apoyar el sistema mediante empleo, salarios y productividad.
+ PE01 - Sostenibilidad
+                             No hay una reforma paramétrica cuantificada ni una senda               NE / NE / NE; E: NE
+ por crecimiento
+                             actuarial propia.
+
+ PE02 - Natalidad como       Apoyo familiar para ampliar la base futura de cotizantes. Sus        Alta / Media / Media; E:
+ soporte                     efectos contributivos quedan fuera de una legislatura.                         NE
+
+ PE03 - Cuidadores y         Compensar con fondos estatales dedicación al cuidado.                Alta / Media / Media; E:
+ pensión                     Especificar cotización, derechos reconocidos y coste futuro.                 Media
+
+                             Atención domiciliaria, dependencia y soledad. La entrega
+ PE04 - Apoyo en la                                                                                Alta / Alta / Media; E:
+                             depende de personal, servicios locales y financiación
+ vejez                                                                                                     Media
+                             recurrente.
+
+
+Qué se puede y qué no se puede inferir
+La formulación del programa no acredita una nueva edad de jubilación, una fórmula completa de cálculo ni
+una sustitución del sistema. Tampoco procede atribuirle una revalorización concreta no expresada. La
+vinculación legal al poder adquisitivo tiene antecedentes vigentes que forman parte de la línea base.
+[2,61]
+AIReF separa el cumplimiento formal de la regla de gasto de pensiones de la sostenibilidad financiera del
+sistema. Ese diagnóstico no demuestra que el programa de Vox sea financiable o inviable: obliga a
+presentar sus propios supuestos demográficos, de empleo y productividad. [21]
+Horizonte y coherencia
+Análisis: un niño nacido por efecto de una política no cotizará de inmediato. Un eventual aumento de
+natalidad no cubre un déficit en los cuatro años siguientes. Reducir cuotas mientras se amplían derechos
+exige identificar ingresos o transferencias adicionales. Restringir inmigración también debe incorporarse a
+la proyección de cotizantes, sin asumir que todo migrante genera el mismo saldo.
+Efectos, respaldo y acuerdos
+Los derechos asociados al cuidado pueden reconocer trabajo no remunerado, pero requieren un diseño
+que no penalice la reincorporación laboral ni perpetúe desigualdades entre cuidadores. La evidencia sobre
+política familiar aconseja evaluar empleo, servicios y apoyo monetario conjuntamente. [48]
+El apoyo oficial está documentado; no consta una memoria actuarial interna aprobada por órganos o
+territorios. Son posibles acuerdos parciales de cuidados y suficiencia, pero no se presume consenso sobre
+la financiación. [3,28]
+Seguimiento
+Balance contributivo y total, transferencias, cobertura, pobreza en la vejez, empleo de cuidadores y
+sostenibilidad bajo distintos escenarios demográficos. Mantener separados resultados anuales y
+proyecciones a varias décadas.
+
+
+
+
+                                                                                             VOX | Evaluación de propuestas | 9
+04 | FICHAS SECTORIALES
+
+
+05. Vivienda y urbanismo
+Base: 12/11/2026 | Programa: 26-35 | Referencias: [2,7,18,19,23,24,62,63]
+
+ Unidad                      Instrumento y condición decisiva                                    A / B / C; E
+
+ VI01 - Suelo y              Reforma de suelo, permisos, menores cargas y financiación.           Alta / Alta / Media; E:
+ construcción                Necesita suelo servido, profesionales y proyectos viables.                   Media
+
+ VI02 - Vivienda             Inversión pública y colaboración privada. Faltan unidades,          Alta / Media / Media; E:
+ protegida                   coste, duración de protección y distribución territorial.                   Media
+
+                             Derogar la Ley de Vivienda, incentivar alquiler estable y
+ VI03 - Reglas del                                                                                  Alta / Alta / Baja; E:
+                             regular pisos turísticos. Precisar derechos y contratos
+ alquiler                                                                                                  Media
+                             transitorios.
+
+ VI04 - IVA e ITP de         IVA cero en obra nueva e ITP bonificado en usada. El IVA            Media / Media / Baja; E:
+ primera compra              necesita encaje europeo; el ITP, actuación territorial.                      Alta
+
+ VI05 - Ocupación y          Desalojo inferior a 24 horas y respuesta penal. Diferenciar         Media / Media / Baja; E:
+ fraude                      allanamiento, usurpación e impago; garantizar tutela judicial.               Baja
+
+ VI06 - Acceso por           Prioridad en ayudas y vivienda; residencia legal para alquilar.       Baja / Baja / Baja; E:
+ nacionalidad                Requiere examen por colectivo y derechos aplicables.                         Media
+
+
+
+Viabilidad y coste
+La oferta es una combinación de normas, suelo, infraestructuras y capital. El Banco de España identifica la
+relevancia de las restricciones de oferta; no ofrece una estimación del efecto de este paquete. Una rebaja
+a la compra sin oferta adicional puede trasladarse parcialmente al precio. [23]
+El IVA cero no debe presentarse como simple decisión unilateral: una iniciativa de eurodiputados de Vox
+de 2024 ya solicitaba cambiar la directiva. Es un antecedente, no una autorización europea conseguida.
+[18,19]
+Efectos y distribución
+La ayuda a compradores no beneficia igual a quienes no pueden obtener hipoteca. Garantías y préstamos
+públicos generan riesgo fiscal, aunque no sean gasto inmediato. La protección a propietarios debe
+evaluarse junto a errores de desalojo y protección de hogares vulnerables. La nacionalidad se examina en
+el análisis transversal. [9,12,13]
+Respaldo, pactos y verificación
+Hernández Quero mantiene una agenda sectorial documentada y ratificada en noviembre. Hay espacio
+con el PP en oferta y seguridad jurídica, no acuerdo demostrado sobre exclusiones. Medir viviendas
+terminadas y ocupadas, alquiler/esfuerzo por renta, tiempo judicial, coste por unidad y duración de
+asequibilidad. [7,28,63]
+
+
+
+
+                                                                                           VOX | Evaluación de propuestas | 10
+04 | FICHAS SECTORIALES
+
+
+06. Sanidad
+Base: 12/11/2026 | Programa: 20, 60-65 | Referencias: [2,16,17,25,50,51]
+
+ Unidad                      Instrumento y condición decisiva                                     A / B / C; E
+
+ SA01 -                      Tarjeta e historia compartida. Completar sistemas existentes,           Alta / Alta / Alta; E:
+ Interoperabilidad           no computar como nuevo todo el intercambio de datos.                           Media
+
+ SA02 - Primaria y           Refuerzo rural y pediátrico, mejores condiciones y retorno.           Alta / Alta / Media; E:
+ personal                    Presupuesto, plazas, formación y retención.                                   Media
+
+                             Plan nacional, derivación interterritorial y colaboración privada
+                                                                                                  Alta / Media / Media; E:
+ SA03 - Listas de espera     evaluada. Comprar capacidad adicional, no solo actividad
+                                                                                                          Media
+                             desplazada.
+
+ SA04 - Especialización      Oncología, enfermedades raras, cronicidad, salud de la mujer e        Alta / Alta / Media; E:
+ y salud mental              infraestructuras. Priorizar con cartera, resultados y personal.               Media
+
+                             Cobertura limitada a urgencias graves para residentes
+ SA05 - Exclusión por                                                                              Media / Baja / Baja; E:
+                             irregulares. Cambiar el marco vigente y resolver garantías y
+ irregularidad                                                                                            Media
+                             excepciones.
+
+
+Situación inicial y ruta
+El SNS ya dispone de mecanismos de historia clínica compartida. El valor adicional depende de qué
+información falta, su calidad, disponibilidad e interoperabilidad real. La gestión asistencial sigue
+requiriendo cooperación de los servicios autonómicos. [16,25]
+La Ley 16/2003 y el Real Decreto 180/2026 regulan acceso de personas sin residencia legal y
+contemplan protecciones específicas. La medida no afecta, según su redacción, a todo extranjero: el
+programa la refiere a situación irregular. No debe confundirse residencia con turismo sanitario. [16,17]
+Evidencia y costes
+Un estudio sobre la restricción española de 2012 estimó un aumento de mortalidad en la población
+afectada. No es una predicción cuantitativa para 2026: diseño, exenciones y aplicación territorial pueden
+diferir. Un estudio catalán de uso sanitario es observacional y no demuestra por sí solo causalidad. [50,51]
+Análisis: retrasar atención puede trasladar casos a urgencias; el ahorro debe calcular costes totales y
+resultados, no solo consultas excluidas. Ampliar salarios y centros exige gasto recurrente; una
+adjudicación privada no crea automáticamente más profesionales.
+Respaldo, acuerdos y seguimiento
+Respaldo formal nacional; no consta un acuerdo técnico de todas las autonomías. La interoperabilidad, el
+personal y la salud mental permiten acuerdos parciales; excluir cobertura constituye otra negociación.
+Medir espera completa, necesidad no atendida, continuidad, coste ajustado por riesgo y resultados,
+separando financiación y titularidad. [3,28]
+
+
+
+
+                                                                                            VOX | Evaluación de propuestas | 11
+04 | FICHAS SECTORIALES
+
+
+07. Educación, universidad y ciencia
+Base: 12/11/2026 | Programa: 5, 66-75 | Referencias: [2,9,42,55]
+
+ Unidad                      Instrumento y condición decisiva                                  A / B / C; E
+
+ ED01 - Currículo y          Contenidos comunes, reválidas y EVAU única. Distinguir bases      Media / Media / Baja; E:
+ pruebas                     estatales de ejecución y competencias territoriales.                      Media
+
+                             Sustituir LOMLOE, reforzar disciplina, limitar móviles y
+ ED02 - Reforma                                                                                 Alta / Media / Baja; E:
+                             proteger docentes. Hace falta articulado y calendario de
+ educativa                                                                                              Media
+                             transición.
+
+ ED03 - Elección y           Elección de centro, distrito único, becas y FP. Sin plazas y      Alta / Media / Media; E:
+ ayudas                      transporte, libertad formal y acceso efectivo pueden divergir.            Media
+
+ ED04 - Escolarización y     Apoyos de nivelación y límites por idioma u otras culturas. Un      Baja / Baja / Baja; E:
+ lengua                      criterio educativo individual no equivale a una cuota cultural.            Media
+
+ ED05 - Ciencia y            Incentivos, transferencia y protección de cátedra. La cuantía y    Alta / Alta / Media; E:
+ libertad académica          la gobernanza de I+D quedan por desarrollar.                               Media
+
+
+
+Viabilidad
+La reforma de enseñanzas y acceso universitario requiere distinguir ley orgánica, desarrollo reglamentario
+y ejecución autonómica. Cambiar todo el sistema en un único curso introduce riesgos de transición. El
+compromiso de escolarización en castellano debe conciliarse con la cooficialidad y los derechos
+educativos. [9,55]
+La expresión sobre otras culturas carece de definición operativa suficiente. El apoyo lingüístico basado en
+necesidades puede evaluarse; distribuir alumnado por una categoría cultural general exige un escrutinio
+distinto de igualdad, proporcionalidad y protección de datos. [9,42,55]
+Eficacia, coste y distribución
+Análisis: una prueba común mejora comparabilidad solo si mide competencias relevantes y se usa de
+manera adecuada. Becas, desdobles, transporte y orientación requieren dotación. La selección de centro
+puede aumentar oportunidades o segmentación según admisión, información y distribución de plazas. No
+se atribuye una subida de resultados a la derogación de una ley sin evaluar instrumentos.
+Respaldo y pactos
+El programa acredita respaldo nacional. Las medidas de apoyo docente y FP podrían aislarse de un
+paquete más controvertido de lengua, admisión y currículo; esa coincidencia potencial no es un
+compromiso firmado de otros partidos. [3,28]
+Seguimiento
+Aprendizaje con línea base, abandono, distribución del alumnado, movilidad entre centros, acceso a becas,
+empleo tras FP y transferencia científica. Las medidas sobre velo, menús y programas culturales se
+analizan también en cultura y derechos.
+
+
+
+
+                                                                                         VOX | Evaluación de propuestas | 12
+04 | FICHAS SECTORIALES
+
+
+08. Familia, infancia y cuidados
+Base: 12/11/2026 | Programa: 94-99 | Referencias: [2,48,58]
+
+ Unidad                      Instrumento y condición decisiva                                        A / B / C; E
+
+ FA01 - Apoyo desde el       Prestaciones y ayudas a vivienda o vehículo. Faltan importes,           Alta / Media / Media; E:
+ primer hijo                 universalidad, renta, duración y compatibilidades.                              Media
+
+ FA02 - Gratuidad de 0       Financiación de servicios infantiles. Definir plazas, horarios,         Alta / Media / Media; E:
+ a3                          calidad y alcance de la gratuidad.                                              Media
+
+                             Incentivos a empleadores, ayuda doméstica y reconocimiento
+ FA03 - Cuidados y                                                                                   Alta / Media / Media; E:
+                             de cuidados. La bonificación anunciada necesita precisar base
+ conciliación                                                                                                Media
+                             y límites.
+
+                             Protección frente a pornografía y juego. Verificación                    Alta / Alta / Media; E:
+ FA04 - Infancia digital
+                             proporcionada, privacidad y cooperación con plataformas.                         Media
+
+                             Protección desde concepción hasta muerte natural, conciencia
+ FA05 - Vida y paliativos    y paliativos. Principios sin sustitución legal completa                   NE / NE / NE; E: NE
+                             especificada.
+
+
+Qué está comprometido y qué queda abierto
+El texto establece orientaciones y herramientas, pero no un presupuesto familiar completo. La mención a
+una bonificación del 100% no justifica asumir que el Estado pagaría todo salario de una persona empleada
+en el hogar: se necesita definir el concepto bonificado. Tampoco procede traducir la medida 98 en un
+articulado completo de aborto o eutanasia que el programa no detalla. [2]
+Viabilidad y efectos
+La gratuidad puede aprobarse antes de que existan plazas y profesionales. El coste relevante incluye
+construcción, funcionamiento, ampliación horaria y reposición. El reconocimiento de cuidados genera
+obligaciones presentes o futuras que no desaparecen por financiarlas desde otra partida.
+La OCDE encuentra que empleo, vivienda, permisos, servicios y preferencias personales se relacionan con
+la fecundidad. Las transferencias pueden aliviar costes sin garantizar el número de nacimientos
+perseguido. No es defendible prometer una respuesta demográfica concreta a partir de una cuantía no
+fijada. [48]
+Distribución, apoyo y acuerdos
+Análisis: ayudas fiscales y ayudas directas alcanzan a hogares distintos; deben explicitarse familias
+monoparentales, adoptivas, de rentas bajas y cuidadores no progenitores. El programa aporta respaldo
+oficial, no una medición interna. Con el PP son negociables instrumentos de conciliación; las posiciones
+sobre vida y derechos requieren un acuerdo distinto. [3,28]
+Seguimiento
+Cobertura y coste por menor, plazas realmente abiertas, horas de cuidado, empleo de cuidadores, pobreza
+infantil, accesibilidad y resultados de paliativos. Mantener separadas ayudas entregadas y decisiones
+reproductivas privadas.
+
+
+
+
+                                                                                               VOX | Evaluación de propuestas | 13
+04 | FICHAS SECTORIALES
+
+
+09. Protección social e igualdad
+Base: 12/11/2026 | Programa: 18-25, 47, 87, 95-96 | Referencias: [2,12,13,15,56,58]
+
+ Unidad                      Instrumento y condición decisiva                                     A / B / C; E
+
+ PS01 - IMV por              Reservar el IMV a españoles. Debe superar los derechos de              Baja / Baja / Baja; E:
+ nacionalidad                igualdad aplicables a determinados residentes extranjeros.                    Media
+
+ PS02 - Prioridad en         Preferencia en servicios, vivienda y prestaciones. Examinar            Baja / Baja / Baja; E:
+ ayudas                      cada criterio, colectivo y administración.                                    Media
+
+ PS03 - Dependencia y        Más apoyo domiciliario, accesibilidad y resolución de                 Alta / Alta / Media; E:
+ discapacidad                expedientes. Derechos ya existentes y capacidad territorial.                  Media
+
+ PS04 - Protección           Sustituir las denominadas leyes de género y ampliar                   Media / Baja / Baja; E:
+ frente a violencia          protección a víctimas. Falta un modelo integral sustitutivo.                   NE
+
+                             Inversión en territorios desatendidos y calidad equivalente.
+ PS05 - Barrios y                                                                                  Alta / Alta / Media; E:
+                             Requiere definición de brechas y transferencias
+ servicios                                                                                                 Media
+                             compensatorias.
+
+
+Situación de partida
+El IMV exige con carácter general residencia legal y efectiva, con excepciones legales. No debe describirse
+como una prestación actualmente accesible de modo universal a cualquier persona en situación irregular.
+Restringirlo por nacionalidad plantea otra cuestión, especialmente para trabajadores comunitarios y
+residentes de larga duración. [12,13,15]
+La dependencia ya dispone de una arquitectura legal compartida. Acelerar expedientes sin ampliar
+servicios puede convertir la espera administrativa en espera para recibir atención. [58]
+Evidencia, costes y distribución
+Análisis: una preferencia redistribuye posiciones en una lista, pero no aumenta por sí sola el número de
+plazas. Para evaluar pobreza y protección hay que contar tanto beneficiarios prioritarios como hogares
+excluidos, incluidos menores. Los ahorros dependen de la población realmente elegible, no de
+estimaciones globales de inmigración.
+Reformar la protección frente a violencia requiere mantener continuidad de asistencia, medidas
+cautelares, personal especializado y datos comparables. Las afirmaciones del programa sobre denuncias o
+causalidad delictiva no sustituyen una evaluación independiente. La cobertura de otras víctimas puede
+estudiarse separadamente de la derogación del modelo vigente. [56]
+Respaldo, acuerdos y seguimiento
+Prioridad nacional tiene ratificación de la dirección; no se dispone de porcentajes internos. El acuerdo
+extremeño muestra una diferencia entre nacionalidad y arraigo territorial, no una equivalencia. Medir
+pobreza antes/después, exclusiones recurridas, tiempo hasta servicio, reincidencia de violencia y
+cobertura efectiva. [8,30]
+
+
+
+
+                                                                                            VOX | Evaluación de propuestas | 14
+04 | FICHAS SECTORIALES
+
+
+10. Inmigración y asilo
+Base: 12/11/2026 | Programa: 9-17 | Referencias: [2,10-14,28,54]
+
+ Unidad                      Instrumento y condición decisiva                                      A / B / C; E
+
+ IN01 - Arraigo y            Suprimir vías de arraigo y prohibir regularizaciones amplias.          Media / Baja / Baja; E:
+ regularización              Definir transición, excepciones y derechos europeos.                          Media
+
+ IN02 - Retorno por          Expedientes de salida y readmisión. El compromiso general no          Media / Media / Baja; E:
+ irregularidad               asegura identificación, país receptor ni ejecución inmediata.                  Baja
+
+                             Aplicar o ampliar causas vinculadas a conductas graves o
+ IN03 - Retorno por                                                                                Media / Media / Baja; E:
+                             reiteradas. Individualización, proporcionalidad y estatuto
+ delitos                                                                                                   Media
+                             personal.
+
+                             Promover salida de extranjeros que no contribuyan o vivan de
+ IN04 - Remigración          ayudas. No confundir retorno voluntario con expulsión                 Baja / Baja / Baja; E: NE
+                             obligatoria.
+
+                             Endurecer adquisición, revisar fraude y favorecer retorno de
+ IN05 - Nacionalidad y                                                                             Media / Media / Baja; E:
+                             menores. Cada instrumento tiene requisitos y garantías
+ menores                                                                                                   Media
+                             propios.
+
+ IN06 - ONG y                Revisar subvenciones y condicionar ayuda exterior. Distinguir         Media / Media / Baja; E:
+ cooperación                 asistencia legal de conductas delictivas acreditadas.                         Media
+
+
+
+Restricción decisiva
+La devolución o expulsión no puede sustituir el examen individual ni vulnerar la prohibición de devolución
+a riesgo protegido. Los menores requieren valorar interés superior y recepción adecuada. El uso de
+expresiones generales sobre costumbres no define por sí solo una causa legal. [10,14,54]
+Ejecución, coste y resultados
+Análisis: hacen falta expedientes, intérpretes, asistencia, documentación, recursos judiciales, transporte y
+acuerdos. Una cifra de órdenes no equivale a salidas ejecutadas. Retirar cooperación puede ejercer
+presión o dificultar la misma readmisión buscada; ese intercambio debe analizarse por país.
+Suprimir permisos puede reducir futuras concesiones sin reducir igual la población presente, e
+incrementar irregularidad administrativa. No se cuantifica ese efecto sin datos sobre entradas, salidas y
+alternativas legales.
+Respaldo y pactos
+La dirección ratifica esta prioridad. El PP propone controlar regularizaciones, pero conserva un arraigo
+excepcional: esa diferencia afecta al instrumento, no solo al tono. El desacuerdo sobre menores motivó la
+ruptura autonómica de 2024, antecedente histórico que no describe por sí solo los pactos de 2026.
+[8,28,31]
+Seguimiento
+Resoluciones y ejecuciones por causa, tiempos, recursos estimados, coste total, retornos voluntarios y
+forzosos separados, irregularidad sobrevenida y cumplimiento de garantías.
+
+
+
+
+                                                                                             VOX | Evaluación de propuestas | 15
+04 | FICHAS SECTORIALES
+
+
+11. Seguridad y justicia
+Base: 12/11/2026 | Programa: 31, 79-88, 102, 109 | Referencias: [2,9,43,49,54]
+
+ Unidad                      Instrumento y condición decisiva                                      A / B / C; E
+
+ SJ01 - Policía y            Personal, medios, equiparación y reconocimiento de riesgo;             Alta / Alta / Media; E:
+ prisiones                   dirección profesional. Definir costes y criterios de carrera.                  Media
+
+ SJ02 - Narcotráfico y       Reforzar coordinación, capacidades y OCON Sur. Necesita                Alta / Alta / Media; E:
+ fronteras                   inteligencia, despliegue y cooperación judicial.                               Media
+
+ SJ03 - Menores y            Reducir edad penal y ampliar prisión permanente revisable.            Media / Media / Baja; E:
+ penas                       Reforma orgánica, proporcionalidad y garantías del menor.                     Media
+
+ SJ04 - Justicia más         Medios humanos y materiales para disminuir retrasos. La                Alta / Alta / Media; E:
+ rápida                      nueva ley no resuelve por sí sola el atasco.                                   Media
+
+                             Atención, investigación y respuesta a homenajes. No puede
+ SJ05 - Víctimas del                                                                               Media / Media / Media;
+                             darse efecto retroactivo desfavorable a nuevas categorías
+ terrorismo                                                                                               E: Media
+                             penales.
+
+
+Viabilidad y derechos
+La responsabilidad penal juvenil parte de la franja legal de 14 a 17 años. Cambiarla exige concretar edad,
+procedimientos, centros, proporcionalidad y coordinación con protección de menores. Una ley penal más
+severa no puede aplicarse retroactivamente para reabrir cualquier supuesto ya prescrito. [9,43]
+El compromiso sobre los crímenes de ETA debe separar investigación de hechos no esclarecidos,
+calificación jurídica individual y atención a víctimas. No es una facultad del Ejecutivo fijar el desenlace
+judicial. El desalojo universal en 24 horas tiene problemas distintos de un supuesto flagrante. [9]
+Evidencia y coste
+La síntesis del National Institute of Justice atribuye mayor respaldo disuasorio a la probabilidad percibida
+de detección que a incrementos marginales de penas ya largas. Es evidencia internacional, no una
+estimación específica para España. Deben distinguirse disuasión, incapacitación y finalidad retributiva.
+[49]
+Análisis: más penas y mayor población bajo control pueden requerir más plazas, funcionarios y programas.
+Medir solo condenas u operaciones puede incentivar actividad sin demostrar reducción del daño.
+Respaldo y acuerdos
+La posición formal permite pactos sobre medios, víctimas o narcotráfico sin exigir consenso sobre todas
+las penas. El apoyo del PP a cada cambio penal debe acreditarse por texto, no inferirse de una
+coincidencia general en seguridad. [3,28]
+Seguimiento
+Victimización, esclarecimiento por tipo delictivo, reincidencia ajustada, duración judicial, errores, recursos
+y coste por resultado. Mantener datos comparables y no atribuir causalidad a variaciones agregadas sin
+control.
+
+
+
+
+                                                                                             VOX | Evaluación de propuestas | 16
+04 | FICHAS SECTORIALES
+
+
+12. Instituciones y calidad democrática
+Base: 12/11/2026 | Programa: 43, 46, 100-111 | Referencias: [2,9,20,44,59]
+
+ Unidad                      Instrumento y condición decisiva                                     A / B / C; E
+
+                             Elección judicial de doce vocales y mayor autonomía fiscal.
+                                                                                                  Media / Media / Baja; E:
+ ID01 - CGPJ y Fiscalía      Precisar procedimiento, incompatibilidades y rendición de
+                                                                                                          Media
+                             cuentas.
+
+ ID02 - Tribunal             Reducir influencia partidista. El texto no define un sistema
+                                                                                                    NE / NE / NE; E: NE
+ Constitucional              completo de nombramientos sustitutivo.
+
+                             Recursos, auditorías, recuperación patrimonial y rehabilitación
+ ID03 - Corrupción y                                                                               Alta / Alta / Media; E:
+                             de inmuebles. Recuperación de fondos exige procedimiento y
+ patrimonio                                                                                                Media
+                             prueba.
+
+                             Sedición, malversación, indultos y posible ilegalización.
+ ID04 - Partidos y                                                                                Media / Media / Baja; E:
+                             Separar reformas prospectivas de decisiones judiciales
+ delitos institucionales                                                                                  Media
+                             individuales.
+
+ ID05 - Memoria y            Cambios en memoria, expresión y protección penal de                  Media / Media / Baja; E:
+ libertad                    símbolos. Precisar el equilibrio entre intereses y derechos.                  NE
+
+
+
+Cuellos de botella institucionales
+La Constitución regula la composición de órganos y fija diferentes mayorías. Alterar el modo de
+designación de los vocales judiciales y cambiar la arquitectura constitucional del TC no son la misma
+operación. La palabra despolitización no define por sí sola qué controles nuevos se instauran. [9]
+La legislación de partidos distingue actividades graves y reiteradas de la mera defensa de ideas. Una
+ilegalización requiere base legal y procedimiento judicial: no puede prometerse como resultado ejecutivo
+automático. [44]
+Eficacia y distribución de poder
+Análisis: elegir por colectivos profesionales puede reducir una vía de influencia y aumentar otras. Hay que
+medir pluralidad, transparencia, conflictos y mecanismos de responsabilidad. Una auditoría de patrimonio
+produce ahorro solo cuando hay recuperación o reutilización efectiva, descontando costes.
+Endurecer sanciones por expresiones y defender libertad de expresión exige aclarar conductas concretas,
+proporcionalidad y garantías. Modificar leyes de memoria exige identificar qué disposiciones cambian, no
+suponer un articulado que el programa no desarrolla.
+Respaldo y pactos
+El programa y responsables jurídicos acreditan la posición formal, no respaldo de jueces o fiscales. El
+acuerdo PP-PSOE de 2024 muestra que los pactos institucionales pueden seguir una geometría distinta
+de la coalición de gobierno; no garantiza apoyo futuro ni a la propuesta exacta de Vox. [4,5,59]
+Seguimiento
+Nombramientos y criterios publicados, conflictos declarados, duración de procesos, recuperación neta,
+resoluciones de control y garantías de pluralismo. No confundir número de denuncias con corrupción
+acreditada.
+
+
+
+
+                                                                                            VOX | Evaluación de propuestas | 17
+04 | FICHAS SECTORIALES
+
+
+13. Modelo territorial y cohesión
+Base: 12/11/2026 | Programa: 4, 6, 24-25, 42, 60, 66 | Referencias: [2,9,28,29]
+
+ Unidad                       Instrumento y condición decisiva                                   A / B / C; E
+
+ MT01 - Servicios             Reducir brechas territoriales en sanidad, educación, seguridad     Media / Media / Media;
+ equivalentes                 y justicia. Definir mínimos, necesidades y financiación.                  E: Media
+
+ MT02 - Reglas y              Reconocimiento y simplificación de autorizaciones. La              Media / Media / Media;
+ licencias                    coordinación no elimina todas las competencias autonómicas.               E: Media
+
+ MT03 - Lengua y              Revisar requisitos lingüísticos en plazas y garantizar educación   Media / Media / Baja; E:
+ empleo público               en castellano. Análisis por puesto y derecho cooficial.                    Media
+
+ MT04 - Despoblación e        Fiscalidad, transportes, inversiones y compensaciones.             Alta / Media / Media; E:
+ insularidad                  Acreditar desventaja y evitar duplicidades.                                Media
+
+
+
+Lo que no debe atribuirse al texto
+La plataforma contiene propuestas uniformizadoras y de coordinación, pero no desarrolla una reforma
+completa de supresión del sistema autonómico. No se convierte un posicionamiento histórico del partido
+en un compromiso articulado de 2026 sin identificar otra fuente y versión. [2]
+Viabilidad y costes
+El reparto constitucional distingue bases, coordinación y ejecución. Una tarjeta común o un estándar de
+acceso puede buscar cohesión sin trasladar la titularidad de todos los servicios. Una transferencia o
+eliminación de competencias plantea procedimientos adicionales. [9]
+Análisis: garantizar el mismo resultado en territorios con distinta densidad y estructura demográfica puede
+exigir gasto por habitante diferente. Igualdad de presupuesto no equivale a igualdad de acceso. Los
+incentivos a trasladarse deben compararse con servicios, conectividad y empleo antes de atribuirles un
+efecto duradero.
+Respaldo y dinámica cruzada
+Existe respaldo formal nacional, pero no una aprobación pública detallada de todos los responsables
+autonómicos para cada instrumento. La gestión territorial requiere equipos y acuerdos locales incluso con
+una dirección nacional coordinada. [3-5]
+El PP comparte ciertas propuestas de cohesión, pero eso no equivale a una renuncia general al modelo
+competencial. El PNV declara que no facilitará un gobierno dependiente de Vox y defiende su
+autogobierno. Sus votos no deben agregarse a una coalición hipotética como si fueran intercambiables.
+[28,29]
+Seguimiento
+Tiempo real de acceso a servicios por municipio, plazas vacantes, movilidad de pacientes, coste por
+necesidad ajustada, litigios competenciales y permanencia de población. Evaluar años de residencia
+efectiva, no solo altas administrativas.
+
+
+
+
+                                                                                           VOX | Evaluación de propuestas | 18
+04 | FICHAS SECTORIALES
+
+
+14. Energía, clima y medioambiente
+Base: 12/11/2026 | Programa: 8, 44, 54-55, 114-115 | Referencias: [2,26,45-47,52]
+
+ Unidad                      Instrumento y condición decisiva                                   A / B / C; E
+
+ EN01 - Nuclear              Mantener centrales y revisar cierres. Requiere seguridad,           Alta / Alta / Media; E:
+ existente                   decisión empresarial, combustible, residuos y autorizaciones.               Media
+
+ EN02 - Nuevas               Estudios de nueva capacidad, permisos y mayor inversión en         Media / Media / Baja; E:
+ centrales y redes           redes. Estudios no equivalen a plantas operativas.                         Media
+
+ EN03 - Coste                Menores impuestos y otras medidas de coste. Distinguir             Alta / Media / Media; E:
+ energético                  fiscalidad de costes de generación, red y contratos.                       Media
+
+ EN04 - Clima y              Revertir restricciones del Pacto Verde y ZBE. Separar normas         Baja / Baja / Baja; E:
+ movilidad                   estatales de obligaciones europeas y municipales.                           Media
+
+                             Limitar grandes instalaciones en suelo agrario, prevenir
+ EN05 - Suelo y                                                                                 Media / Media / Media;
+                             incendios e inundaciones. Compatibilizar energía, usos del
+ resiliencia                                                                                           E: Media
+                             suelo y protección.
+
+
+Adicionalidad y horizonte
+Almaraz ya dispone de autorización hasta el 8 de junio de 2030 por orden de agosto de 2026. Mantener
+ese horizonte no constituye una ampliación nueva atribuible a un futuro gobierno. Cada otra central tiene
+una situación propia. [26]
+El programa plantea estudiar nueva capacidad; el informe no lo transforma en un compromiso de puesta
+en marcha dentro de cuatro años. El calendario debe separar estudio, autorización, financiación,
+construcción y explotación.
+Restricciones y efectos
+Una derogación estatal no elimina el marco europeo sobre clima. Las ZBE tienen base legal y
+reglamentaria, incluida una modificación de noviembre de 2026; deben examinarse también los objetivos
+de calidad del aire y las ordenanzas. [45,46,52]
+Análisis: aliviar cargas puede reducir costes de determinados productores y usuarios. Debe medirse junto
+al coste de emisiones, contaminación, seguridad de suministro, adaptación y activos de larga duración.
+Restringir simultáneamente ubicaciones renovables y acelerar toda nueva capacidad requiere planificación
+coherente de red y territorio.
+Respaldo, acuerdos y seguimiento
+La orientación nuclear y de costes tiene respaldo programático y económico. Hay coincidencias
+potenciales con el PP en nuclear; no equivalen a consenso para revertir el marco climático europeo. Medir
+precio final, fiabilidad, potencia realmente conectada, coste total y efectos ambientales, no solo permisos
+aprobados. [6,28]
+
+
+
+
+                                                                                          VOX | Evaluación de propuestas | 19
+04 | FICHAS SECTORIALES
+
+
+15. Agricultura, pesca y medio rural
+Base: 12/11/2026 | Programa: 48-59 | Referencias: [2,27,47,53]
+
+ Unidad                      Instrumento y condición decisiva                                   A / B / C; E
+
+ RU01 - Comercio y           Revisar acuerdos y exigir condiciones equivalentes.
+                                                                                                Baja / Baja / Baja; E: NE
+ reciprocidad                Competencia comercial europea y efectos sobre exportadores.
+
+                             Defender presupuesto, revisar cargas, cuotas y modernización.      Media / Media / Media;
+ RU02 - PAC y pesca
+                             Necesita negociación en instituciones europeas.                           E: Media
+
+ RU03 - Ayudas y             Compensación por cargas, desastres y plagas. Definir riesgo,       Alta / Media / Media; E:
+ seguros                     compatibilidades, incentivos y financiación.                               Media
+
+ RU04 - Relevo y             Jóvenes, cooperativas, FP, seguros y autorizaciones más             Alta / Alta / Media; E:
+ trámites                    rápidas. El permiso no sustituye acceso a tierra o rentabilidad.            Media
+
+ RU05 - Montes, caza y       Prevención, actividad cinegética y protección agraria frente a     Media / Media / Media;
+ suelo                       macroplantas. Planes territoriales, evidencia y personal.                 E: Media
+
+
+
+Punto de partida comercial
+El acuerdo comercial interino UE-Mercosur se aplica provisionalmente desde el 1 de mayo de 2026. Por
+tanto, la propuesta no debe analizarse como si España aún decidiera por sí sola una firma inicial pendiente.
+Hay que identificar el procedimiento europeo de revisión o salvaguarda pretendido. [27]
+Las cláusulas espejo requieren definir qué estándar se exige, cómo se verifica y qué compatibilidad tiene
+con compromisos comerciales. La oposición a un acuerdo no prueba que todos sus sectores ganen con su
+retirada. [53]
+Viabilidad, coste y distribución
+Análisis: compensaciones y seguros pueden amortiguar shocks, pero trasladan riesgo al presupuesto y
+requieren evitar dobles coberturas o conductas más arriesgadas. Reducir normas puede aliviar costes sin
+resolver estructura de mercado, agua, combustible o relevo. La modernización pesquera depende de
+sostenibilidad del recurso y de reglas comunes.
+La prevención de incendios exige gestión continuada, coordinación y evaluación de riesgo; elevar penas es
+un instrumento distinto. Proteger suelo agrario requiere criterios transparentes para no bloquear
+selectivamente proyectos sin comparar alternativas.
+Respaldo y pactos
+Respaldo formal nacional; no hay una aceptación acreditada de organizaciones sectoriales a cada
+componente. Con el PP son negociables seguros, simplificación o relevo; comercio, ambiente y fondos
+europeos pueden exigir otro acuerdo. Ningún actor sectorial representa automáticamente a todos los
+productores. [3,28]
+Seguimiento
+Renta agraria neta por tamaño, productividad, jóvenes instalados y supervivencia, coste de seguros, daños
+evitados, estado de recursos y saldo comercial por producto. No utilizar el número de ayudas como
+indicador único de prosperidad rural.
+
+
+
+
+                                                                                          VOX | Evaluación de propuestas | 20
+04 | FICHAS SECTORIALES
+
+
+16. Infraestructuras y movilidad
+Base: 12/11/2026 | Programa: 45, 90, 112-115 | Referencias: [2,9,47]
+
+ Unidad                      Instrumento y condición decisiva                                    A / B / C; E
+
+ IF01 - Plan de              Carreteras, ferrocarril, puertos, logística y telecomunicaciones.    Alta / Alta / Media; E:
+ infraestructuras            Priorizar por demanda, mantenimiento y rentabilidad social.                  Media
+
+                             Auditoría, seguridad, Cercanías, Media Distancia y
+ IF02 - Ferrocarril                                                                                 Alta / Alta / Alta; E:
+                             electrificación. Cartera madura y capacidad de operar durante
+ cotidiano                                                                                                 Media
+                             las obras.
+
+ IF03 - Inundaciones y       Obras, drenajes, cauces y protección civil coordinada.               Alta / Alta / Media; E:
+ emergencias                 Evaluación de riesgo por cuenca y responsabilidades claras.                  Media
+
+ IF04 - Interconexión de     Plan hídrico, regadío e hidroeléctrica. No basta una                Media / Media / Baja; E:
+ cuencas                     declaración general de interconectar todas las cuencas.                      Baja
+
+                             Revisar proporcionalidad de multas sin riesgo para la
+ IF05 - Sanciones de                                                                             Alta / Media / Media; E:
+                             seguridad. Definir conductas, competencia y efectos
+ tráfico                                                                                                  Alta
+                             preventivos.
+
+
+Viabilidad y calendario
+Análisis: aprobar un plan no garantiza expropiaciones, autorizaciones, contratación, suministro ni
+operación. Es preciso separar las actuaciones que caben en cuatro años de las que solo pueden iniciar
+proyecto. Una lista de obras sin coste y secuencia no permite prometer su ejecución conjunta.
+La política del agua requiere disponibilidad real, balance de cuenca y obligaciones ambientales. La
+directiva marco exige prevenir deterioro y contempla condiciones específicas para excepciones; una
+conexión física no garantiza recurso suficiente en episodios simultáneos de escasez. [47]
+Eficacia y distribución
+Análisis: priorizar mantenimiento puede evitar fallos; las nuevas conexiones deben compararse con mejora
+operativa, ahorro, reutilización y otras alternativas. Beneficios y costes de transferencias hídricas se
+reparten entre territorios y usuarios. Debe incluirse energía de bombeo, mantenimiento y riesgo
+hidrológico, no solo inversión inicial.
+Reducir sanciones exige distinguir una multa meramente recaudatoria alegada de una medida con utilidad
+preventiva demostrada. El objetivo es cumplimiento proporcionado, no maximizar ni minimizar
+automáticamente la recaudación.
+Respaldo y acuerdos
+Hay respaldo oficial y amplios objetivos que podrían negociarse con distintos partidos. Las preferencias
+sobre trazados, reparto de agua y financiación no se deducen de ese acuerdo general. Se necesitan
+convenios y evaluaciones por proyecto. [3,28]
+Seguimiento
+Puntualidad y cancelaciones, mantenimiento pendiente, coste final frente a presupuesto, usuarios
+adicionales, daño por inundación ajustado a exposición, disponibilidad hídrica y coste por metro cúbico.
+Contar obras inauguradas no basta.
+
+
+
+
+                                                                                           VOX | Evaluación de propuestas | 21
+04 | FICHAS SECTORIALES
+
+
+17. Tecnología, IA y digitalización
+Base: 12/11/2026 | Programa: 5, 37-39, 91, 97 | Referencias: [2,20,41,42,60]
+
+ Unidad                      Instrumento y condición decisiva                                     A / B / C; E
+
+                             I+D, incentivos a pymes y capacitación. Seleccionar
+                                                                                                   Alta / Alta / Media; E:
+ TE01 - Adopción de IA       problemas, medir valor y evitar subvencionar mera compra de
+                                                                                                           Media
+                             licencias.
+
+ TE02 - Administración       Ventanilla única y reutilización de datos. Bases legales, calidad,     Alta / Alta / Alta; E:
+ interoperable               controles de acceso y seguridad.                                              Media
+
+ TE03 - Atención             Suprimir cita obligatoria y mantener alternativa humana.              Alta / Alta / Media; E:
+ presencial                  Dotación y organización de colas, no solo instrucción formal.                 Media
+
+ TE04 - Ciberseguridad       Protección de infraestructuras y entornos digitales.                  Alta / Alta / Media; E:
+ y menores                   Coordinación, capacidad técnica y verificación proporcionada.                 Media
+
+
+
+Especificidad del compromiso
+La medida 37 menciona expresamente IA en investigación, pymes, formación y administración. No
+desarrolla un presupuesto de cómputo, una arquitectura de datos, un modelo de compra pública ni
+indicadores de productividad. Es una agenda de adopción, no un plan técnico completo. [2]
+Ruta regulatoria y operativa
+El marco europeo de IA tiene aplicación escalonada y modificaciones en 2026. No procede asumir que
+toda obligación de alto riesgo entró en vigor de forma uniforme en agosto de 2026. Cada caso debe
+clasificarse por uso y fecha aplicable. La agenda nacional opera dentro de ese marco. [41,60]
+La reutilización administrativa de información no autoriza acceso general a todos los datos. El RGPD exige
+finalidad, base jurídica, minimización, seguridad y protección desde el diseño. Interoperar no obliga a
+concentrar físicamente todas las bases en un único repositorio. [42]
+Eficacia, coste y distribución
+Análisis: automatizar un procedimiento defectuoso puede hacerlo más rápido sin mejorarlo. La evaluación
+debe incluir errores, recurso humano, resoluciones corregidas y accesibilidad. La atención presencial
+protege a personas con barreras digitales, pero precisa capacidad suficiente para no sustituir citas por
+largas esperas.
+Respaldo, acuerdos y seguimiento
+Existe compromiso programático; no consta una arquitectura ejecutiva nacional publicada que cierre su
+despliegue. Son áreas potencialmente transversales, no apoyos parlamentarios ya comprometidos. Medir
+tiempo completo de trámite, tasa de errores, decisiones revisadas, ahorro neto, incidentes, adopción
+productiva y brecha digital. [3,28]
+
+
+
+
+                                                                                           VOX | Evaluación de propuestas | 22
+04 | FICHAS SECTORIALES
+
+
+18. UE, exterior y defensa
+Base: 12/11/2026 | Programa: 1, 17, 48, 79, 83, 88-93 | Referencias: [2,9,14,27,53,54]
+
+ Unidad                       Instrumento y condición decisiva                                      A / B / C; E
+
+                              Refuerzo fronterizo, inversiones y presencia militar. Definir         Media / Media / Baja; E:
+ EX01 - Ceuta y Melilla
+                              misiones, coordinación civil y garantías de actuación.                        Media
+
+                              Sanciones, revisión de acuerdos y condicionamiento de ayuda.
+ EX02 - Marruecos y                                                                                 Media / Media / Baja; E:
+                              Identificar competencia nacional o europea y respuesta del
+ cooperación                                                                                                 NE
+                              interlocutor.
+
+                              Más inversión, recursos, salarios, vivienda y reconocimiento
+ EX03 - Defensa y                                                                                    Alta / Alta / Media; E:
+                              profesional. No se fija en el programa una cuota concreta del
+ personal                                                                                                    Media
+                              PIB.
+
+ EX04 - Gibraltar y           Presión diplomática, lucha contra delitos y desarrollo local. Un      Media / Media / Baja; E:
+ diplomacia                   resultado soberano requiere acuerdo externo.                                   NE
+
+                              Cambiar reglas comerciales y otras restricciones. Construir
+ EX05 - Reforma
+                              mayorías y procedimientos europeos, no solo aprobar una ley           Baja / Baja / Baja; E: NE
+ europea
+                              española.
+
+
+Precisión factual
+La primera medida utiliza acusaciones sobre los hechos de Ceuta y la actuación del Gobierno. Se analizan
+como argumentos del partido, no como hechos probados ni como calificación judicial. Promover una
+actuación ante tribunales no permite garantizar procesamiento o condena. [2,9]
+El compromiso de defensa no debe completarse con porcentajes de gasto de otras fuentes o con
+preferencias de aliados. La participación militar en fronteras requiere definir cadena de mando, misión y
+convivencia con policía, asilo y derechos. [9,14,54]
+Coherencia y coste
+Análisis: salarios y equipos generan gasto recurrente y mantenimiento. La disponibilidad operativa no
+equivale al presupuesto aprobado. La revisión de relaciones exteriores puede reforzar una posición
+negociadora o reducir cooperación en readmisión, comercio y seguridad; el signo depende del caso.
+La aplicación provisional del acuerdo UE-Mercosur es parte de la situación de partida. Reformarlo exige
+un procedimiento europeo y distinguir sus componentes; no se evalúa como una decisión española
+aislada. [27,53]
+Respaldo y pactos
+Abascal y la dirección ratifican fronteras y soberanía. Hay objetivos compartibles con el PP en medios y
+seguridad, pero no apoyo acreditado al conjunto de sanciones o revisiones internacionales. [8,28]
+Seguimiento
+Disponibilidad de equipos, personal retenido, adquisiciones entregadas, plazos y sobrecostes; inversiones
+locales ejecutadas; acuerdos efectivos y resultados de cooperación. No atribuir a un solo Gobierno el
+desenlace de una negociación internacional.
+
+
+
+
+                                                                                              VOX | Evaluación de propuestas | 23
+04 | FICHAS SECTORIALES
+
+
+19. Cultura, medios, deporte y consumo
+Base: 12/11/2026 | Programa: 71-73, 75-78, 97, 104-105, 110-111 | Referencias: [2,9,42,54]
+
+ Unidad                      Instrumento y condición decisiva                                      A / B / C; E
+
+ CU01 - Patrimonio y         Conservación, fiscalidad cultural, patrimonio rural y                 Alta / Media / Media; E:
+ mecenazgo                   tauromaquia. Priorizar bienes, acceso y mantenimiento.                        Media
+
+                             Apoyo al deporte base, federaciones y selecciones; criterios
+ CU02 - Deporte y                                                                                  Media / Media / Media;
+                             de categoría femenina. Compatibilizar reglas y garantías
+ ayudas                                                                                                   E: Media
+                             aplicables.
+
+ CU03 - RTVE y               Reformar la corporación para pluralidad e imparcialidad. Falta
+                                                                                                     NE / NE / NE; E: NE
+ pluralismo                  procedimiento completo de nombramientos y control.
+
+                             Prohibición del velo integral, cambios en menús y programa de
+ CU04 - Símbolos y                                                                                  Media / Baja / Baja; E:
+                             lengua/cultura marroquí, protección de símbolos. Analizar
+ prácticas                                                                                                 Media
+                             cada regla separadamente.
+
+                             Protección infantil ante pornografía y juego. No consta un
+ CU05 - Consumidor                                                                                  Alta / Alta / Media; E:
+                             programa general detallado de consumo en estas
+ digital                                                                                                    Media
+                             numeraciones.
+
+
+Viabilidad y derechos
+Análisis: mantener patrimonio, financiar deporte y modificar un contrato educativo no requieren el mismo
+instrumento que restringir vestimenta en todos los espacios públicos. En este último caso deben
+justificarse alcance, finalidad, necesidad y proporcionalidad, sin presumir que toda prohibición o toda
+excepción sea automáticamente válida. [9,54]
+Las normas deportivas dependen también de federaciones y competiciones. El texto no permite atribuir
+una regla técnica única ya diseñada para todos los deportes y niveles.
+Eficacia, costes y distribución
+Las ventajas fiscales culturales requieren estimar quién puede usarlas y si inducen actividad adicional.
+Restaurar un edificio sin presupuesto de mantenimiento puede trasladar el problema al futuro. En medios,
+cambiar responsables no demuestra por sí solo pluralismo: hacen falta procedimientos y verificación
+independiente.
+Limitar contenidos a menores exige evitar recopilación desproporcionada de identidad y datos. La eficacia
+debe evaluarse junto a desplazamiento a otras plataformas y accesibilidad de mecanismos de recurso. [42]
+Respaldo y acuerdos
+Las posiciones están en el programa. Pueden existir acuerdos parciales sobre patrimonio, deporte base o
+protección digital; no se presume que incluyan las restricciones culturales o un modelo concreto de RTVE.
+No consta apoyo interno individual cuantificado. [3,28]
+Seguimiento
+Estado de conservación y uso público, acceso cultural por renta y territorio, participación deportiva,
+criterios de subvención, transparencia editorial, quejas y resoluciones. La ausencia de una propuesta
+detallada de consumo no se interpreta como oposición a esa política.
+
+
+
+
+                                                                                             VOX | Evaluación de propuestas | 24
+05 | COHERENCIA FISCAL
+
+
+La prueba del presupuesto conjunto
+La coherencia no se obtiene sumando cada promesa por separado. Hay que integrar ingresos, gasto,
+avales, transferencias, transición y obligaciones futuras. El programa no contiene una cuenta que permita
+certificar ese resultado conjunto. [2,6]
+ Bloque                  Qué falta para poder costearlo                  Riesgo de lectura errónea
+
+                         Tipos, bases, excepciones, hogares y            Aplicar al programa de 2026 cifras de
+ Rebajas fiscales
+                         calendario.                                     versiones anteriores.
+
+                         Cuantías, elegibilidad, plazas y cobertura de   Contar solo el primer año y omitir gasto
+ Familia y cuidados
+                         bonificaciones.                                 recurrente.
+
+                         Dotaciones, salarios, turnos y reparto          Suponer que la financiación crea
+ Personal y servicios
+                         territorial.                                    inmediatamente profesionales.
+
+ Vivienda e              Cartera, suelo, obra, mantenimiento,            Tratar un aval como gratuito o sumar dos
+ infraestructuras        garantías y riesgo.                             veces el mismo proyecto.
+
+ Restricciones           Beneficiarios realmente elegibles,              Equiparar gasto de toda la población
+ migratorias             tramitación, retorno y efectos indirectos.      extranjera con ahorro eliminable.
+
+ Auditorías y            Partidas identificadas, contratos,              Convertir gasto revisable en ahorro neto
+ subvenciones            indemnizaciones y sustitución del servicio.     seguro.
+
+
+Tres escenarios de sensibilidad, sin inventar cifras
+Escenario de referencia: coste bruto con comportamiento constante, sin atribuir autofinanciación a las
+rebajas. Escenario de respuesta favorable: ingresos y actividad adicionales solo con supuestos
+explicitados. Escenario adverso: menos crecimiento, tipos o costes mayores, retrasos y ahorro inferior al
+previsto. Las obligaciones permanentes deben poder sostenerse sin depender exclusivamente del
+escenario favorable.
+Interacciones que requieren reconciliación
+Menores cuotas y mayores derechos de pensión; menos ingresos y más plantillas; menos trabajadores
+disponibles y más construcción/cuidados; recortes de transferencias y garantía territorial; más
+comprobación de nacionalidad/residencia y menos burocracia. Son preguntas de coherencia, no pruebas
+automáticas de contradicción irresoluble.
+Evidencia disponible
+Figaredo propone revisar grandes partidas y expresa ambición de recorte, pero esas declaraciones no
+identifican todo el gasto legalmente eliminable. AIReF aporta un marco de vigilancia fiscal y de
+sostenibilidad, no una validación del programa de Vox. [6,21,22]
+Condición para una conclusión más firme
+Memoria independiente con horizonte anual y plurianual, distribución por administración y hogares,
+supuestos auditables y lista de medidas alternativas si los ingresos o ahorros no llegan. Sin ella, el saldo
+neto y la probabilidad de reducir deuda manteniendo todo el paquete son no estimables.
+
+
+
+
+                                                                                       VOX | Evaluación de propuestas | 25
+06 | ANÁLISIS JURÍDICO TRANSVERSAL
+
+
+Prioridad nacional: cinco situaciones distintas
+No existe una única respuesta jurídica para cualquier persona extranjera y cualquier prestación. Tampoco
+una preferencia de residencia prolongada equivale automáticamente a una preferencia de nacionalidad.
+[10,12,13,30]
+ Situación                Restricción o pregunta relevante            Implicación para el diseño
+
+ Trabajador               Igualdad en ventajas sociales y fiscales    Una exclusión general por no ser español
+ comunitario              conforme al Reglamento 492/2011.            encuentra una barrera europea directa.
+
+                                                                      Hay que comprobar prestación y
+ Residente de larga       Derechos de igualdad con ámbitos y
+                                                                      excepción; no tratar todo residente como
+ duración                 excepciones definidos en la directiva.
+                                                                      recién llegado.
+
+                          Tipo de autorización, norma sectorial,      No puede deducirse un régimen único de
+ Otro residente legal
+                          tratados y circunstancias.                  la etiqueta extranjero.
+
+                          No tiene acceso automático a todas las
+ Persona sin residencia                                               Identificar el derecho real vigente antes de
+                          prestaciones; persisten derechos y
+ legal                                                                cuantificar cualquier ahorro.
+                          protecciones específicas.
+
+ Menor o solicitante      Interés superior, asilo y garantías         Evitar que un criterio general anule
+ de protección            sectoriales.                                protecciones especiales.
+
+
+Aplicación a cuatro promesas
+IMV: el sistema vigente ya contiene un requisito general de residencia legal y efectiva. Reservarlo a
+españoles añade una exclusión distinta que debe contrastarse con igualdad europea. [12,13,15]
+Vivienda y servicios: priorizar vulnerabilidad, residencia o vinculación territorial no es idéntico a excluir
+por nacionalidad. Incluso un requisito neutro exige valorar proporcionalidad y efectos sobre colectivos
+protegidos. [9,12,13]
+Sanidad: la Ley 16/2003 y el Real Decreto 180/2026 regulan cobertura de personas sin residencia legal.
+Limitarla a urgencia grave exige modificar ese marco y resolver excepciones; no basta una instrucción
+administrativa. [16,17]
+Alquiler y remesas: prohibir contratos o gravar pagos requiere un examen propio de derechos,
+obligaciones de verificación y libertades económicas. No son simplemente dos modalidades de ayuda
+social. [9,42,53]
+Resultado del análisis
+La versión amplia basada exclusivamente en nacionalidad no tiene la misma ruta que una versión
+rediseñada por necesidad o residencia. Si un pacto cambia el criterio, debe registrarse como modificación
+de la promesa, no como cumplimiento íntegro bajo otra denominación. Esta es una restricción
+institucional, no una valoración de la preferencia política.
+
+
+
+
+                                                                                    VOX | Evaluación de propuestas | 26
+07 | CADENA DE EJECUCIÓN
+
+
+Del anuncio de retorno a una salida efectiva
+La palabra retorno puede designar salida voluntaria, ejecución de una decisión administrativa, expulsión
+vinculada a una condena u otras figuras. Su base jurídica, procedimiento, coste y garantías no son
+equivalentes. [10,14]
+ Etapa                   Evidencia necesaria                            Posible bloqueo
+
+                         Identidad, nacionalidad, situación y           Ausencia de documentos o controversia
+ Identificación
+                         documentación.                                 sobre identidad.
+
+                         Causa legal, circunstancias, audiencia y       Falta de fundamento o necesidad de
+ Decisión individual
+                         notificación.                                  protección.
+
+                         Asilo, familia, salud, menores y revisión      Suspensión, anulación o prohibición de
+ Garantías y recursos
+                         efectiva.                                      devolución.
+
+                                                                        Falta de cooperación o imposibilidad de
+ Readmisión              País receptor y documentación de viaje.
+                                                                        recepción.
+
+                         Personal, transporte, custodia                 Capacidad insuficiente o plazo legal
+ Logística
+                         proporcionada y coste.                         excedido.
+
+                                                                        Confundir orden emitida con resultado
+ Verificación            Salida ejecutada y condiciones de recepción.
+                                                                        real.
+
+
+Diferencias dentro del propio programa
+Revisar una nacionalidad obtenida fraudulentamente no es lo mismo que retirar nacionalidad por delitos
+posteriores. Cambiar futuras vías de arraigo no resuelve situaciones pendientes por sí solo. El retorno de
+un menor requiere comprobaciones sobre familia, instituciones receptoras y su interés superior.
+[10,11,14]
+La salida de residentes que perciben una ayuda legal no puede justificarse exclusivamente con la
+existencia de esa ayuda cuando el estatuto europeo u otras garantías les reconocen derechos. Un
+programa voluntario exige además precisar incentivos y consentimiento, no presumirlo por necesidad
+económica. [12,13]
+Coherencia entre medios y objetivos
+Análisis: más expedientes requieren más capacidad administrativa y judicial. Recortar cooperación con un
+país puede modificar su disposición a documentar o readmitir; el resultado no es mecánico. Reducir vías
+de regularización puede cambiar el estatuto de personas que ya trabajan o tienen familia, sin producir su
+salida efectiva.
+Evidencia y predicción
+El ordenamiento acredita procedimientos, no una tasa de cumplimiento futuro. El programa no aporta una
+estimación operativa verificable de retornos por país, causa, año y coste. Por ello, la entrega universal e
+inmediata no tiene una probabilidad defendible; sí pueden evaluarse capacidad, plazos y ejecución de
+expedientes legalmente viables.
+Medición propuesta
+Publicar denominadores: personas identificadas, decisiones, recursos, salidas y coste; distinguir vía
+voluntaria y forzosa y evitar dobles recuentos. Incorporar resultados judiciales y de protección junto al
+indicador de volumen. [14,54]
+
+                                                                                      VOX | Evaluación de propuestas | 27
+08 | EVIDENCIA DE EFICACIA
+
+
+Qué respalda la investigación y qué no
+ Evidencia                Lectura aplicable                              Límite de extrapolación
+
+ Oferta de vivienda -     Las restricciones de oferta importan para el   No cuantifica el efecto del conjunto fiscal,
+ Banco de España          ajuste de precios y cantidades.                migratorio y urbanístico de Vox. [23]
+
+                                                                         Un aumento de oferta declarada puede
+ Beneficios fiscales -    Es necesario comprobar adicionalidad,
+                                                                         incluir afloramiento de actividad existente.
+ AIReF                    distribución y objetivos de cada incentivo.
+                                                                         [24]
+
+                          Cuidados, empleo, vivienda y apoyo             No permite prometer un aumento
+ Familia y fecundidad -
+                          económico se relacionan con decisiones         concreto de nacimientos por una ayuda no
+ OCDE
+                          familiares.                                    definida. [48]
+
+                          La certeza de detección cuenta más que
+                                                                         No prueba el efecto exacto de cada
+ Disuasión - NIJ          aumentar penas ya largas en buena parte de
+                                                                         reforma penal española. [49]
+                          la evidencia revisada.
+
+                          La restricción de 2012 se asoció               El efecto estimado no se traslada
+ Acceso sanitario -
+                          causalmente, según el diseño del estudio, a    numéricamente a una futura reforma
+ estudio español
+                          mayor mortalidad del colectivo afectado.       diferente. [50]
+
+                                                                         Estudio observacional de un contexto
+ Uso sanitario -          Los patrones de uso deben contrastarse con
+                                                                         concreto; no estima un ahorro nacional.
+ estudio catalán          datos, edad, salud y barreras de acceso.
+                                                                         [51]
+
+
+Cómo se aplicaría una evaluación independiente
+Antes de ejecutar: definir problema, línea base, población objetivo, mecanismo y alternativa. Durante el
+despliegue: medir entrega, errores, exclusiones, coste y efectos no previstos. Después: comparar con un
+contrafactual apropiado, no solo con la situación anterior.
+Preguntas causales prioritarias
+Vivienda: ¿cuántas unidades adicionales y a qué coste, en lugar de cuántas ayudas? Impuestos: ¿cuánto
+llega a precios, salarios o inversión y cuánto a rentas existentes? Burocracia: ¿se reduce trabajo total o se
+desplaza a recursos e inspección? Seguridad: ¿baja la victimización o solo suben las actuaciones? Sanidad:
+¿se ahorra en el conjunto o se trasladan costes a urgencias?
+Interpretación equilibrada
+Que una propuesta tenga poca evidencia no demuestra que fracasará; aumenta la necesidad de pilotaje y
+revisión. Que un instrumento funcione en otra jurisdicción no garantiza replicación. La ausencia de coste
+publicado tampoco prueba que sea gratuito ni imposible. Las conclusiones deben corresponder a la
+versión concreta, sus recursos y su población.
+
+
+
+
+                                                                                       VOX | Evaluación de propuestas | 28
+09 | RESPALDO INTERNO Y RECENCIA
+
+
+Respaldo visible, prioridad y capacidad de negociar
+ Área                    Evidencia pública fechada                  Qué acredita y qué no
+
+                                                                    Posición oficial; no porcentaje de afiliados
+ Programa nacional       Presentación del 12/11/2026.
+                                                                    o dirigentes favorables a cada medida. [3]
+
+                         Ratificación de Abascal y Garriga en la    Prioridad de la dirección; no prueba de
+ Fronteras y prioridad
+                         campaña de noviembre, incluido acto del    viabilidad ni de ausencia de discrepancia
+ nacional
+                         14/11.                                     privada. [8]
+
+                                                                    Desarrollo sectorial y disposición a
+ Economía y
+                         Figaredo, 4/11/2026.                       negociar; no memoria auditada de ahorro.
+ desregulación
+                                                                    [6]
+
+                                                                    Continuidad de la agenda sectorial; no
+                         Hernández Quero, 12/11/2026, y
+ Vivienda                                                           apoyo de todos los ejecutores territoriales.
+                         antecedentes de febrero.
+                                                                    [7,63]
+
+                         Comunicaciones de Granada y Tarragona en   Cooperación puntual para el Senado; no
+ Pactos electorales
+                         noviembre.                                 un acuerdo completo de gobierno. [32,33]
+
+
+Quién tiene capacidad formal
+La web nacional identifica a Abascal como presidente y a Garriga como vicepresidente y secretario
+general. Las vicesecretarías sitúan a Montserrat Lluís en coordinación de acción de gobierno y grupos
+parlamentarios, bajo la dirección de Presidencia y Secretaría General. Esto describe el organigrama
+publicado, no las preferencias privadas de cada miembro. [4,5]
+Qué enseña el historial, sin exagerarlo
+La ruptura de gobiernos autonómicos de julio de 2024 por el reparto de menores muestra un episodio en
+que la dirección priorizó una posición sobre permanecer en ejecutivos. Los acuerdos de 2026 muestran
+que ese antecedente no impide pactos posteriores. Ninguno proporciona una tasa de estabilidad futura.
+[30,31,64]
+Indicadores de respaldo que faltan
+Actas de aprobación por medida, votaciones internas desglosadas, memoria económica aceptada por
+responsables territoriales y posiciones de quienes ejecutarían cada servicio. La ausencia de críticas
+públicas no completa esos datos.
+Registro de cambios
+El IVA del 18% anunciado el 4/11 se conserva como concreción complementaria: el texto posterior no lo
+reproduce expresamente. La aparición de un programa más reciente no autoriza ni a dar por incorporado
+cada detalle anterior ni a afirmar que ha sido retirado. Debe pedirse ratificación o un texto normativo.
+[2,6]
+
+
+
+
+                                                                                  VOX | Evaluación de propuestas | 29
+10 | LIDERAZGO Y EQUIPO
+
+
+Dirección política y capacidad observable
+Los perfiles describen funciones verificables y su relevancia para ejecutar la agenda. No son una
+clasificación de popularidad, honradez o competencia global. Un cargo parlamentario no equivale a haber
+gestionado un ministerio, y una titulación no garantiza resultados.
+Santiago Abascal - dirección y decisión final
+Presidente del partido en el organigrama publicado y diputado en las legislaturas XIII, XIV y XV. Su papel
+es relevante para fijar prioridades, autorizar pactos y resolver contradicciones entre objetivos. La campaña
+de noviembre acredita la centralidad de inmigración y prioridad nacional en su discurso. [4,8,34]
+La ruptura autonómica de 2024 y el acuerdo senatorial de 2026 son antecedentes diferentes: el primero
+documenta disposición a abandonar ejecutivos ante una discrepancia; el segundo, disposición a cooperar
+electoralmente. No prueban cómo actuaría ante cualquier conflicto futuro. Pregunta de ejecución: ¿qué
+medidas tendrían prioridad cuando el presupuesto o un socio impidan aprobarlas todas? [31,66]
+Ignacio Garriga - organización y cohesión
+La estructura nacional lo identifica como vicepresidente y secretario general. La ficha del Parlament
+acredita su actividad parlamentaria catalana y su formación y experiencia profesional en odontología. Su
+responsabilidad organizativa lo sitúa como interlocutor para disciplina, coordinación territorial y
+ratificación de acuerdos. [4,35]
+La cuestión analítica no es su profesión, sino si existen mecanismos que traduzcan la línea nacional en
+decisiones de grupos, consejerías y ayuntamientos. Una campaña coordinada no acredita por sí sola
+capacidad de despliegue de servicios. Conviene exigir responsables, convenios, incentivos y
+procedimientos de resolución de conflictos.
+José María Figaredo - economía y concreción fiscal
+Su ficha parlamentaria recoge formación jurídica y actividad como diputado. El anuncio económico del 4
+de noviembre lo identifica como portavoz de propuestas fiscales, cotizaciones y revisión de subvenciones.
+Esa intervención permite distinguir desarrollos sectoriales de los compromisos más generales del
+programa. [6,36]
+La prueba pendiente es una cuenta consolidada: coste por impuesto, beneficiarios, transición y ahorro
+ejecutable sin doble contabilización. Anunciar partidas revisables no demuestra cuánto puede recortarse
+ni su efecto sobre servicios. No se le atribuye un futuro ministerio ni una cartera que el partido no haya
+anunciado.
+Pepa Rodríguez de Millán - traducción parlamentaria
+Fue designada portavoz en el Congreso en agosto de 2023; figura en el comité ejecutivo consultado. Su
+ficha parlamentaria documenta formación jurídica y mandato. El papel relevante es convertir
+orientaciones en proposiciones, enmiendas, negociación y control de cumplimiento. [4,37,40]
+El indicador apropiado no es volumen de intervenciones, sino calidad del articulado, consistencia entre
+votaciones y programa y capacidad para conservar los elementos esenciales de una medida al pactarla. No
+se deduce una preferencia privada distinta de la posición pública del grupo.
+
+
+
+
+                                                                                VOX | Evaluación de propuestas | 30
+10 | LIDERAZGO Y EQUIPO
+
+
+Responsables sectoriales y negociación
+Carlos Hernández Quero - vivienda y diagnóstico social
+Diputado por Málaga y doctor en Historia Contemporánea según su ficha del Congreso, figura en el
+comité ejecutivo. Sus intervenciones de febrero y noviembre de 2026 permiten atribuirle una agenda
+pública sostenida en vivienda. No equivalen a experiencia acreditada de promoción o gestión de un
+parque residencial. [4,7,38,63]
+La prueba de capacidad del equipo sería una cartera de suelo y proyectos, financiación, convenios y
+objetivos de vivienda entregada. El contenido de la agenda admite varios instrumentos; debe explicitarse
+cuáles prioriza cuando las ayudas a demanda compiten con inversión en oferta.
+Jorge Buxadé - ruta europea y jurídica
+Su currículo en el Parlamento Europeo acredita condición de eurodiputado desde 2019 y acceso al cuerpo
+de abogados del Estado en 2003. La estructura nacional consultada lo sitúa en la acción jurídica. No se
+reutiliza como cargo actual cualquier denominación de un currículo fechado anteriormente. [5,39]
+Su relevancia es identificar qué reformas requieren cambiar una directiva o reglamento y construir apoyos
+en el nivel adecuado. La pertenencia a un grupo europeo no acredita mayoría del Parlamento ni apoyo del
+Consejo. Para IVA, clima y comercio, la pregunta es qué texto y coalición europeos harían viable la versión
+nacional.
+Montserrat Lluís - coordinación y acuerdos
+La web del partido la identifica como secretaria general adjunta y responsable de coordinación de acción
+de gobierno y grupos parlamentarios. La negociación de las listas del Senado de octubre ofrece un
+antecedente público de interlocución con el PP. [5,67]
+Es una función relevante para pactos multiterritoriales y seguimiento de compromisos. Un acuerdo sobre
+candidaturas acredita negociación electoral, no que exista acuerdo sobre presupuestos, inmigración o
+prestaciones. El valor de un mecanismo de coordinación se comprobaría mediante hitos, responsables y
+resolución de discrepancias.
+Lo que el organigrama no permite concluir
+No constituye un consejo de ministros designado. Tampoco permite evaluar todos los equipos que
+ejecutarían sanidad, infraestructuras, cuidados o administración digital. Una capacidad parlamentaria
+fuerte puede coexistir con necesidad de ampliar equipos técnicos; esa necesidad no es una prueba de
+incapacidad personal.
+Prueba común para cualquier equipo de gobierno
+Publicar responsabilidades operativas, experiencia comparable, incompatibilidades, mecanismos de
+selección y evaluación. Antes de atribuir resultados, separar recursos heredados, competencia efectiva y
+factores externos. Las biografías sirven para formular preguntas verificables, no para sustituir una
+evaluación de políticas.
+
+
+
+
+                                                                               VOX | Evaluación de propuestas | 31
+11 | GOBERNANZA Y CONTROL
+
+
+Conflictos, integridad y estado de los hechos
+Un conflicto interno no mide el apoyo a una propuesta
+La expulsión de Javier Ortega Smith fue confirmada internamente en abril de 2026; en julio se informó de
+su paso al Grupo Mixto. Se trata de un antecedente de conflicto organizativo y disciplina. No proporciona
+un porcentaje de oposición al programa de noviembre ni demuestra una discrepancia concreta sobre
+todas sus medidas. [72,73]
+La lectura neutral conserva dos posibilidades: una dirección con capacidad de imponer decisiones puede
+mejorar coordinación; una elevada centralización puede reducir información discrepante. Para resolver
+cuál predomina se necesitan decisiones, mecanismos de revisión y resultados, no solo organigramas.
+Las resoluciones deben actualizarse, no acumular titulares
+El Tribunal de Cuentas publicó en abril de 2025 una sanción a Vox por ingresos promocionales de 2018-
+2020. El Tribunal Supremo anuló esa sanción en junio de 2026, al no considerar probada la ocultación de
+donaciones irregulares en aquellos ingresos. Por tanto, no se presenta esa multa como vigente ni como
+una condena penal. [69,70]
+La anulación resuelve aquel expediente: no equivale a una certificación general de todas las cuentas, del
+mismo modo que la resolución administrativa inicial no justificaba atribuir delitos a todo el partido. La
+respuesta favorable de Vox a la sentencia es una posición de parte, no una auditoría independiente.
+[70,71]
+Control de la agenda institucional
+Las medidas de auditoría, contratación y transparencia deben evaluarse también sobre la administración
+que las promueva. Importa publicar criterios antes de investigar, garantizar contradicción, separar
+fiscalización de decisiones partidistas y someter nombramientos y contratos a controles revisables. [9,20]
+Análisis: una reforma que promete independencia debe especificar quién nombra, con qué mayoría, por
+cuánto tiempo y cómo se remueve a los responsables. Cambiar a las personas sin cambiar las reglas no
+acredita independencia. Reducir organismos puede ahorrar duplicidades o eliminar controles útiles; el
+efecto depende del diseño concreto.
+Registro que debería mantenerse actualizado
+ Elemento                 Regla de tratamiento
+
+ Procedimiento judicial   Hecho imputado, organismo, fase, resolución y recursos; no mezclar responsabilidad
+ o administrativo         individual y colectiva.
+
+ Conflicto de interés     Interés declarado, competencia de decisión, abstención y supervisión.
+
+ Cumplimiento de un
+                          Compromiso exacto, plazo, responsable, modificación y prueba de entrega.
+ pacto
+
+ Discrepancia interna     Actor, posición pública fechada y medida afectada; nunca inferir una votación privada.
+
+
+
+
+                                                                                       VOX | Evaluación de propuestas | 32
+12 | ACUERDOS ENTRE PARTIDOS
+
+
+PP y Vox: compatibilidad por instrumento
+El pacto para el Senado anunciado el 26 de octubre es un hecho: incluye renuncias de candidaturas y
+ajustes en determinadas provincias. No equivale a una coalición para el Congreso ni a un programa estatal
+de gobierno. [66]
+ Ámbito                     Espacio de negociación                         Condición o fricción
+
+ Impuestos y                                                               Cuantías, compensación presupuestaria y
+                            Rebajas, simplificación y apoyo empresarial.
+ burocracia                                                                protecciones que se eliminan.
+
+                            Oferta, suelo, agilización y seguridad         Nacionalidad, garantías judiciales, IVA y
+ Vivienda
+                            jurídica.                                      equilibrio entre ayudas y construcción.
+
+                                                                           No confundir coincidencia nuclear con un
+                            Continuidad nuclear y seguridad de
+ Nuclear y energía                                                         acuerdo para desmontar el marco
+                            suministro.
+                                                                           climático europeo.
+
+                            Control fronterizo y ejecución de retornos     El programa del PP contempla arraigo
+ Inmigración
+                            legalmente viables.                            excepcional; Vox propone suprimirlo.
+
+                            Control de fraude y posible vinculación        Nacionalidad y residencia son criterios
+ Prestaciones
+                            territorial.                                   distintos: no hay acuerdo automático.
+
+                            Pruebas, elección, docentes y formación        Distribución competencial, lengua y
+ Educación
+                            profesional.                                   criterios de admisión.
+
+                                                                           Diseño, mayorías y antecedentes de
+                            Algunos cambios en nombramientos y
+ Instituciones y justicia                                                  acuerdos PP-PSOE que Vox no comparte
+                            controles.
+                                                                           necesariamente.
+
+                            Familia, primaria, listas de espera e          Coste recurrente, elegibilidad y modelo de
+ Cuidados y sanidad
+                            interoperabilidad.                             provisión.
+
+
+Base del contraste
+La compatibilidad indicada es análisis de los dos programas, no atribución de una promesa conjunta. En
+Extremadura, PP y Vox explicaron de forma distinta la prioridad nacional tras su acuerdo de abril: la
+divergencia de interpretación importa tanto como la firma. [2,28,30,64]
+Qué tendría que contener un pacto verificable
+Para cada medida: versión acordada, importe, beneficiarios, responsable, fecha, condición jurídica y
+método de resolución de conflictos. Una cláusula genérica que remita todo a la legalidad puede evitar un
+compromiso imposible, pero deja abierto qué cambio concreto se ejecutará.
+Riesgo de contar apoyos dos veces
+Un partido puede respaldar una investidura y oponerse a una ley o presupuesto. Los acuerdos de 2026 y
+la ruptura de 2024 muestran que la relación admite cooperación y conflicto. No permiten asignar una tasa
+numérica de estabilidad al siguiente gobierno. [31,64,66]
+
+
+
+
+                                                                                         VOX | Evaluación de propuestas | 33
+12 | ACUERDOS ENTRE PARTIDOS
+
+
+Otros partidos y paquetes de negociación
+PNV: un límite político documentado
+Su programa de 2026 descarta facilitar un gobierno dependiente de Vox. Por tanto, no se suman los votos
+potenciales del PNV a un bloque PP-Vox como si fueran apoyos compatibles por defecto. Coincidencias
+puntuales en una política o inversión no derogan esa posición sobre el gobierno. [29]
+PSOE: acuerdos parciales no equivalen a programa compartido
+Su programa sitúa derechos sociales, regulación de vivienda, transición ecológica y migración regular en
+una orientación distinta. Esto reduce la compatibilidad de los paquetes más amplios de Vox. No excluye
+acuerdos separados en capacidad sanitaria, investigación, infraestructuras, ciberseguridad o protección de
+menores si coinciden instrumentos y recursos. Son posibilidades analíticas, no compromisos firmados.
+[2,65]
+El acuerdo PP-PSOE de 2024 sobre el CGPJ y su desarrollo legislativo prueban que existen
+combinaciones institucionales distintas del bloque de investidura. No prueban que el PSOE respalde la
+propuesta de Vox ni que el mismo acuerdo sea reproducible. [59,68]
+Resto de fuerzas: no completar apoyos por afinidad aparente
+Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición
+Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz. No se transforma un posible interés
+territorial, una coincidencia fiscal o una etiqueta ideológica en votos asegurados. Tampoco se presupone
+el resultado electoral de ninguna fuerza.
+Tres paquetes hipotéticos, no acuerdos existentes
+ Paquete               Medidas que podrían aislarse                Condición necesaria
+
+                       Suelo, licencias, formación, redes y        Proyectos maduros, garantías, reparto
+ Oferta y capacidad
+                       mantenimiento.                              competencial y presupuesto.
+
+                       Primaria, cuidados, 0-3 y apoyo a           Elegibilidad compatible con derechos,
+ Servicios y familia
+                       discapacidad.                               financiación recurrente y personal.
+
+ Instituciones y       Auditoría, contratación, ciberseguridad y   Controles independientes y separación de
+ seguridad             protección de víctimas.                     cláusulas que generen vetos.
+
+
+La versión negociada cambia la evaluación
+Una reforma de retorno que preserve procedimientos individuales no equivale a ejecutar
+indiscriminadamente una consigna. Una ayuda basada en necesidad y residencia no es idéntica a
+reservarla por nacionalidad. El marco debe registrar qué parte se conserva, modifica o abandona y
+reevaluar sus efectos.
+Condición europea
+Una mayoría nacional no sustituye a las instituciones europeas. La pertenencia de eurodiputados a un
+grupo no basta para cambiar IVA, clima o comercio; cada expediente necesita su procedimiento y apoyos.
+[18,39,46,53]
+
+
+
+
+                                                                                VOX | Evaluación de propuestas | 34
+13 | ESCENARIOS Y SECUENCIA
+
+
+De un acuerdo político a una cartera ejecutable
+A - Mayoría propia de Vox
+Eliminaría parte de la negociación parlamentaria interna al bloque, no los límites constitucionales,
+europeos, judiciales, presupuestarios o territoriales. Las primeras reformas viables serían aquellas con
+instrumento nacional definido. Las medidas que dependen de terceros o de capacidad material seguirían
+condicionadas.
+B - Acuerdo PP-Vox
+La variable decisiva sería la versión pactada. Impuestos, simplificación, oferta residencial y ciertas políticas
+de seguridad ofrecen espacios; arraigo, elegibilidad de servicios y obligaciones europeas requieren
+acuerdos específicos. El apoyo a la investidura debe separarse del compromiso presupuestario plurianual.
+[2,28,30]
+C - Influencia desde la oposición
+La aprobación parcial puede ocurrir por enmiendas, iniciativas o adopción de una idea por otro gobierno.
+La atribución debe reconocer autores, modificaciones y ejecutores. Vox no controlaría el calendario
+administrativo ni la financiación por el hecho de haber formulado la propuesta.
+Secuencia propuesta por el análisis; no calendario prometido
+ Ventana                Entrega razonable que evaluar                  Lo que no debe contarse todavía
+
+                        Memoria fiscal, inventario normativo,
+                                                                       Ahorro definitivo por anunciar una
+ Primeros 100 días      responsables, consultas europeas y
+                                                                       auditoría o viviendas por anunciar suelo.
+                        territoriales.
+
+                        Leyes habilitantes, presupuesto, convenios y   Resultado social completo por publicar
+ Meses 4-12
+                        proyectos con permisos.                        una ley.
+
+                        Despliegue de servicios, obras terminadas,     Cumplimiento nacional por un piloto o una
+ Años 2-3
+                        contratación y evaluación intermedia.          entrega territorial parcial.
+
+                        Cobertura, costes recurrentes, resultados y    Éxito causal basado solo en una mejora
+ Final de legislatura
+                        permanencia.                                   agregada sin comparación adecuada.
+
+
+Dependencias que deben resolverse primero
+Vivienda: suelo, red, permisos y capacidad de obra antes de comprometer entregas. Salud y cuidados: plan
+de personal antes de ampliar carteras sin profesionales. Migración: procedimientos y readmisión antes de
+fijar una tasa universal de salida. Fiscalidad: cuenta consolidada antes de comprometer simultáneamente
+ingresos menores y gasto mayor.
+Prueba de resistencia
+Recalcular ante menor crecimiento, mayores costes, retrasos europeos, oposición territorial o retirada de
+un socio. Las partidas discrecionales no pueden absorber indefinidamente obligaciones permanentes. El
+programa debería aclarar qué se retrasa, reduce o financia de otra manera en cada caso. [21,22]
+
+
+
+
+                                                                                     VOX | Evaluación de propuestas | 35
+14 | SEGUIMIENTO Y RENDICIÓN DE CUENTAS
+
+
+Indicadores que distinguirían entrega y resultado
+Las siguientes métricas son propuestas del análisis. No se atribuyen al programa metas cuantitativas que
+este no define. Deben desglosarse por territorio y población, con protección de datos y denominadores
+consistentes.
+ Área                   Entrega comprobable                             Resultado y riesgo que vigilar
+
+                        Recaudación y gasto fiscal por medida;          Renta disponible por decil, servicios y
+ Fiscalidad
+                        ahorro neto consolidado.                        trayectoria de deuda.
+
+                        Tiempo y coste de trámites; programas y         Productividad, empleo adicional y
+ Empresa y empleo
+                        personas atendidas.                             desplazamiento de actividad.
+
+                        Viviendas terminadas y ocupadas; suelo          Esfuerzo por renta, asequibilidad duradera
+ Vivienda
+                        servido y permisos.                             y coste por unidad.
+
+                        Personal efectivo, cobertura, espera            Necesidad no atendida, calidad, resultados
+ Sanidad
+                        completa y continuidad.                         y coste ajustado.
+
+                        Plazas, apoyos, becas y transición de           Aprendizaje, abandono, segregación y
+ Educación
+                        currículo.                                      empleo tras FP.
+
+                        Cobertura 0-3, horas de ayuda y plazos de       Pobreza infantil, carga de cuidados y
+ Familia y cuidados
+                        dependencia.                                    compatibilidad laboral.
+
+                        Expedientes, resoluciones, recursos y salidas   Legalidad, protección, coste y situaciones
+ Migración
+                        efectivas.                                      no resueltas.
+
+                                                                        Victimización, reincidencia, errores y
+ Seguridad y justicia   Recursos, tiempos y esclarecimiento.
+                                                                        garantías.
+
+                        Red, mantenimiento, agua y proyectos            Coste total, seguridad, resiliencia y efectos
+ Energía y rural
+                        entregados.                                     ambientales.
+
+ Instituciones y        Auditorías, datos interoperables, sistemas y    Independencia, calidad, incidentes,
+ tecnología             contratos.                                      privacidad y ahorro real.
+
+
+Criterio de cumplimiento
+Completo: objetivo previamente definido alcanzado. Parcial: alcance o cobertura inferior identificable.
+Modificado: se ejecuta otra versión. No iniciado: no hay avance material suficiente. No evaluable: falta
+una definición verificable. No debe llamarse incumplimiento a una promesa cuyo plazo no ha vencido.
+Permanencia
+Evaluar costes de funcionamiento y mantenimiento, vigencia de acuerdos, derechos de beneficiarios y
+continuidad de recursos. Una medida puede estar entregada al final de un año y resultar financieramente
+insostenible al siguiente.
+Actualización del registro
+Conservar fecha del hecho, publicación, última ratificación y comprobación. Ante una nueva ley, pacto o
+sentencia, modificar solo las fichas afectadas y explicar por qué. El registro de pronósticos anteriores
+permite comprobar si el análisis era consistente, en lugar de reescribir la previsión después del resultado.
+
+
+
+
+                                                                                      VOX | Evaluación de propuestas | 36
+15 | ÍNDICE DE COBERTURA
+
+
+Trazabilidad de las 115 numeraciones
+Los bloques siguientes remiten al programa oficial. Los números de ámbito son los de las 19 fichas; una
+misma medida puede aparecer en varios ámbitos. Cobertura temática no significa que cada subcláusula
+disponga de un pronóstico independiente. [2]
+ Numeración     Materia del bloque                                    Fichas del informe
+
+ 1              Ceuta, Melilla y soberanía territorial.               10, 16, 18
+
+ 2-8            Economía, industria, trabajo y servicios.             01, 02, 03, 04, 07, 13, 14, 17
+
+ 9-17           Inmigración, entradas, retorno y nacionalidad.        10, 18
+
+ 18-25          Prioridad nacional y acceso a recursos.               02, 05, 06, 08, 09, 10, 13
+
+ 26-35          Vivienda, compra, alquiler y ocupación.               02, 05, 10, 11
+
+ 36-47          Burocracia, normas y gasto.                           01, 09, 12, 14, 16, 17
+
+ 48-59          Campo, pesca, alimentación y medio rural.             03, 14, 15, 18
+
+ 60-65          Salud y atención sanitaria.                           06, 13
+
+ 66-78          Educación, cultura e identidad.                       07, 09, 19
+
+ 79-93          Seguridad, justicia penal y defensa.                  11, 16, 17, 18
+
+ 94-99          Familia, cuidados, infancia y vida.                   04, 08, 09, 17
+
+ 100-111        Justicia, instituciones y controles.                  11, 12, 16, 19
+
+ 112-115        Infraestructuras y cohesión.                          14, 16
+
+
+Dónde están las preguntas transversales
+Financiación: balance consolidado y ficha fiscal. Recencia: metadatos de cada ficha y respaldo interno.
+Derechos: rutas institucionales, prioridad nacional y retorno. Eficacia: fichas sectoriales y síntesis de
+evidencia. Pactos: matrices PP y resto de fuerzas. Responsables: perfiles y organigrama. Cumplimiento:
+secuencia e indicadores.
+Vacíos que deben permanecer visibles
+Los objetivos sin importe, umbral o fecha no reciben una concreción inventada. Los espacios tecnológicos
+sin propuesta dedicada se identifican como desarrollo pendiente, no como oposición al uso de tecnología.
+Las coincidencias entre programas no se clasifican como pactos firmados.
+Conclusión general
+La agenda tiene componentes de ejecución nacional relativamente directa, otros que requieren fuertes
+recursos y coordinación, y otros condicionados a modificar normas o acuerdos externos. La evaluación útil
+es por versión y escenario: qué podría aprobarse, entregarse y lograr resultados, no una nota única de
+realismo para todo el partido.
+
+
+
+
+                                                                                   VOX | Evaluación de propuestas | 37
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 1-11
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[1] BOE. Real Decreto 806/2026: convocatoria de elecciones generales
+5-6/10/2026 | Norma y fecha electoral.
+
+[2] Vox. Programa electoral nacional del 29N
+Presentado 12/11/2026 | Fuente primaria de compromisos; 115 numeraciones.
+
+[3] Vox. Presentación de las medidas para el 29N
+12/11/2026 | Ratificación oficial, no evaluación independiente.
+
+[4] Vox. Comité Ejecutivo Nacional
+Consulta 17/11/2026 | Cargos publicados; no preferencias privadas.
+
+[5] Vox. Vicesecretarías nacionales
+Consulta 17/11/2026 | Distribución organizativa y coordinación.
+
+[6] Europa Press. Figaredo: IVA, cotizaciones y subvenciones
+04/11/2026 | Anuncio complementario; cifras no auditadas por esta fuente.
+
+[7] Vox. Hernández Quero y política de vivienda
+12/11/2026 | Posición sectorial y ratificación.
+
+[8] Vox. Acto de Abascal y Garriga en Colón
+14/11/2026 | Prioridades de campaña; acusaciones tratadas como declaraciones.
+
+[9] BOE. Constitución Española, texto consolidado
+Versión consultada 20/05/2026 | Competencias, derechos, mayorías y reforma.
+
+[10] BOE. Ley Orgánica 4/2000 de extranjería
+Texto consolidado consultado | Derechos, situaciones administrativas y procedimientos.
+
+[11] BOE. Reglamento de extranjería, RD 1155/2024
+Versión consultada 22/09/2026 | Marco de autorizaciones y arraigo.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 38
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 12-22
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[12] EUR-Lex. Reglamento 492/2011 sobre trabajadores de la UE
+Consulta 17/11/2026 | Igualdad de trato y ventajas sociales.
+
+[13] EUR-Lex. Directiva 2003/109 sobre residentes de larga duración
+Versión consultada 12/06/2026 | Estatuto, igualdad y límites aplicables.
+
+[14] EUR-Lex. Directiva 2008/115 sobre retorno
+Consulta 17/11/2026 | Procedimientos, garantías y ejecución.
+
+[15] BOE. Ley 19/2021 del ingreso mínimo vital
+Versión consultada 03/10/2026 | Situación inicial de elegibilidad.
+
+[16] BOE. Ley 16/2003 de cohesión y calidad del SNS
+Versión consultada 03/10/2026 | Cobertura y coordinación sanitaria.
+
+[17] BOE. Real Decreto 180/2026 sobre acceso sanitario
+11/03/2026, publicación | Cobertura de personas sin residencia legal y protecciones.
+
+[18] EUR-Lex. Directiva 2006/112 del IVA, texto consolidado
+Versión consultada 01/01/2025 | Margen nacional y tipos reducidos o exenciones.
+
+[19] Parlamento Europeo. Propuesta B10-0078/2024 sobre IVA de vivienda
+03/10/2024 | Antecedente de solicitud de reforma; no norma aprobada.
+
+[20] BOE. Ley 39/2015 del procedimiento administrativo común
+Texto consolidado consultado | Procedimientos, garantías y silencio administrativo.
+
+[21] AIReF. Regla de gasto de pensiones y sostenibilidad
+29/05/2026 | Evaluación independiente de la situación vigente.
+
+[22] AIReF. Ejecución presupuestaria, deuda y regla de gasto de las AAPP
+15/07/2026 | Contexto fiscal; no coste del programa de Vox.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 39
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 23-33
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[23] Banco de España. Desajuste entre oferta y demanda de vivienda
+13/06/2023 | Mecanismo de oferta y precios; no pronóstico del paquete.
+
+[24] AIReF. Evaluación y seguimiento de beneficios fiscales
+Consulta 17/11/2026 | Eficacia, diseño y distribución de incentivos.
+
+[25] Ministerio de Sanidad. Historia Clínica Digital del SNS
+Consulta 17/11/2026 | Infraestructura existente; referencia para adicionalidad.
+
+[26] BOE. Orden TED/864/2026: autorización de Almaraz
+12/08/2026 | Línea base: autorización hasta 08/06/2030.
+
+[27] Consejo de la UE. Acuerdo comercial interino UE-Mercosur
+Aplicación provisional 01/05/2026 | Estado del acuerdo; competencia comercial europea.
+
+[28] PP. Programa electoral nacional de 2026
+Presentado 10/11/2026 | Contraste de instrumentos, no acuerdo entre partidos.
+
+[29] EAJ-PNV. Programa para las elecciones generales de 2026
+Consulta 17/11/2026 | Posición expresa sobre gobiernos dependientes de Vox.
+
+[30] RTVE. Diferencias PP-Vox sobre prioridad nacional
+21/04/2026 | Interpretaciones de un acuerdo autonómico.
+
+[31] RTVE. Vox abandona los gobiernos autonómicos con el PP
+11/07/2024 | Antecedente de ruptura, no predicción de estabilidad.
+
+[32] Vox. Inicio de campaña en Tarragona
+13/11/2026 | Ratificación territorial y contexto de candidaturas.
+
+[33] Vox. Presentación de candidaturas de Granada
+06/11/2026 | Candidaturas y cooperación electoral puntual.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 40
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 34-44
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[34] Congreso. Ficha de Santiago Abascal, XV legislatura
+Consulta 17/11/2026 | Trayectoria parlamentaria verificable.
+
+[35] Parlament de Catalunya. Ficha de Ignacio Garriga
+Consulta 17/11/2026 | Trayectoria y responsabilidades publicadas.
+
+[36] Congreso. Ficha de José María Figaredo
+Consulta 17/11/2026 | Formación y actividad parlamentaria.
+
+[37] Congreso. Ficha de Pepa Rodríguez de Millán
+Consulta 17/11/2026 | Formación y mandato.
+
+[38] Congreso. Ficha de Carlos Hernández Quero
+Consulta 17/11/2026 | Formación y mandato por Málaga.
+
+[39] Parlamento Europeo. Currículo de Jorge Buxadé
+Actualizado 01/04/2025 | Biografía; cargos actuales contrastados con organigrama.
+
+[40] Vox. Designación de portavoz en el Congreso
+16/08/2023 | Antecedente de nombramiento de Rodríguez de Millán.
+
+[41] Comisión Europea. Calendario de aplicación del AI Act
+Consulta 17/11/2026 | Calendario escalonado; contrastado con reforma de 2026.
+
+[42] EUR-Lex. Reglamento 2016/679 de protección de datos
+Consulta 17/11/2026 | Base jurídica, proporcionalidad y datos personales.
+
+[43] BOE. Ley Orgánica 5/2000 de responsabilidad penal de menores
+Texto consolidado consultado | Régimen específico y garantías.
+
+[44] BOE. Ley Orgánica 6/2002 de partidos políticos
+Versión consultada 02/08/2024 | Causas y procedimiento de ilegalización.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 41
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 45-55
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[45] BOE. Ley 7/2021 de cambio climático y transición energética
+Texto consolidado consultado | Obligaciones nacionales; relación con derecho europeo.
+
+[46] EUR-Lex. Reglamento 2021/1119, legislación europea del clima
+Consulta 17/11/2026 | Marco europeo, incluidas modificaciones vigentes.
+
+[47] EUR-Lex. Directiva 2000/60, marco del agua
+Consulta 17/11/2026 | Planificación hidrológica y obligaciones ambientales.
+
+[48] OCDE. Society at a Glance 2024: fecundidad y políticas
+2024 | Evidencia comparada; no efecto numérico del programa.
+
+[49] National Institute of Justice. Five Things About Deterrence
+05/06/2016 | Síntesis de evidencia sobre certeza y severidad penal.
+
+[50] European Economic Review. The deadly effects of losing health insurance
+2021 | Estudio sobre la restricción sanitaria española de 2012.
+
+[51] Estudio sobre uso sanitario de población migrante en Cataluña
+2021; PMID 33964238 | Investigación observacional; no ahorro nacional estimado.
+
+[52] BOE. Real Decreto 953/2026 y zonas de bajas emisiones
+04/11/2026 | Actualización normativa relevante para movilidad.
+
+[53] EUR-Lex. Tratado de Funcionamiento de la Unión Europea
+Texto consolidado consultado | Mercado interior, competencia y comercio común.
+
+[54] EUR-Lex. Carta de los Derechos Fundamentales de la UE
+Texto consolidado consultado | Derechos y ámbito de aplicación europeo.
+
+[55] BOE. Ley Orgánica 2/2006 de Educación
+Texto consolidado consultado | Situación educativa vigente y competencias.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 42
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 56-66
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[56] BOE. Ley Orgánica 1/2004 de protección contra la violencia de género
+Texto consolidado consultado | Protecciones actuales y alcance de una reforma.
+
+[57] BOE. Real Decreto-ley 32/2021 de reforma laboral
+Texto consolidado consultado | Línea base laboral, no atribución causal de resultados.
+
+[58] BOE. Ley 39/2006 de autonomía personal y dependencia
+Versión consultada 11/11/2026 | Prestaciones, competencias y coordinación.
+
+[59] El País. Texto del acuerdo PP-PSOE sobre el Poder Judicial
+25/06/2024 | Reproducción del acuerdo; antecedente de negociación.
+
+[60] EUR-Lex. Reglamento 2026/1744, reforma del marco de IA
+08/07/2026; publicado 24/07 | Modificaciones de 2026; contrastar plazos con Comisión.
+
+[61] BOE. Ley 21/2021 sobre pensiones
+Texto consolidado consultado | Línea base de revalorización y otras reformas.
+
+[62] BOE. Ley 12/2023 por el derecho a la vivienda
+Versión consultada 02/10/2026 | Marco vigente para evaluar derogación y transición.
+
+[63] Vox. Propuestas de vivienda en Málaga
+19/02/2026 | Antecedente sectorial de Hernández Quero.
+
+[64] RTVE. Claves del acuerdo PP-Vox en Extremadura
+17/04/2026 | Acuerdo territorial, no pacto estatal de gobierno.
+
+[65] PSOE. Programa de las elecciones generales de 2026
+Consulta 17/11/2026 | Contraste de orientaciones e instrumentos.
+
+[66] EFE. Acuerdo PP-Vox para las listas del Senado
+26/10/2026 | Pacto electoral y sus límites.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 43
+16 | FUENTES Y TRAZABILIDAD
+
+
+Registro de fuentes 67-73
+Títulos enlazados al documento original. Consulta: 17/11/2026. Las fuentes del partido acreditan posiciones, no eficacia.
+
+[67] Antena 3. Negociación de listas del Senado entre PP y Vox
+26/10/2026 | Interlocución de Tellado y Montserrat Lluís.
+
+[68] BOE. Ley Orgánica 3/2024 de reforma judicial
+02/08/2024 | Desarrollo normativo; no acuerdo con Vox.
+
+[69] Tribunal de Cuentas. Resolución sancionadora sobre Vox
+30/04/2025 | Antecedente. La sanción fue anulada: leer junto a [70].
+
+[70] EFE. El Supremo anula la sanción por ingresos promocionales
+05/06/2026 | Actualización esencial del expediente citado en [69].
+
+[71] Vox. Respuesta parlamentaria sobre cuentas y sentencia
+09/06/2026 | Declaración de parte; no auditoría general de cuentas.
+
+[72] RTVE. Confirmación interna de la expulsión de Ortega Smith
+16/04/2026 | Conflicto organizativo; no encuesta por propuesta.
+
+[73] El País. Ortega Smith pasa al Grupo Mixto
+17/07/2026 | Continuación parlamentaria del conflicto.
+
+
+
+
+                                                                                                VOX | Evaluación de propuestas | 44
+

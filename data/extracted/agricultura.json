@@ -1,0 +1,300 @@
+{
+ "ambito": 15,
+ "metodo": "Mismas reglas que PLAN.md 5.1 y 5.2. Separación ponderada = suma sobre pares con valor de |diferencia|/2 x confianza mínima, como en seleccion_y_simulacion.py.",
+ "candidatas": [
+  {
+   "id": "AGR_a",
+   "texto": "Hay que construir más embalses y trasvases de agua entre cuencas.",
+   "posiciones": {
+    "podemos": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "POD-15-03 'Protección frente a sequía, control hídrico, precios agrarios y compra pública de proximidad' (p. 37) no trata embalses ni trasvases."
+    },
+    "fa": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "R03 'Compatibilizar actividad y conservación' (p. 26) y EN07 'Reforzar gestión pública, reutilización' (p. 25) no tratan embalses ni trasvases."
+    },
+    "psoe": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "CL02 'Planificación, reutilización, desalación, bancos de agua y eficiencia' (p. 22) propone otras fuentes de agua sin posición sobre embalses o trasvases. Elegir alternativas no equivale a rechazar."
+    },
+    "pp": {
+     "value": 1,
+     "confidence": "baja",
+     "evidence": [
+      {
+       "unit_id": "R03",
+       "page": 19,
+       "quote": "Agua y regadíos Modernización, reutilización y otras infraestructuras.",
+       "source_report": "pp"
+      }
+     ],
+     "viability": {
+      "A": "Alta",
+      "B": "Media",
+      "C": "Media",
+      "E": "Media"
+     },
+     "rationale": "R03 incluye 'otras infraestructuras' hidráulicas para regadío sin nombrar embalses ni trasvases; el informe pide comparar el efecto sobre cuencas. Indicio débil: +1 baja."
+    },
+    "vox": {
+     "value": 2,
+     "confidence": "alta",
+     "evidence": [
+      {
+       "unit_id": "IF04",
+       "page": 21,
+       "quote": "Interconexión de cuencas Plan hídrico, regadío e hidroeléctrica.",
+       "source_report": "vox"
+      },
+      {
+       "unit_id": "IF04",
+       "page": 21,
+       "quote": "No basta una declaración general de interconectar todas las cuencas.",
+       "source_report": "vox"
+      }
+     ],
+     "viability": {
+      "A": "Media",
+      "B": "Media",
+      "C": "Baja",
+      "E": "Baja"
+     },
+     "rationale": "IF04 propone interconectar las cuencas con un plan hídrico, regadío e hidroeléctrica: trasvases de forma explícita."
+    },
+    "salf": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "El informe dice: 'No se identifica un plan nacional detallado de pesca, explotaciones, regadío o despoblación' (p. 41)."
+    }
+   },
+   "cobertura": 2,
+   "pares_separados": [
+    "PP-Vox"
+   ],
+   "separacion_ponderada": 0.25,
+   "polaridad_construir_banco": "T",
+   "palabras": 11
+  },
+  {
+   "id": "AGR_b",
+   "texto": "Las ayudas agrarias deberían priorizar a las explotaciones familiares y pequeñas frente a las grandes.",
+   "posiciones": {
+    "podemos": {
+     "value": 2,
+     "confidence": "media",
+     "evidence": [
+      {
+       "unit_id": null,
+       "page": 38,
+       "quote": "Se priorizan explotaciones pequeñas, protección ambiental y bienestar animal.",
+       "source_report": "podemos"
+      },
+      {
+       "unit_id": "POD-15-02",
+       "page": 37,
+       "quote": "Banco de tierras, cambios en PAC, agroecología y moratorias sobre nuevas grandes explotaciones y compras de tierra.",
+       "source_report": "podemos"
+      }
+     ],
+     "viability": {
+      "A": "Media",
+      "B": "Media",
+      "C": "Baja",
+      "E": "Media"
+     },
+     "rationale": "El informe resume que el ámbito prioriza explotaciones pequeñas; POD-15-02 cambia la PAC y frena nuevas grandes explotaciones. No detalla el reparto de ayudas: confianza media."
+    },
+    "fa": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "R02 'Orientar apoyos a explotaciones y prácticas sostenibles' (p. 26) usa la sostenibilidad como criterio, no el tamaño. El informe añade que 'No toda explotación pequeña ni toda grande tiene el mismo impacto'."
+    },
+    "psoe": {
+     "value": 1,
+     "confidence": "media",
+     "evidence": [
+      {
+       "unit_id": "R01",
+       "page": 23,
+       "quote": "Defender explotación familiar y condiciones recíprocas de producción.",
+       "source_report": "psoe"
+      },
+      {
+       "unit_id": null,
+       "page": 23,
+       "quote": "La unidad agrícola no coincide siempre con la familia beneficiaria",
+       "source_report": "psoe"
+      }
+     ],
+     "viability": {
+      "A": "Media",
+      "B": "Media",
+      "C": "Media",
+      "E": "Media"
+     },
+     "rationale": "R01 defiende la explotación familiar y el informe trata cómo identificar a la familia beneficiaria. No propone recortar ayudas a las grandes: versión parcial."
+    },
+    "pp": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "R02 'Defensa de fondos y reciprocidad' y R04 'Anticipos, fiscalidad de campañas y apoyo a jóvenes' (p. 19) no usan el tamaño de la explotación como criterio."
+    },
+    "vox": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "RU02 'Defender presupuesto, revisar cargas, cuotas y modernización' y RU04 (jóvenes, cooperativas) (p. 20) no usan el tamaño como criterio."
+    },
+    "salf": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "X.2 se opone al recorte de la PAC sin criterio de reparto. El informe dice: 'No se identifica un plan nacional detallado de pesca, explotaciones, regadío o despoblación' (p. 41)."
+    }
+   },
+   "cobertura": 2,
+   "pares_separados": [
+    "Podemos-PSOE"
+   ],
+   "separacion_ponderada": 0.375,
+   "polaridad_construir_banco": "T",
+   "palabras": 15
+  },
+  {
+   "id": "AGR_c",
+   "texto": "España debería oponerse al acuerdo comercial entre la Unión Europea y Mercosur.",
+   "posiciones": {
+    "podemos": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "POD-15-04 pide 'requisitos para productos importados' (p. 37), una exigencia de reciprocidad. El informe no menciona Mercosur."
+    },
+    "fa": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "El informe no menciona Mercosur y dice: 'La afinidad en defensa del campo no acredita identidad en regulación ambiental, agua o política comercial' (p. 26)."
+    },
+    "psoe": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "R01 pide 'condiciones recíprocas de producción' (p. 23). El informe no menciona Mercosur; la reciprocidad no es oposición al acuerdo."
+    },
+    "pp": {
+     "value": -1,
+     "confidence": "baja",
+     "evidence": [
+      {
+       "unit_id": null,
+       "page": 75,
+       "quote": "PP: defensa de salvaguardias para el acuerdo UE-Mercosur. 2026-02-10.",
+       "source_report": "salf"
+      },
+      {
+       "unit_id": null,
+       "page": 60,
+       "quote": "La UE, Mercosur, el coste fiscal y el alcance de cada medida separan los programas.",
+       "source_report": "salf"
+      },
+      {
+       "unit_id": "R02",
+       "page": 19,
+       "quote": "Defensa de fondos y reciprocidad.",
+       "source_report": "pp"
+      }
+     ],
+     "viability": {
+      "A": "Media",
+      "B": "Media",
+      "C": "Media",
+      "E": "NE"
+     },
+     "rationale": "Evidencia cruzada del informe de SALF: declaración fechada del PP (10/02/2026) que defiende salvaguardias para el acuerdo, y Mercosur separa los programas del PP y de SALF, que lo bloquea. Aceptar con salvaguardias es versión parcial de lo contrario. Confianza baja: la declaración solo consta como título de fuente."
+    },
+    "vox": {
+     "value": 1,
+     "confidence": "media",
+     "evidence": [
+      {
+       "unit_id": "RU01",
+       "page": 20,
+       "quote": "Revisar acuerdos y exigir condiciones equivalentes.",
+       "source_report": "vox"
+      },
+      {
+       "unit_id": null,
+       "page": 23,
+       "quote": "La aplicación provisional del acuerdo UE-Mercosur es parte de la situación de partida. Reformarlo exige un procedimiento europeo",
+       "source_report": "vox"
+      }
+     ],
+     "viability": {
+      "A": "Baja",
+      "B": "Baja",
+      "C": "Baja",
+      "E": "NE"
+     },
+     "rationale": "RU01 revisa los acuerdos comerciales y exige condiciones equivalentes; el informe lo lee como reformar el acuerdo con Mercosur, no como retirarse. Versión parcial."
+    },
+    "salf": {
+     "value": 2,
+     "confidence": "alta",
+     "evidence": [
+      {
+       "unit_id": "X.2",
+       "page": 41,
+       "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde",
+       "source_report": "salf"
+      }
+     ],
+     "viability": {
+      "A": "Baja",
+      "B": "Baja",
+      "C": "Baja",
+      "E": "Media"
+     },
+     "rationale": "X.2 propone bloquear Mercosur mediante oposición española en el Consejo."
+    }
+   },
+   "cobertura": 3,
+   "pares_separados": [
+    "PP-Vox",
+    "PP-SALF",
+    "Vox-SALF"
+   ],
+   "separacion_ponderada": 1.625,
+   "polaridad_construir_banco": "T",
+   "palabras": 12
+  }
+ ],
+ "recomendacion": {
+  "id": "AGR_c",
+  "texto": "España debería oponerse al acuerdo comercial entre la Unión Europea y Mercosur.",
+  "cobertura": "3 de 6 partidos (PP -1 baja, Vox +1 media, SALF +2 alta)",
+  "motivo": "Es la única con 3 partidos con posición, el mínimo de PLAN.md 4.1. Separa los 3 pares PP-Vox, PP-SALF y Vox-SALF, que PLAN.md 4.1 señala como difíciles de separar. Separación ponderada 1,625 frente a 0,25 (embalses) y 0,375 (ayudas).",
+  "riesgos": "Ningún partido de izquierda tiene posición documentada, así que la pregunta no separa ese bloque y construir_banco.py la clasificaría como T. La celda del PP descansa en evidencia cruzada de confianza baja. El acuerdo se aplica de forma provisional desde el 1/05/2026 (informe de Vox, p. 20): la ayuda de la pregunta debe explicarlo."
+ }
+}

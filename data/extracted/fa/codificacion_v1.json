@@ -1,0 +1,1059 @@
+{
+ "party_id": "fa",
+ "coder": "v1-ciego",
+ "codings": [
+  {
+   "id": "Q01",
+   "value": 0,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "E05",
+     "page": 6,
+     "quote": "Simplificación y pagos puntuales ofrecen un posible terreno transversal; la cogestión obligatoria o el control de rentas requiere negociación separada.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 6,
+     "quote": "Menores cargas administrativas pueden coexistir con nuevas obligaciones laborales, ambientales o de participación.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "E05 simplifica IVA y cotización de pymes, pero el informe dice que esas menores cargas coexisten con nuevas obligaciones laborales, ambientales y de participación. No hay propuesta general de menos controles previos: posición mixta."
+  },
+  {
+   "id": "Q02",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "E02",
+     "page": 5,
+     "quote": "Creación o refuerzo empresarial en sectores seleccionados.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "E03",
+     "page": 5,
+     "quote": "Ampliar el papel del ICO y estudiar instrumentos de banca pública y",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN02",
+     "page": 24,
+     "quote": "Entrada del 30% en nuevos proyectos dentro del perímetro",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "E02 (empresas públicas estratégicas), E03 (banca pública e ICO) y EN02 (entrada pública del 30% en nuevos proyectos renovables) crean o amplían empresas públicas en energía y banca. No consta alimentación."
+  },
+  {
+   "id": "Q03",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "F06",
+     "page": 8,
+     "quote": "Aproximar capital y trabajo; rebajar IRPF a salarios hasta 27.000",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "F06",
+     "page": 8,
+     "quote": "euros y elevar al 52% el marginal desde 300.000.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F06 rebaja el IRPF a salarios hasta 27.000 euros y sube el marginal al 52% desde 300.000. Rebaja focalizada en rentas del trabajo bajas, no general: versión parcial."
+  },
+  {
+   "id": "Q04",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "F01",
+     "page": 7,
+     "quote": "Suelo del 2% sobre patrimonios superiores a un millón y del 3% por",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F01 fija un suelo del 2% sobre patrimonios de más de un millón y del 3% por encima de 50 millones. La recaudación de 111.000 millones es solo de IU y no se usa como posición común."
+  },
+  {
+   "id": "Q05",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "S01",
+     "page": 14,
+     "quote": "Alcanzar el 8% del PIB sanitario público y reforzar plantillas.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "ED01",
+     "page": 16,
+     "quote": "Objetivo del 7% del PIB en 2030.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "M02",
+     "page": 20,
+     "quote": "Ampliar personal y acortar citas, registro y entrevistas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "El programa sube los objetivos de gasto (sanidad 8% del PIB, educación 7%) y amplía plantillas (S01, M02, F08, L08). Es lo contrario de reducir gasto y Administración; se deduce de las unidades, sin frase literal."
+  },
+  {
+   "id": "Q06",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "F02",
+     "page": 7,
+     "quote": "Tramos marginales del 75% entre 5 y 10 millones y 100% por encima",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F02 fija tramos marginales del 75% (5 a 10 millones) y del 100% (más de 10 millones por heredero). Mantiene y endurece el impuesto en herencias muy elevadas; el informe aclara que no es un 100% sobre toda herencia."
+  },
+  {
+   "id": "Q07",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "F05",
+     "page": 8,
+     "quote": "Suelo efectivo del 20% para grandes empresas y revisión de",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "F05 impone un suelo efectivo del 20% a grandes empresas y revisa beneficios fiscales. Sube la tributación efectiva de Sociedades, lo contrario de bajarla."
+  },
+  {
+   "id": "Q08",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "L03",
+     "page": 9,
+     "quote": "37,5 horas en 2026 y avance posterior hacia 32, sin rebaja salarial.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "El plazo de 37,5 horas en 2026 es muy estrecho frente a la constitución de las Cámaras el 23 de diciembre.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "L03 fija 37,5 horas en 2026 y un avance posterior hacia 32 sin rebaja salarial. Las 32 horas son una meta gradual sin plazo ni vehículo legal propio: +1. Sale en la lectura ejecutiva."
+  },
+  {
+   "id": "Q09",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "L06",
+     "page": 10,
+     "quote": "Reforzar reparación, control y derechos laborales.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 10,
+     "quote": "La escala de cogestión, el diseño del despido y la financiación de la protección son puntos abiertos a negociación",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "L06 (despido) refuerza reparación, control y derechos laborales, lo que encarece o dificulta despedir. El diseño concreto queda abierto, por eso confianza media."
+  },
+  {
+   "id": "Q10",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "P04 refuerza la protección pública y el blindaje constitucional de las pensiones. El informe no documenta posición sobre cuentas de capitalización obligatorias."
+  },
+  {
+   "id": "Q11",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "P02",
+     "page": 11,
+     "quote": "Generalizar esa edad y adaptar supuestos penosos o carreras largas.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 11,
+     "quote": "El objetivo figura entre las explicaciones prioritarias de campaña y encuentra apoyo doctrinal en IU.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "P02 (Jubilación a los 65) generaliza esa edad para todos. El informe precisa que hoy ya se jubilan a los 65 quienes cotizaron 38 años y 3 meses; es explicación prioritaria de campaña."
+  },
+  {
+   "id": "Q12",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "V05",
+     "page": 13,
+     "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "Vivienda es una prioridad explícita de la coalición.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V05 propone topes de alquiler por referencia e ingresos y contratos indefinidos. Vivienda es prioridad explícita y aparece en la lectura ejecutiva."
+  },
+  {
+   "id": "Q13",
+   "value": -2,
+   "confidence": "media",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "V05",
+     "page": 13,
+     "quote": "Topes por referencia e ingresos y contratos indefinidos.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "F03",
+     "page": 7,
+     "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El programa interviene el mercado: topes (V05), gravamen del 10% a la acumulación de vivienda (F03) y expropiación (V02). Es lo contrario de preferir liberar suelo y bajar impuestos; se deduce de las unidades."
+  },
+  {
+   "id": "Q14",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "V07 trata la protección ante desahucios. El informe no documenta posición sobre desalojar viviendas ocupadas ilegalmente."
+  },
+  {
+   "id": "Q15",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "V02",
+     "page": 12,
+     "quote": "Expropiación compensada de parque corporativo: fases para más de",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 12,
+     "quote": "La expropiación se describe como compensada: no debe analizarse como adquisición gratuita ni como retirada indiscriminada de viviendas a familias.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "V02 propone expropiar con justiprecio el parque corporativo de grandes tenedores, por fases de 1.000, 700 y 50 viviendas. Cubre más que las viviendas vacías."
+  },
+  {
+   "id": "Q16",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "V06",
+     "page": 13,
+     "quote": "Extinguir licencias turísticas en tres años en zonas tensionadas y",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "V06 extingue las licencias turísticas en tres años en zonas tensionadas y evita la elusión por temporada o habitaciones."
+  },
+  {
+   "id": "Q17",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre prioridad por nacionalidad en vivienda pública o ayudas. M04 solo recoge medidas antirracistas y derechos políticos."
+  },
+  {
+   "id": "Q18",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "S05",
+     "page": 15,
+     "quote": "Cambiar el marco de colaboración y avanzar en integración de",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 15,
+     "quote": "La orientación hacia gestión pública está documentada en el texto común y en IU.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "S05 cambia el marco de colaboración con la privada e integra mutualidades, con auditoría y transición. Retirada gradual hacia gestión directa, sin fin inmediato de los pagos: +1."
+  },
+  {
+   "id": "Q19",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el acceso sanitario de inmigrantes en situación irregular."
+  },
+  {
+   "id": "Q20",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "ED03",
+     "page": 16,
+     "quote": "Reorientar progresivamente recursos hacia provisión pública.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "ED03 (Red pública y conciertos) reorienta recursos hacia la provisión pública de forma progresiva y mantiene la escolarización durante la transición. No fija el fin de toda financiación concertada: +1."
+  },
+  {
+   "id": "Q21",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no trata la lengua vehicular ni la elección del castellano."
+  },
+  {
+   "id": "Q22",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la LOMLOE ni exámenes externos. ED01-ED04 tratan financiación, ratios, conciertos y becas."
+  },
+  {
+   "id": "Q23",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "S08",
+     "page": 15,
+     "quote": "Mejor acceso efectivo, prevención y protección de derechos.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "S08 (Prevención y derechos reproductivos) mejora el acceso efectivo y protege esos derechos. El informe no nombra el aborto literalmente, por eso confianza media."
+  },
+  {
+   "id": "Q24",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IG01 amplía y automatiza el IMV. El informe no documenta condicionalidad por rechazar ofertas de empleo."
+  },
+  {
+   "id": "Q25",
+   "value": 1,
+   "confidence": "baja",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IG04",
+     "page": 19,
+     "quote": "Desplegar protección LGTBI y reconocimiento de personas no",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "IG04",
+     "page": 19,
+     "quote": "Definir efectos registrales, interoperabilidad, privacidad y",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "IG04 despliega la protección LGTBI y reconoce a personas no binarias con efectos registrales. El informe no menciona el cambio registral por declaración propia: indicio indirecto."
+  },
+  {
+   "id": "Q26",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IG03 habla de respuesta frente a violencia y discriminación. El informe no documenta posición sobre sustituir la ley de violencia de género."
+  },
+  {
+   "id": "Q27",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "M01",
+     "page": 20,
+     "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "M01 completa los procesos de regularización abiertos y crea cauces permanentes. La nota del catálogo cuenta ambas cosas como +2."
+  },
+  {
+   "id": "Q28",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "M03",
+     "page": 20,
+     "quote": "Revisar centros, retornos y vías de protección.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 20,
+     "quote": "Eliminar internamiento exige diseñar alternativas; no equivale por sí mismo a eliminar toda obligación de retorno.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "M01",
+     "page": 20,
+     "quote": "Completar procesos abiertos y configurar cauces permanentes.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "M03 revisa retornos y busca alternativas al internamiento, y M01 abre cauces permanentes de regularización. El informe aclara que no elimina toda obligación de retorno, pero la propuesta es contraria a expulsar de forma sistemática."
+  },
+  {
+   "id": "Q29",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre requisitos de nacionalidad. Dice 'No se equiparan regularización, asilo y nacionalidad' y que la regularización 'no supone ciudadanía automática'."
+  },
+  {
+   "id": "Q30",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "J01 reforma seguridad ciudadana y despenaliza ciertos delitos de expresión. El informe no documenta posición sobre penas de prisión ni reincidencia."
+  },
+  {
+   "id": "Q31",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "J01",
+     "page": 21,
+     "quote": "Reformar seguridad ciudadana y delitos de expresión.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "J01 reforma la ley de seguridad ciudadana y los delitos de expresión. El informe dice reformar, no sustituir por una ley nueva: +1."
+  },
+  {
+   "id": "Q32",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el cannabis."
+  },
+  {
+   "id": "Q33",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "IN02 cambia reglas de elección y desbloqueo del CGPJ sin aclarar quién elige a los vocales judiciales. El informe dice: 'El programa distingue la elección de vocales judiciales de otros integrantes del consejo. No se debe resumir como una propuesta para elegir a todos por mayoría absoluta'."
+  },
+  {
+   "id": "Q34",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "IN04",
+     "page": 22,
+     "quote": "Transformación del modelo de Estado y de determinadas garantías.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 35,
+     "quote": "Modelo republicano; cambios en partes",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "IN04 (República federal) transforma el modelo de Estado por reforma agravada, que exige referéndum. El programa común propone la república, no una consulta abierta monarquía o república; la orientación republicana de IU es más explícita (p. 22)."
+  },
+  {
+   "id": "Q35",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el Senado."
+  },
+  {
+   "id": "Q36",
+   "value": -1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "T04",
+     "page": 23,
+     "quote": "Servicios territoriales, insularidad y desarrollo federal.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 23,
+     "quote": "Los mínimos fiscales y la capacidad de decisión territorial pueden entrar en tensión dentro del mismo programa.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "T04 (desarrollo federal) e IN04 (república federal) van contra recentralizar. El programa también fija mínimos tributarios comunes (T02, F04), una coordinación que la nota cuenta como +1: saldo -1."
+  },
+  {
+   "id": "Q37",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "T02",
+     "page": 23,
+     "quote": "Reestructurar obligaciones y fijar mínimos tributarios. La quita entre",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "T02",
+     "page": 23,
+     "quote": "administraciones cambia reparto interno; no elimina",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "T02 reestructura las obligaciones de las comunidades e incluye una quita entre administraciones. El informe no cuantifica la quita, así que no consta que sea una parte importante: +1."
+  },
+  {
+   "id": "Q38",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe habla de desarrollo federal y república federal, no de Estado plurinacional."
+  },
+  {
+   "id": "Q39",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona la ley de amnistía."
+  },
+  {
+   "id": "Q40",
+   "value": -2,
+   "confidence": "media",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EN04",
+     "page": 24,
+     "quote": "Mantener el cierre de Almaraz en 2027-2028 según el programa.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN04",
+     "page": 24,
+     "quote": "autorización vigente llega al 8/06/2030; cambiarla requiere una",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "El cierre anunciado de Almaraz en 2027-2028 no coincide con la autorización vigente hasta junio de 2030.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Baja"
+   },
+   "rationale": "EN04 cierra Almaraz en 2027-2028, antes de la autorización vigente hasta el 8/06/2030. La nota cuenta cerrar antes del calendario como -2; el informe advierte que el programa usa un calendario anterior."
+  },
+  {
+   "id": "Q41",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EN01",
+     "page": 24,
+     "quote": "Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "EN05",
+     "page": 25,
+     "quote": "Objetivo anual del 3,5% del PIB.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "EN01 (100% de electricidad renovable en 2040) y EN05 (inversión climática del 3,5% del PIB) refuerzan la política climática. Es contrario a frenar el Pacto Verde; se deduce de las unidades."
+  },
+  {
+   "id": "Q42",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "F07 reorienta el gravamen 'según objetivos distributivos y ambientales' y EN03 da horas de electricidad gratuita. El informe no detalla impuestos sobre electricidad ni carburantes."
+  },
+  {
+   "id": "Q43",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "EN08 (Turismo y bienestar animal) no nombra caza ni toros. El informe no documenta posición."
+  },
+  {
+   "id": "Q44",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona Mercosur. Dice que la afinidad en defensa del campo 'no acredita identidad en regulación ambiental, agua o política comercial'."
+  },
+  {
+   "id": "Q45",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "TR01",
+     "page": 27,
+     "quote": "Tarifas y abonos de Cercanías con condiciones por edad.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "TR01",
+     "page": 27,
+     "quote": "prometer todo trayecto por el precio de un abono parcial.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "TR01 propone tarifas y abonos de Cercanías con condiciones por edad, no gratuidad general. Abonos baratos o gratuidad para grupos cuentan como +1."
+  },
+  {
+   "id": "Q46",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "TR04 incluye leasing social eléctrico. El informe no documenta posición sobre la prohibición de 2035."
+  },
+  {
+   "id": "Q47",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": null,
+     "page": 34,
+     "quote": "Servicios digitales: 15%",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "D08",
+     "page": 34,
+     "quote": "Gravamen del 50% pagadero en acciones para",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {},
+   "rationale": "El programa grava los servicios digitales al 15% (tabla de p. 34, sin unidad propia). D08 añade un gravamen europeo del 50% en acciones a empresas con ingresos de IA superiores a 200 millones."
+  },
+  {
+   "id": "Q48",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona límites al pago en efectivo."
+  },
+  {
+   "id": "Q49",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "X01",
+     "page": 30,
+     "quote": "Rechazar la senda de aumento y reorientar seguridad.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "X01 rechaza la senda de aumento del gasto en defensa. La nota cuenta congelar el gasto militar como -2. IU va más allá y pide salir de la OTAN, lo que no se atribuye al conjunto."
+  },
+  {
+   "id": "Q50",
+   "value": -1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "X04",
+     "page": 30,
+     "quote": "Cambiar gobernanza fiscal y funciones monetarias.",
+     "source_report": "fa"
+    },
+    {
+     "unit_id": "D08",
+     "page": 29,
+     "quote": "Requiere decisión europea, definición de base, valoración y derechos",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "X04 cambia la gobernanza fiscal europea y las funciones del BCE, y D08 crea un fondo europeo con un gravamen común. Pide más capacidad fiscal europea, no recuperar competencias; sin frase explícita: -1."
+  },
+  {
+   "id": "Q51",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Null por la nota del catálogo. El informe dice: 'IU defiende explícitamente la salida de la OTAN. No se atribuye esa formulación a todo Frente Amplio cuando el documento común plantea otros compromisos sobre gasto, bases y seguridad.'"
+  },
+  {
+   "id": "Q52",
+   "value": -2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "CU04",
+     "page": 31,
+     "quote": "Archivos, reparación y cambios en protecciones legales específicas.",
+     "source_report": "fa"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "CU04 (Memoria y protección cultural) amplía archivos y reparación. Es contrario a derogar la Ley de Memoria; el informe no nombra la ley, por eso confianza media."
+  },
+  {
+   "id": "Q53",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona las lenguas cooficiales."
+  }
+ ]
+}

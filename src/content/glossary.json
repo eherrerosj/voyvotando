@@ -1,0 +1,508 @@
+[
+ {
+  "termino": "IRPF",
+  "definicion": "Impuesto sobre la Renta de las Personas Físicas. Grava los ingresos anuales de cada persona y tiene una parte estatal y otra autonómica.",
+  "norma": "Ley 35/2006 del IRPF",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 73
+   },
+   {
+    "informe": "salf",
+    "pagina": 9
+   }
+  ]
+ },
+ {
+  "termino": "Impuesto sobre el Patrimonio",
+  "definicion": "Impuesto anual sobre el valor de los bienes de una persona, cedido a las comunidades autónomas, que pueden bonificarlo. Desde 2022 existe además un impuesto estatal sobre grandes fortunas, hoy prorrogado.",
+  "norma": "Ley 38/2022 (Impuesto de Solidaridad de las Grandes Fortunas)",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 9
+   },
+   {
+    "informe": "podemos",
+    "pagina": 49
+   },
+   {
+    "informe": "podemos",
+    "pagina": 67
+   }
+  ]
+ },
+ {
+  "termino": "Impuesto de sociedades",
+  "definicion": "Impuesto que pagan las empresas por sus beneficios. Los grandes grupos pagan además un impuesto complementario si su tributación queda por debajo de un mínimo global.",
+  "norma": "Ley 27/2014 del Impuesto sobre Sociedades; Ley 7/2024 (impuesto complementario global)",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 74
+   }
+  ]
+ },
+ {
+  "termino": "Indemnización por despido",
+  "definicion": "Dinero que la empresa paga a un trabajador cuando lo despide. Se calcula en días de salario por cada año trabajado.",
+  "norma": "Estatuto de los Trabajadores",
+  "fuente": [
+   {
+    "informe": "podemos",
+    "pagina": 12
+   },
+   {
+    "informe": "salf",
+    "pagina": 13
+   }
+  ]
+ },
+ {
+  "termino": "Sistema de reparto",
+  "definicion": "Sistema de pensiones en el que las cotizaciones de quienes trabajan hoy pagan las pensiones actuales. En 2026 incluye una cotización adicional, el MEI, del 0,9%, repartida entre empresa y trabajador.",
+  "norma": "Ley General de la Seguridad Social (texto de 2015)",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 12
+   },
+   {
+    "informe": "salf",
+    "pagina": 15
+   },
+   {
+    "informe": "salf",
+    "pagina": 73
+   }
+  ]
+ },
+ {
+  "termino": "Capitalización",
+  "definicion": "Sistema en el que cada persona ahorra para su jubilación en una cuenta individual. Lo que cobra depende de lo aportado, de la rentabilidad del mercado y de las comisiones.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 15
+   }
+  ]
+ },
+ {
+  "termino": "Edad ordinaria de jubilación",
+  "definicion": "Edad general para jubilarse con pensión ordinaria, que depende de los años cotizados. En 2026 es de 65 años con al menos 38 años y 3 meses cotizados. En otro caso es de 66 años y 10 meses.",
+  "norma": "Ley General de la Seguridad Social (texto de 2015)",
+  "fuente": [
+   {
+    "informe": "fa",
+    "pagina": 11
+   },
+   {
+    "informe": "salf",
+    "pagina": 73
+   }
+  ]
+ },
+ {
+  "termino": "AIReF",
+  "definicion": "La Autoridad Independiente de Responsabilidad Fiscal evalúa las cuentas públicas con independencia del Gobierno. Publica informes, opiniones y previsiones sobre la situación fiscal.",
+  "norma": "Ley Orgánica 6/2013",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 73
+   },
+   {
+    "informe": "salf",
+    "pagina": 50
+   }
+  ]
+ },
+ {
+  "termino": "Zona tensionada",
+  "definicion": "Zona de mercado residencial tensionado: área que la administración competente declara con dificultades de acceso a la vivienda. En ella la ley permite aplicar medidas especiales sobre el alquiler.",
+  "norma": "Ley 12/2023 por el derecho a la vivienda",
+  "fuente": [
+   {
+    "informe": "fa",
+    "pagina": 13
+   },
+   {
+    "informe": "fa",
+    "pagina": 52
+   }
+  ]
+ },
+ {
+  "termino": "Vivienda de uso turístico",
+  "definicion": "Vivienda que se alquila a visitantes por estancias cortas y necesita licencia. Es distinta del alquiler de temporada, del alquiler por habitaciones y del alquiler habitual.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "fa",
+    "pagina": 13
+   }
+  ]
+ },
+ {
+  "termino": "Allanamiento y usurpación",
+  "definicion": "Dos formas de ocupar un inmueble sin permiso que siguen vías legales distintas. El allanamiento afecta a la vivienda donde alguien vive; la usurpación, a un inmueble que no es morada. Ninguna equivale a dejar de pagar el alquiler.",
+  "norma": "Ley 1/2000 de Enjuiciamiento Civil; Ley de Enjuiciamiento Criminal",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 17
+   },
+   {
+    "informe": "psoe",
+    "pagina": 18
+   },
+   {
+    "informe": "pp",
+    "pagina": 9
+   },
+   {
+    "informe": "salf",
+    "pagina": 72
+   },
+   {
+    "informe": "salf",
+    "pagina": 74
+   }
+  ]
+ },
+ {
+  "termino": "Expropiación",
+  "definicion": "Decisión de la Administración que obliga a un propietario a ceder un bien por una causa pública. Exige un expediente y el pago de un precio llamado justiprecio.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "fa",
+    "pagina": 12
+   }
+  ]
+ },
+ {
+  "termino": "Concierto sanitario",
+  "definicion": "Contrato por el que la sanidad pública paga a un centro privado para que atienda a pacientes del sistema público.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 11
+   },
+   {
+    "informe": "salf",
+    "pagina": 19
+   },
+   {
+    "informe": "fa",
+    "pagina": 15
+   },
+   {
+    "informe": "podemos",
+    "pagina": 19
+   }
+  ]
+ },
+ {
+  "termino": "Concierto educativo",
+  "definicion": "Acuerdo por el que la Administración financia un colegio de titularidad privada, llamado concertado. A cambio, el colegio sigue reglas públicas, por ejemplo en la admisión del alumnado.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "pp",
+    "pagina": 11
+   },
+   {
+    "informe": "fa",
+    "pagina": 16
+   }
+  ]
+ },
+ {
+  "termino": "LOMLOE",
+  "definicion": "Ley educativa estatal vigente, aprobada en 2020 para modificar la Ley Orgánica 2/2006 de Educación. Las comunidades autónomas la aplican en sus centros.",
+  "norma": "Ley Orgánica 3/2020",
+  "fuente": [
+   {
+    "informe": "salf",
+    "pagina": 74
+   },
+   {
+    "informe": "salf",
+    "pagina": 75
+   },
+   {
+    "informe": "pp",
+    "pagina": 11
+   }
+  ]
+ },
+ {
+  "termino": "Situación irregular",
+  "definicion": "Situación de una persona extranjera que vive en España sin una autorización de residencia en vigor.",
+  "norma": "Ley Orgánica 4/2000 de extranjería",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 11
+   },
+   {
+    "informe": "salf",
+    "pagina": 73
+   }
+  ]
+ },
+ {
+  "termino": "Arraigo",
+  "definicion": "Vía legal para que una persona extranjera que ya vive en España obtenga permiso de residencia. Debe probar su estancia y sus vínculos con el país.",
+  "norma": "Ley Orgánica 4/2000; Real Decreto 316/2026 (arraigo extraordinario)",
+  "fuente": [
+   {
+    "informe": "podemos",
+    "pagina": 27
+   },
+   {
+    "informe": "podemos",
+    "pagina": 65
+   },
+   {
+    "informe": "salf",
+    "pagina": 73
+   }
+  ]
+ },
+ {
+  "termino": "Regularización extraordinaria",
+  "definicion": "Proceso puntual que da permiso de residencia y trabajo a personas en situación irregular que cumplen unos requisitos. En abril de 2026 se aprobó uno por arraigo, cuyos expedientes siguen en trámite.",
+  "norma": "Real Decreto 316/2026",
+  "fuente": [
+   {
+    "informe": "fa",
+    "pagina": 50
+   },
+   {
+    "informe": "salf",
+    "pagina": 73
+   }
+  ]
+ },
+ {
+  "termino": "Prohibición de devolución",
+  "definicion": "Regla que impide expulsar o devolver a una persona a un lugar donde corre un riesgo grave. Obliga a examinar cada caso antes de una expulsión.",
+  "norma": "Directiva 2008/115 de retorno; Reglamento (UE) 2026/2280",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 15
+   },
+   {
+    "informe": "vox",
+    "pagina": 39
+   },
+   {
+    "informe": "pp",
+    "pagina": 14
+   },
+   {
+    "informe": "salf",
+    "pagina": 73
+   }
+  ]
+ },
+ {
+  "termino": "Ingreso Mínimo Vital",
+  "definicion": "Prestación estatal para hogares con pocos ingresos, que exige en general residencia legal y efectiva. La AIReF estima que en 2025 no la pedía el 52% de los hogares que cumplían los requisitos.",
+  "norma": "Ley 19/2021 del ingreso mínimo vital",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 39
+   },
+   {
+    "informe": "vox",
+    "pagina": 14
+   },
+   {
+    "informe": "pp",
+    "pagina": 13
+   }
+  ]
+ },
+ {
+  "termino": "Ley de violencia de género",
+  "definicion": "Ley que regula la protección de las mujeres frente a la violencia de sus parejas o exparejas. Incluye asistencia a las víctimas, medidas cautelares y personal especializado.",
+  "norma": "Ley Orgánica 1/2004",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 43
+   },
+   {
+    "informe": "vox",
+    "pagina": 14
+   }
+  ]
+ },
+ {
+  "termino": "Violencia intrafamiliar",
+  "definicion": "Violencia que se produce dentro de la familia o del hogar. El término no distingue el sexo de quien la ejerce ni de quien la sufre.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 14
+   }
+  ]
+ },
+ {
+  "termino": "Autodeterminación registral",
+  "definicion": "Posibilidad de cambiar la mención del sexo en el Registro Civil con la propia declaración de la persona.",
+  "norma": null,
+  "fuente": [
+   {
+    "informe": "pp",
+    "pagina": 13
+   },
+   {
+    "informe": "podemos",
+    "pagina": 25
+   },
+   {
+    "informe": "fa",
+    "pagina": 19
+   }
+  ]
+ },
+ {
+  "termino": "Ley de Seguridad Ciudadana",
+  "definicion": "Ley de 2015 que regula sanciones administrativas por conductas en espacios públicos, entre ellas algunas ligadas a protestas.",
+  "norma": "Ley Orgánica 4/2015",
+  "fuente": [
+   {
+    "informe": "psoe",
+    "pagina": 18
+   },
+   {
+    "informe": "podemos",
+    "pagina": 29
+   },
+   {
+    "informe": "fa",
+    "pagina": 21
+   }
+  ]
+ },
+ {
+  "termino": "CGPJ",
+  "definicion": "Consejo General del Poder Judicial, el órgano de gobierno de los jueces. La Constitución fija su composición y las mayorías para elegir a sus vocales.",
+  "norma": "Constitución; Ley Orgánica del Poder Judicial, reformada por la Ley Orgánica 3/2024",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 17
+   },
+   {
+    "informe": "pp",
+    "pagina": 16
+   },
+   {
+    "informe": "pp",
+    "pagina": 37
+   }
+  ]
+ },
+ {
+  "termino": "Reforma constitucional",
+  "definicion": "Cambio del texto de la Constitución mediante un procedimiento propio. La vía ordinaria exige tres quintos de cada Cámara. La vía agravada exige dos tercios, disolución de las Cortes y referéndum.",
+  "norma": "Constitución, artículos 167 y 168",
+  "fuente": [
+   {
+    "informe": "psoe",
+    "pagina": 33
+   }
+  ]
+ },
+ {
+  "termino": "Pacto Verde Europeo",
+  "definicion": "Conjunto de normas y objetivos climáticos de la Unión Europea, que incluye la ley europea del clima.",
+  "norma": "Reglamento (UE) 2021/1119, ley europea del clima",
+  "fuente": [
+   {
+    "informe": "vox",
+    "pagina": 19
+   },
+   {
+    "informe": "vox",
+    "pagina": 42
+   },
+   {
+    "informe": "salf",
+    "pagina": 41
+   }
+  ]
+ },
+ {
+  "termino": "Calendario de cierre nuclear",
+  "definicion": "Fechas previstas para cerrar las centrales nucleares, con horizonte final en 2035. La central de Almaraz tiene autorización hasta el 8 de junio de 2030.",
+  "norma": "Orden TED/864/2026 (autorización de Almaraz)",
+  "fuente": [
+   {
+    "informe": "psoe",
+    "pagina": 21
+   },
+   {
+    "informe": "vox",
+    "pagina": 19
+   },
+   {
+    "informe": "podemos",
+    "pagina": 36
+   }
+  ]
+ },
+ {
+  "termino": "Objetivo de gasto en defensa de la OTAN",
+  "definicion": "Meta de gasto militar acordada por los aliados. En la cumbre de La Haya de 2025, la referencia es al menos un 3,5% del PIB en defensa. Se suma hasta un 1,5% en gasto relacionado con la seguridad.",
+  "norma": "Declaración de La Haya de la OTAN, 25/06/2025",
+  "fuente": [
+   {
+    "informe": "podemos",
+    "pagina": 51
+   },
+   {
+    "informe": "podemos",
+    "pagina": 67
+   },
+   {
+    "informe": "fa",
+    "pagina": 30
+   }
+  ]
+ },
+ {
+  "termino": "Ley de Memoria Democrática",
+  "definicion": "Ley estatal sobre memoria histórica y reparación de víctimas. Las medidas que la desarrollan incluyen archivos, exhumaciones, identificación de víctimas y ayudas.",
+  "norma": "Ley 20/2022 de Memoria Democrática",
+  "fuente": [
+   {
+    "informe": "psoe",
+    "pagina": 19
+   },
+   {
+    "informe": "podemos",
+    "pagina": 32
+   },
+   {
+    "informe": "vox",
+    "pagina": 17
+   },
+   {
+    "informe": "pp",
+    "pagina": 23
+   }
+  ]
+ }
+]

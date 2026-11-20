@@ -1,0 +1,162 @@
+{
+ "nota": "Ajustes sobre banco_final.json: retiradas y añadidas tras la adjudicación (1.0-rc2), redacción neutral de Q01, Q05, Q07, Q24 y Q35 (1.0) y Q17 en lugar de Q08 en el modo rápido para cubrir los 8 bloques (1.0). Ver docs/historial-de-datos.md.",
+ "retirar": {
+  "Q10": "Solo 2 partidos con posición tras la adjudicación (mínimo 3, docs/metodologia.md 4.1).",
+  "Q26": "Solo 2 partidos con posición tras la adjudicación (mínimo 3, docs/metodologia.md 4.1)."
+ },
+ "textos": {
+  "Q07": "El impuesto de sociedades debería mantenerse o subir.",
+  "Q01": "Hay que reducir con fuerza los trámites y normas que deben cumplir las empresas.",
+  "Q05": "Hay que reducir el gasto público y suprimir organismos de la Administración.",
+  "Q24": "Rechazar ofertas de empleo no debería suponer perder el Ingreso Mínimo Vital.",
+  "Q35": "Habría que suprimir el Senado mediante una reforma de la Constitución."
+ },
+ "añadir": [
+  {
+   "id": "Q44",
+   "despues_de": "Q42",
+   "ambito": 15,
+   "bloque": 7,
+   "eje": "EUR",
+   "dir": 1,
+   "polaridad": "T",
+   "rapido": true,
+   "texto": "España debería oponerse al acuerdo comercial entre la Unión Europea y Mercosur.",
+   "posiciones": {
+    "podemos": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "POD-15-04 pide 'requisitos para productos importados' (p. 37), una exigencia de reciprocidad. El informe no menciona Mercosur."
+    },
+    "fa": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "El informe no menciona Mercosur y dice: 'La afinidad en defensa del campo no acredita identidad en regulación ambiental, agua o política comercial' (p. 26)."
+    },
+    "psoe": {
+     "value": null,
+     "confidence": null,
+     "evidence": [],
+     "viability": {},
+     "rationale": "R01 pide 'condiciones recíprocas de producción' (p. 23). El informe no menciona Mercosur; la reciprocidad no es oposición al acuerdo."
+    },
+    "pp": {
+     "value": -1,
+     "confidence": "baja",
+     "evidence": [
+      {
+       "unit_id": null,
+       "page": 75,
+       "quote": "PP: defensa de salvaguardias para el acuerdo UE-Mercosur. 2026-02-10.",
+       "source_report": "salf"
+      },
+      {
+       "unit_id": null,
+       "page": 60,
+       "quote": "La UE, Mercosur, el coste fiscal y el alcance de cada medida separan los programas.",
+       "source_report": "salf"
+      },
+      {
+       "unit_id": "R02",
+       "page": 19,
+       "quote": "Defensa de fondos y reciprocidad.",
+       "source_report": "pp"
+      }
+     ],
+     "viability": {
+      "A": "Media",
+      "B": "Media",
+      "C": "Media",
+      "E": "NE"
+     },
+     "rationale": "Evidencia cruzada del informe de SALF: declaración fechada del PP (10/02/2026) que defiende salvaguardias para el acuerdo, y Mercosur separa los programas del PP y de SALF, que lo bloquea. Aceptar con salvaguardias es versión parcial de lo contrario. Confianza baja: la declaración solo consta como título de fuente."
+    },
+    "vox": {
+     "value": 1,
+     "confidence": "media",
+     "evidence": [
+      {
+       "unit_id": "RU01",
+       "page": 20,
+       "quote": "Revisar acuerdos y exigir condiciones equivalentes.",
+       "source_report": "vox"
+      },
+      {
+       "unit_id": null,
+       "page": 23,
+       "quote": "La aplicación provisional del acuerdo UE-Mercosur es parte de la situación de partida. Reformarlo exige un procedimiento europeo",
+       "source_report": "vox"
+      }
+     ],
+     "viability": {
+      "A": "Baja",
+      "B": "Baja",
+      "C": "Baja",
+      "E": "NE"
+     },
+     "rationale": "RU01 revisa los acuerdos comerciales y exige condiciones equivalentes; el informe lo lee como reformar el acuerdo con Mercosur, no como retirarse. Versión parcial."
+    },
+    "salf": {
+     "value": 2,
+     "confidence": "alta",
+     "evidence": [
+      {
+       "unit_id": "X.2",
+       "page": 41,
+       "quote": "Bloquear Mercosur, el recorte de la Política Agraria Común y el Pacto Verde",
+       "source_report": "salf"
+      }
+     ],
+     "viability": {
+      "A": "Baja",
+      "B": "Baja",
+      "C": "Baja",
+      "E": "Media"
+     },
+     "rationale": "X.2 propone bloquear Mercosur mediante oposición española en el Consejo."
+    }
+   },
+   "ayuda": {
+    "medida": "Oposición al acuerdo UE y Mercosur",
+    "ahora": "El acuerdo comercial interino entre la Unión Europea y Mercosur se aplica de forma provisional desde el 1 de mayo de 2026.",
+    "a_favor": "Oponerse al acuerdo puede proteger a la producción agraria española de importaciones hechas con otras normas.",
+    "en_contra": "Oponerse al acuerdo puede perjudicar a los exportadores, y no garantiza que todos los sectores ganen con su retirada.",
+    "fuentes": [
+     {
+      "informe": "vox",
+      "pagina": 20
+     },
+     {
+      "informe": "vox",
+      "pagina": 23
+     },
+     {
+      "informe": "salf",
+      "pagina": 41
+     },
+     {
+      "informe": "pp",
+      "pagina": 19
+     },
+     {
+      "informe": "psoe",
+      "pagina": 23
+     },
+     {
+      "informe": "podemos",
+      "pagina": 37
+     }
+    ],
+    "nota": "Cambiar el acuerdo exige un procedimiento europeo, y España no decide sola (vox p23). Los informes psoe y podemos no mencionan Mercosur: se citan por su análisis de la reciprocidad en las importaciones (psoe p23, podemos p37)."
+   }
+  }
+ ],
+ "rapido": {
+  "Q17": true,
+  "Q08": false
+ }
+}

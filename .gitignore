@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+playwright-report/
+test-results/
+.claude/settings.local.json
+.claude/
+.wrangler/
+.env*
+# Páginas de tests de terceros descargadas para el análisis: no son código y no se publican.
+data/other_tests_questions/
+__pycache__/
+# Generados en la compilación desde data/reports y src/content/units (scripts/copy-public-data.mjs).
+public/informes/
+public/datos/

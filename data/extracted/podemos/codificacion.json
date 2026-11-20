@@ -1,0 +1,2291 @@
+{
+  "party_id": "podemos",
+  "codings": [
+    {
+      "id": "ECO1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-01-03",
+          "page": 8,
+          "quote": "límites a márgenes de grandes distribuidoras en productos básicos"
+        },
+        {
+          "unit_id": "POD-02-09",
+          "page": 11,
+          "quote": "franquicia de IVA y criterio de caja para pequeños negocios"
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta una propuesta de desregulación. Los indicios son mixtos: más controles (márgenes, inspección de plataformas) y simplificación para pequeños negocios."
+    },
+    {
+      "id": "ECO2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-01-01",
+          "page": 8,
+          "quote": "Operadores públicos en mercados esenciales, financiados por ventas y sin margen de beneficio."
+        },
+        {
+          "unit_id": "POD-01-02",
+          "page": 8,
+          "quote": "Banco público que reúna ICO, CDTI y ENISA"
+        },
+        {
+          "unit_id": "POD-14-01",
+          "page": 34,
+          "quote": "adquisición de mayoría en Repsol y objetivo de titularidad pública completa en Red Eléctrica"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone empresas públicas en mercados esenciales, banca pública y participación mayoritaria en energía. La intervención en mercados esenciales figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "ECO3",
+      "value": 1,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-15-04",
+          "page": 37,
+          "quote": "Inversiones, tarifas adaptadas, relevo generacional y requisitos para productos importados."
+        },
+        {
+          "unit_id": "POD-15-03",
+          "page": 37,
+          "quote": "compra pública de proximidad"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Pide requisitos a productos importados y compra pública de proximidad. No acepta subidas de precio y otras unidades buscan abaratar la cesta."
+    },
+    {
+      "id": "ECO4",
+      "value": 1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-01-04",
+          "page": 8,
+          "quote": "apoyo a cooperativas ante cierres"
+        },
+        {
+          "unit_id": "POD-03-06",
+          "page": 13,
+          "quote": "representación sindical ampliada"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Apoya cooperativizar empresas en cierre y ampliar la representación sindical. El informe no documenta participación en consejos ni reparto de beneficios."
+    },
+    {
+      "id": "FIS1",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-02-06",
+          "page": 10,
+          "quote": "Modificar la escala estatal del IRPF; aproximar tributación de capital y trabajo"
+        },
+        {
+          "unit_id": null,
+          "page": 11,
+          "quote": "Los cambios buscan mayor progresividad y recaudar para servicios."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "El informe no documenta una rebaja general. La reforma del IRPF busca progresividad y recaudación y retira incentivos; los tipos concretos no se detallan."
+    },
+    {
+      "id": "FIS2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-02-01",
+          "page": 9,
+          "quote": "Impuesto estatal permanente coordinado con patrimonio y menor exención empresarial para patrimonios superiores a 100 millones."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: impuesto estatal permanente sobre grandes patrimonios, con menor exención empresarial."
+    },
+    {
+      "id": "FIS3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta posición sobre el impuesto de sucesiones y donaciones. POD-08-07 trata el reconocimiento de cuidadores en herencias, una cuestión civil."
+    },
+    {
+      "id": "FIS4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-02-02",
+          "page": 9,
+          "quote": "Tributos permanentes sobre banca y energía; recuperación de ganancias extraordinarias y de recursos del rescate bancario."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: tributos permanentes sobre banca y energía. La base no está delimitada: alterna ganancias extraordinarias y la mitad de los beneficios bancarios."
+    },
+    {
+      "id": "FIS5",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-06-05",
+          "page": 19,
+          "quote": "Elevar financiación hasta 2.900 euros por habitante y año"
+        },
+        {
+          "unit_id": "POD-07-01",
+          "page": 21,
+          "quote": "Financiación educativa del 7% del PIB"
+        },
+        {
+          "unit_id": "POD-19-02",
+          "page": 44,
+          "quote": "Duplicar la partida estatal de Cultura"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "El programa amplía gasto, plantillas y entidades públicas en casi todos los ámbitos. La única reducción documentada es el gasto militar (POD-18-02)."
+    },
+    {
+      "id": "FIS6",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-02-04",
+          "page": 9,
+          "quote": "IVA: peluquería al 10%; veterinaria al 10% y después 4%; cultura en vivo al 5%; exención menstrual."
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "Las rebajas de IVA documentadas no incluyen alimentos. El precio de los alimentos se aborda con límites a márgenes y supermercados públicos (POD-01-03)."
+    },
+    {
+      "id": "FIS7",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-02-05",
+          "page": 10,
+          "quote": "Mínimo del 19% sobre beneficios; mínimos y tipos superiores para oligopolios"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone un mínimo del 19% y tipos superiores para oligopolios, es decir, más tributación de sociedades."
+    },
+    {
+      "id": "EMP1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-03-02",
+          "page": 12,
+          "quote": "Primer paso de 35 horas y objetivo de 30 durante la legislatura, sin rebaja salarial"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: 35 horas y después 30 sin rebaja salarial. La jornada aparece en las conclusiones ejecutivas y en los escenarios de transacción."
+    },
+    {
+      "id": "EMP2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-03-01",
+          "page": 12,
+          "quote": "SMI de 1.800 euros mensuales durante la legislatura y suelo del 75% del salario mediano"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "SMI de 1.800 euros y suelo del 75% del salario mediano. El SMI es el eje del cálculo fiscal de las conclusiones ejecutivas."
+    },
+    {
+      "id": "EMP3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-03-04",
+          "page": 12,
+          "quote": "Nuevo Estatuto laboral, indemnización de 45 días y mayores garantías de readmisión y despido."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone 45 días de indemnización y más garantías de readmisión."
+    },
+    {
+      "id": "EMP4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-03-06",
+          "page": 13,
+          "quote": "Condiciones equiparadas en subcontratas; representación sindical ampliada y nueva regulación de huelga."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone ampliar la representación sindical y equiparar condiciones en subcontratas."
+    },
+    {
+      "id": "EMP5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-03-07",
+          "page": 13,
+          "quote": "Cuotas de autónomos proporcionales al beneficio y cero en pérdidas"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Cuota proporcional al beneficio y cero en pérdidas."
+    },
+    {
+      "id": "PEN1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-04-02",
+          "page": 14,
+          "quote": "Pensión mínima contributiva equivalente al SMI y no contributiva al 80%"
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta una regla de revalorización por IPC. La actualización por coste de vida aparece para salarios (POD-03-01) e IPREM (POD-09-09); los mínimos se ligan al SMI."
+    },
+    {
+      "id": "PEN2",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-02-06",
+          "page": 10,
+          "quote": "retirar incentivos a planes de pensiones"
+        },
+        {
+          "unit_id": "POD-04-05",
+          "page": 15,
+          "quote": "Integrar mutualidades alternativas y funciones de mutuas en la Seguridad Social."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Retira incentivos a planes privados e integra mutualidades alternativas en la Seguridad Social. No documenta ninguna medida de ahorro privado."
+    },
+    {
+      "id": "PEN3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-04-01",
+          "page": 14,
+          "quote": "Jubilación ordinaria a los 63 años; cambios retroactivos para carreras de 40 años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone adelantar la jubilación ordinaria a los 63 años y quitar penalizaciones a carreras largas."
+    },
+    {
+      "id": "PEN4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-04-02",
+          "page": 14,
+          "quote": "Pensión mínima contributiva equivalente al SMI y no contributiva al 80%"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Mínimas ligadas al SMI: con SMI de 1.800 serían 1.800 euros contributivos y 1.440 no contributivos. Las pensiones figuran en las conclusiones ejecutivas."
+    },
+    {
+      "id": "VIV1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-05-01",
+          "page": 16,
+          "quote": "Rebajar rentas un 40% con condición del 60% de la media de zona y establecer contratos indefinidos por defecto."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Va más allá de limitar: rebaja rentas un 40%, con un límite referido a la media de la zona. Es condición de investidura y conclusión ejecutiva."
+    },
+    {
+      "id": "VIV2",
+      "value": -2,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-05-03",
+          "page": 16,
+          "quote": "Intervenir el uso de viviendas por encima de diez en grandes tenedores para alquiler público o regulado"
+        },
+        {
+          "unit_id": "POD-02-07",
+          "page": 10,
+          "quote": "Fiscalidad de viviendas vacías, sociedades inmobiliarias, compraventa rápida y acumulación"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "El programa interviene el mercado (rebaja de rentas, expropiación de uso, límites de compra) y sube la fiscalidad inmobiliaria. No documenta rebajas fiscales ni liberalización de suelo."
+    },
+    {
+      "id": "VIV3",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-05-04",
+          "page": 16,
+          "quote": "Mayor protección frente a lanzamientos sin alternativa próxima y persecución del acoso y desalojo extrajudicial."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "El informe no trata la ocupación ilegal. Exigir alternativa antes de un lanzamiento es un indicio indirecto contrario a desalojos en 24-48 horas."
+    },
+    {
+      "id": "VIV4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-05-03",
+          "page": 16,
+          "quote": "Intervenir el uso de viviendas por encima de diez en grandes tenedores para alquiler público o regulado; el programa menciona unas 626.000."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Expropiación del uso, no de la propiedad, en grandes tenedores. Incluye viviendas ya alquiladas, no solo vacías. Figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "VIV5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-05-05",
+          "page": 17,
+          "quote": "Eliminar usos turísticos residenciales durante la emergencia, con retirada de licencias y excepciones de turismo rural."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Elimina usos turísticos residenciales durante la emergencia, con excepciones de turismo rural."
+    },
+    {
+      "id": "VIV6",
+      "value": -2,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-10-05",
+          "page": 27,
+          "quote": "Acceso efectivo a educación, salud, empleo y protección de familias migrantes."
+        },
+        {
+          "unit_id": "POD-05-07",
+          "page": 17,
+          "quote": "protección frente a discriminación"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "El informe no trata la prioridad nacional en vivienda. Las unidades de acceso igual de migrantes y antidiscriminación apuntan a lo contrario."
+    },
+    {
+      "id": "VIV7",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-05-06",
+          "page": 17,
+          "quote": "Ampliar parque protegido mediante intermediación, SAREB, adquisición y reservas de nueva promoción; protección permanente y límites de asequibilidad."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Amplía el parque protegido por varias vías, con protección permanente, y suma la expropiación de uso (POD-05-03). No fija una cifra de construcción."
+    },
+    {
+      "id": "SAN1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-06-03",
+          "page": 19,
+          "quote": "Gestión sanitaria pública directa; reversión de concesiones a vencimiento y actuaciones ante incumplimientos."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Gestión pública directa y reversión de concesiones al vencer. La transición es gradual, por vencimiento o incumplimiento."
+    },
+    {
+      "id": "SAN2",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-06-02",
+          "page": 19,
+          "quote": "Universalidad y ampliación de atención dental"
+        },
+        {
+          "unit_id": "POD-10-05",
+          "page": 27,
+          "quote": "Acceso efectivo a educación, salud, empleo y protección de familias migrantes."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Defiende universalidad sanitaria y acceso efectivo de migrantes a la salud. El informe no nombra expresamente la situación irregular."
+    },
+    {
+      "id": "SAN3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-06-02",
+          "page": 19,
+          "quote": "Universalidad y ampliación de atención dental, visual, auditiva, psicológica y rehabilitadora, con ortoprótesis y protocolos de igualdad."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: amplía la cartera a dental, visual, auditiva y psicológica."
+    },
+    {
+      "id": "SAN4",
+      "value": 2,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-06-07",
+          "page": 20,
+          "quote": "Consejos de salud efectivos y refuerzo de recursos para ejercer derechos al final de la vida."
+        },
+        {
+          "unit_id": "POD-06-07",
+          "page": 20,
+          "quote": "Son desarrollos de participación y derechos existentes."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Refuerza recursos para los derechos existentes al final de la vida (unidad \"muerte digna\"). El informe no nombra la ley de eutanasia."
+    },
+    {
+      "id": "EDU1",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-07-01",
+          "page": 21,
+          "quote": "expansión de la red pública"
+        },
+        {
+          "unit_id": "POD-07-01",
+          "page": 21,
+          "quote": "La absorción voluntaria de centros y una moratoria privada presentan vías diferentes"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Expande la red pública con absorción voluntaria de centros y moratoria privada. El informe no documenta el fin de los conciertos."
+    },
+    {
+      "id": "EDU2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta posición sobre lengua vehicular ni elección de lengua en la escuela."
+    },
+    {
+      "id": "EDU3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no menciona la LOMLOE, exámenes ni repetición."
+    },
+    {
+      "id": "EDU4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-07-05",
+          "page": 21,
+          "quote": "Gratuidad de estudios públicos durante la legislatura, becas de manutención y moratoria de nuevas universidades privadas."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Gratuidad de estudios universitarios públicos durante la legislatura, con becas de manutención."
+    },
+    {
+      "id": "EDU5",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-07-04",
+          "page": 21,
+          "quote": "Reformas de enseñanza religiosa, educación sexual y en igualdad, convivencia, protección digital y contenidos climáticos."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Refuerza la educación sexual y en igualdad en el currículo. El informe no menciona un veto parental; el indicio es indirecto."
+    },
+    {
+      "id": "FAM1",
+      "value": 2,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-08-02",
+          "page": 23,
+          "quote": "crianza mensual del 15% del SMI hasta los 21 años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Prestación mensual de crianza del 15% del SMI hasta los 21 años. La universalidad no se precisa: depende de la población elegible."
+    },
+    {
+      "id": "FAM2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-09-03",
+          "page": 25,
+          "quote": "Blindaje constitucional del aborto y de igualdad, paridad y profesionales de igualdad."
+        },
+        {
+          "unit_id": "POD-06-01",
+          "page": 19,
+          "quote": "Ampliaciones en lactancia, anticoncepción, reproducción asistida"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone blindar el aborto en la Constitución y ampliar la salud reproductiva."
+    },
+    {
+      "id": "FAM3",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-07-01",
+          "page": 21,
+          "quote": "universalización de 0-3 en cuatro años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Universaliza el 0-3 en cuatro años. La gratuidad no se cita expresamente en el informe."
+    },
+    {
+      "id": "FAM4",
+      "value": 2,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-08-02",
+          "page": 23,
+          "quote": "Ampliar permisos por nacimiento"
+        },
+        {
+          "unit_id": "POD-08-02",
+          "page": 23,
+          "quote": "parental remunerado de diez semanas hasta los doce años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Amplía permisos y añade un parental remunerado. La duración es contradictoria (nueve meses en el título, 26 semanas en el cuerpo) y el porcentaje de pago no consta."
+    },
+    {
+      "id": "SOC1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-09-01",
+          "page": 25,
+          "quote": "Reforzar el IMV con el horizonte de una renta universal incondicionada."
+        }
+      ],
+      "viability": {
+        "A": "NE",
+        "B": "NE",
+        "C": "NE",
+        "E": "NE"
+      },
+      "rationale": "Su horizonte es una renta incondicionada, lo contrario de exigir búsqueda de empleo."
+    },
+    {
+      "id": "SOC2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-09-01",
+          "page": 25,
+          "quote": "Reforzar el IMV con el horizonte de una renta universal incondicionada."
+        }
+      ],
+      "viability": {
+        "A": "NE",
+        "B": "NE",
+        "C": "NE",
+        "E": "NE"
+      },
+      "rationale": "Renta universal incondicionada como horizonte declarado. Sin cuantía ni calendario: valoración NE en A/B/C/E."
+    },
+    {
+      "id": "SOC3",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-09-04",
+          "page": 25,
+          "quote": "Modelo Barnahus, derechos LGTBIQA+, reconocimiento registral y justicia especializada."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Incluye reconocimiento registral dentro de los derechos LGTBIQA+. El informe no precisa si es por autodeclaración."
+    },
+    {
+      "id": "SOC4",
+      "value": -2,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-09-02",
+          "page": 25,
+          "quote": "Fondo de 1.000 millones de euros y asistencia especializada a víctimas"
+        },
+        {
+          "unit_id": "POD-09-05",
+          "page": 26,
+          "quote": "Protección frente a trata y otras violencias, continuidad de asistencia y garantías para madres y víctimas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Refuerza la asistencia especializada a víctimas y amplía categorías de violencia dentro del ámbito de igualdad. No propone una ley neutra; el informe no nombra la ley de violencia de género."
+    },
+    {
+      "id": "SOC5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-09-03",
+          "page": 25,
+          "quote": "Blindaje constitucional del aborto y de igualdad, paridad y profesionales de igualdad."
+        },
+        {
+          "unit_id": "POD-03-08",
+          "page": 13,
+          "quote": "Inspección de igualdad, derechos de adaptación horaria"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Paridad, profesionales de igualdad, inspección de igualdad y fondo para víctimas."
+    },
+    {
+      "id": "INM1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-10-04",
+          "page": 27,
+          "quote": "Vía permanente de regularización, pruebas de arraigo más accesibles y reforma de procedimientos digitales."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Propone una vía permanente de regularización, más amplia que la extraordinaria ya aprobada en 2026."
+    },
+    {
+      "id": "INM2",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-10-02",
+          "page": 27,
+          "quote": "Sustituir la Ley de Extranjería y cerrar CIE mediante alternativas comunitarias."
+        },
+        {
+          "unit_id": "POD-10-04",
+          "page": 27,
+          "quote": "Vía permanente de regularización"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Cierra los CIE y propone regularización permanente: lo contrario de expulsiones sistemáticas."
+    },
+    {
+      "id": "INM3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta contratación en origen ni cupos. Las unidades de migración se centran en regularización, arraigo y vías seguras."
+    },
+    {
+      "id": "INM4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-09-07",
+          "page": 26,
+          "quote": "Medidas antirracistas, frente a islamofobia y antigitanismo"
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta posición sobre prendas que cubren el rostro. Las medidas frente a islamofobia son un indicio demasiado débil."
+    },
+    {
+      "id": "INM5",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-10-03",
+          "page": 27,
+          "quote": "Ampliar vías de nacionalidad y sufragio; atribución por nacimiento con condiciones expresas en el desarrollo de la medida 208."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Amplía las vías de nacionalidad; la atribución por nacimiento exige un año de estancia legal de un progenitor."
+    },
+    {
+      "id": "INM6",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-10-01",
+          "page": 27,
+          "quote": "Vías seguras y protección de asilo; reforma de acogida europea, externalización fronteriza y rescate."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia de vías seguras, asilo y rescate."
+    },
+    {
+      "id": "SEG1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-11-05",
+          "page": 29,
+          "quote": "máximo de detención de 48 horas"
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta endurecimiento de penas. Las unidades de justicia priorizan garantías y control policial; la única tipificación nueva es el fraude laboral, con alcance pendiente."
+    },
+    {
+      "id": "SEG2",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-11-05",
+          "page": 29,
+          "quote": "Reformar seguridad ciudadana y protección de protesta; límites a material antidisturbios y máximo de detención de 48 horas."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "La unidad dice \"reformar\" la seguridad ciudadana, no derogarla. Por eso es apoyo parcial."
+    },
+    {
+      "id": "SEG3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta plantillas ni salarios policiales. Las mejoras citadas son para la tropa (POD-18-02)."
+    },
+    {
+      "id": "SEG4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta posición sobre centros penitenciarios."
+    },
+    {
+      "id": "INS1",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-12-03",
+          "page": 31,
+          "quote": "nueva mayoría para el turno judicial del CGPJ y horizonte de elección directa."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone cambiar la mayoría del turno judicial y un horizonte de elección directa: lo contrario de que los jueces elijan."
+    },
+    {
+      "id": "INS2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-12-01",
+          "page": 31,
+          "quote": "Proceso hacia una constitución republicana, consulta sobre forma de Estado y cambios en privilegios de la Corona."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: consulta sobre la forma de Estado y constitución republicana."
+    },
+    {
+      "id": "INS3",
+      "value": 1,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-12-06",
+          "page": 32,
+          "quote": "restricciones cautelares a contratistas por indicios judiciales de corrupción."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Restringe la contratación a empresas con indicios de corrupción. No documenta imprescriptibilidad, inhabilitación ni devolución."
+    },
+    {
+      "id": "INS4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-12-04",
+          "page": 31,
+          "quote": "Circunscripción autonómica, fórmula Sainte-Laguë y eliminación de barreras"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "Circunscripción autonómica y Sainte-Laguë para un reparto más proporcional."
+    },
+    {
+      "id": "INS5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta reducción de cargos, asesores ni políticos."
+    },
+    {
+      "id": "INS6",
+      "value": 1,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-12-03",
+          "page": 31,
+          "quote": "Revisar aforamientos y renovación judicial"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "La unidad dice \"revisar\" los aforamientos, no eliminarlos."
+    },
+    {
+      "id": "TER1",
+      "value": -2,
+      "confidence": "media",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 33,
+          "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos."
+        },
+        {
+          "unit_id": "POD-13-02",
+          "page": 33,
+          "quote": "Senado de orientación federal, con igual representación de comunidades y elección proporcional."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "El programa es plurinacional y propone un Senado federal: dirección contraria a la recentralización."
+    },
+    {
+      "id": "TER2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no menciona la ley de amnistía."
+    },
+    {
+      "id": "TER3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta posición sobre referendos de independencia. La consulta de POD-12-01 trata la forma de Estado."
+    },
+    {
+      "id": "TER4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-13-02",
+          "page": 33,
+          "quote": "Senado de orientación federal, con igual representación de comunidades y elección proporcional."
+        },
+        {
+          "unit_id": null,
+          "page": 33,
+          "quote": "La plurinacionalidad del programa requiere traducción en competencias, garantías y procedimientos."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "Senado federal y plurinacionalidad explícita del programa."
+    },
+    {
+      "id": "TER5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-13-02",
+          "page": 33,
+          "quote": "el programa no desarrolla aquí un modelo fiscal autonómico completo y cuantificado."
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "Cita literal: \"el programa no desarrolla aquí un modelo fiscal autonómico completo y cuantificado\". POD-13-01 revisa el régimen canario, no lo suprime."
+    },
+    {
+      "id": "ENE1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-14-09",
+          "page": 36,
+          "quote": "Cierre nuclear conforme al calendario vigente, gestión de residuos y transición territorial."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Mantiene el cierre nuclear según el calendario vigente."
+    },
+    {
+      "id": "ENE2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-14-03",
+          "page": 34,
+          "quote": "Reducción de emisiones de al menos 55% en 2030 frente a 1990, aspiración del 65%, neutralidad en 2040 y adaptación urbana."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Objetivos de 55-65% en 2030, neutralidad en 2040 y 95% renovable en 2035 (POD-14-07)."
+    },
+    {
+      "id": "ENE3",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-14-03",
+          "page": 34,
+          "quote": "neutralidad en 2040"
+        },
+        {
+          "unit_id": "POD-14-09",
+          "page": 36,
+          "quote": "También promover cambios en la taxonomía y la política nuclear europeas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone objetivos climáticos más exigentes y reformar la política nuclear europea. El informe no nombra el Pacto Verde ni la Agenda 2030."
+    },
+    {
+      "id": "ENE4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-14-01",
+          "page": 34,
+          "quote": "Reversión de concesiones hidroeléctricas al vencer, adquisición de mayoría en Repsol y objetivo de titularidad pública completa en Red Eléctrica."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Mayoría pública en Repsol, Red Eléctrica 100% pública y reversión hidroeléctrica. Repsol aparece en las conclusiones ejecutivas."
+    },
+    {
+      "id": "ENE5",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-02-03",
+          "page": 9,
+          "quote": "gravámenes sobre consumos de alta huella ambiental"
+        },
+        {
+          "unit_id": "POD-14-02",
+          "page": 34,
+          "quote": "Contención de tarifas, referencia del gas de 40 euros/MWh, tarifas progresivas"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Contiene precios con topes y tarifas, no con rebajas fiscales, y grava consumos de alta huella ambiental."
+    },
+    {
+      "id": "AGR1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-18-07",
+          "page": 43,
+          "quote": "reformas en comercio, tratados y deuda."
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no nombra Mercosur. Las reformas de tratados comerciales y los requisitos a importados (POD-15-04) son indicios demasiado generales."
+    },
+    {
+      "id": "AGR2",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-14-06",
+          "page": 35,
+          "quote": "Protección de agua y humedales, control de extracciones ilegales y límites de urbanización en zonas inundables."
+        },
+        {
+          "unit_id": "POD-15-03",
+          "page": 37,
+          "quote": "Protección frente a sequía, control hídrico"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "El enfoque hídrico es de protección y control de extracciones. El informe no documenta embalses ni trasvases."
+    },
+    {
+      "id": "AGR3",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-15-07",
+          "page": 38,
+          "quote": "retirada de apoyos a tauromaquia."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Retira apoyos a la tauromaquia; \"El fin de ayudas no implica una prohibición nacional inmediata\". La caza no se documenta."
+    },
+    {
+      "id": "AGR4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-15-02",
+          "page": 37,
+          "quote": "Banco de tierras, cambios en PAC, agroecología y moratorias sobre nuevas grandes explotaciones y compras de tierra."
+        },
+        {
+          "unit_id": null,
+          "page": 38,
+          "quote": "Se priorizan explotaciones pequeñas, protección ambiental y bienestar animal."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Prioriza explotaciones pequeñas y agroecología, con moratoria a grandes explotaciones."
+    },
+    {
+      "id": "INF1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-16-01",
+          "page": 39,
+          "quote": "Gratuidad de transporte público en todos los niveles administrativos y tarjeta interoperable."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: gratuidad del transporte público en todas las administraciones."
+    },
+    {
+      "id": "INF2",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-16-05",
+          "page": 39,
+          "quote": "20.000 millones anuales para ferrocarril, electrificación y conexiones"
+        },
+        {
+          "unit_id": "POD-16-04",
+          "page": 39,
+          "quote": "Revisar ampliaciones aeroportuarias y portuarias"
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Prioriza ferrocarril y mantenimiento y revisa ampliaciones aeroportuarias. No nombra Cercanías y la inversión ferroviaria incluye nuevas conexiones."
+    },
+    {
+      "id": "INF3",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-16-03",
+          "page": 39,
+          "quote": "Infraestructura pública de recarga y apoyo a movilidad compartida."
+        },
+        {
+          "unit_id": "POD-14-03",
+          "page": 34,
+          "quote": "neutralidad en 2040"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Impulsa recarga eléctrica pública y neutralidad en 2040. El informe no trata la fecha de 2035 para coches de combustión."
+    },
+    {
+      "id": "TEC1",
+      "value": 1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-07-04",
+          "page": 21,
+          "quote": "protección digital"
+        },
+        {
+          "unit_id": "POD-07-04",
+          "page": 21,
+          "quote": "la regulación digital debe ajustar medidas a edad y uso educativo."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Incluye protección digital del alumnado con medidas por edad. No documenta verificación de edad en redes sociales."
+    },
+    {
+      "id": "TEC2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-01-05",
+          "page": 8,
+          "quote": "Refuerzo de obligaciones laborales y fiscales de plataformas y protección de servicios regulados."
+        },
+        {
+          "unit_id": "POD-17-02",
+          "page": 41,
+          "quote": "responsabilidad de plataformas"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Refuerza obligaciones fiscales y laborales de plataformas, también transfronterizas, y su responsabilidad."
+    },
+    {
+      "id": "TEC3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 41,
+          "quote": "No configuran una estrategia industrial completa de IA."
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta automatización de trámites con IA. Cita: \"No configuran una estrategia industrial completa de IA.\""
+    },
+    {
+      "id": "TEC4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe no documenta posición sobre efectivo ni euro digital. Las unidades de vigilancia tratan espionaje ilícito y protección de datos."
+    },
+    {
+      "id": "EXT1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-18-02",
+          "page": 42,
+          "quote": "Revertir aumentos militares, congelar gasto con excepciones para la tropa y mejorar control parlamentario."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Revierte aumentos y congela el gasto militar; rechaza el objetivo del 5%. La defensa figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "EXT2",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-18-08",
+          "page": 43,
+          "quote": "Paz negociada en Ucrania que incluya integridad territorial y retirada rusa; reconstrucción y deuda."
+        },
+        {
+          "unit_id": null,
+          "page": 43,
+          "quote": "La orientación prioriza diplomacia, desarme y soberanía."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Apoya la integridad territorial de Ucrania por vía negociada y prioriza el desarme. No documenta envío de material militar."
+    },
+    {
+      "id": "EXT3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-18-05",
+          "page": 42,
+          "quote": "Cambios en relaciones con Israel, embargos, cooperación judicial internacional y ayuda a población palestina."
+        },
+        {
+          "unit_id": "POD-18-05",
+          "page": 42,
+          "quote": "Ayuda humanitaria y ruptura integral de relaciones presentan posibilidades de acuerdo diferentes."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Embargos y ruptura integral de relaciones con Israel."
+    },
+    {
+      "id": "EXT4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 43,
+          "quote": "La orientación prioriza diplomacia, desarme y soberanía."
+        }
+      ],
+      "viability": {
+        "A": "",
+        "B": "",
+        "C": "",
+        "E": ""
+      },
+      "rationale": "El informe documenta reformas de marcos europeos (asilo, mercado eléctrico, PAC, taxonomía) sin posición sobre ceder o recuperar competencias."
+    },
+    {
+      "id": "EXT5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-18-01",
+          "page": 42,
+          "quote": "Salida de OTAN, revisión de presencia estadounidense en Rota y Morón, y neutralidad con reforma constitucional."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Salida de la OTAN y neutralidad constitucional. \"Paz\" está en el título del programa y entre las prioridades de campaña."
+    },
+    {
+      "id": "EXT6",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-18-06",
+          "page": 43,
+          "quote": "Autodeterminación saharaui, reconocimiento de RASD, ayuda y vías de nacionalidad."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Autodeterminación saharaui y reconocimiento de la RASD."
+    },
+    {
+      "id": "CUL1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-12-08",
+          "page": 32,
+          "quote": "Desarrollar memoria, archivos, reparación de víctimas y reconocimiento de hechos históricos."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Propone desarrollar la memoria y la reparación: lo contrario de derogar."
+    },
+    {
+      "id": "CUL2",
+      "value": 1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-19-04",
+          "page": 44,
+          "quote": "cuotas audiovisuales, con producción independiente y diversidad lingüística."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Apoya la diversidad lingüística en audiovisual y la plurinacionalidad. No documenta el uso de lenguas en el Congreso."
+    },
+    {
+      "id": "CUL3",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-12-02",
+          "page": 31,
+          "quote": "dos debates obligatorios en medios públicos."
+        },
+        {
+          "unit_id": "POD-19-06",
+          "page": 45,
+          "quote": "Agencia de música y servicio público de distribución digital."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "Refuerza medios y plataformas públicas. El informe no nombra RTVE."
+    },
+    {
+      "id": "CUL4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-19-02",
+          "page": 44,
+          "quote": "Duplicar la partida estatal de Cultura; acceso gratuito a museos, patrimonio, creación y gestión comunitaria."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Duplica la partida estatal de Cultura y da acceso gratuito a museos."
+    }
+  ],
+  "extra_statements": [
+    {
+      "id": "X_podemos_1",
+      "ambito": 1,
+      "texto": "El Estado debería crear una red pública de supermercados y limitar los márgenes de las grandes distribuidoras en productos básicos.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-01-03",
+          "page": 8,
+          "quote": "Red pública de supermercados y límites a márgenes de grandes distribuidoras en productos básicos."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia; Montero condicionó la investidura a bajar alimentos."
+    },
+    {
+      "id": "X_podemos_2",
+      "ambito": 5,
+      "texto": "La compra de viviendas debería limitarse a quienes vayan a vivir en ellas o a darles un uso familiar.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-05-02",
+          "page": 16,
+          "quote": "Limitar adquisiciones residenciales a usos propios o familiares previstos, con obligación de destino durante cuatro años y excepciones."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Limita compras a uso propio o familiar, con destino obligado cuatro años."
+    },
+    {
+      "id": "X_podemos_3",
+      "ambito": 4,
+      "texto": "La edad ordinaria de jubilación debería rebajarse a los 63 años, eliminando penalizaciones a quienes acumulan 40 años cotizados.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-04-01",
+          "page": 14,
+          "quote": "Jubilación ordinaria a los 63 años; cambios retroactivos para carreras de 40 años"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia; la catalogada PEN3 no capta la rebaja a 63."
+    },
+    {
+      "id": "X_podemos_4",
+      "ambito": 3,
+      "texto": "La jornada laboral legal debería bajar a 30 horas semanales durante la próxima legislatura, sin reducir los salarios.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-03-02",
+          "page": 12,
+          "quote": "Primer paso de 35 horas y objetivo de 30 durante la legislatura, sin rebaja salarial"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Distingue las 30 horas de las 37,5 que respaldan otros programas."
+    },
+    {
+      "id": "X_podemos_5",
+      "ambito": 17,
+      "texto": "Debería existir una red social pública con algoritmos transparentes, protección de datos y control democrático.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-17-04",
+          "page": 41,
+          "quote": "Plataforma social pública con algoritmos transparentes, protección de datos y control democrático."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia, sin costes ni escala en el programa."
+    },
+    {
+      "id": "X_podemos_6",
+      "ambito": 18,
+      "texto": "España debería declararse neutral en su Constitución y revisar la presencia militar estadounidense en las bases de Rota y Morón.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "POD-18-01",
+          "page": 42,
+          "quote": "Salida de OTAN, revisión de presencia estadounidense en Rota y Morón, y neutralidad con reforma constitucional."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Neutralidad constitucional y revisión de bases, además de la salida de la OTAN."
+    },
+    {
+      "id": "X_podemos_7",
+      "ambito": 11,
+      "texto": "El cultivo, la tenencia y el consumo de cannabis deberían regularse legalmente, también para usos recreativos.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-11-06",
+          "page": 30,
+          "quote": "Regular cultivo, tenencia y usos de cannabis con finalidades medicinales y recreativas diferenciadas."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia: usos medicinales y recreativos diferenciados."
+    },
+    {
+      "id": "X_podemos_8",
+      "ambito": 12,
+      "texto": "Habría que revisar los acuerdos con la Santa Sede y retirar los privilegios fiscales de la Iglesia católica.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-12-07",
+          "page": 32,
+          "quote": "Revisar acuerdos con la Santa Sede y recuperar patrimonio indebidamente inmatriculado."
+        },
+        {
+          "unit_id": "POD-02-08",
+          "page": 11,
+          "quote": "Retirar privilegios fiscales de la Iglesia y aplicar reglas comunes en el IBI."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Dos unidades: laicidad y fiscalidad de la Iglesia."
+    },
+    {
+      "id": "X_podemos_9",
+      "ambito": 12,
+      "texto": "La edad mínima para votar en las elecciones generales debería rebajarse a los dieciséis años.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-12-04",
+          "page": 31,
+          "quote": "sufragio desde dieciséis años."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Alta"
+      },
+      "rationale": "Incluida en la unidad de sistema electoral."
+    },
+    {
+      "id": "X_podemos_10",
+      "ambito": 7,
+      "texto": "Debería aprobarse una moratoria que impida abrir nuevas universidades privadas durante un periodo de tiempo.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "POD-07-05",
+          "page": 21,
+          "quote": "moratoria de nuevas universidades privadas."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia junto a la gratuidad universitaria."
+    },
+    {
+      "id": "X_podemos_11",
+      "ambito": 16,
+      "texto": "Deberían restringirse los vuelos que tengan una alternativa ferroviaria y limitarse el uso de la aviación privada.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "POD-16-04",
+          "page": 39,
+          "quote": "restricciones a vuelos con alternativa ferroviaria y aviación privada."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Unidad propia; incluye revisar ampliaciones aeroportuarias."
+    }
+  ],
+  "salience_by_ambito": [
+    {
+      "ambito": 1,
+      "salience": "alta",
+      "reason": "5 unidades; la intervención en mercados esenciales y la compra de Repsol figuran en las conclusiones ejecutivas; precios es prioridad de campaña."
+    },
+    {
+      "ambito": 2,
+      "salience": "alta",
+      "reason": "10 unidades, el ámbito con más unidades junto a vivienda y energía."
+    },
+    {
+      "ambito": 3,
+      "salience": "alta",
+      "reason": "9 unidades; SMI y horas en las conclusiones ejecutivas; \"trabajo\" en el título del programa; escenario de transacción propio."
+    },
+    {
+      "ambito": 4,
+      "salience": "media",
+      "reason": "5 unidades; las pensiones aparecen en el cálculo fiscal conjunto de las conclusiones ejecutivas."
+    },
+    {
+      "ambito": 5,
+      "salience": "alta",
+      "reason": "10 unidades; \"casa\" en el título del programa; alquiler y expropiación de uso en las conclusiones ejecutivas; condición de investidura."
+    },
+    {
+      "ambito": 6,
+      "salience": "media",
+      "reason": "7 unidades."
+    },
+    {
+      "ambito": 7,
+      "salience": "media",
+      "reason": "6 unidades."
+    },
+    {
+      "ambito": 8,
+      "salience": "media",
+      "reason": "7 unidades; crianza, cuidados y la contradicción del permiso citados en las conclusiones ejecutivas."
+    },
+    {
+      "ambito": 9,
+      "salience": "media",
+      "reason": "9 unidades; no hay prioridad declarada específica."
+    },
+    {
+      "ambito": 10,
+      "salience": "media",
+      "reason": "7 unidades."
+    },
+    {
+      "ambito": 11,
+      "salience": "media",
+      "reason": "6 unidades."
+    },
+    {
+      "ambito": 12,
+      "salience": "media",
+      "reason": "8 unidades; las reformas institucionales y constitucionales se citan en las conclusiones ejecutivas."
+    },
+    {
+      "ambito": 13,
+      "salience": "baja",
+      "reason": "2 unidades."
+    },
+    {
+      "ambito": 14,
+      "salience": "alta",
+      "reason": "10 unidades; Repsol en las conclusiones ejecutivas."
+    },
+    {
+      "ambito": 15,
+      "salience": "media",
+      "reason": "7 unidades."
+    },
+    {
+      "ambito": 16,
+      "salience": "media",
+      "reason": "6 unidades."
+    },
+    {
+      "ambito": 17,
+      "salience": "baja",
+      "reason": "4 unidades; el informe dice que no configuran una estrategia completa de IA."
+    },
+    {
+      "ambito": 18,
+      "salience": "alta",
+      "reason": "8 unidades; \"Paz\" en el título del programa y entre las prioridades de campaña; defensa en las conclusiones ejecutivas."
+    },
+    {
+      "ambito": 19,
+      "salience": "media",
+      "reason": "8 unidades."
+    }
+  ]
+}

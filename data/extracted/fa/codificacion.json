@@ -1,0 +1,2159 @@
+{
+  "party_id": "fa",
+  "codings": [
+    {
+      "id": "ECO1",
+      "value": 0,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "E05",
+          "page": 6,
+          "quote": "Franquicia de IVA hasta 85.000 euros de facturación; cuota bonificada de 88 euros mensuales por bajos ingresos"
+        },
+        {
+          "unit_id": "E04",
+          "page": 5,
+          "quote": "Control de concentración y obligaciones sobre grandes grupos."
+        },
+        {
+          "unit_id": null,
+          "page": 6,
+          "quote": "Menores cargas administrativas pueden coexistir con nuevas obligaciones laborales, ambientales o de participación."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Simplifica IVA y cotización para pymes (E05), pero añade control y obligaciones a grandes grupos (E04) y más inspección (L08). Posición mixta; no hay desregulación general."
+    },
+    {
+      "id": "ECO2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "E02",
+          "page": 5,
+          "quote": "Creación o refuerzo empresarial en sectores seleccionados."
+        },
+        {
+          "unit_id": "E03",
+          "page": 5,
+          "quote": "Ampliar el papel del ICO y estudiar instrumentos de banca pública y postal."
+        },
+        {
+          "unit_id": "EN02",
+          "page": 24,
+          "quote": "Entrada del 30% en nuevos proyectos dentro del perímetro anunciado."
+        },
+        {
+          "unit_id": "S06",
+          "page": 15,
+          "quote": "Desarrollo, producción y suministro con orientación sanitaria."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Empresas públicas en sectores seleccionados (E02), banca pública (E03), entrada pública del 30% en renovables (EN02) e industria farmacéutica pública (S06). IU coincide en la orientación industrial (p. 5)."
+    },
+    {
+      "id": "ECO3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta proteccionismo, preferencia nacional en compras ni rechazo de acuerdos comerciales. R01 trata la cadena alimentaria interna."
+    },
+    {
+      "id": "ECO4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "L07",
+          "page": 10,
+          "quote": "Representación en consejos: un tercio con 50-1.000 empleados, mitad con más de 1.000; reparto de beneficios y capital."
+        },
+        {
+          "unit_id": "E08",
+          "page": 6,
+          "quote": "Impulsar cooperativas, participación de trabajadores en gobierno y propiedad empresarial."
+        },
+        {
+          "unit_id": null,
+          "page": 2,
+          "quote": "Frente Amplio combina redistribución, servicios públicos, intervención en vivienda y democratización económica."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Trabajadores en consejos (un tercio de 50 a 1.000 empleados, la mitad desde 1.000) y reparto de beneficios y capital. La democratización económica figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "FIS1",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "F06",
+          "page": 8,
+          "quote": "rebajar IRPF a salarios hasta 27.000 euros y elevar al 52% el marginal desde 300.000"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Rebaja de IRPF solo para salarios hasta 27.000 euros, con subida del marginal al 52% desde 300.000 euros. Rebaja parcial, no general."
+    },
+    {
+      "id": "FIS2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "F01",
+          "page": 7,
+          "quote": "Suelo del 2% sobre patrimonios superiores a un millón y del 3% por encima de 50 millones."
+        },
+        {
+          "unit_id": null,
+          "page": 34,
+          "quote": "Mínimos del 2% desde un millón y del 3% desde 50 millones; el PDF también describe aumentos de tramos y una tasa Zucman."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Impuesto mínimo del 2% sobre patrimonios de más de un millón y del 3% desde 50 millones, con página temática propia [9]. La redistribución abre las conclusiones ejecutivas."
+    },
+    {
+      "id": "FIS3",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "F02",
+          "page": 7,
+          "quote": "Tramos marginales del 75% entre 5 y 10 millones y 100% por encima de 10 millones por heredero."
+        },
+        {
+          "unit_id": null,
+          "page": 7,
+          "quote": "Alcance: no es un impuesto del 100% sobre toda herencia"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Sube el impuesto a herencias muy altas (marginal del 75% y del 100%), presentado junto al programa [5]. El informe aclara que no grava al 100% toda herencia."
+    },
+    {
+      "id": "FIS4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 34,
+          "quote": "Servicios digitales: 15%; depósitos bancarios: 1%; energía: 1,2% sobre cifra de negocio con incentivos de reinversión."
+        },
+        {
+          "unit_id": "L04",
+          "page": 9,
+          "quote": "Gravamen sobre incremento de beneficios operativos de grandes empresas que no actualicen salarios según la regla anunciada."
+        }
+      ],
+      "viability": {},
+      "rationale": "Gravámenes sectoriales sobre depósitos bancarios (1%) y energía (1,2% de la cifra de negocio). Gravan facturación o depósitos, no beneficios extraordinarios en sentido estricto. No hay unidad propia."
+    },
+    {
+      "id": "FIS5",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "S01",
+          "page": 14,
+          "quote": "Alcanzar el 8% del PIB sanitario público y reforzar plantillas."
+        },
+        {
+          "unit_id": "M02",
+          "page": 20,
+          "quote": "Ampliar personal y acortar citas, registro y entrevistas."
+        },
+        {
+          "unit_id": "L08",
+          "page": 10,
+          "quote": "Más control, derechos digitales y reducción de temporalidad."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Amplía gasto (sanidad 8%, educación 7%, dependencia 1,7%, clima 3,5% del PIB) y plantillas públicas. No propone suprimir organismos ni puestos."
+    },
+    {
+      "id": "FIS6",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "F07",
+          "page": 8,
+          "quote": "Reorientar gravamen según objetivos distributivos y ambientales."
+        }
+      ],
+      "viability": {},
+      "rationale": "F07 reorienta el IVA sin concretar un IVA cero para alimentos. El informe solo comenta en abstracto que \"Una rebaja de IVA no garantiza traslado completo a precios\" (p. 8)."
+    },
+    {
+      "id": "FIS7",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "F05",
+          "page": 8,
+          "quote": "Suelo efectivo del 20% para grandes empresas y revisión de beneficios fiscales."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Tipo mínimo efectivo del 20% para grandes empresas y revisión de beneficios fiscales: lo contrario de bajar sociedades."
+    },
+    {
+      "id": "EMP1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "L03",
+          "page": 9,
+          "quote": "37,5 horas en 2026 y avance posterior hacia 32, sin rebaja salarial."
+        },
+        {
+          "unit_id": null,
+          "page": 2,
+          "quote": "El plazo de 37,5 horas en 2026 es muy estrecho frente a la constitución de las Cámaras el 23 de diciembre."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Jornada legal de 37,5 horas en 2026 y avance hacia 32 sin rebaja salarial. Figura en las conclusiones ejecutivas por su calendario."
+    },
+    {
+      "id": "EMP2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "L02",
+          "page": 9,
+          "quote": "Vincular el SMI al 60% del salario medio neto."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "SMI ligado por regla al 60% del salario medio neto (no a la mediana)."
+    },
+    {
+      "id": "EMP3",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "L06",
+          "page": 10,
+          "quote": "Reforzar reparación, control y derechos laborales."
+        },
+        {
+          "unit_id": null,
+          "page": 10,
+          "quote": "La escala de cogestión, el diseño del despido y la financiación de la protección son puntos abiertos a negociación"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "L06 refuerza la reparación del despido y el control. El diseño exacto (indemnización, autorización administrativa) queda abierto."
+    },
+    {
+      "id": "EMP4",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "D03",
+          "page": 28,
+          "quote": "Facultad del comité de empresa para configurar, aprobar o vetar IA que organice, vigile o evalúe trabajo"
+        },
+        {
+          "unit_id": "L07",
+          "page": 10,
+          "quote": "Representación en consejos: un tercio con 50-1.000 empleados, mitad con más de 1.000"
+        },
+        {
+          "unit_id": "L01",
+          "page": 9,
+          "quote": "Regla legal de IPC si el convenio carece de protección equivalente."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Más poder a la representación laboral: veto del comité sobre IA (D03), presencia en consejos (L07) y ficha \"protección y poder de negociación\". El informe no detalla medidas sobre sindicatos como organizaciones."
+    },
+    {
+      "id": "EMP5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "E05",
+          "page": 6,
+          "quote": "cuota bonificada de 88 euros mensuales por bajos ingresos en el texto base"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Cuota bonificada de 88 euros al mes para bajos ingresos y franquicia de IVA hasta 85.000 euros. Es cuota reducida, no cuota cero."
+    },
+    {
+      "id": "PEN1",
+      "value": 2,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 11,
+          "quote": "Mantener poder adquisitivo y reformar la edad general son acuerdos distintos; el segundo no se infiere del primero."
+        }
+      ],
+      "viability": {},
+      "rationale": "La ficha de pensiones sitúa el mantenimiento del poder adquisitivo dentro del paquete prioritario de campaña. No hay unidad propia de revalorización por IPC."
+    },
+    {
+      "id": "PEN2",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "P04",
+          "page": 11,
+          "quote": "Reforzar protección pública y blindaje constitucional."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "Refuerza y blinda la protección pública (P04). El informe no recoge ahorro privado ni capitalización, ni un rechazo literal de ellos."
+    },
+    {
+      "id": "PEN3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "P02",
+          "page": 11,
+          "quote": "Generalizar esa edad y adaptar supuestos penosos o carreras largas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Jubilación a los 65 generalizada (P02). En 2026 ya es 65 con 38 años y 3 meses cotizados y 66 y 10 meses en otro caso (p. 11). Tema prioritario de campaña [10]."
+    },
+    {
+      "id": "PEN4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "P01",
+          "page": 11,
+          "quote": "Suelo para pensiones contributivas y no contributivas."
+        },
+        {
+          "unit_id": null,
+          "page": 11,
+          "quote": "El objetivo figura entre las explicaciones prioritarias de campaña y encuentra apoyo doctrinal en IU."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Pensión mínima vinculada al SMI para contributivas y no contributivas. Prioridad de campaña con apoyo de IU."
+    },
+    {
+      "id": "VIV1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V05",
+          "page": 13,
+          "quote": "Topes por referencia e ingresos y contratos indefinidos."
+        },
+        {
+          "unit_id": null,
+          "page": 12,
+          "quote": "Vivienda es una prioridad explícita de la coalición."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Topes de alquiler por referencia e ingresos, contratos indefinidos y, en alquiler público, hasta 600 euros por 80 m2 y máximo del 25% de la renta."
+    },
+    {
+      "id": "VIV2",
+      "value": -2,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V05",
+          "page": 13,
+          "quote": "Topes por referencia e ingresos y contratos indefinidos."
+        },
+        {
+          "unit_id": "V02",
+          "page": 12,
+          "quote": "Expropiación compensada de parque corporativo: fases para más de 1.000, 700 y 50 viviendas."
+        },
+        {
+          "unit_id": "F03",
+          "page": 7,
+          "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Prefiere intervenir el mercado (topes, expropiación, gravamen a la acumulación) y ampliar el parque público. V03 reserva suelo para vivienda protegida; no plantea liberalizar ni bajar impuestos."
+    },
+    {
+      "id": "VIV3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "V07",
+          "page": 13,
+          "quote": "Alternativa habitacional y servicios de prevención."
+        }
+      ],
+      "viability": {},
+      "rationale": "El informe no trata la ocupación ilegal. V07 se refiere a desahucios y alternativa habitacional."
+    },
+    {
+      "id": "VIV4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V02",
+          "page": 12,
+          "quote": "Expropiación compensada de parque corporativo: fases para más de 1.000, 700 y 50 viviendas."
+        },
+        {
+          "unit_id": "F03",
+          "page": 7,
+          "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Expropiación compensada (justiprecio) del parque de grandes empresas por fases, más gravamen del 10% a la acumulación. No se limita a vacías; el informe dice que \"no debe analizarse como adquisición gratuita ni como retirada indiscriminada de viviendas a familias\"."
+    },
+    {
+      "id": "VIV5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V06",
+          "page": 13,
+          "quote": "Extinguir licencias turísticas en tres años en zonas tensionadas y evitar elusión por temporada o habitaciones."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Extinción de licencias turísticas en tres años en zonas tensionadas, incluido el alquiler de temporada y por habitaciones."
+    },
+    {
+      "id": "VIV6",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "M04",
+          "page": 20,
+          "quote": "Medidas antirracistas y ampliación de derechos políticos."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "El informe no trata la prioridad nacional en vivienda. Las medidas antirracistas y de igualdad (M04) apuntan en contra; indicio indirecto."
+    },
+    {
+      "id": "VIV7",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "V01",
+          "page": 12,
+          "quote": "Objetivo de 1,5 millones en 12 años."
+        },
+        {
+          "unit_id": null,
+          "page": 12,
+          "quote": "El objetivo de 1,5 millones implica una media aritmética de 125.000 incorporaciones anuales, no 125.000 construcciones nuevas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "Parque público y asequible de 1,5 millones en 12 años por construcción, compra y movilización. Gasto: 1% del PIB en el texto común; IU plantea 1,2% (p. 38)."
+    },
+    {
+      "id": "SAN1",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "S05",
+          "page": 15,
+          "quote": "Cambiar el marco de colaboración y avanzar en integración de mutualidades."
+        },
+        {
+          "unit_id": null,
+          "page": 15,
+          "quote": "La orientación hacia gestión pública está documentada en el texto común y en IU."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Gestión directa e integración de mutualidades de forma gradual, con contratos transitorios. No consta una prohibición inmediata de todo concierto."
+    },
+    {
+      "id": "SAN2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no documenta posición sobre la atención sanitaria a inmigrantes en situación irregular."
+    },
+    {
+      "id": "SAN3",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "S02",
+          "page": 14,
+          "quote": "Ampliación progresiva hasta cubrir al menos la mitad de la población en cuatro años."
+        },
+        {
+          "unit_id": "S03",
+          "page": 14,
+          "quote": "Extender cobertura según necesidad, no solo anunciar un derecho."
+        },
+        {
+          "unit_id": "S04",
+          "page": 14,
+          "quote": "Reforzar equipos comunitarios y continuidad asistencial."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Salud bucodental (la mitad de la población en cuatro años), gafas y audífonos, y refuerzo de salud mental. Tienen página temática de campaña [12]."
+    },
+    {
+      "id": "SAN4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la eutanasia."
+    },
+    {
+      "id": "EDU1",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "ED03",
+          "page": 16,
+          "quote": "Reorientar progresivamente recursos hacia provisión pública."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Reorientación progresiva de recursos hacia la red pública, manteniendo escolarización durante la transición. No fija el fin de los conciertos."
+    },
+    {
+      "id": "EDU2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata la lengua vehicular."
+    },
+    {
+      "id": "EDU3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la LOMLOE ni reválidas."
+    },
+    {
+      "id": "EDU4",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "ED05",
+          "page": 17,
+          "quote": "Reducir barreras económicas, reforzar financiación y avanzar en gratuidad."
+        },
+        {
+          "unit_id": null,
+          "page": 17,
+          "quote": "La gratuidad general reduce precios para todos los usuarios"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Avance gradual hacia la gratuidad universitaria; el alcance por título y repetición está por precisar."
+    },
+    {
+      "id": "EDU5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata el consentimiento parental sobre contenidos."
+    },
+    {
+      "id": "FAM1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "C01",
+          "page": 18,
+          "quote": "200 euros mensuales por menor, con despliegue por edades."
+        },
+        {
+          "unit_id": null,
+          "page": 18,
+          "quote": "La coalición ratifica crianza y familias elegidas"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Prestación de crianza de 200 euros al mes por menor (2.400 euros al año), desplegada por edades y ratificada por la coalición. La universalidad exacta sigue abierta (p. 43)."
+    },
+    {
+      "id": "FAM2",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "S08",
+          "page": 15,
+          "quote": "Mejor acceso efectivo, prevención y protección de derechos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "S08 \"Prevención y derechos reproductivos\" refuerza acceso y protección de derechos. El aborto no se nombra literalmente."
+    },
+    {
+      "id": "FAM3",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "C02",
+          "page": 18,
+          "quote": "Acceso a servicios educativos y alimentarios. La gratuidad requiere plazas, profesionales, instalaciones y cobertura de horarios"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "C02 plantea gratuidad de primera infancia y comedores. El informe no fija la franja 0-3 ni la universalidad de forma literal."
+    },
+    {
+      "id": "FAM4",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "C04",
+          "page": 18,
+          "quote": "Reconocimiento voluntario de personas de apoyo y ampliación de permisos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Amplía permisos ligados a personas de apoyo (C04) sin precisar duración ni pago al 100%."
+    },
+    {
+      "id": "SOC1",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IG01",
+          "page": 19,
+          "quote": "Ampliar y automatizar IMV; IPREM +100 euros hasta 700 mensuales e indexación al IPC."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Amplía y automatiza el IMV sin añadir condiciones de empleo. No hay rechazo explícito de la condicionalidad; indicio indirecto."
+    },
+    {
+      "id": "SOC2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "No consta una renta básica universal. El programa amplía el IMV (IG01) y plantea empleo garantizado (L05)."
+    },
+    {
+      "id": "SOC3",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IG04",
+          "page": 19,
+          "quote": "Desplegar protección LGTBI y reconocimiento de personas no binarias. Definir efectos registrales"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Extiende el reconocimiento registral a personas no binarias, más allá del marco vigente. No detalla el procedimiento para personas trans."
+    },
+    {
+      "id": "SOC4",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "IG03",
+          "page": 19,
+          "quote": "Transparencia salarial y respuesta frente a violencia y discriminación."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "La respuesta a la violencia figura dentro del bloque de igualdad (IG03). No hay ley intrafamiliar; indicio indirecto de mantener el enfoque de género."
+    },
+    {
+      "id": "SOC5",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IG03",
+          "page": 19,
+          "quote": "Transparencia salarial y respuesta frente a violencia y discriminación."
+        },
+        {
+          "unit_id": null,
+          "page": 19,
+          "quote": "El programa común y el bloque de igualdad de IU acreditan afinidad general."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Transparencia salarial, igualdad retributiva y protección frente a violencia y discriminación (IG03)."
+    },
+    {
+      "id": "INM1",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "M01",
+          "page": 20,
+          "quote": "Completar procesos abiertos y configurar cauces permanentes."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Completa la regularización de 2026 (RD 316/2026) y crea cauces permanentes. El informe precisa que \"no supone ciudadanía automática\"."
+    },
+    {
+      "id": "INM2",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "M03",
+          "page": 20,
+          "quote": "Revisar centros, retornos y vías de protección."
+        },
+        {
+          "unit_id": null,
+          "page": 20,
+          "quote": "Eliminar internamiento exige diseñar alternativas; no equivale por sí mismo a eliminar toda obligación de retorno."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Alternativas al internamiento y regularización permanente, opuestas a la expulsión sistemática. El informe aclara que no suprime todo retorno."
+    },
+    {
+      "id": "INM3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata contratación en origen ni cupos."
+    },
+    {
+      "id": "INM4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata el burka ni el niqab."
+    },
+    {
+      "id": "INM5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata los requisitos de nacionalidad; advierte que \"No se equiparan regularización, asilo y nacionalidad\" (p. 20)."
+    },
+    {
+      "id": "INM6",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "M02",
+          "page": 20,
+          "quote": "Ampliar personal y acortar citas, registro y entrevistas."
+        },
+        {
+          "unit_id": "M03",
+          "page": 20,
+          "quote": "Revisar centros, retornos y vías de protección."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Refuerza la capacidad de asilo (M02) y revisa vías de protección (M03). No cuantifica acogida ni detalla vías legales de llegada."
+    },
+    {
+      "id": "SEG1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "J01",
+          "page": 21,
+          "quote": "Reformar seguridad ciudadana y delitos de expresión."
+        }
+      ],
+      "viability": {},
+      "rationale": "J01 revisa sanciones de seguridad ciudadana y delitos de expresión. El informe no documenta posición sobre penas de prisión ni reincidencia."
+    },
+    {
+      "id": "SEG2",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "J01",
+          "page": 21,
+          "quote": "Reformar seguridad ciudadana y delitos de expresión. Identificar conductas despenalizadas"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Reforma de la ley de seguridad ciudadana con despenalización de conductas. El informe dice \"reformar\", no derogar entera."
+    },
+    {
+      "id": "SEG3",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "J03",
+          "page": 21,
+          "quote": "Reformas profesionales, equiparación y cambios organizativos."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Equiparación y revisión de retribución, jubilación y riesgos de los cuerpos de seguridad, más cambios en el estatuto de la Guardia Civil. No amplía plantillas."
+    },
+    {
+      "id": "SEG4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata la construcción de cárceles."
+    },
+    {
+      "id": "INS1",
+      "value": -1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IN02",
+          "page": 22,
+          "quote": "Modificar reglas de elección y desbloqueo."
+        },
+        {
+          "unit_id": null,
+          "page": 22,
+          "quote": "No se debe resumir como una propuesta para elegir a todos por mayoría absoluta."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Mantiene la elección parlamentaria con reglas de desbloqueo y distingue vocales judiciales del resto. No propone que los jueces elijan a la mayoría."
+    },
+    {
+      "id": "INS2",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IN04",
+          "page": 22,
+          "quote": "Transformación del modelo de Estado y de determinadas garantías. La versión completa requiere reforma constitucional agravada, nuevas elecciones y referéndum."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "IN04 propone una república federal; la vía completa exige reforma agravada con referéndum obligatorio. No describe un referéndum consultivo previo. IU tiene orientación republicana explícita (p. 22)."
+    },
+    {
+      "id": "INS3",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IN01",
+          "page": 22,
+          "quote": "Reforzar controles de conflictos, lobbies y recuperación de activos."
+        },
+        {
+          "unit_id": null,
+          "page": 22,
+          "quote": "Las propuestas de decomiso sin condena necesitan motivación, proporcionalidad, prueba y defensa"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Controles de conflictos y lobbies, recuperación de activos y decomiso sin condena. No constan imprescriptibilidad ni inhabilitación."
+    },
+    {
+      "id": "INS4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "IN03",
+          "page": 22,
+          "quote": "Ampliar instrumentos ciudadanos y reformar requisitos."
+        }
+      ],
+      "viability": {},
+      "rationale": "IN03 se titula \"Participación y diseño electoral\" pero solo detalla la reducción de firmas de la iniciativa popular. No consta reforma del reparto de escaños."
+    },
+    {
+      "id": "INS5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata el número de cargos políticos o asesores."
+    },
+    {
+      "id": "INS6",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona los aforamientos."
+    },
+    {
+      "id": "TER1",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "T04",
+          "page": 23,
+          "quote": "Servicios territoriales, insularidad y desarrollo federal."
+        },
+        {
+          "unit_id": "IN04",
+          "page": 22,
+          "quote": "Transformación del modelo de Estado y de determinadas garantías."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Desarrollo federal (T04) y república federal (IN04), sin recuperar competencias. T02 fija mínimos tributarios comunes, en tensión con la autonomía según el informe (p. 23)."
+    },
+    {
+      "id": "TER2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no menciona la ley de amnistía."
+    },
+    {
+      "id": "TER3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata referéndums de independencia en Cataluña o el País Vasco."
+    },
+    {
+      "id": "TER4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IN04",
+          "page": 22,
+          "quote": "Transformación del modelo de Estado y de determinadas garantías."
+        },
+        {
+          "unit_id": "T04",
+          "page": 23,
+          "quote": "Servicios territoriales, insularidad y desarrollo federal."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Unidad \"República federal y laicidad\" (IN04) y desarrollo federal (T04). El informe no usa el término plurinacional."
+    },
+    {
+      "id": "TER5",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "T01",
+          "page": 23,
+          "quote": "Requiere acuerdo sobre nivelación, población ajustada, autonomía fiscal, reparto y financiación consolidada."
+        }
+      ],
+      "viability": {},
+      "rationale": "T01 añade al menos el 2,3% del PIB al sistema sin pronunciarse sobre bilateralidad o regímenes especiales."
+    },
+    {
+      "id": "ENE1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "EN04",
+          "page": 24,
+          "quote": "Mantener el cierre de Almaraz en 2027-2028 según el programa."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Cierre de Almaraz en 2027-2028, antes de la autorización vigente hasta el 8/06/2030. El desfase figura en las conclusiones ejecutivas."
+    },
+    {
+      "id": "ENE2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "EN01",
+          "page": 24,
+          "quote": "Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040."
+        },
+        {
+          "unit_id": "EN05",
+          "page": 25,
+          "quote": "Objetivo anual del 3,5% del PIB."
+        },
+        {
+          "unit_id": null,
+          "page": 25,
+          "quote": "La aportación ecológica de IU es explícita y refuerza la prioridad del ámbito."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Electricidad 100% renovable en 2040 e inversión climática del 3,5% del PIB anual."
+    },
+    {
+      "id": "ENE3",
+      "value": -2,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "EN01",
+          "page": 24,
+          "quote": "Electricidad renovable: 81% en 2030, 90% en 2035 y 100% en 2040."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Objetivos climáticos ambiciosos (EN01, EN05). El informe no nombra el Pacto Verde ni la Agenda 2030 como posición; indicio indirecto en contra."
+    },
+    {
+      "id": "ENE4",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "EN02",
+          "page": 24,
+          "quote": "Entrada del 30% en nuevos proyectos dentro del perímetro anunciado."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Participación pública del 30% en nuevos proyectos renovables. No es una empresa pública integral de energía."
+    },
+    {
+      "id": "ENE5",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "F07",
+          "page": 8,
+          "quote": "Reorientar gravamen según objetivos distributivos y ambientales."
+        },
+        {
+          "unit_id": null,
+          "page": 8,
+          "quote": "Los gravámenes ambientales necesitan alternativas accesibles para hogares rurales o vulnerables."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Fiscalidad con criterios ambientales (F07) y sin rebaja de impuestos a luz o carburantes. EN03 abarata la luz por tarifa (tres horas gratis), no por impuestos."
+    },
+    {
+      "id": "AGR1",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata Mercosur. Solo advierte que la afinidad agraria \"no acredita identidad en regulación ambiental, agua o política comercial\" (p. 26)."
+    },
+    {
+      "id": "AGR2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "R03",
+          "page": 26,
+          "quote": "Compatibilizar actividad y conservación."
+        }
+      ],
+      "viability": {},
+      "rationale": "R03 y EN07 tratan agua y conservación sin pronunciarse sobre embalses o trasvases."
+    },
+    {
+      "id": "AGR3",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "EN08",
+          "page": 25,
+          "quote": "Cambios de actividad y protección. Diseñar transiciones por sector y territorio"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "EN08 combina turismo y bienestar animal con \"cambios de actividad\". No nombra caza ni toros; indicio indirecto."
+    },
+    {
+      "id": "AGR4",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "R02",
+          "page": 26,
+          "quote": "Orientar apoyos a explotaciones y prácticas sostenibles."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Ayudas orientadas a prácticas sostenibles. El informe no fija preferencia por tamaño de explotación."
+    },
+    {
+      "id": "INF1",
+      "value": 1,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "TR01",
+          "page": 27,
+          "quote": "Tarifas y abonos de Cercanías con condiciones por edad."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Abonos y tarifas reducidas de Cercanías con condiciones por edad. No es gratuidad general ni abono único para todo trayecto."
+    },
+    {
+      "id": "INF2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "TR02",
+          "page": 27,
+          "quote": "Aumentar inversión y completar transiciones técnicas."
+        }
+      ],
+      "viability": {},
+      "rationale": "Refuerza Cercanías (TR01) e inversión ferroviaria (TR02) sin priorizar frente a grandes obras. La comparación con nuevas líneas es del analista (p. 27)."
+    },
+    {
+      "id": "INF3",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "TR04",
+          "page": 27,
+          "quote": "Ferrocarril de mercancías, restricciones de vuelos cortos y leasing social eléctrico."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Impulsa el coche eléctrico con leasing social y el cambio modal. No menciona el calendario de 2035; indicio indirecto en contra."
+    },
+    {
+      "id": "TEC1",
+      "value": 1,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "D05",
+          "page": 29,
+          "quote": "Interoperabilidad, privacidad, protección de menores y contenidos sin consentimiento."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Protección de menores en plataformas (D05) sin detallar verificación de edad."
+    },
+    {
+      "id": "TEC2",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 34,
+          "quote": "Servicios digitales: 15%; depósitos bancarios: 1%; energía: 1,2% sobre cifra de negocio con incentivos de reinversión."
+        },
+        {
+          "unit_id": "D05",
+          "page": 29,
+          "quote": "Interoperabilidad, privacidad, protección de menores y contenidos sin consentimiento."
+        },
+        {
+          "unit_id": "D08",
+          "page": 29,
+          "quote": "Participación pública mediante una propuesta tributaria en acciones."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Impuesto del 15% a servicios digitales, obligaciones a plataformas (D05) y gravamen del 50% en acciones a grandes empresas de IA (D08)."
+    },
+    {
+      "id": "TEC3",
+      "value": 1,
+      "confidence": "baja",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "D02",
+          "page": 28,
+          "quote": "Inventario, evaluaciones, trazabilidad y revisión humana."
+        },
+        {
+          "unit_id": "IG01",
+          "page": 19,
+          "quote": "Ampliar y automatizar IMV"
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Alta",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Acepta IA y automatización en la Administración con inventario, trazabilidad y revisión humana (D02), y automatiza el IMV. No propone un uso intensivo; apoyo condicionado."
+    },
+    {
+      "id": "TEC4",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata el efectivo ni el euro digital."
+    },
+    {
+      "id": "EXT1",
+      "value": -2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "X01",
+          "page": 30,
+          "quote": "Rechazar la senda de aumento y reorientar seguridad."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Rechaza la senda de aumento del gasto en defensa (compromiso del 5% de La Haya). Las diferencias en OTAN figuran en las conclusiones ejecutivas."
+    },
+    {
+      "id": "EXT2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "X02 trata diplomacia y restricciones de armas en general. El informe no menciona Ucrania."
+    },
+    {
+      "id": "EXT3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "X02",
+          "page": 30,
+          "quote": "Diplomacia, restricciones de armas y posiciones sobre conflictos."
+        }
+      ],
+      "viability": {},
+      "rationale": "X02 incluye restricciones de armas sin nombrar a Israel. Indicio demasiado débil."
+    },
+    {
+      "id": "EXT4",
+      "value": -1,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "X04",
+          "page": 30,
+          "quote": "Cambiar gobernanza fiscal y funciones monetarias."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "Busca reformar reglas fiscales y monetarias de la UE y crear un fondo europeo de IA (D08): actúa mediante la UE, no recuperando soberanía. Indicio indirecto."
+    },
+    {
+      "id": "EXT5",
+      "value": 1,
+      "confidence": "media",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "X01",
+          "page": 30,
+          "quote": "Rechazar la senda de aumento y reorientar seguridad."
+        },
+        {
+          "unit_id": null,
+          "page": 30,
+          "quote": "IU defiende explícitamente la salida de la OTAN. No se atribuye esa formulación a todo Frente Amplio"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "El texto común rechaza el aumento del gasto y revisa bases, sin plantear salir de la OTAN. IU sí defiende la salida; el informe no la atribuye a la coalición."
+    },
+    {
+      "id": "EXT6",
+      "value": 2,
+      "confidence": "baja",
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": null,
+          "page": 30,
+          "quote": "Un Gobierno puede cambiar posiciones diplomáticas o impulsar iniciativas, pero no garantizar acuerdos de paz, referéndums en terceros territorios"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "NE"
+      },
+      "rationale": "El informe cita \"referéndums en terceros territorios\" entre los objetivos exteriores sin nombrar el Sáhara Occidental. Indicio indirecto."
+    },
+    {
+      "id": "CUL1",
+      "value": -2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "CU04",
+          "page": 31,
+          "quote": "Archivos, reparación y cambios en protecciones legales específicas."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "CU04 refuerza archivos y reparación de memoria, lo contrario de derogar. La ley no se nombra."
+    },
+    {
+      "id": "CUL2",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [],
+      "viability": {},
+      "rationale": "El informe no trata el uso de lenguas cooficiales en el Congreso."
+    },
+    {
+      "id": "CUL3",
+      "value": null,
+      "confidence": null,
+      "salience": "baja",
+      "evidence": [
+        {
+          "unit_id": "CU03",
+          "page": 31,
+          "quote": "Transparencia en propiedad y publicidad institucional; protección digital y de creadores."
+        }
+      ],
+      "viability": {},
+      "rationale": "CU03 trata transparencia de medios y publicidad institucional. No menciona RTVE."
+    },
+    {
+      "id": "CUL4",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "CU01",
+          "page": 31,
+          "quote": "Objetivo presupuestario cultural y desarrollo de condiciones de artistas."
+        },
+        {
+          "unit_id": null,
+          "page": 31,
+          "quote": "El objetivo cultural del programa se expresa como 2% del gasto público total, no 2% del PIB."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Objetivo del 2% del gasto público total para cultura, condiciones de artistas y red de bibliotecas (CU02)."
+    }
+  ],
+  "extra_statements": [
+    {
+      "id": "X_fa_1",
+      "ambito": 2,
+      "texto": "Las herencias muy elevadas, por encima de 10 millones por heredero, deberían tributar a un tipo marginal del 100%.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "F02",
+          "page": 7,
+          "quote": "Tramos marginales del 75% entre 5 y 10 millones y 100% por encima de 10 millones por heredero."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Tramo marginal del 100% sobre el exceso de 10 millones por heredero, presentado con el programa [5]."
+    },
+    {
+      "id": "X_fa_2",
+      "ambito": 2,
+      "texto": "Quien acumule muchas viviendas debería pagar un impuesto del 10% de su valor, salvo si las alquila a precio asequible.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "F03",
+          "page": 7,
+          "quote": "Gravamen del 10% con umbrales y exención por alquiler asequible."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Gravamen antiespeculación del 10% con umbrales y exención por alquiler asequible [7]."
+    },
+    {
+      "id": "X_fa_3",
+      "ambito": 3,
+      "texto": "Los salarios deberían actualizarse por ley con el IPC cuando el convenio colectivo no garantice esa subida.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "L01",
+          "page": 9,
+          "quote": "Regla legal de IPC si el convenio carece de protección equivalente."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Regla legal supletoria ratificada por la candidata el 17/11 [6], con gravamen a grandes empresas que no la apliquen (L04)."
+    },
+    {
+      "id": "X_fa_4",
+      "ambito": 3,
+      "texto": "El Estado debería crear un programa de empleo garantizado para las personas que no encuentren trabajo.",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "L05",
+          "page": 10,
+          "quote": "El empleo garantizado necesita además elegibilidad, empleador, puestos y coste recurrente."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "L05 incluye empleo garantizado; elegibilidad y empleador están sin definir."
+    },
+    {
+      "id": "X_fa_5",
+      "ambito": 5,
+      "texto": "La vivienda debería reconocerse en la Constitución como un derecho fundamental que se pueda exigir ante los tribunales.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "V08",
+          "page": 13,
+          "quote": "Llevar vivienda a la sección de derechos fundamentales y reforzar exigibilidad."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "Traslado de la vivienda a la sección de derechos fundamentales, que exige reforma agravada (art. 168)."
+    },
+    {
+      "id": "X_fa_6",
+      "ambito": 8,
+      "texto": "La ley debería reconocer como familia a personas de apoyo elegidas, aunque no exista vínculo de sangre ni matrimonio.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "alta",
+      "evidence": [
+        {
+          "unit_id": "C04",
+          "page": 18,
+          "quote": "Reconocimiento voluntario de personas de apoyo y ampliación de permisos."
+        }
+      ],
+      "viability": {
+        "A": "Alta",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "\"Familias elegidas\" ratificadas por la coalición [11]; reconocimiento voluntario sin deberes privados automáticos."
+    },
+    {
+      "id": "X_fa_7",
+      "ambito": 12,
+      "texto": "España debería reformar la Constitución para consagrar un Estado plenamente laico, separado de cualquier confesión religiosa.",
+      "value": 2,
+      "confidence": "media",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "IN04",
+          "page": 22,
+          "quote": "Transformación del modelo de Estado y de determinadas garantías. La versión completa requiere reforma constitucional agravada, nuevas elecciones y referéndum."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "Baja"
+      },
+      "rationale": "La unidad IN04 se titula \"República federal y laicidad\"; el informe no detalla el contenido de la laicidad."
+    },
+    {
+      "id": "X_fa_8",
+      "ambito": 14,
+      "texto": "Los hogares deberían disponer de algunas horas de electricidad gratuita como parte de su tarifa.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "EN03",
+          "page": 24,
+          "quote": "Tejados, comunidades y tres horas de electricidad gratuita."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Tres horas de electricidad gratuita; el informe advierte que \"gratuidad parcial no es factura cero\"."
+    },
+    {
+      "id": "X_fa_9",
+      "ambito": 16,
+      "texto": "Habría que restringir los vuelos de corta distancia para favorecer el cambio hacia el tren.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "TR04",
+          "page": 27,
+          "quote": "Ferrocarril de mercancías, restricciones de vuelos cortos y leasing social eléctrico."
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Media",
+        "E": "Media"
+      },
+      "rationale": "Restricciones de vuelos cortos dentro de la unidad de cambio modal (TR04)."
+    },
+    {
+      "id": "X_fa_10",
+      "ambito": 17,
+      "texto": "Los comités de empresa deberían poder vetar la inteligencia artificial que vigile o evalúe a los trabajadores.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "D03",
+          "page": 28,
+          "quote": "Facultad del comité de empresa para configurar, aprobar o vetar IA que organice, vigile o evalúe trabajo"
+        }
+      ],
+      "viability": {
+        "A": "Media",
+        "B": "Media",
+        "C": "Baja",
+        "E": "Media"
+      },
+      "rationale": "Veto del comité de empresa sobre IA de gestión laboral, con asesoramiento experto (D03)."
+    },
+    {
+      "id": "X_fa_11",
+      "ambito": 17,
+      "texto": "Las grandes empresas de inteligencia artificial deberían pagar parte de sus impuestos en acciones para un fondo público europeo.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "D08",
+          "page": 29,
+          "quote": "Participación pública mediante una propuesta tributaria en acciones."
+        },
+        {
+          "unit_id": null,
+          "page": 34,
+          "quote": "Gravamen del 50% pagadero en acciones para empresas con ingresos europeos de IA superiores a 200 millones anuales."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "Gravamen del 50% pagadero en acciones para empresas con ingresos europeos de IA superiores a 200 millones (p. 34)."
+    },
+    {
+      "id": "X_fa_12",
+      "ambito": 18,
+      "texto": "El Banco Central Europeo debería poder financiar directamente a los Estados miembros de la Unión.",
+      "value": 2,
+      "confidence": "alta",
+      "salience": "media",
+      "evidence": [
+        {
+          "unit_id": "X04",
+          "page": 30,
+          "quote": "Cambiar gobernanza fiscal y funciones monetarias. La financiación directa de Estados por el BCE enfrenta una prohibición del tratado vigente."
+        }
+      ],
+      "viability": {
+        "A": "Baja",
+        "B": "Baja",
+        "C": "Baja",
+        "E": "NE"
+      },
+      "rationale": "X04 propone cambiar funciones monetarias; el informe cita la financiación directa por el BCE como cambio europeo que exige reformar el tratado (p. 35)."
+    }
+  ],
+  "salience_by_ambito": [
+    {
+      "ambito": 1,
+      "salience": "alta",
+      "reason": "8 unidades (E01-E08); \"democratización económica\" en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 2,
+      "salience": "alta",
+      "reason": "8 unidades (F01-F08); redistribución en conclusiones ejecutivas; herencias presentadas con el programa [5]."
+    },
+    {
+      "ambito": 3,
+      "salience": "alta",
+      "reason": "8 unidades (L01-L08); jornada de 37,5 horas en conclusiones ejecutivas; ratificación salarial del 17/11."
+    },
+    {
+      "ambito": 4,
+      "salience": "alta",
+      "reason": "4 unidades (P01-P04); \"figura entre las explicaciones prioritarias de campaña\" (p. 11)."
+    },
+    {
+      "ambito": 5,
+      "salience": "alta",
+      "reason": "8 unidades (V01-V08); \"Vivienda es una prioridad explícita de la coalición\" (p. 12) y conclusiones ejecutivas."
+    },
+    {
+      "ambito": 6,
+      "salience": "alta",
+      "reason": "8 unidades (S01-S08); página temática de campaña [12]; personal sanitario en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 7,
+      "salience": "media",
+      "reason": "8 unidades (ED01-ED08); sin mención en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 8,
+      "salience": "alta",
+      "reason": "4 unidades (C01-C04); crianza y familias elegidas ratificadas y presentadas con el programa [5, 11]."
+    },
+    {
+      "ambito": 9,
+      "salience": "media",
+      "reason": "4 unidades (IG01-IG04); prestaciones citadas de forma genérica en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 10,
+      "salience": "media",
+      "reason": "4 unidades (M01-M04)."
+    },
+    {
+      "ambito": 11,
+      "salience": "media",
+      "reason": "4 unidades (J01-J04)."
+    },
+    {
+      "ambito": 12,
+      "salience": "media",
+      "reason": "4 unidades (IN01-IN04); el modelo de Estado aparece en conclusiones ejecutivas solo como ruta difícil."
+    },
+    {
+      "ambito": 13,
+      "salience": "media",
+      "reason": "4 unidades (T01-T04)."
+    },
+    {
+      "ambito": 14,
+      "salience": "alta",
+      "reason": "8 unidades (EN01-EN08); calendario de Almaraz en conclusiones ejecutivas; IU \"refuerza la prioridad del ámbito\"."
+    },
+    {
+      "ambito": 15,
+      "salience": "media",
+      "reason": "4 unidades (R01-R04)."
+    },
+    {
+      "ambito": 16,
+      "salience": "media",
+      "reason": "4 unidades (TR01-TR04); transporte citado en conclusiones ejecutivas como capacidad material."
+    },
+    {
+      "ambito": 17,
+      "salience": "alta",
+      "reason": "8 unidades (D01-D08); fecha de centros de datos en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 18,
+      "salience": "alta",
+      "reason": "4 unidades (X01-X04); diferencias sobre OTAN en conclusiones ejecutivas."
+    },
+    {
+      "ambito": 19,
+      "salience": "media",
+      "reason": "4 unidades (CU01-CU04)."
+    }
+  ]
+}

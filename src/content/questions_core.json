@@ -1,0 +1,1394 @@
+[
+ {
+  "id": "Q03",
+  "order": 1,
+  "block": 1,
+  "ambito": 2,
+  "text": "Hay que bajar el IRPF a la mayoría de los contribuyentes.",
+  "fast": true,
+  "help": {
+   "medida": "Rebaja del IRPF para la mayoría",
+   "ahora": "El IRPF combina una parte estatal y otra autonómica. Hoy la tarifa, los mínimos y las deducciones no se actualizan cada año con el IPC.",
+   "aFavor": "Bajar el IRPF puede dejar más dinero a los hogares y evitar que la inflación eleve la carga fiscal.",
+   "enContra": "Bajar el IRPF necesita financiación y puede ayudar poco a los hogares de renta baja que apenas pagan este impuesto.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "salf",
+     "pagina": 12
+    },
+    {
+     "informe": "pp",
+     "pagina": 6
+    },
+    {
+     "informe": "vox",
+     "pagina": 7
+    },
+    {
+     "informe": "fa",
+     "pagina": 8
+    },
+    {
+     "informe": "podemos",
+     "pagina": 11
+    },
+    {
+     "informe": "psoe",
+     "pagina": 6
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q02",
+  "order": 2,
+  "block": 1,
+  "ambito": 1,
+  "text": "El Estado debería crear o ampliar empresas públicas en sectores básicos como la energía, la banca o la alimentación.",
+  "fast": true,
+  "help": {
+   "medida": "Empresas públicas en energía, banca y alimentación",
+   "ahora": "El Estado posee, a través de la SEPI, el 20% de Redeia, matriz de Red Eléctrica. El fondo España Crece prevé aportar 13.300 millones al ICO.",
+   "aFavor": "Una empresa pública puede corregir fallos de financiación e invertir donde el mercado no llega por sí solo.",
+   "enContra": "Una empresa pública necesita capital del Estado y puede generar pérdidas y recapitalizaciones a cargo del presupuesto.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 50
+    },
+    {
+     "informe": "psoe",
+     "pagina": 5
+    },
+    {
+     "informe": "fa",
+     "pagina": 5
+    },
+    {
+     "informe": "podemos",
+     "pagina": 8
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q01",
+  "order": 3,
+  "block": 1,
+  "ambito": 1,
+  "text": "Hay que reducir con fuerza los trámites y normas que deben cumplir las empresas.",
+  "fast": false,
+  "help": {
+   "medida": "Menos trámites y normas para las empresas",
+   "ahora": "La Ley 39/2015 ya aplica el silencio positivo en algunos trámites. También existe ya una ley de unidad de mercado.",
+   "aFavor": "Menos trámites y normas pueden reducir los costes fijos de las empresas, sobre todo de las pequeñas.",
+   "enContra": "Menos trámites y normas pueden trasladar el control a inspecciones posteriores y eliminar protecciones sin mejorar la productividad.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 6
+    },
+    {
+     "informe": "salf",
+     "pagina": 8
+    },
+    {
+     "informe": "pp",
+     "pagina": 5
+    },
+    {
+     "informe": "fa",
+     "pagina": 6
+    },
+    {
+     "informe": "psoe",
+     "pagina": 5
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q04",
+  "order": 4,
+  "block": 1,
+  "ambito": 2,
+  "text": "Las personas con patrimonios muy grandes deberían pagar un impuesto anual específico sobre su riqueza.",
+  "fast": false,
+  "help": {
+   "medida": "Impuesto anual a los grandes patrimonios",
+   "ahora": "Ya existen el Impuesto sobre el Patrimonio, cedido a las comunidades, y el impuesto de solidaridad de las grandes fortunas. Este último nació con la Ley 38/2022 y está prorrogado.",
+   "aFavor": "Un impuesto anual a grandes patrimonios puede elevar lo que pagan quienes más riqueza acumulan y aportar recaudación.",
+   "enContra": "Un impuesto anual a grandes patrimonios puede provocar cambios de residencia o de bienes y recaudar menos de lo previsto.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "podemos",
+     "pagina": 49
+    },
+    {
+     "informe": "podemos",
+     "pagina": 67
+    },
+    {
+     "informe": "podemos",
+     "pagina": 11
+    },
+    {
+     "informe": "fa",
+     "pagina": 7
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q05",
+  "order": 5,
+  "block": 1,
+  "ambito": 2,
+  "text": "Hay que reducir el gasto público y suprimir organismos de la Administración.",
+  "fast": true,
+  "help": {
+   "medida": "Recorte del gasto y de organismos públicos",
+   "ahora": "La AIReF estima que el gasto primario neto crecerá un 5,7% de media entre 2026 y 2028. El compromiso fijado era un crecimiento del 3,2%.",
+   "aFavor": "Suprimir organismos y recortar gasto puede ahorrar altos cargos, gabinetes, sedes y duplicidades.",
+   "enContra": "Suprimir organismos y recortar gasto puede eliminar controles útiles, y las funciones trasladadas siguen necesitando personal y gasto.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 6
+    },
+    {
+     "informe": "salf",
+     "pagina": 50
+    },
+    {
+     "informe": "salf",
+     "pagina": 34
+    },
+    {
+     "informe": "vox",
+     "pagina": 32
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q08",
+  "order": 6,
+  "block": 1,
+  "ambito": 3,
+  "text": "La jornada laboral máxima debería bajar por ley hasta 32 horas semanales o menos, sin reducir el salario.",
+  "fast": false,
+  "help": {
+   "medida": "Jornada máxima de 32 horas sin bajar salario",
+   "ahora": "La jornada legal general sigue en 40 horas semanales. En septiembre de 2025 el Congreso rechazó, por 178 votos contra 170, un proyecto para bajarla a 37,5 horas.",
+   "aFavor": "Trabajar menos horas puede mejorar el bienestar y ayudar a que el personal siga en la empresa. Los ensayos voluntarios con menos horas aportan evidencia de más bienestar en la plantilla.",
+   "enContra": "A igual salario, pasar de 40 a 32 horas sube un 25% el coste de cada hora trabajada. Los ensayos de cuatro días no prueban que todos los sectores mantengan su productividad.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 9
+    },
+    {
+     "informe": "psoe",
+     "pagina": 32
+    },
+    {
+     "informe": "podemos",
+     "pagina": 12
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q07",
+  "order": 7,
+  "block": 1,
+  "ambito": 2,
+  "text": "El impuesto de sociedades debería mantenerse o subir.",
+  "fast": true,
+  "help": {
+   "medida": "Rebaja del impuesto de sociedades",
+   "ahora": "La Ley 27/2014 regula el impuesto de sociedades. La Ley 7/2024 somete a los grandes grupos a un impuesto complementario mínimo.",
+   "aFavor": "Bajar el impuesto puede atraer traslados solo contables, y en grandes grupos el mínimo global puede cobrar la diferencia.",
+   "enContra": "Bajar el impuesto deja más beneficio para reinvertir, y sus incentivos fiscales pueden atraer inversión.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "salf",
+     "pagina": 39
+    },
+    {
+     "informe": "vox",
+     "pagina": 7
+    },
+    {
+     "informe": "pp",
+     "pagina": 6
+    },
+    {
+     "informe": "fa",
+     "pagina": 8
+    },
+    {
+     "informe": "podemos",
+     "pagina": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q09",
+  "order": 8,
+  "block": 1,
+  "ambito": 3,
+  "text": "Despedir a un trabajador debería ser más caro o más difícil para las empresas.",
+  "fast": false,
+  "help": {
+   "medida": "Despido más caro o más difícil",
+   "ahora": "El marco laboral vigente incluye la reforma laboral de 2021, el Real Decreto-ley 32/2021, y sus modificaciones.",
+   "aFavor": "Más garantías frente al despido pueden reducir despidos injustificados y la rotación, y beneficiar a personas con empleo precario.",
+   "enContra": "Más garantías frente al despido pueden frenar nuevas contrataciones y favorecer a quien ya tiene empleo frente a quien lo busca.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 8
+    },
+    {
+     "informe": "vox",
+     "pagina": 43
+    },
+    {
+     "informe": "fa",
+     "pagina": 10
+    },
+    {
+     "informe": "podemos",
+     "pagina": 12
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q11",
+  "order": 9,
+  "block": 1,
+  "ambito": 4,
+  "text": "La edad ordinaria de jubilación debería bajar a los 65 años o menos.",
+  "fast": true,
+  "help": {
+   "medida": "Jubilación ordinaria a los 65 años o antes",
+   "ahora": "En 2026 la edad ordinaria de jubilación es 65 años con al menos 38 años y 3 meses cotizados. En otro caso es 66 años y 10 meses.",
+   "aFavor": "Adelantar la jubilación da más años de pensión y puede reducir las carencias económicas de las personas mayores.",
+   "enContra": "Adelantar la jubilación da menos años de cotización y crea necesidades de financiación permanentes, distintas para cada generación.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 11
+    },
+    {
+     "informe": "podemos",
+     "pagina": 14
+    },
+    {
+     "informe": "podemos",
+     "pagina": 15
+    },
+    {
+     "informe": "pp",
+     "pagina": 8
+    },
+    {
+     "informe": "salf",
+     "pagina": 16
+    },
+    {
+     "informe": "salf",
+     "pagina": 52
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q12",
+  "order": 10,
+  "block": 2,
+  "ambito": 5,
+  "text": "El Estado debería poder fijar topes al precio del alquiler en las zonas con precios muy altos.",
+  "fast": true,
+  "help": {
+   "medida": "Topes al precio del alquiler en zonas tensionadas",
+   "ahora": "La Ley 12/2023 por el derecho a la vivienda ya incluye mecanismos para zonas de mercado tensionado. Activarlos, ampliarlos o sustituirlos exige revisar qué competencias tienen el Estado y las comunidades.",
+   "aFavor": "Los topes pueden reducir lo que pagan los inquilinos que quedan cubiertos por la regulación. Un estudio sobre San Francisco encontró que el control protegió a los inquilinos frente al desplazamiento.",
+   "enContra": "Los topes pueden llevar a los propietarios a cambiar el mantenimiento, la selección de inquilinos o el tipo de alquiler que ofrecen. El mismo estudio sobre San Francisco encontró que parte de los propietarios retiró viviendas del alquiler.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 13
+    },
+    {
+     "informe": "psoe",
+     "pagina": 10
+    },
+    {
+     "informe": "pp",
+     "pagina": 9
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q13",
+  "order": 11,
+  "block": 2,
+  "ambito": 5,
+  "text": "La mejor forma de abaratar la vivienda es liberar suelo, agilizar licencias y bajar impuestos, más que intervenir el mercado.",
+  "fast": true,
+  "help": {
+   "medida": "Más suelo, licencias rápidas y menos impuestos",
+   "ahora": "La Ley 12/2023 permite aplicar medidas al alquiler en zonas de mercado tensionado. La vivienda nueva paga IVA al comprarse y la de segunda mano paga el impuesto de transmisiones (ITP).",
+   "aFavor": "Aumentar la oferta efectiva de viviendas puede mejorar el acceso a la vivienda a medio plazo. Simplificar licencias puede acortar demoras administrativas si hay expedientes completos, personal y controles técnicos.",
+   "enContra": "Si la oferta crece despacio, parte de las rebajas fiscales a la compra puede trasladarse al precio. Una licencia más rápida no entrega una vivienda si faltan suelo urbanizado, trabajadores y financiación.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 13
+    },
+    {
+     "informe": "pp",
+     "pagina": 9
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    },
+    {
+     "informe": "salf",
+     "pagina": 18
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q16",
+  "order": 12,
+  "block": 2,
+  "ambito": 5,
+  "text": "Habría que prohibir o limitar mucho los pisos turísticos en las zonas con escasez de vivienda.",
+  "fast": true,
+  "help": {
+   "medida": "Prohibir o limitar pisos turísticos en zonas tensionadas",
+   "ahora": "Cualquier límite a los pisos turísticos depende de licencias, competencias repartidas e inspección de los ayuntamientos. Los informes no citan una norma estatal vigente que los prohíba.",
+   "aFavor": "Limitar los pisos turísticos puede devolver viviendas al uso residencial en las zonas con escasez.",
+   "enContra": "Limitar los pisos turísticos puede desviar viviendas a alquileres de temporada o por habitaciones en lugar del alquiler habitual.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 17
+    },
+    {
+     "informe": "fa",
+     "pagina": 13
+    },
+    {
+     "informe": "psoe",
+     "pagina": 10
+    },
+    {
+     "informe": "salf",
+     "pagina": 18
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q14",
+  "order": 13,
+  "block": 2,
+  "ambito": 5,
+  "text": "La policía debería poder desalojar una vivienda ocupada ilegalmente en un plazo máximo de 48 horas.",
+  "fast": true,
+  "help": {
+   "medida": "Desalojo policial de viviendas ocupadas en 48 horas",
+   "ahora": "La vía para recuperar una vivienda cambia según sea allanamiento, usurpación o impago de alquiler. Acelerarla exige notificación, defensa, prueba y decisión judicial cuando proceda.",
+   "aFavor": "Un desalojo rápido refuerza la protección de los propietarios frente a la ocupación de su vivienda. En casos concretos, como una ocupación flagrante, los análisis ven más viable cumplir un plazo corto.",
+   "enContra": "Un desalojo rápido puede causar errores, porque un título de propiedad no resuelve por sí solo el derecho a ocupar. Los análisis ven poco viable cumplir el plazo en todos los casos sin más juzgados ni alojamiento alternativo.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 17
+    },
+    {
+     "informe": "vox",
+     "pagina": 10
+    },
+    {
+     "informe": "vox",
+     "pagina": 16
+    },
+    {
+     "informe": "pp",
+     "pagina": 15
+    },
+    {
+     "informe": "psoe",
+     "pagina": 18
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q15",
+  "order": 14,
+  "block": 2,
+  "ambito": 5,
+  "text": "El Estado debería poder expropiar, con compensación, viviendas vacías de grandes propietarios para destinarlas a alquiler social.",
+  "fast": false,
+  "help": {
+   "medida": "Expropiar con compensación viviendas vacías de grandes propietarios",
+   "ahora": "Hoy una expropiación exige una causa pública, un expediente, un justiprecio y el pago al propietario.",
+   "aFavor": "Expropiar viviendas vacías amplía el parque público de alquiler sin esperar a construir otras nuevas.",
+   "enContra": "Expropiar viviendas vacías cuesta dinero público en justiprecio y gestión, y no todas son habitables o están donde hay demanda.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 12
+    },
+    {
+     "informe": "psoe",
+     "pagina": 9
+    },
+    {
+     "informe": "psoe",
+     "pagina": 10
+    },
+    {
+     "informe": "podemos",
+     "pagina": 18
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q18",
+  "order": 15,
+  "block": 3,
+  "ambito": 6,
+  "text": "La sanidad pública debería dejar de pagar a centros privados para atender a sus pacientes.",
+  "fast": true,
+  "help": {
+   "medida": "Dejar de pagar a centros sanitarios privados",
+   "ahora": "Las comunidades autónomas gestionan gran parte de la sanidad pública. Parte de la atención se presta hoy mediante contratos y concesiones con centros privados.",
+   "aFavor": "Pasar a gestión pública directa puede cambiar los incentivos y el control sobre la atención. Pagar a centros privados no añade capacidad si usan los mismos especialistas que la red pública.",
+   "enContra": "Cambiar la forma de gestión no crea personal ni equipos, y la red pública debe absorber esa actividad. Revertir contratos tiene costes propios, como indemnizaciones, y riesgo de interrumpir la atención a pacientes.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 10
+    },
+    {
+     "informe": "podemos",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 20
+    },
+    {
+     "informe": "fa",
+     "pagina": 15
+    },
+    {
+     "informe": "salf",
+     "pagina": 19
+    },
+    {
+     "informe": "vox",
+     "pagina": 11
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q19",
+  "order": 16,
+  "block": 3,
+  "ambito": 6,
+  "text": "Los inmigrantes en situación irregular deberían tener acceso a la sanidad pública igual que el resto de residentes.",
+  "fast": false,
+  "help": {
+   "medida": "Igual acceso sanitario para inmigrantes en situación irregular",
+   "ahora": "La Ley 16/2003 y el Real Decreto 180/2026 regulan el acceso sanitario de personas sin residencia legal, con protecciones específicas. Esa cobertura no depende solo de haber cotizado.",
+   "aFavor": "El acceso ordinario evita retrasos en la atención que pueden acabar trasladando casos a urgencias.",
+   "enContra": "El acceso ordinario añade gasto en consultas de personas sin residencia legal, que una cobertura solo de urgencias no tendría.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 11
+    },
+    {
+     "informe": "vox",
+     "pagina": 26
+    },
+    {
+     "informe": "salf",
+     "pagina": 20
+    },
+    {
+     "informe": "podemos",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q20",
+  "order": 17,
+  "block": 3,
+  "ambito": 7,
+  "text": "El dinero público para educación debería ir solo a la escuela pública, reduciendo los conciertos con colegios privados.",
+  "fast": true,
+  "help": {
+   "medida": "Dinero educativo solo para la escuela pública",
+   "ahora": "Hoy el dinero público financia centros públicos y centros privados concertados. Las comunidades autónomas gestionan buena parte de esa financiación.",
+   "aFavor": "La elección de centro puede aumentar la separación de alumnos entre centros, según las reglas de admisión y plazas. Pasar recursos a la red pública puede beneficiar a unas familias, según dónde se amplíen las plazas.",
+   "enContra": "La elección de centro puede ampliar las oportunidades de las familias, según las reglas de admisión y plazas. El mismo cambio de red puede obligar a otras familias a cambiar de centro durante la transición.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 11
+    },
+    {
+     "informe": "fa",
+     "pagina": 16
+    },
+    {
+     "informe": "vox",
+     "pagina": 12
+    },
+    {
+     "informe": "salf",
+     "pagina": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q22",
+  "order": 18,
+  "block": 3,
+  "ambito": 7,
+  "text": "La ley educativa actual (LOMLOE) debería sustituirse por otra con más exámenes externos y más exigencia para pasar de curso.",
+  "fast": false,
+  "help": {
+   "medida": "Sustituir la LOMLOE por una ley más exigente",
+   "ahora": "La LOMLOE (Ley Orgánica 3/2020) reformó la Ley Orgánica 2/2006 de Educación, que sigue vigente con esos cambios. Cambiar el sistema exige otra ley orgánica y su aplicación por las comunidades.",
+   "aFavor": "Las pruebas externas comunes permiten comparar resultados y detectar antes los problemas de aprendizaje.",
+   "enContra": "Exigir más para aprobar sin dar apoyos puede aumentar la repetición sin mejorar el aprendizaje.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "salf",
+     "pagina": 75
+    },
+    {
+     "informe": "pp",
+     "pagina": 11
+    },
+    {
+     "informe": "salf",
+     "pagina": 22
+    },
+    {
+     "informe": "vox",
+     "pagina": 12
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q23",
+  "order": 19,
+  "block": 4,
+  "ambito": 8,
+  "text": "El aborto debería seguir siendo un derecho garantizado en la sanidad pública.",
+  "fast": false,
+  "help": {
+   "medida": "Aborto garantizado en la sanidad pública",
+   "ahora": "En abril de 2026 el Gobierno propuso proteger el aborto en el artículo 43 de la Constitución, sin aprobación todavía. Los informes distinguen entre aplicar los derechos reproductivos ya vigentes y añadir esa protección constitucional.",
+   "aFavor": "Mantener el aborto como derecho garantizado obliga a la red pública a prestarlo en todos los territorios. Protegerlo en la Constitución impediría restringirlo con una mayoría parlamentaria ordinaria.",
+   "enContra": "Mantener el aborto como derecho garantizado deja sin aplicar el principio de proteger la vida desde la concepción. Protegerlo en la Constitución impediría aplicar ese principio con una mayoría parlamentaria ordinaria.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 16
+    },
+    {
+     "informe": "psoe",
+     "pagina": 46
+    },
+    {
+     "informe": "fa",
+     "pagina": 15
+    },
+    {
+     "informe": "podemos",
+     "pagina": 25
+    },
+    {
+     "informe": "vox",
+     "pagina": 13
+    },
+    {
+     "informe": "podemos",
+     "pagina": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q17",
+  "order": 20,
+  "block": 4,
+  "ambito": 9,
+  "text": "Las personas con nacionalidad española deberían tener prioridad sobre los extranjeros residentes en la vivienda pública y las ayudas sociales.",
+  "fast": true,
+  "help": {
+   "medida": "Prioridad de nacionales en vivienda y ayudas",
+   "ahora": "El Ingreso Mínimo Vital ya exige, con excepciones, residencia legal y efectiva en España. Las normas europeas exigen igualdad en ayudas sociales para trabajadores de la UE y residentes de larga duración, con algunos límites.",
+   "aFavor": "La preferencia adelanta en las listas de vivienda y ayudas a quienes tienen nacionalidad española. Reducir el número de personas con derecho puede rebajar el gasto en prestaciones.",
+   "enContra": "La preferencia no crea plazas nuevas y puede dejar fuera a hogares extranjeros con menores. El ahorro depende de cuántas personas quedan excluidas, y pueden aparecer costes en otras administraciones.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 10
+    },
+    {
+     "informe": "vox",
+     "pagina": 14
+    },
+    {
+     "informe": "vox",
+     "pagina": 26
+    },
+    {
+     "informe": "salf",
+     "pagina": 29
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    },
+    {
+     "informe": "psoe",
+     "pagina": 17
+    },
+    {
+     "informe": "pp",
+     "pagina": 9
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q25",
+  "order": 21,
+  "block": 4,
+  "ambito": 9,
+  "text": "Las personas trans deberían poder cambiar su sexo en el registro civil con su propia declaración.",
+  "fast": false,
+  "help": {
+   "medida": "Cambio de sexo registral por declaración propia",
+   "ahora": "El registro civil permite hoy la autodeterminación del sexo, y una de las propuestas plantea revisarla. Otra propuesta plantea reconocer también a las personas no binarias.",
+   "aFavor": "El cambio por declaración propia puede facilitar el reconocimiento legal de la persona y su acceso a servicios.",
+   "enContra": "El cambio por declaración propia puede generar conflictos con otros derechos en ámbitos que separan por sexo, como el deporte.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 13
+    },
+    {
+     "informe": "fa",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 25
+    },
+    {
+     "informe": "vox",
+     "pagina": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q24",
+  "order": 22,
+  "block": 4,
+  "ambito": 9,
+  "text": "Rechazar ofertas de empleo no debería suponer perder el Ingreso Mínimo Vital.",
+  "fast": false,
+  "help": {
+   "medida": "Retirada del Ingreso Mínimo Vital por rechazar ofertas de empleo",
+   "ahora": "La Ley 19/2021 regula el Ingreso Mínimo Vital, que ya incluye un incentivo para compatibilizarlo con un empleo. AIReF estima que en 2025 no lo pedía el 52% de los hogares que cumplían los requisitos.",
+   "aFavor": "Retirar el Ingreso Mínimo Vital por rechazar ofertas puede desproteger a hogares si no se define qué oferta es adecuada.",
+   "enContra": "Retirar el Ingreso Mínimo Vital por rechazar ofertas adecuadas puede acelerar la aceptación de empleo entre quienes lo cobran.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 39
+    },
+    {
+     "informe": "salf",
+     "pagina": 27
+    },
+    {
+     "informe": "pp",
+     "pagina": 13
+    },
+    {
+     "informe": "podemos",
+     "pagina": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q27",
+  "order": 23,
+  "block": 5,
+  "ambito": 10,
+  "text": "Debería aprobarse una regularización extraordinaria de los inmigrantes que ya viven y trabajan en España.",
+  "fast": true,
+  "help": {
+   "medida": "Regularización extraordinaria de inmigrantes",
+   "ahora": "En abril de 2026 el Real Decreto 316/2026 aprobó un proceso extraordinario de regularización por arraigo, cuyos expedientes siguen en trámite. La normativa de extranjería contempla además vías ordinarias de arraigo.",
+   "aFavor": "Regularizar puede facilitar el empleo formal, el pago de cotizaciones y el acceso a derechos.",
+   "enContra": "Regularizar exige personal, intérpretes y sistemas, y sus efectos sobre vivienda y servicios varían por territorio.",
+   "fuentes": [
+    {
+     "informe": "fa",
+     "pagina": 20
+    },
+    {
+     "informe": "fa",
+     "pagina": 50
+    },
+    {
+     "informe": "salf",
+     "pagina": 73
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    },
+    {
+     "informe": "vox",
+     "pagina": 15
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q28",
+  "order": 24,
+  "block": 5,
+  "ambito": 10,
+  "text": "Los inmigrantes en situación irregular deberían ser expulsados de forma sistemática.",
+  "fast": true,
+  "help": {
+   "medida": "Expulsión sistemática de inmigrantes en situación irregular",
+   "ahora": "La Ley Orgánica 4/2000 y la Directiva europea 2008/115 exigen examinar cada caso y prohíben devolver a quien corre un riesgo grave. Las nuevas reglas europeas de retorno, adoptadas el 1 de octubre de 2026, se aplican por fases y mantienen esas garantías.",
+   "aFavor": "Más medios y personal pueden mejorar la ejecución de las órdenes de expulsión. Condicionar ayudas y visados puede servir para negociar que otros países readmitan a sus nacionales.",
+   "enContra": "Una orden de expulsión no equivale a una salida si falta identificar a la persona o al país receptor. Ninguna ley española obliga a otro país a readmitir, y cortar la cooperación puede dificultarlo.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 15
+    },
+    {
+     "informe": "vox",
+     "pagina": 38
+    },
+    {
+     "informe": "vox",
+     "pagina": 39
+    },
+    {
+     "informe": "pp",
+     "pagina": 14
+    },
+    {
+     "informe": "salf",
+     "pagina": 28
+    },
+    {
+     "informe": "salf",
+     "pagina": 65
+    },
+    {
+     "informe": "fa",
+     "pagina": 20
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q29",
+  "order": 25,
+  "block": 5,
+  "ambito": 10,
+  "text": "Los requisitos para obtener la nacionalidad española no deberían endurecerse.",
+  "fast": true,
+  "help": {
+   "medida": "Requisitos más exigentes para obtener la nacionalidad",
+   "ahora": "El Código Civil fija un plazo general de residencia para pedir la nacionalidad y otros más cortos, por ejemplo para iberoamericanos.",
+   "aFavor": "Más requisitos exigen excepciones y control de proporcionalidad, y necesitan más capacidad para tramitar los expedientes.",
+   "enContra": "Más requisitos, como un examen o más años de residencia, permiten comprobar más condiciones antes de conceder la nacionalidad.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 29
+    },
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "vox",
+     "pagina": 15
+    },
+    {
+     "informe": "pp",
+     "pagina": 14
+    },
+    {
+     "informe": "podemos",
+     "pagina": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q31",
+  "order": 26,
+  "block": 5,
+  "ambito": 11,
+  "text": "La Ley de Seguridad Ciudadana de 2015 debería sustituirse por otra nueva.",
+  "fast": false,
+  "help": {
+   "medida": "Nueva ley de seguridad ciudadana",
+   "ahora": "La Ley Orgánica 4/2015 de seguridad ciudadana está en vigor y regula sanciones administrativas, entre ellas algunas ligadas a protestas.",
+   "aFavor": "Una ley nueva puede añadir garantías y controles, como cámaras corporales, que protegen a ciudadanos y agentes.",
+   "enContra": "Una ley nueva puede reducir la protección frente a amenazas o incitación al delito si retira sanciones sin sustituirlas.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 18
+    },
+    {
+     "informe": "fa",
+     "pagina": 21
+    },
+    {
+     "informe": "podemos",
+     "pagina": 29
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q37",
+  "order": 27,
+  "block": 6,
+  "ambito": 13,
+  "text": "El Estado debería asumir una parte importante de la deuda de las comunidades autónomas.",
+  "fast": true,
+  "help": {
+   "medida": "Asunción estatal de deuda autonómica",
+   "ahora": "En junio de 2026 el Ministerio de Hacienda propuso que el Estado asuma deuda de las comunidades autónomas. Aplicarlo exige aprobar leyes y reunir votos en las Cortes.",
+   "aFavor": "Asumir deuda autonómica reduce la que soportan las comunidades y les deja más dinero para sus pagos.",
+   "enContra": "Asumir deuda autonómica la traslada al Estado sin reducir el total que deben las administraciones públicas.",
+   "fuentes": [
+    {
+     "informe": "psoe",
+     "pagina": 47
+    },
+    {
+     "informe": "psoe",
+     "pagina": 20
+    },
+    {
+     "informe": "psoe",
+     "pagina": 29
+    },
+    {
+     "informe": "fa",
+     "pagina": 23
+    },
+    {
+     "informe": "pp",
+     "pagina": 17
+    },
+    {
+     "informe": "salf",
+     "pagina": 39
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q33",
+  "order": 28,
+  "block": 6,
+  "ambito": 12,
+  "text": "Los jueces deberían elegir a la mayoría de los miembros del Consejo General del Poder Judicial.",
+  "fast": true,
+  "help": {
+   "medida": "Elección judicial de la mayoría del CGPJ",
+   "ahora": "La Constitución fija la composición del Consejo General del Poder Judicial y las mayorías para elegir a sus vocales. En 2024 un acuerdo renovó el Consejo tras un bloqueo prolongado, y el BOE publicó en agosto la Ley Orgánica 3/2024.",
+   "aFavor": "Que elijan los propios jueces puede reducir una vía de influencia política en los nombramientos del Consejo.",
+   "enContra": "Que elijan los propios jueces puede abrir otras vías de influencia, y exige controles de pluralidad y responsabilidad.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 17
+    },
+    {
+     "informe": "fa",
+     "pagina": 22
+    },
+    {
+     "informe": "pp",
+     "pagina": 16
+    },
+    {
+     "informe": "pp",
+     "pagina": 37
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q35",
+  "order": 29,
+  "block": 6,
+  "ambito": 12,
+  "text": "Habría que suprimir el Senado mediante una reforma de la Constitución.",
+  "fast": false,
+  "help": {
+   "medida": "Supresión del Senado mediante reforma constitucional",
+   "ahora": "El Senado tiene base en la Constitución, y suprimirlo exige más que una mayoría ordinaria. Hoy interviene en la tramitación de leyes, en nombramientos y en las reformas de la Constitución.",
+   "aFavor": "Suprimir el Senado ahorra el gasto de una segunda cámara y deja una fase menos en la tramitación de las leyes.",
+   "enContra": "Suprimir el Senado elimina una cámara que podría representar a las comunidades, y el ahorro debe descontar las funciones trasladadas.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 38
+    },
+    {
+     "informe": "salf",
+     "pagina": 2
+    },
+    {
+     "informe": "vox",
+     "pagina": 5
+    },
+    {
+     "informe": "podemos",
+     "pagina": 33
+    },
+    {
+     "informe": "psoe",
+     "pagina": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q36",
+  "order": 30,
+  "block": 6,
+  "ambito": 13,
+  "text": "El Estado debería recuperar competencias que hoy tienen las comunidades autónomas, como la educación o la sanidad.",
+  "fast": true,
+  "help": {
+   "medida": "Recentralización de competencias autonómicas en el Estado",
+   "ahora": "La Constitución reparte las competencias entre el Estado y las comunidades autónomas y protege su autonomía. El Estado fija bases y coordina, y las comunidades gestionan servicios como la sanidad y la educación.",
+   "aFavor": "Recuperar competencias puede reducir las diferencias entre territorios en sanidad, educación, seguridad y justicia. Una compra sanitaria centralizada y obligatoria puede mejorar la negociación de precios con los proveedores.",
+   "enContra": "Recuperar competencias no garantiza igual acceso en cada territorio, y un estándar común puede lograr cohesión sin cambiar la gestión. El ahorro de la compra conjunta depende de cada producto, y concentrar proveedores puede causar desabastecimiento.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 17
+    },
+    {
+     "informe": "vox",
+     "pagina": 18
+    },
+    {
+     "informe": "fa",
+     "pagina": 23
+    },
+    {
+     "informe": "salf",
+     "pagina": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q40",
+  "order": 31,
+  "block": 7,
+  "ambito": 14,
+  "text": "Las centrales nucleares deberían seguir funcionando más allá del calendario de cierre previsto.",
+  "fast": true,
+  "help": {
+   "medida": "Alargar la vida de las centrales nucleares",
+   "ahora": "Una orden de agosto de 2026 (TED/864/2026) autoriza la central de Almaraz hasta el 8 de junio de 2030. El calendario de cierre nuclear vigente sitúa el horizonte de cierre en 2035.",
+   "aFavor": "Alargar la vida de las centrales puede aportar energía firme al sistema eléctrico.",
+   "enContra": "Alargar la vida de las centrales exige inversiones adicionales y gestionar sus residuos durante más tiempo.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 18
+    },
+    {
+     "informe": "psoe",
+     "pagina": 21
+    },
+    {
+     "informe": "podemos",
+     "pagina": 36
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q41",
+  "order": 32,
+  "block": 7,
+  "ambito": 14,
+  "text": "España debería frenar o revertir las normas climáticas del Pacto Verde Europeo.",
+  "fast": true,
+  "help": {
+   "medida": "Frenar o revertir el Pacto Verde Europeo",
+   "ahora": "En España rigen la Ley 7/2021 de cambio climático y la ley europea del clima (Reglamento 2021/1119). Cambiar las normas europeas exige los procedimientos de la UE, donde no existe un veto nacional general.",
+   "aFavor": "Aliviar estas normas puede reducir los costes de algunos productores y usuarios. Frenar normas como la de restauración puede reducir restricciones sobre la producción agraria.",
+   "enContra": "Frenar estas normas puede elevar los costes de las emisiones, la contaminación y la adaptación al clima. Una ley española no puede anular esas obligaciones europeas, que seguirían vigentes.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 19
+    },
+    {
+     "informe": "vox",
+     "pagina": 42
+    },
+    {
+     "informe": "salf",
+     "pagina": 41
+    },
+    {
+     "informe": "pp",
+     "pagina": 18
+    },
+    {
+     "informe": "fa",
+     "pagina": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q42",
+  "order": 33,
+  "block": 7,
+  "ambito": 14,
+  "text": "Habría que bajar los impuestos a la electricidad y los carburantes.",
+  "fast": false,
+  "help": {
+   "medida": "Bajar impuestos a la electricidad y carburantes",
+   "ahora": "La electricidad paga IVA, regulado por la Ley 37/1992, y un impuesto estatal del 7% sobre su producción. La Directiva europea 2006/112 fija qué productos pueden tener tipos de IVA reducidos.",
+   "aFavor": "Bajar los impuestos sobre la luz puede reducir la factura de hogares y empresas.",
+   "enContra": "Bajar los impuestos sobre la luz puede dejar parte de la rebaja en el margen de las empresas y reduce la recaudación.",
+   "fuentes": [
+    {
+     "informe": "pp",
+     "pagina": 18
+    },
+    {
+     "informe": "salf",
+     "pagina": 40
+    },
+    {
+     "informe": "salf",
+     "pagina": 73
+    },
+    {
+     "informe": "salf",
+     "pagina": 74
+    },
+    {
+     "informe": "vox",
+     "pagina": 19
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q44",
+  "order": 34,
+  "block": 7,
+  "ambito": 15,
+  "text": "España debería oponerse al acuerdo comercial entre la Unión Europea y Mercosur.",
+  "fast": true,
+  "help": {
+   "medida": "Oposición al acuerdo UE y Mercosur",
+   "ahora": "El acuerdo comercial interino entre la Unión Europea y Mercosur se aplica de forma provisional desde el 1 de mayo de 2026.",
+   "aFavor": "Oponerse al acuerdo puede proteger a la producción agraria española de importaciones hechas con otras normas.",
+   "enContra": "Oponerse al acuerdo puede perjudicar a los exportadores, y no garantiza que todos los sectores ganen con su retirada.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 20
+    },
+    {
+     "informe": "vox",
+     "pagina": 23
+    },
+    {
+     "informe": "salf",
+     "pagina": 41
+    },
+    {
+     "informe": "pp",
+     "pagina": 19
+    },
+    {
+     "informe": "psoe",
+     "pagina": 23
+    },
+    {
+     "informe": "podemos",
+     "pagina": 37
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q45",
+  "order": 35,
+  "block": 7,
+  "ambito": 16,
+  "text": "El transporte público debería ser gratuito.",
+  "fast": false,
+  "help": {
+   "medida": "Transporte público gratuito para todos",
+   "ahora": "El transporte público se financia hoy con billetes y abonos, además de fondos de varias administraciones.",
+   "aFavor": "La gratuidad elimina el pago del billete y puede mejorar el acceso al transporte. Si más personas dejan el coche, también puede reducir el impacto ambiental.",
+   "enContra": "La gratuidad puede hacer crecer la demanda más rápido que la capacidad, y obliga a financiar los ingresos perdidos. Los viajes nuevos en transporte público no siempre sustituyen viajes en coche.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 39
+    },
+    {
+     "informe": "podemos",
+     "pagina": 40
+    },
+    {
+     "informe": "fa",
+     "pagina": 27
+    },
+    {
+     "informe": "psoe",
+     "pagina": 24
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q47",
+  "order": 36,
+  "block": 7,
+  "ambito": 17,
+  "text": "Las grandes plataformas tecnológicas deberían pagar más impuestos en España.",
+  "fast": false,
+  "help": {
+   "medida": "Más impuestos a las grandes plataformas tecnológicas",
+   "ahora": "Las plataformas ya tienen obligaciones fiscales y laborales en España, y su cumplimiento puede inspeccionarse. Los grandes grupos empresariales están sujetos al impuesto mínimo global, que puede exigir tributación complementaria.",
+   "aFavor": "Reforzar su tributación puede aumentar la recaudación sobre operaciones y beneficios que cruzan fronteras.",
+   "enContra": "Reforzar su tributación puede trasladar el coste a los clientes, y la recaudación es incierta sin una base definida.",
+   "fuentes": [
+    {
+     "informe": "podemos",
+     "pagina": 8
+    },
+    {
+     "informe": "salf",
+     "pagina": 9
+    },
+    {
+     "informe": "fa",
+     "pagina": 34
+    },
+    {
+     "informe": "psoe",
+     "pagina": 6
+    },
+    {
+     "informe": "psoe",
+     "pagina": 25
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q49",
+  "order": 37,
+  "block": 8,
+  "ambito": 18,
+  "text": "España debería aumentar el gasto en defensa hasta los objetivos de la OTAN.",
+  "fast": true,
+  "help": {
+   "medida": "Aumento del gasto en defensa hasta objetivos OTAN",
+   "ahora": "La OTAN confirmó en marzo de 2026 que España alcanzó en 2025 un gasto en defensa del 2% del PIB. La referencia de la cumbre de La Haya de 2025 suma al menos 3,5% en defensa y hasta 1,5% en gasto relacionado.",
+   "aFavor": "Más presupuesto puede pagar equipos, personal y salarios, y reforzar la seguridad del país y su capacidad de resistir crisis.",
+   "enContra": "Más presupuesto compite con otras partidas y no garantiza por sí solo que lleguen los equipos.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 44
+    },
+    {
+     "informe": "salf",
+     "pagina": 76
+    },
+    {
+     "informe": "podemos",
+     "pagina": 51
+    },
+    {
+     "informe": "fa",
+     "pagina": 30
+    },
+    {
+     "informe": "vox",
+     "pagina": 23
+    },
+    {
+     "informe": "pp",
+     "pagina": 22
+    },
+    {
+     "informe": "psoe",
+     "pagina": 27
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q50",
+  "order": 38,
+  "block": 8,
+  "ambito": 18,
+  "text": "La Unión Europea tiene demasiado poder y España debería recuperar competencias.",
+  "fast": true,
+  "help": {
+   "medida": "Recuperación de competencias cedidas a la Unión Europea",
+   "ahora": "La política comercial común es hoy competencia de la Unión Europea. Cambiar los tratados exige acuerdo de otros Estados, y una salida seguiría el procedimiento del artículo 50.",
+   "aFavor": "Recuperar competencias permite fijar en España reglas de comercio, agricultura y medio ambiente adaptadas a la producción agraria.",
+   "enContra": "Recuperar competencias cambia reglas comerciales comunes que afectan de forma distinta a productores, consumidores y exportadores.",
+   "fuentes": [
+    {
+     "informe": "salf",
+     "pagina": 42
+    },
+    {
+     "informe": "psoe",
+     "pagina": 27
+    },
+    {
+     "informe": "salf",
+     "pagina": 41
+    },
+    {
+     "informe": "vox",
+     "pagina": 23
+    },
+    {
+     "informe": "vox",
+     "pagina": 20
+    }
+   ]
+  }
+ },
+ {
+  "id": "Q52",
+  "order": 39,
+  "block": 8,
+  "ambito": 19,
+  "text": "La Ley de Memoria Democrática debería derogarse.",
+  "fast": true,
+  "help": {
+   "medida": "Derogación de la Ley de Memoria Democrática",
+   "ahora": "La Ley de Memoria Democrática está en vigor, y las propuestas para desarrollarla incluyen archivos, reparación de víctimas y exhumaciones. Las propuestas de cambiarla no detallan qué texto la sustituiría. Una de ellas une la memoria con cambios en la expresión y en la protección penal de símbolos.",
+   "aFavor": "Derogar la ley puede dejar el reconocimiento de hechos históricos a la investigación, fuera de una norma estatal.",
+   "enContra": "Derogar la ley puede frenar los archivos, la identificación de víctimas y las ayudas que aportan una reparación verificable.",
+   "fuentes": [
+    {
+     "informe": "vox",
+     "pagina": 17
+    },
+    {
+     "informe": "psoe",
+     "pagina": 19
+    },
+    {
+     "informe": "podemos",
+     "pagina": 32
+    },
+    {
+     "informe": "pp",
+     "pagina": 23
+    }
+   ]
+  }
+ }
+]
