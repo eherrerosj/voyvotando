@@ -217,6 +217,9 @@ No hay analítica, ni cookies, ni anuncios, ni scripts de terceros. La web no re
 | `Referrer-Policy` | `no-referrer` |
 | `X-Frame-Options` | `DENY` |
 | `Permissions-Policy` | `camera=(), microphone=(), geolocation=(), interest-cohort=()` |
+| `Cache-Control` | `public, max-age=0, must-revalidate, no-transform`. En `/_astro/` se sustituye por `public, max-age=31536000, immutable`. |
+
+`no-transform` impide que el proveedor modifique el HTML. Cloudflare Web Analytics inserta su script en cada página cuando está activo en la zona DNS, y con esta directiva no lo hace. La CSP bloquearía ese script igualmente, pero dejaría un error en la consola.
 
 `public/_headers` lleva el marcador `__CSP__`. Tras `astro build`, `scripts/csp.mjs` calcula el hash de los 3 scripts en línea que genera Astro y escribe la política en `dist/_headers`. Así ningún otro script se ejecuta, aunque alguien consiga inyectarlo. `connect-src 'self'` impide que el código envíe datos a otro dominio.
 

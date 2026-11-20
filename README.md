@@ -178,7 +178,7 @@ Otros comandos:
 
 `npm run build` genera una web estática en `dist/`. Funciona en cualquier alojamiento de ficheros estáticos.
 
-- Cloudflare Workers: cambia la ruta de `wrangler.jsonc` por tu dominio y ejecuta `npx wrangler deploy`.
+- Cloudflare Workers: cambia la ruta de `wrangler.jsonc` por tu dominio y ejecuta `npx wrangler deploy`. La cabecera `Cache-Control: no-transform` evita que Cloudflare Web Analytics inserte su script, aunque esté activo en tu zona.
 - Otros alojamientos: sube `dist/` y configura las cabeceras de `dist/_headers`, sobre todo la CSP.
 
 ## Adáptalo a otras elecciones
