@@ -1,25 +1,27 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { PARTIES, QUESTIONS } from "../../lib/data";
-import { DISPLAY } from "../../lib/format";
+import { DISPLAY, districtNote, joinEs } from "../../lib/format";
+import { META } from "../../lib/data";
 ---
-<Base title="Los 6 partidos · Voy Votando" description="Fichas de los 6 partidos incluidos en el test: programa, escenarios de gobierno, posiciones y propuestas.">
+<Base title={`Los ${META.parties} partidos · Voy Votando`} description={`Fichas de los ${META.parties} partidos incluidos en el test: programa, escenarios de gobierno, posiciones y propuestas.`}>
   <section class="section">
     <div class="wrap">
       <p class="kicker">Partidos incluidos</p>
-      <h1 class="display title">Los 6 partidos</h1>
+      <h1 class="display title">Los {META.parties} partidos</h1>
       <p class="lead">Por orden alfabético. Cada ficha resume el informe de evaluación de su programa: conclusiones, escenarios de gobierno, posiciones en el test y todas las propuestas analizadas.</p>
       <ul class="plist">
         {PARTIES.map((p) => (
           <li class="card">
             <h2 class="display">{DISPLAY[p.id]}</h2>
             <p class="small muted">{p.name}</p>
+            {districtNote(p.id) && <p class="small"><strong>{districtNote(p.id)}.</strong></p>}
             <p>{p.report.units} propuestas analizadas. Posición documentada en {QUESTIONS.filter((q) => q.positions[p.id].value != null).length} de {QUESTIONS.length} preguntas.</p>
             <a class="btn btn--small" href={`/partidos/${p.id}`}>Ver ficha <span class="arrow" aria-hidden="true">→</span></a>
           </li>
         ))}
       </ul>
-      <p class="small">No incluidos por no tener informe: PNV, Junts, ERC, EH Bildu, BNG, Coalición Canaria y UPN.</p>
+      <p class="small">Aún sin informe, y por eso fuera del test: {joinEs(META.notIncluded)}.</p>
     </div>
   </section>
 </Base>

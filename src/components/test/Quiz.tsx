@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { BLOCKS, CORE_FAST, CORE_QUESTIONS, INTERLUDES, META, type CoreQuestion } from "../../lib/data-core";
+import { DISPLAY } from "../../lib/format";
 import { clearProgress, loadProgress, saveProgress, toHash } from "../../lib/state";
 import type { Answers, Help, Scale } from "../../lib/types";
 import "./quiz.css";
@@ -12,7 +13,6 @@ const SCALE: { v: Scale; label: string; key: string }[] = [
   { v: -2, label: "Muy en desacuerdo", key: "5" },
 ];
 
-const REPORT_NAME: Record<string, string> = { fa: "Frente Amplio", podemos: "Podemos", pp: "PP", psoe: "PSOE", salf: "SALF", vox: "Vox" };
 
 type Stage = { kind: "priorities" } | { kind: "question"; index: number };
 
@@ -36,7 +36,7 @@ function Sources({ help }: { help: Help }) {
       Fuentes: informe de evaluación del programa de{" "}
       {items.map(([rep, pages], i) => (
         <span key={rep}>
-          {REPORT_NAME[rep] ?? rep} (
+          {DISPLAY[rep as keyof typeof DISPLAY] ?? rep} (
           {pages.sort((a, b) => a - b).map((pg, j) => (
             <span key={pg}>{j > 0 ? ", " : ""}<a href={`/informes/${rep}.pdf#page=${pg}`} target="_blank" rel="noopener">p. {pg}</a></span>
           ))}

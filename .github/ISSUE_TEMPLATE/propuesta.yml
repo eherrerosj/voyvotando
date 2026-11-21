@@ -20,5 +20,5 @@ body:
       options:
         - label: La propuesta no añade rastreadores, cookies, anuncios ni envío de respuestas a ningún servidor.
           required: true
-        - label: La propuesta trata a los 6 partidos con el mismo criterio.
+        - label: La propuesta trata a todos los partidos con el mismo criterio.
           required: true

@@ -1,8 +1,231 @@
 [
  {
+  "id": "bildu",
+  "name": "EH Bildu",
+  "short": "EH Bildu",
+  "display": "EH Bildu",
+  "abbr": "Bildu",
+  "scope": "autonomico",
+  "districts": [
+   "Álava",
+   "Bizkaia",
+   "Gipuzkoa",
+   "Navarra"
+  ],
+  "addedIn": "1.1",
+  "report": {
+   "title": "EH Bildu. Propuestas electorales, viabilidad y acuerdos",
+   "version": "",
+   "cutoff": "2026-11-21",
+   "programDate": "2026-11-16",
+   "programTitle": "Garantía y derechos (versión castellana)",
+   "pages": 109,
+   "units": 152,
+   "pdf": "/informes/bildu.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Promoción por el gobierno competente",
+    "definition": "El ejecutivo competente promueve la medida y dispone de mayoría suficiente para leyes ordinarias u orgánicas. Es un supuesto técnico, no un pronóstico de que EH Bildu presida el Gobierno de España. No presume mayorías constitucionales, decisiones europeas ni consentimiento de otros gobiernos."
+   },
+   "B": {
+    "label": "Pacto estatal compatible",
+    "definition": "Pacto hipotético con fuerzas de izquierda y/o plurinacionales, y votos suficientes para la medida. Se evalúa el compromiso sustancialmente íntegro y sus puntos de fricción, sin afirmar que el pacto exista o que coincidir en una parte implique aceptar todas las demás."
+   },
+   "C": {
+    "label": "Oposición sin pacto estatal estable",
+    "definition": "EH Bildu carece de un acuerdo estatal estable de apoyo. Puede promover iniciativas, negociar votos puntuales y actuar en las instituciones que efectivamente gobierna; no se le atribuye control del Gobierno Vasco, del Gobierno navarro ni de las diputaciones de la CAV."
+   },
+   "E": {
+    "definition": "Se supone que la medida ha sido aprobada válidamente, incluidos los cambios jurídicos necesarios, y tiene financiación adecuada. Se valora la entrega por personal, sistemas, coordinación, plazos y terceros. No se penaliza de nuevo la falta de aprobación o financiación ya supuestas."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Una agenda social y de autogobierno con instrumentos diferentes",
+    "text": "La propuesta combina intervención en vivienda y precios, reducción de jornada, aumento de pensiones y refuerzo de servicios con más capacidad de decisión para las instituciones vascas y navarras. Hay leyes ordinarias, transferencias, reformas constitucionales y decisiones europeas: ninguna calificación única refleja adecuadamente todas esas rutas. El informe evalúa compromisos concretos y sus dependencias."
+   },
+   {
+    "title": "Concreción desigual",
+    "text": "Se fijan algunos umbrales y horizontes —como la jornada de 32 horas, referencias para pensiones, cuotas culturales o descarbonización en 2045—, mientras otras propuestas permanecen como orientaciones. Una cifra de prestación o una fecha objetivo no constituye por sí sola un presupuesto o una senda de ejecución. Las orientaciones sin resultado comprobable quedan como no estimables."
+   },
+   {
+    "title": "La viabilidad depende del objeto evaluado",
+    "text": "Extender mecanismos administrativos existentes puede ser más directo que transformar una competencia, reformar la Constitución o cambiar el mercado europeo. Un partido puede defender una posición en la UE sin conseguir que esta se apruebe; asimismo, aprobar una ley de vivienda o cuidados no garantiza disponer inmediatamente de oferta o personal. Estas diferencias se explicitan en las fichas."
+   },
+   {
+    "title": "El programa debe leerse junto al derecho vigente",
+    "text": "Varias propuestas reiteran o amplían instrumentos existentes. La revisión distingue esa continuidad de las novedades y también de las normas publicadas después del 16 de noviembre. Los proyectos, las leyes en vigor y las disposiciones con efectos futuros se identifican por separado. No se da por cumplida una promesa solo porque exista una norma próxima a su objetivo."
+   },
+   {
+    "title": "El balance financiero sigue abierto",
+    "text": "No se localiza una memoria económica agregada que permita verificar el coste neto de la agenda. Los nuevos tributos, aumentos de prestaciones y servicios necesitan bases, tipos, beneficiarios, administraciones pagadoras y calendarios. Las repeticiones de bonos, fiscalidad turística o energía se agrupan o se señalan para evitar doble cómputo."
+   },
+   {
+    "title": "Respaldo y alianzas se documentan sin extrapolar",
+    "text": "La inclusión en el programa acredita posición oficial; no mide cuántos afiliados apoyan cada instrumento. Los perfiles separan funciones partidarias, candidaturas y responsabilidades institucionales. La matriz diferencia pactos vigentes, coordinación, votos o declaraciones y posibilidades de acuerdo inferidas; no anticipa escaños ni mayorías del 29 N."
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "alta",
+   "2": "alta",
+   "3": "alta",
+   "4": "alta",
+   "5": "alta",
+   "6": "alta",
+   "7": "media",
+   "8": "alta",
+   "9": "media",
+   "10": "media",
+   "11": "media",
+   "12": "media",
+   "13": "alta",
+   "14": "alta",
+   "15": "media",
+   "16": "media",
+   "17": "media",
+   "18": "media",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Quién decide",
+    "evidence": "La Asamblea General decide el programa político y la política de alianzas y pactos; la Ejecutiva dirige la actividad de corto plazo y la Mesa Política la de medio plazo. La Mesa de Partidos interviene junto a la Asamblea General en las coaliciones electorales. Los estatutos consultados incorporan cambios del 20 de septiembre de 2025.",
+    "limit": "Estas reglas explican el procedimiento; no prueban por sí solas cómo se votó un programa concreto."
+   },
+   {
+    "area": "Dirección y pluralidad organizativa",
+    "evidence": "El organigrama identifica a Sonia Jacinto en Organización, Arkaitz Rodríguez en Acción Política, Nerea Kortajarena en Programa y Gorka Elejabarrieta en Relaciones.",
+    "limit": "Las posiciones de Sortu, Eusko Alkartasuna, Alternatiba y de las personas no adscritas a ellos no se deducen automáticamente del liderazgo de Otegi. La distribución de responsabilidades permite identificar interlocutores, no medir su conformidad con cada instrumento."
+   },
+   {
+    "area": "Resultados internos que sí están documentados",
+    "evidence": "La comunicación del III Congreso atribuye a Otegi un 94% de apoyo en su elección de febrero de 2025; no hubo una candidatura alternativa a la dirección. En octubre de 2025 se ratificaron las propuestas para 18 secretarías sectoriales, también sin candidaturas alternativas.",
+    "limit": "Son datos sobre personas y órganos en procesos definidos. No equivalen a unanimidad, no describen a quienes no participaron y no trasladan ese respaldo a las medidas electorales de 2026."
+   },
+   {
+    "area": "Ratificación de las listas de 2026",
+    "evidence": "La dirección anunció consulta telemática a los bilkides los días 17 y 18 de octubre, seguida de presentación el 19. Cadena SER informó de un aval del 97% a las candidaturas.",
+    "limit": "La información revisada no incluye un acta con censo, participación y desglose por lista: la cifra se conserva como resultado publicado por ese medio, sin convertirla en porcentaje de toda la afiliación. En cualquier caso, la consulta trataba de candidaturas, no de un referéndum separado sobre vivienda, pensiones o defensa."
+   },
+   {
+    "area": "Apoyo por propuesta: posición oficial y dato faltante",
+    "evidence": "La publicación del programa acredita posición oficial. No se ha localizado en el corpus revisado una votación interna individualizada para cada compromiso del 29 N ni un mapa verificable de apoyos por corriente.",
+    "limit": "El campo por medida debe decir «respaldo programático oficial; apoyo interno cuantitativo no documentado». La ausencia de una disidencia pública registrada tampoco demuestra consenso. Para elevar la confianza harían falta actas, consultas con denominador y textos concretos de enmiendas aceptadas o rechazadas."
+   },
+   {
+    "area": "Recencia y fuerza de la evidencia",
+    "evidence": "La presentación general del programa está fechada el 16 de noviembre de 2026, cinco días antes del corte. Los estatutos, las consultas de 2025, la selección de candidaturas de octubre y los acuerdos presupuestarios tienen fechas y objetos diferentes.",
+    "limit": "La coincidencia entre el programa y una reivindicación antigua indica continuidad; no convierte una consulta anterior en una aprobación reciente de todas sus medidas. La versión del documento y sus cambios deben conservarse en el seguimiento."
+   }
+  ],
+  "team": [
+   {
+    "name": "Arnaldo Otegi Mondragón",
+    "role": "Secretario general de EH Bildu"
+   },
+   {
+    "name": "Oskar Matute García de Jalón",
+    "role": "Cabeza de lista al Congreso por Bizkaia; propuesto para la futura portavocía"
+   },
+   {
+    "name": "Mikel Otero Gabirondo",
+    "role": "Cabeza de lista al Congreso por Araba"
+   },
+   {
+    "name": "Oihana Etxebarrieta Legrand",
+    "role": "Cabeza de lista al Congreso por Gipuzkoa"
+   },
+   {
+    "name": "Eneka Maiz Ulaiar",
+    "role": "Cabeza de lista al Congreso por Navarra"
+   },
+   {
+    "name": "Idurre Bideguren Gabantxo",
+    "role": "Senadora autonómica; candidata al Senado por Bizkaia y propuesta para la portavocía"
+   },
+   {
+    "name": "Pello Otxandiano Kanpo",
+    "role": "Portavoz de EH Bildu en el Parlamento Vasco"
+   },
+   {
+    "name": "Laura Aznal Sagasti",
+    "role": "Portavoz de EH Bildu en el Parlamento de Navarra"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "PSOE / PSN",
+    "commonGround": "EH Bildu votó la investidura de Sánchez el 16/11/2023. El 30/09/2026 anunció apoyo a los decretos de vivienda. En Navarra hay acuerdos presupuestario y fiscal para 2027 con el Gobierno y sus grupos, incluido el PSN.",
+    "frictions": "Son antecedentes distintos: voto de investidura, declaración de apoyo y pactos forales. No consta en estas fuentes un nuevo pacto estatal del 29 N que asuma el programa íntegro de EH Bildu."
+   },
+   {
+    "counterpart": "PP",
+    "commonGround": "La campaña de EH Bildu declara el objetivo de impedir un Ejecutivo de PP y Vox. La votación de investidura de 2023 también los situó en posiciones opuestas.",
+    "frictions": "No convertir una eventual votación coincidente en apoyo de gobierno; tampoco afirmar un veto a todo contacto si la fuente solo excluye una alternativa gubernamental."
+   },
+   {
+    "counterpart": "Vox",
+    "commonGround": "EH Bildu rechaza la alternativa de gobierno PP–Vox. En marzo de 2026 Vox presentó una PNL para promover la ilegalización de EH Bildu.",
+    "frictions": "La PNL acredita la posición de Vox. No es una resolución judicial ni prueba que EH Bildu esté ilegalizada, y sus acusaciones no se adoptan como hechos."
+   },
+   {
+    "counterpart": "EAJ-PNV",
+    "commonGround": "Acuerdo municipal de Ordizia firmado en febrero de 2026; iniciativa conjunta sobre Bardenas con Sumar y Mixto en mayo, rechazada por el Congreso el 11 de junio. Comparten también algunos expedientes sociales, como enmiendas sobre mutualidades.",
+    "frictions": "Cooperación sectorial y competencia electoral coexisten. El pacto de Ordizia no incorpora a EH Bildu al Gobierno Vasco; la coincidencia sobre Bardenas no acredita una mayoría estatal ni una posición común sobre toda la política de defensa."
+   },
+   {
+    "counterpart": "ERC",
+    "commonGround": "Acuerdo electoral al Senado anunciado el 10/10/2026; el BOE registra además la lista EH Bildu–ERC al Congreso por Navarra.",
+    "frictions": "Alianza electoral no equivale a programa estatal único ni aprobación automática de cada medida de ambas fuerzas. Debe distinguirse la circunscripción y la Cámara."
+   },
+   {
+    "counterpart": "Junts",
+    "commonGround": "Coincidieron en votar la investidura de Sánchez en 2023. En septiembre de 2026 Matute pidió a Junts negociar la protección frente a desahucios; esa petición refleja una discrepancia pendiente, no un acuerdo.",
+    "frictions": "Compartir una votación de investidura no acredita coincidencia económica ni aceptación de los controles de vivienda de EH Bildu. No se atribuyen votos del 12/11 sin registro nominal."
+   },
+   {
+    "counterpart": "BNG",
+    "commonGround": "Encuentro bilateral del 02/09/2026 para profundizar en cooperación; ambas fuerzas manifiestan coincidencias sobre derechos y carácter plurinacional y plurilingüe del Estado.",
+    "frictions": "La voluntad de cooperación no acredita un acuerdo de investidura para la legislatura siguiente ni igualdad de prioridades presupuestarias territoriales."
+   },
+   {
+    "counterpart": "Podemos",
+    "commonGround": "Reunión de direcciones en julio de 2025 y participación de Ione Belarra, desde el Mixto, en la iniciativa conjunta de Bardenas de mayo de 2026, rechazada el 11 de junio.",
+    "frictions": "El antecedente bilateral es de 2025. La iniciativa compartida no prueba candidatura conjunta, pacto estatal general ni una posición idéntica en todos los detalles."
+   },
+   {
+    "counterpart": "Frente Amplio / Movimiento Sumar",
+    "commonGround": "EH Bildu y Movimiento Sumar celebraron un encuentro bilateral en septiembre de 2026. El grupo parlamentario Sumar figura en iniciativas compartidas sobre mutualidades y Bardenas; esta última fue rechazada el 11 de junio.",
+    "frictions": "Movimiento Sumar, el grupo parlamentario de la legislatura saliente y Frente Amplio del 29 N no son objetos intercambiables. Un acuerdo con uno no vincula automáticamente a todos los integrantes del otro."
+   },
+   {
+    "counterpart": "SALF",
+    "commonGround": "No se ha documentado un pacto bilateral en el corpus revisado. Los programas divergen expresamente en regularizaciones: EH Bildu defiende una vía efectiva y estable; SALF propone derogar la regularización de 2026 y prohibir nuevas regularizaciones masivas.",
+    "frictions": "La comparación de compromisos identifica incompatibilidad en este ámbito; no permite atribuir a personas motivaciones, conductas o acuerdos no acreditados."
+   },
+   {
+    "counterpart": "Coalición Canaria",
+    "commonGround": "Coincidió con EH Bildu en la investidura de 2023. La nota del Congreso sobre mutualidades identifica enmiendas conjuntas con CC, PSOE, Sumar, ERC y PNV.",
+    "frictions": "La firma de enmiendas y la coincidencia de voto no constituyen una alianza bilateral estable ni un pacto de autogobierno común."
+   }
+  ],
+  "partners": [
+   "psoe",
+   "fa",
+   "podemos",
+   "pnv"
+  ]
+ },
+ {
   "id": "fa",
   "name": "Frente Amplio",
   "short": "FA",
+  "display": "Frente Amplio",
+  "abbr": "FA",
+  "scope": "estatal",
+  "districts": [],
+  "addedIn": null,
   "report": {
    "title": "Análisis de políticas públicas. Frente Amplio. Propuestas, viabilidad y escenarios de ejecución",
    "version": "1.0",
@@ -200,9 +423,243 @@
   ]
  },
  {
+  "id": "pnv",
+  "name": "EAJ-PNV",
+  "short": "PNV",
+  "display": "PNV",
+  "abbr": "PNV",
+  "scope": "autonomico",
+  "districts": [
+   "Álava",
+   "Bizkaia",
+   "Gipuzkoa"
+  ],
+  "addedIn": "1.1",
+  "report": {
+   "title": "Análisis de políticas públicas. EAJ-PNV, Partido Nacionalista Vasco. Propuestas, viabilidad y acuerdos",
+   "version": "",
+   "cutoff": "2026-11-21",
+   "programDate": "2026-11-09",
+   "programTitle": "Programa electoral de las elecciones generales de 2026, documento íntegro",
+   "pages": 103,
+   "units": 134,
+   "pdf": "/informes/pnv.pdf"
+  },
+  "scenarios": {
+   "A": {
+    "label": "Gobierno competente promotor",
+    "definition": "Contrafactual técnico: el gobierno competente impulsa la propuesta con mayoría suficiente para leyes ordinarias y orgánicas. No se presume que el PNV presida España, ni mayorías constitucionales, consentimiento de otras instituciones o decisiones de la UE."
+   },
+   "B": {
+    "label": "Acuerdo estatal compatible",
+    "definition": "Negociación hipotética del PNV con PSOE u otro interlocutor compatible, sin facilitar un Ejecutivo dependiente de Vox y con votos suficientes. Se valora la aceptación de la propuesta sustancialmente íntegra; no se afirma que el acuerdo exista ni que los resultados electorales lo permitan."
+   },
+   "C": {
+    "label": "Oposición estatal",
+    "definition": "Capacidad de obtener el resultado sin pacto estatal estable. Puede haber acuerdos puntuales. El PNV conserva las facultades de las instituciones vascas en las que gobierna; no se le atribuye control unilateral de diputaciones, municipios o Gobierno estatal."
+   },
+   "E": {
+    "definition": "Ejecución tras aprobación jurídicamente válida y financiación adecuada. Se valoran personal, sistemas, coordinación, contratación, plazo y dependencias externas residuales; no se vuelven a penalizar la legalidad o los recursos ya supuestos."
+   }
+  },
+  "conclusions": [
+   {
+    "title": "Un programa estatal orientado a negociar para Euskadi",
+    "text": "El documento del PNV contiene 225 compromisos numerados en cinco capítulos y 29 subapartados. Este informe los agrupa en 134 fichas, conservando una correspondencia completa y sin omitir viñetas. Sus prioridades combinan autogobierno, actividad económica, servicios y derechos. El papel evaluado es el de un partido con capacidad institucional en Euskadi y vocación negociadora en las Cortes; no se presupone que vaya a dirigir el Gobierno de España."
+   },
+   {
+    "title": "La competencia importa tanto como la mayoría",
+    "text": "Una iniciativa parlamentaria puede requerir ley estatal, acuerdo bilateral, ejecución vasca o foral, decisión municipal y autorización europea. Gestionar un servicio no equivale a fijar sus derechos o impuestos. Las transferencias de Cercanías, litoral y permisos de trabajo ya tienen antecedentes, pero no cubren todo lo que ahora se solicita. Por eso se valoran por separado aprobación y entrega, con condiciones que varían entre medidas."
+   },
+   {
+    "title": "La financiación global permanece sin demostrar",
+    "text": "El programa íntegro examinado no incorpora una memoria económica consolidada con coste incremental, ingresos, pagadores y calendario. Combina protección social, inversión, compensaciones industriales y menores impuestos. Eso impide calcular un saldo global o asegurar la compatibilidad presupuestaria del conjunto. El proyecto vasco de presupuestos de 2027 y las negociaciones europeas aportan contexto; no son recursos libres ya concedidos a estas promesas."
+   },
+   {
+    "title": "Las políticas existentes cambian la evaluación de la novedad",
+    "text": "La regulación del cannabis medicinal, la actualización de pensiones y varias garantías laborales ya tienen base legal. La transparencia salarial cambió después de presentarse el programa. En desempleo, el convenio y el calendario operativo anunciado deben distinguirse; ampliar la prestación a 36 meses es otra decisión. Tampoco la exención estatal del amianto sería una nueva exención en los tres territorios forales, donde ya existe."
+   },
+   {
+    "title": "Hay interlocutores acreditados, no una mayoría futura garantizada",
+    "text": "Los pactos con PSOE/PSE, la cooperación temática con otras fuerzas y los acuerdos territoriales ofrecen antecedentes verificables. Su alcance es limitado: no prueban adhesión al programa completo ni escaños suficientes después del 29N. El PNV excluye facilitar un Ejecutivo dependiente de Vox; el escenario de negociación respeta esa condición. La cooperación con PP en un expediente no se convierte en pacto de investidura."
+   },
+   {
+    "title": "Respaldo formal reciente; apoyo por propuesta desconocido",
+    "text": "La publicación del 9 de noviembre acredita posición oficial. La unanimidad comunicada en candidaturas o liderazgo corresponde a decisiones y órganos concretos; no permite asignar porcentajes a cada medida. El informe conserva como desconocida la aceptación interna individual. Las categorías Alta, Media, Baja y NE son juicios condicionados, con confianza prospectiva generalmente media-baja; no probabilidades estadísticas ni una clasificación de preferencia electoral."
+   }
+  ],
+  "salienceByAmbito": {
+   "1": "alta",
+   "2": "alta",
+   "3": "alta",
+   "4": "alta",
+   "5": "media",
+   "6": "alta",
+   "7": "media",
+   "8": "media",
+   "9": "alta",
+   "10": "alta",
+   "11": "media",
+   "12": "media",
+   "13": "alta",
+   "14": "alta",
+   "15": "media",
+   "16": "alta",
+   "17": "media",
+   "18": "media",
+   "19": "media"
+  },
+  "internalSupport": [
+   {
+    "area": "Aprobación de programas y pactos (estatutos de 2025)",
+    "evidence": "Los estatutos de 2025 atribuyen al EBB la aprobación de los programas nacionales y reservan a la Asamblea Nacional la aprobación de determinados pactos estables a propuesta del EBB. También prevén consultas directas no vinculantes.",
+    "limit": "Esas reglas permiten identificar quién decide, pero no demuestran que se haya consultado cada promesa a la afiliación."
+   },
+   {
+    "area": "Candidaturas y liderazgo",
+    "evidence": "La Asamblea Nacional aprobó por unanimidad las candidaturas el 17 de octubre de 2026, tras el proceso territorial. Aitor Esteban había sido elegido presidente por unanimidad de ese órgano en marzo de 2025.",
+    "limit": "Ambos son avales orgánicos definidos: no deben convertirse en porcentajes de respaldo a cada medida ni en unanimidad de toda la militancia."
+   },
+   {
+    "area": "Posición oficial del programa",
+    "evidence": "La presentación electoral del 9 de noviembre y la reafirmación de cinco ejes el día 20 acreditan una posición oficial reciente. La web sintetiza treinta prioridades, mientras el análisis de medidas debe seguir el documento completo.",
+    "limit": "No se han localizado resultados públicos de consultas por propuesta; el dato correcto es respaldo programático formal y aceptación individual no medida."
+   },
+   {
+    "area": "Coordinación interna",
+    "evidence": "La reunión de dirección, Lehendakari y grupo parlamentario de septiembre acredita coordinación pública.",
+    "limit": "No prueba ausencia de diferencias privadas. La documentación revisada tampoco permite cuantificar corrientes internas favorables o contrarias a cada instrumento. Las divergencias entre PNV y PSE pertenecen a la relación entre socios; no son automáticamente disensos dentro del PNV."
+   },
+   {
+    "area": "Balance del acuerdo con el PSOE",
+    "evidence": "El balance de cumplimiento del acuerdo con el PSOE difundido por Esteban durante la aprobación de listas es una valoración del partido.",
+    "limit": "No se utiliza como tasa auditada ni como probabilidad de realizar futuras promesas. La evidencia útil exige identificar qué compromiso se cumplió, mediante qué norma o inversión y con qué resultado."
+   },
+   {
+    "area": "Tabla evidencia y conclusión admisible: Programa publicado",
+    "evidence": "Programa publicado",
+    "limit": "Posición oficial reciente del partido."
+   },
+   {
+    "area": "Tabla evidencia y conclusión admisible: Unanimidad sobre candidaturas",
+    "evidence": "Unanimidad sobre candidaturas",
+    "limit": "Aval de ese órgano y de esa decisión, sin extrapolación a cada medida."
+   },
+   {
+    "area": "Tabla evidencia y conclusión admisible: Estatutos y órganos",
+    "evidence": "Estatutos y órganos",
+    "limit": "Reglas para aprobar programas y pactos; no preferencias individuales verificadas."
+   },
+   {
+    "area": "Tabla evidencia y conclusión admisible: Coordinación institucional",
+    "evidence": "Coordinación institucional",
+    "limit": "Existencia de canales de trabajo; no ausencia demostrada de diferencias internas."
+   }
+  ],
+  "team": [
+   {
+    "name": "Aitor Esteban Bravo",
+    "role": "Presidente del EBB desde marzo de 2025"
+   },
+   {
+    "name": "Maitane Ipiñazar Miranda",
+    "role": "Secretaria del EBB desde 2025 y parlamentaria vasca"
+   },
+   {
+    "name": "Imanol Pradales Gil",
+    "role": "Lehendakari desde junio de 2024"
+   },
+   {
+    "name": "Maribel Vaquero Montero",
+    "role": "Cabeza de lista por Gipuzkoa y portavoz del Grupo Vasco en la legislatura saliente"
+   },
+   {
+    "name": "Idoia Sagastizabal Unzetabarrenetxea",
+    "role": "Encabeza Bizkaia"
+   },
+   {
+    "name": "Gorka Urtaran Agirre",
+    "role": "Cabeza de lista por Araba"
+   },
+   {
+    "name": "Beatriz Artolazabal Albeniz",
+    "role": "Designada senadora por el Parlamento Vasco el 1 de octubre de 2026"
+   },
+   {
+    "name": "Joseba Díez Antxustegi",
+    "role": "Portavoz del PNV en el Parlamento Vasco y miembro del EBB"
+   }
+  ],
+  "agreements": [
+   {
+    "counterpart": "PSOE / PSE-EE",
+    "commonGround": "Pacto estatal de investidura de 2023; coalición vasca de 2024; acuerdos fiscales forales de 2026. Potencial, como inferencia: Negociar transferencias, inversiones y medidas sociales con calendario y financiación.",
+    "frictions": "Son ámbitos distintos. El pacto vasco reconoce discrepancias sobre autogobierno; no hay apoyo automático al programa estatal íntegro."
+   },
+   {
+    "counterpart": "PP",
+    "commonGround": "PNV documenta negociación con PP, PSOE y Junts en la reforma de multirreincidencia aprobada en marzo de 2026. Potencial, como inferencia: Acuerdos por expediente sobre justicia, empresa, infraestructuras o administración.",
+    "frictions": "No es un pacto de gobierno. La negativa del PNV a facilitar un Ejecutivo dependiente de Vox condiciona una investidura, no todo voto coincidente."
+   },
+   {
+    "counterpart": "Vox",
+    "commonGround": "El programa del PNV excluye facilitar un gobierno que dependa de Vox. Potencial, como inferencia: Solo cabe examinar coincidencias puntuales sobre un texto concreto; no se acredita un paquete negociado.",
+    "frictions": "La posición publicada impide tratarlo como socio ejecutivo compatible. Una coincidencia de voto tampoco eliminaría ese veto."
+   },
+   {
+    "counterpart": "EH Bildu",
+    "commonGround": "Acuerdo municipal firmado en Ordizia en febrero de 2026 y proposición conjunta sobre plurilingüismo en 2025. Potencial, como inferencia: Cooperación delimitada sobre lengua, autogobierno o proyectos territoriales.",
+    "frictions": "La cooperación local o temática no constituye una coalición vasca o estatal; mantienen candidaturas diferenciadas."
+   },
+   {
+    "counterpart": "ERC",
+    "commonGround": "Firma junto al PNV de la proposición orgánica de plurilingüismo de noviembre de 2025. Potencial, como inferencia: Textos concretos sobre lenguas y participación territorial.",
+    "frictions": "Coautoría de una iniciativa no acredita apoyo a toda la agenda fiscal o estatutaria del PNV."
+   },
+   {
+    "counterpart": "Junts",
+    "commonGround": "Impulsó la reforma de multirreincidencia negociada con el PNV y otros grupos. Potencial, como inferencia: Justicia, capacidad administrativa y acuerdos territoriales por expediente.",
+    "frictions": "No implica pacto general. La expectativa expresada por Vaquero sobre secretos oficiales no equivale a un compromiso de Junts."
+   },
+   {
+    "counterpart": "BNG",
+    "commonGround": "Participó con el PNV en la propuesta de garantía del plurilingüismo. Potencial, como inferencia: Lenguas, reconocimiento territorial y compromisos de inversión claramente definidos.",
+    "frictions": "Los intereses de cada territorio y sus sistemas financieros no se vuelven idénticos por compartir una iniciativa."
+   },
+   {
+    "counterpart": "Coalición Canaria",
+    "commonGround": "Reunión bilateral de mayo de 2026 sobre autogobierno, migración y presupuestos estatales. Potencial, como inferencia: Coordinación de demandas territoriales y de financiación con responsabilidades precisas.",
+    "frictions": "La cooperación y la alianza europea CEUS no son una candidatura estatal conjunta ni un pacto de investidura para el 29N."
+   },
+   {
+    "counterpart": "Frente Amplio",
+    "commonGround": "Hay antecedentes de cooperación con Comuns y posiciones favorables al texto de secretos oficiales del PNV desde Sumar y Más Madrid. Potencial, como inferencia: Derechos lingüísticos, transparencia y medidas sociales delimitadas.",
+    "frictions": "Los antecedentes corresponden a organizaciones y fechas concretas; no prueban adhesión de toda la candidatura de 2026 ni acuerdo de gobierno."
+   },
+   {
+    "counterpart": "Podemos",
+    "commonGround": "En febrero de 2026 coincidió públicamente en reclamar una nueva ley de secretos oficiales. Potencial, como inferencia: Negociar desclasificación y controles democráticos si existe un texto compartido.",
+    "frictions": "Es coincidencia de objetivo, no adhesión acreditada al articulado del PNV ni pacto ejecutivo."
+   },
+   {
+    "counterpart": "SALF",
+    "commonGround": "No se ha localizado un acuerdo bilateral o compromiso de investidura con el PNV en las fuentes revisadas. Potencial, como inferencia: Una eventual coincidencia de voto exigiría analizar la iniciativa concreta.",
+    "frictions": "La falta de evidencia no permite inventar apoyos, excluir para siempre cualquier coincidencia ni asignar una probabilidad numérica."
+   }
+  ],
+  "partners": [
+   "psoe"
+  ]
+ },
+ {
   "id": "podemos",
   "name": "Podemos",
   "short": "Podemos",
+  "display": "Podemos",
+  "abbr": "Podemos",
+  "scope": "estatal",
+  "districts": [],
+  "addedIn": null,
   "report": {
    "title": "Podemos. Propuestas, viabilidad y escenarios de ejecución (Análisis de políticas públicas; Podemos | Evaluación de propuestas)",
    "version": "1.0",
@@ -433,6 +890,11 @@
   "id": "pp",
   "name": "Partido Popular",
   "short": "PP",
+  "display": "PP",
+  "abbr": "PP",
+  "scope": "estatal",
+  "districts": [],
+  "addedIn": null,
   "report": {
    "title": "Partido Popular: propuestas, viabilidad y escenarios de ejecución",
    "version": "1.0",
@@ -635,6 +1097,11 @@
   "id": "psoe",
   "name": "PSOE",
   "short": "PSOE",
+  "display": "PSOE",
+  "abbr": "PSOE",
+  "scope": "estatal",
+  "districts": [],
+  "addedIn": null,
   "report": {
    "title": "ANÁLISIS DE POLÍTICAS PÚBLICAS. PSOE. Propuestas, viabilidad y escenarios de ejecución",
    "version": "1.0",
@@ -869,6 +1336,11 @@
   "id": "salf",
   "name": "Se Acabó La Fiesta",
   "short": "SALF",
+  "display": "SALF",
+  "abbr": "SALF",
+  "scope": "estatal",
+  "districts": [],
+  "addedIn": null,
   "report": {
    "title": "ANÁLISIS DE POLÍTICAS PÚBLICAS. SALF, Se Acabó La Fiesta. Propuestas, viabilidad y acuerdos. Aplicación del marco común de evaluación electoral",
    "version": "No declarada; corte 18/11/2026",
@@ -1065,6 +1537,11 @@
   "id": "vox",
   "name": "Vox",
   "short": "Vox",
+  "display": "Vox",
+  "abbr": "Vox",
+  "scope": "estatal",
+  "districts": [],
+  "addedIn": null,
   "report": {
    "title": "Análisis de políticas públicas. Vox: propuestas, viabilidad y escenarios de ejecución",
    "version": "1.0",

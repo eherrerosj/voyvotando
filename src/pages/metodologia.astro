@@ -1,6 +1,8 @@
 ---
 import Base from "../layouts/Base.astro";
-import { META, PARTIES } from "../lib/data";
+import { META, PARTIES, REGIONAL } from "../lib/data";
+import { joinEs } from "../lib/format";
+const cutoffs = [...new Set(PARTIES.map((p) => p.report.cutoff))].sort().map((d) => new Date(d + "T12:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "long" }));
 const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "long", year: "numeric" }) : "");
 ---
 <Base title="Metodología · Voy Votando" description="Cómo se codifican las posiciones, cómo se calcula la afinidad y qué límites tiene el test.">
@@ -10,7 +12,7 @@ const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateStri
     <p class="lead">Todo el cálculo está aquí. Si encuentras un error en una posición, cada una enlaza su cita y su página para que puedas comprobarla.</p>
 
     <h2 class="serif" id="fuentes">1. Fuentes</h2>
-    <p>Las posiciones de los partidos salen solo de 6 informes de evaluación de sus programas para el 29N. El autor del proyecto los elaboró con ayuda de IA a partir de cada programa oficial y de las fuentes públicas que citan, como el BOE, la AIReF o el Banco de España. Se publican completos para que cualquiera pueda revisarlos. Suman {META.reportPages} páginas y {META.units} propuestas analizadas. Todos usan el mismo marco: 19 ámbitos de política, cada propuesta con su instrumento y una valoración cualitativa de si podría aprobarse (escenarios A, B y C) y ejecutarse (E).</p>
+    <p>Las posiciones de los partidos salen solo de {META.parties} informes de evaluación de sus programas para el 29N. El autor del proyecto los elaboró con ayuda de IA a partir de cada programa oficial y de las fuentes públicas que citan, como el BOE, la AIReF o el Banco de España. Se publican completos para que cualquiera pueda revisarlos. Suman {META.reportPages} páginas y {META.units} propuestas analizadas. Todos usan el mismo marco: 19 ámbitos de política, cada propuesta con su instrumento y una valoración cualitativa de si podría aprobarse (escenarios A, B y C) y ejecutarse (E).</p>
     <table class="table">
       <thead><tr><th>Partido</th><th>Programa</th><th>Informe</th><th>Corte</th></tr></thead>
       <tbody>
@@ -25,9 +27,9 @@ const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateStri
       <li>Nunca se deduce una posición por ideología ni por lo que proponen partidos afines.</li>
       <li>Cada valor lleva una cita literal de 25 palabras como máximo, su página y la propuesta del informe de la que sale.</li>
       <li>Cada posición tiene una confianza: alta si hay una propuesta explícita, media si se deduce de un párrafo o de un voto documentado, baja si es un indicio indirecto.</li>
-      <li>Dos agentes de IA codificaron cada informe por separado y a ciegas. Cuando ambos dan valor, coinciden exactamente en el 88% de los casos y a un punto o menos en el 99%.</li>
+      <li>Dos agentes de IA codificaron cada informe por separado y a ciegas. Cuando ambos dan valor, coinciden exactamente en el 89% de los casos y a un punto o menos en el 99%.</li>
       <li>Un script comprueba que cada cita aparece en su página del informe. Si una cita no aparece, la publicación de los datos falla.</li>
-      <li>Las discrepancias se resolvieron con reglas fijas leyendo el PDF, y una persona revisó las 10 más dudosas.</li>
+      <li>Las discrepancias se resolvieron con reglas fijas leyendo el PDF. Una persona revisó las 10 celdas más dudosas de los 6 primeros partidos. Las 3 celdas dudosas de EH Bildu y PNV, añadidos en la versión 1.1, están pendientes de esa revisión y figuran en el historial de datos.</li>
       <li>Los datos, los prompts y los scripts de todo el proceso son públicos en el repositorio.</li>
     </ul>
 
@@ -54,15 +56,16 @@ const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateStri
 
     <h2 class="serif">5. Cómo se ha comprobado</h2>
     <ul>
-      <li>Si se responde con las posiciones de un partido, ese partido queda primero en los 6 casos.</li>
-      <li>Con votantes simulados que responden como un partido más ruido, el test completo acierta el partido de origen entre el 97,4% y el 100% de las veces con ruido moderado, y entre el 92,8% y el 99,7% con ruido alto.</li>
-      <li>El par más difícil de separar es Frente Amplio y Podemos: su cercanía en las preguntas del test es de 90 sobre 100.</li>
+      <li>Si se responde con las posiciones de un partido, ese partido queda primero en los {META.parties} casos.</li>
+      <li>Con votantes simulados que responden como un partido más ruido, el test completo acierta el partido de origen entre el 98,0% y el 100% de las veces con ruido moderado, y entre el 87,6% y el 98,9% con ruido alto.</li>
+      <li>Los pares más difíciles de separar son Frente Amplio y Podemos (cercanía de 90 sobre 100) y EH Bildu y Podemos (89).</li>
     </ul>
 
     <h2 class="serif">6. Límites</h2>
     <ul>
-      <li>Solo incluye 6 partidos de ámbito estatal con informe propio.</li>
-      <li>Los anuncios posteriores al corte de los informes (17 y 18 de noviembre de 2026) no están.</li>
+      <li>Incluye {META.parties} partidos con informe propio. Aún no incluye {joinEs(META.notIncluded)}.</li>
+      {REGIONAL.map((p) => <li>{p.display} solo se presenta en {p.districts.length ? joinEs(p.districts) : "algunas provincias"}. El test lo compara igual que al resto, aunque no esté en tu papeleta.</li>)}
+      <li>Los anuncios posteriores al corte de cada informe no están. Las fechas de corte van del {cutoffs[0]} al {cutoffs[cutoffs.length - 1]} de 2026.</li>
       <li>Las valoraciones de viabilidad son juicios cualitativos de los informes. No son probabilidades y no se promedian.</li>
       <li>Frente Amplio se mide por su programa común. Las posiciones propias de sus integrantes no puntúan.</li>
     </ul>
@@ -71,7 +74,7 @@ const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateStri
     <p>Versión {META.version}. Huella SHA-256 <code>{META.sha256}</code>. Cada enlace de resultado guarda la versión con la que se calculó.</p>
 
     <h2 class="serif">8. Código y datos abiertos</h2>
-    <p>Todo el proyecto está en <a href="https://github.com/eherrerosj/voyvotando" rel="noopener">GitHub</a>: el código (licencia AGPL-3.0), los 6 informes, las dos codificaciones, la adjudicación y los scripts (licencia CC BY 4.0). Si encuentras una posición mal codificada, abre un issue con la cita que la corrige.</p>
+    <p>Todo el proyecto está en <a href="https://github.com/eherrerosj/voyvotando" rel="noopener">GitHub</a>: el código (licencia AGPL-3.0), los {META.parties} informes, las dos codificaciones, la adjudicación y los scripts (licencia CC BY 4.0). Si encuentras una posición mal codificada, abre un issue con la cita que la corrige.</p>
   </article>
 </Base>
 <style>

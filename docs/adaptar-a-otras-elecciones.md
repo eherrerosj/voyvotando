@@ -12,6 +12,8 @@ informes PDF → texto → extracción y codificación v0 → catálogo de final
 
 La descripción de cada fichero está en [`data/README.md`](../data/README.md). Las reglas de codificación y la fórmula están en la [metodología](metodologia.md).
 
+Esta guía construye un banco de preguntas desde cero. Para añadir un partido a un banco ya publicado, sigue [incorporar-partidos.md](incorporar-partidos.md). Esa vía codifica el partido nuevo con las preguntas publicadas y no cambia el banco. La versión 1.1 añadió así a EH Bildu y PNV.
+
 ## Requisitos
 
 - Node.js 22.23.4 o posterior, para compilar la web.
@@ -42,9 +44,9 @@ Reglas del formato:
 - El PDF tiene capa de texto y páginas numeradas. Un PDF escaneado no sirve, porque las citas se comprueban contra el texto.
 - Cada informe declara su fecha de corte. Nada posterior a esa fecha entra en los datos.
 
-Documenta quién elaboró los informes y con qué fuentes. En Voy Votando, el autor del proyecto elaboró los 6 informes con ayuda de IA. Partió de los programas oficiales y de las fuentes públicas que citan.
+Documenta quién elaboró los informes y con qué fuentes. En Voy Votando, el autor del proyecto elaboró los 8 informes con ayuda de IA. Partió de los programas oficiales y de las fuentes públicas que citan.
 
-Guarda los PDF en `data/reports/` con un nombre estable, por ejemplo `Analisis_<Partido>_<año>.pdf`. `scripts/export.py` busca cada PDF por el prefijo de ese nombre.
+Guarda los PDF en `data/reports/` con un nombre estable, por ejemplo `Analisis_<Partido>_<año>.pdf`. El campo `informe` de `data/partidos.json` guarda ese nombre sin extensión. `scripts/export.py` lo usa para el texto y `scripts/copy-public-data.mjs` para el PDF.
 
 ## 2. Texto con maquetación
 
@@ -127,7 +129,7 @@ Con la salida del paso 4, elige las finalistas y escribe `data/extracted/catalog
 - `nota` fija cómo codificar los casos dudosos. Las notas reducen las discrepancias entre codificaciones.
 - Descarta las afirmaciones con menos de 3 partidos con posición. Voy Votando pasó de 92 a 53 finalistas.
 
-Prepara también `data/extracted/menciones_cruzadas.json`. Agrupa por partido mencionado las entradas `mentions_of_other_parties` de todos los `informe.json`. El repositorio no incluye un script para este paso.
+Prepara también `data/extracted/menciones_cruzadas.json`. Agrupa por partido mencionado las entradas `mentions_of_other_parties` de todos los `informe.json`. Para los partidos de la primera versión, el repositorio no incluye un script. `menciones_cruzadas.py` solo escribe las claves de los partidos con `incorporado` en `data/partidos.json`, y busca sus alias.
 
 ```json
 { "pp": [ { "source_report": "psoe", "page": 7, "text": "..." } ] }
@@ -187,7 +189,7 @@ Edita `PARTIES`, `NAMES`, `BLOQUES` y `BLOQUE_NOMBRE`. La función `lean` tiene 
 La adjudicación no tiene script. Revisa cada celda marcada en `banco_final.json` con estas reglas:
 
 - Lee las 2 citas en el PDF y aplica la escala, las reglas y la nota de la afirmación.
-- Compara las 6 celdas de cada pregunta: el mismo tipo de evidencia recibe el mismo valor.
+- Compara las celdas de todos los partidos en cada pregunta: el mismo tipo de evidencia recibe el mismo valor.
 - Anota cada decisión, con su motivo y su página, en `adjudicacion.md`.
 - Marca con `"revisar_humano": true` las celdas dudosas. Una persona debe revisarlas antes de publicar.
 
@@ -228,17 +230,27 @@ Escribe "A favor" y "En contra" como efectos, con la misma forma y extensión. L
 
 ## 10. Exportación
 
-Edita las constantes de `scripts/export.py`:
+Escribe la lista de partidos en `data/partidos.json`. Cada campo se explica en [incorporar-partidos.md](incorporar-partidos.md), paso 4:
+
+| Campo | Qué poner |
+|---|---|
+| `id`, `nombre`, `corto`, `mostrar` y `sigla` | Identificador y nombres de cada partido. La lista va en orden alfabético por `mostrar`. |
+| `informe` | Nombre del PDF y del texto, sin extensión |
+| `alias` | Formas de nombrar al partido. `FORBIDDEN_NAMES` las usa para prohibirlas en las afirmaciones. |
+| `socios` | Socios del escenario B de cada informe (metodología, 6.21) |
+| `ambito` y `circunscripciones` | `estatal`, o `autonomico` con las provincias en las que se presenta |
+| `incorporado` | `null` para los partidos de la primera versión |
+| `unidades` | Unidades que declara el informe. El control compara cada partido con esta cifra. |
+| `sin_informe` | Partidos sin informe. La web los lista desde `meta.json`. |
+
+Después edita las constantes de `scripts/export.py`:
 
 | Constante | Qué cambiar |
 |---|---|
 | `DATA_VERSION` | Versión de los datos, por ejemplo `1.0` |
-| `PARTIES`, `NAMES` y `TXT` | Identificadores, nombres y prefijo del PDF y del texto de cada partido |
-| `PARTNERS` | Socios del escenario B de cada informe (metodología, 6.21) |
 | `BLOCKS` y `AMBITOS` | Bloques y ámbitos con sus nombres |
-| `FORBIDDEN_NAMES` | Partidos y personas que no pueden aparecer en las afirmaciones |
-| Total de unidades | El control espera 651. Cámbialo por el total de tus informes. |
-| `cutoff` y `electionDate` | Fecha de corte y fecha de la elección en `meta.json` |
+| `FORBIDDEN_NAMES` | Reúne los alias de `data/partidos.json` y una lista fija de personas. Cambia esa lista por las personas de tus elecciones. |
+| `electionDate` | Fecha de la elección en `meta.json`. La fecha de corte se calcula sola: es la más reciente de los informes. |
 
 Después ejecuta:
 
@@ -255,11 +267,13 @@ Cambia los puntos de la web que dependen de los partidos o de la fecha:
 
 | Fichero | Qué cambiar |
 |---|---|
-| `src/lib/types.ts` | `PARTY_IDS` |
-| `src/lib/format.ts` | `DISPLAY`, el nombre corto de cada partido |
+| `src/lib/types.ts` | `PARTY_IDS`, en el mismo orden que `data/partidos.json`. Una prueba lo comprueba. |
 | `src/layouts/Base.astro`, `src/pages/*.astro`, `src/components/results/Results.tsx` | Fecha de la elección, fecha de corte y textos como "29N" |
-| `src/lib/scoring.test.ts` | Las pruebas que nombran partidos concretos: el empate de Frente Amplio y Podemos, la discrepancia de PP y Vox en Q50 y el orden en el eje ECO |
+| `src/lib/scoring.test.ts` | Las pruebas que nombran partidos concretos: el empate de Frente Amplio y Podemos, la discrepancia de PP y Vox en Q50, el orden en el eje ECO y la cercanía de 6.23 |
+| `public/og.png` y `docs/assets/social-preview.png` | Número de partidos en la imagen |
 | `astro.config.mjs` | `site`, la dirección pública |
+
+Los nombres, las siglas, el ámbito y los recuentos de partidos salen de `meta.json`. `src/lib/format.ts` los lee de ahí y no hace falta editarlo.
 
 Comprueba el resultado:
 

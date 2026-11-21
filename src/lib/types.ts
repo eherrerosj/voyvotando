@@ -1,4 +1,5 @@
-export const PARTY_IDS = ["fa", "podemos", "pp", "psoe", "salf", "vox"] as const;
+// Mismo orden que data/partidos.json: alfabético por el nombre que se muestra. Una prueba lo comprueba.
+export const PARTY_IDS = ["bildu", "fa", "pnv", "podemos", "pp", "psoe", "salf", "vox"] as const;
 export type PartyId = (typeof PARTY_IDS)[number];
 
 export type Confidence = "alta" | "media" | "baja";
@@ -62,6 +63,13 @@ export interface Party {
   id: PartyId;
   name: string;
   short: string;
+  display: string;
+  abbr: string;
+  /** "estatal" o "autonomico". Los autonómicos solo se presentan en `districts`. */
+  scope: "estatal" | "autonomico";
+  districts: string[];
+  /** Versión de los datos en la que se añadió, o null si estaba en la 1.0. */
+  addedIn: string | null;
   report: { title: string; version: string; cutoff: string; programDate: string; programTitle: string; pages: number; units: number; pdf: string };
   scenarios: { A: Scenario; B: Scenario; C: Scenario; E: { definition: string } };
   conclusions: { title: string; text: string }[];

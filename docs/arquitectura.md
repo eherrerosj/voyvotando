@@ -26,10 +26,11 @@ Las secciones conservan la numeración que citan los comentarios del código: 7.
 ### 8.2 Estructura del repositorio
 
 ```
-data/reports/              6 informes en PDF (solo lectura)
+data/partidos.json         lista única de los 8 partidos: nombres, informe, alias, socios, ámbito y unidades
+data/reports/              8 informes en PDF (solo lectura)
 data/extracted/            texto, extracción, codificaciones, adjudicación, banco y scripts
 scripts/export.py          exporta data/extracted a src/content y aplica los controles de 8.4
-scripts/copy-public-data.mjs copia los PDF y las unidades a public/ antes de dev y build
+scripts/copy-public-data.mjs copia los PDF y las unidades a public/ antes de dev y build, según data/partidos.json
 scripts/csp.mjs            escribe la cabecera CSP con los hashes de los scripts en línea (8.8)
 scripts/validar.ts         simulación de votantes con el motor de la web (metodología, 6.13)
 scripts/shots.mjs          recorrido con capturas en escritorio y móvil
@@ -41,7 +42,7 @@ src/lib/scoring.ts         motor de puntuación (metodología, 6.1 a 6.24)
 src/lib/state.ts           enlace de resultado y progreso del test (8.5)
 src/lib/data.ts            datos completos para resultados y fichas
 src/lib/data-core.ts       datos mínimos para el test, sin posiciones ni citas (8.6)
-src/lib/format.ts          nombres y etiquetas de la interfaz
+src/lib/format.ts          nombres y siglas de partido (leídos de meta.json) y etiquetas de la interfaz
 src/lib/*.test.ts          pruebas de Vitest
 src/components/test/       Quiz.tsx: prioridades, preguntas, interludios y navegación
 src/components/results/    Results.tsx, Sections.tsx y charts.tsx: las 10 secciones de 7.4
@@ -51,7 +52,7 @@ src/styles/global.css      tokens de diseño (7.1) y estilos base
 public/_headers            cabeceras HTTP (8.8)
 public/informes/           PDF de los informes, copiados en cada dev y build (no se versionan)
 public/datos/              unidades de cada partido para carga bajo demanda (no se versionan)
-docs/                      metodología, arquitectura, guía de adaptación e historial de datos
+docs/                      metodología, arquitectura, guías de adaptación y de incorporación de partidos, e historial de datos
 ```
 
 ### 8.3 Modelo de datos
@@ -59,7 +60,8 @@ docs/                      metodología, arquitectura, guía de adaptación e hi
 Los tipos están en `src/lib/types.ts`:
 
 ```ts
-export const PARTY_IDS = ["fa", "podemos", "pp", "psoe", "salf", "vox"] as const;
+// Mismo orden que data/partidos.json: alfabético por el nombre que se muestra. Una prueba lo comprueba.
+export const PARTY_IDS = ["bildu", "fa", "pnv", "podemos", "pp", "psoe", "salf", "vox"] as const;
 export type PartyId = (typeof PARTY_IDS)[number];
 
 export type Confidence = "alta" | "media" | "baja";
@@ -114,19 +116,25 @@ export interface Agreement {
   counterpart: string;
   commonGround: string;
   frictions: string;
-  documented: boolean;
 }
 
 export interface Party {
   id: PartyId;
   name: string;
   short: string;
+  display: string;
+  abbr: string;
+  /** "estatal" o "autonomico". Los autonómicos solo se presentan en `districts`. */
+  scope: "estatal" | "autonomico";
+  districts: string[];
+  /** Versión de los datos en la que se añadió, o null si estaba en la 1.0. */
+  addedIn: string | null;
   report: { title: string; version: string; cutoff: string; programDate: string; programTitle: string; pages: number; units: number; pdf: string };
   scenarios: { A: Scenario; B: Scenario; C: Scenario; E: { definition: string } };
   conclusions: { title: string; text: string }[];
   salienceByAmbito: Record<string, Confidence>;
   internalSupport: { area: string; evidence: string; limit: string }[];
-  team: { name: string; role: string; trajectory: string }[];
+  team: { name: string; role: string }[];
   agreements: Agreement[];
   partners: PartyId[];
 }
@@ -138,8 +146,11 @@ Otros 2 ficheros exportados tienen forma propia:
 
 | Fichero | Campos |
 |---|---|
-| `src/content/units/<partido>.json` | `party`, `ambito`, `id`, `title`, `text`, `condition`, `A`, `B`, `C`, `E`, `figures` y `page` de cada una de las 651 unidades |
-| `src/content/meta.json` | `version`, `sha256`, `questions`, `fast`, `parties`, `units`, `reportPages`, `cutoff`, `adjudicated` y `electionDate` |
+| `src/content/units/<partido>.json` | `party`, `ambito`, `id`, `title`, `text`, `condition`, `A`, `B`, `C`, `E`, `figures` y `page` de cada una de las 937 unidades |
+| `src/content/meta.json` | `version`, `sha256`, `questions`, `fast`, `parties`, `units`, `reportPages`, `cutoff`, `adjudicated`, `electionDate`, `partyInfo` y `notIncluded` |
+
+- `partyInfo` da, para cada partido, el nombre que se muestra (`display`), la sigla (`abbr`), el ámbito (`scope`) y las circunscripciones (`districts`). La interfaz lo lee sin cargar `parties.json`.
+- `notIncluded` lista los partidos sin informe: Junts, ERC, BNG, Coalición Canaria y UPN.
 
 `evidence.sourceReport` indica el informe de donde sale la cita. Es distinto del partido cuando la celda usa evidencia cruzada.
 
@@ -147,21 +158,24 @@ Otros 2 ficheros exportados tienen forma propia:
 
 `npm run data` ejecuta `python3 -I scripts/export.py`. El script hace 5 cosas:
 
-1. Lee `banco_final.json`, `posiciones_adjudicadas.json` y los 6 `informe.json`.
+1. Lee `data/partidos.json`, `banco_final.json`, `posiciones_adjudicadas.json`, `posiciones_incorporadas.json` y los 8 `informe.json`.
 2. Aplica `banco_ajustes.json`: retira preguntas, añade preguntas, sustituye textos y cambia qué preguntas van en el modo rápido.
-3. Aplica `polaridad.json`: invierte el signo de las posiciones, la dirección del eje y la polaridad. También intercambia "A favor" y "En contra" en la ayuda.
+3. Aplica `polaridad.json` a los 6 partidos de la versión 1.0: invierte el signo de las posiciones, la dirección del eje y la polaridad. También intercambia "A favor" y "En contra" en la ayuda. Los partidos incorporados se codificaron con el texto final, y sus posiciones no se invierten.
 4. Escribe `src/content/*.json` y las unidades de cada partido en `src/content/units/`.
 5. Calcula la huella SHA-256 de todo el contenido exportado y la guarda en `meta.json`.
 
-Antes de `npm run dev` y `npm run build`, `scripts/copy-public-data.mjs` copia los 6 PDF a `public/informes/<partido>.pdf` y las unidades a `public/datos/unidades-<partido>.json`. Así el repositorio no guarda 2 copias de cada fichero.
+La fecha de corte de `meta.json` es la más reciente de los informes. En la versión 1.1 es el 21/11/2026.
+
+Antes de `npm run dev` y `npm run build`, `scripts/copy-public-data.mjs` lee `data/partidos.json` y copia los 8 PDF a `public/informes/<partido>.pdf` y las unidades a `public/datos/unidades-<partido>.json`. Así el repositorio no guarda 2 copias de cada fichero.
 
 El script termina con error si falla cualquiera de estos controles:
 
 - Una pregunta tiene menos de 3 partidos con posición.
 - Una celda con valor no tiene cita, o su confianza no es alta, media ni baja.
 - Una cita no aparece en su página del informe, ni en la página anterior o siguiente.
-- El texto de una afirmación contiene el nombre de un partido o de una persona de la lista `FORBIDDEN_NAMES`.
-- El total de unidades exportadas no es 651.
+- El texto de una afirmación contiene un nombre de la lista `FORBIDDEN_NAMES`. La lista reúne los alias y nombres cortos de `data/partidos.json`, más Sumar y los nombres de 9 personas fijados en el script.
+- Un partido exporta un número de unidades distinto de su campo `unidades` en `data/partidos.json`.
+- A un partido incorporado le falta la celda de una pregunta en `posiciones_incorporadas.json`.
 
 La búsqueda de citas normaliza el texto y une los saltos de línea. Si la cita no aparece literal, acepta la página cuando contiene todas sus palabras de más de 2 letras. Esa regla cubre las tablas a dos columnas, que intercalan líneas en el texto con maquetación.
 
@@ -194,12 +208,12 @@ Otras formas de compartir:
 
 ### 8.6 Rendimiento
 
-- La página del test importa `questions_core.json`, que no lleva posiciones ni citas. Pesa 38 KB sin comprimir y unos 10 KB con gzip.
-- La página de resultados importa `questions.json` completo, con 174 KB sin comprimir y unos 32 KB con gzip.
-- Con la compilación actual, el test descarga unos 85 KB de JavaScript con gzip y resultados unos 135 KB. Esas cifras incluyen los datos que importa cada página.
+- La página del test importa `questions_core.json`, que no lleva posiciones ni citas. Pesa 42 KB sin comprimir y unos 10 KB con gzip.
+- La página de resultados importa `questions.json` completo, con 222 KB sin comprimir y unos 39 KB con gzip.
+- Con la compilación de la versión 1.1, el test descarga unos 86 KB de JavaScript con gzip y resultados unos 148 KB. Esas cifras incluyen los datos que importa cada página.
 - La sección "Si gobiernan" carga solo las unidades del partido elegido, desde `/datos/unidades-<partido>.json`. Las de otro partido llegan al seleccionarlo.
 - Las fuentes se sirven en woff2 por subconjuntos de caracteres, con `font-display: swap`.
-- El bootstrap de 1.000 remuestreos cuesta 234.000 sumas y se hace en el navegador.
+- El bootstrap de 1.000 remuestreos cuesta 312.000 sumas y se hace en el navegador.
 - `public/_headers` marca los ficheros de `/_astro/` como inmutables durante 1 año.
 
 ### 8.7 Analítica
@@ -292,9 +306,10 @@ Otros tokens:
 
 ### 7.2 Neutralidad visual
 
-- Los 6 partidos aparecen con el mismo color neutro y sus siglas en texto. No hay logos ni colores de partido.
+- Los 8 partidos aparecen con el mismo color neutro y sus siglas en texto. No hay logos ni colores de partido.
 - La persona usuaria es el único elemento naranja del resultado: su punto en el mapa y su respuesta en las comparaciones.
-- Las listas que no se ordenan por afinidad van en orden alfabético: Frente Amplio, Podemos, PP, PSOE, SALF y Vox.
+- Las listas que no se ordenan por afinidad van en orden alfabético: EH Bildu, Frente Amplio, PNV, Podemos, PP, PSOE, SALF y Vox.
+- Los nombres, las siglas y los recuentos de partidos salen de `meta.json`. La interfaz no los escribe a mano.
 
 ### 7.3 Pantallas
 
@@ -303,7 +318,7 @@ Otros tokens:
 | `/` | Portada con el modo completo (39 preguntas) y el modo rápido (24), qué se vota, de dónde salen los datos y qué partidos entran |
 | `/test` | Prioridades, preguntas, interludios entre bloques y navegación |
 | `/resultados` | Página de 10 secciones (7.4) |
-| `/partidos` y `/partidos/<id>` | Ficha de cada partido: escenarios, prioridades, respaldo, equipo, acuerdos y cercanía con los demás |
+| `/partidos` y `/partidos/<id>` | Ficha de cada partido: escenarios, prioridades, respaldo, equipo, acuerdos y cercanía con los demás. EH Bildu y PNV muestran «Solo se presenta en …» con sus provincias. |
 | `/metodologia` | Fuentes, reglas de codificación, fórmula, margen de error, validación y límites |
 | `/privacidad` | Qué datos se tratan y cuáles no |
 
@@ -316,7 +331,7 @@ Las 10 secciones van en un solo scroll y cada una tiene un ancla.
 | Nº | Ancla | Sección | Fondo | Pregunta que responde |
 |---|---|---|---|---|
 | 1 | `#titular` | Titular | Naranja | ¿Con quién coincido más? |
-| 2 | `#podio` | Podio | Papel | ¿Cómo quedan los 6? |
+| 2 | `#podio` | Podio | Papel | ¿Cómo quedan los 8? |
 | 3 | `#por-que` | Por qué | Superficie | ¿Qué preguntas deciden mi resultado? |
 | 4 | `#mapa` | Mapa | Teal | ¿Dónde estoy frente a los partidos? |
 | 5 | `#temas` | Por temas | Papel | ¿Mi resultado cambia según el tema? |
@@ -328,7 +343,9 @@ Las 10 secciones van en un solo scroll y cada una tiene un ancla.
 
 Reglas comunes:
 
-- Las secciones 3, 7 y 8 se calculan para los 6 partidos, y un selector permite verlos todos.
+- Las secciones 3, 7 y 8 se calculan para los 8 partidos, y un selector permite verlos todos.
+- Si EH Bildu o PNV quedan primeros, el titular añade «Solo se presenta en …» con sus provincias. El podio repite el aviso junto a esos 2 partidos.
+- En el mapa, las etiquetas de los partidos con puntos muy cercanos se apilan alrededor del centro del grupo.
 - Antes de esta página no se revela ninguna afinidad parcial.
 - La sección 9 enlaza cada cita con su página del PDF, con `#page=<n>`.
 - La página nunca tiene scroll horizontal. En móvil las secciones se apilan.
@@ -351,7 +368,7 @@ Reglas comunes:
 
 | Orden | Qué hace | Cuándo usarla |
 |---|---|---|
-| `npm test` | Vitest con 31 pruebas: 27 del motor de puntuación y 4 del enlace de resultado | En cada cambio |
+| `npm test` | Vitest con 34 pruebas: 30 del motor de puntuación y 4 del enlace de resultado | En cada cambio |
 | `npm run check` | `astro check`: tipos de TypeScript y de los componentes Astro | En cada cambio |
 | `npm run data` | Exportación con los controles de 8.4 | Tras tocar `data/extracted` |
 | `npm run build` | Web estática en `dist/` | Antes de publicar |
@@ -364,7 +381,8 @@ Las pruebas del motor (`src/lib/scoring.test.ts`) cubren:
 - Los pesos de prioridad ×2,0, ×1,5 y ×1,2.
 - El ejemplo resuelto de 6.14 y la descomposición exacta $S_k = 50 + \sum \delta$.
 - Propiedades con fast-check: afinidad entre 0 y 100, monotonía y que saltar una pregunta sin posición no cambie nada.
-- El autotest con los 6 partidos y la recuperación con ruido σ = 0,75 (umbral 0,95).
+- Que `PARTY_IDS` sigue el orden de `data/partidos.json` y que cada pregunta tiene a los 8 partidos.
+- El autotest con los 8 partidos y la recuperación con ruido σ = 0,75 (umbral 0,95).
 - El bootstrap determinista, los ejes, las bisagras, la sensibilidad y las funciones de 6.19 a 6.23.
 
 `npm run qa:responsive` recorre todas las páginas en 6 tamaños, de 360 a 1.024 px de ancho:

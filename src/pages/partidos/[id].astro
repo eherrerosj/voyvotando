@@ -1,23 +1,17 @@
 ---
 import Base from "../../layouts/Base.astro";
 import { AMBITOS, PARTIES, QUESTIONS } from "../../lib/data";
-import { DISPLAY, PARTY_POSITION_LABEL, pct } from "../../lib/format";
+import { DISPLAY, PARTY_POSITION_LABEL, districtNote, pct } from "../../lib/format";
 import { partyCloseness } from "../../lib/scoring";
-import { PARTY_IDS, type Party, type PartyId } from "../../lib/types";
-import unitsFa from "../../content/units/fa.json";
-import unitsPodemos from "../../content/units/podemos.json";
-import unitsPp from "../../content/units/pp.json";
-import unitsPsoe from "../../content/units/psoe.json";
-import unitsSalf from "../../content/units/salf.json";
-import unitsVox from "../../content/units/vox.json";
+import { PARTY_IDS, type Party } from "../../lib/types";
 
 export function getStaticPaths() {
   return PARTIES.map((p) => ({ params: { id: p.id }, props: { party: p } }));
 }
 const { party } = Astro.props as { party: Party };
 type Unit = { ambito: number; id: string; title: string; text: string; condition: string | null; A: string | null; B: string | null; C: string | null; E: string | null; figures: string[]; page: number };
-const ALL: Record<PartyId, Unit[]> = { fa: unitsFa, podemos: unitsPodemos, pp: unitsPp, psoe: unitsPsoe, salf: unitsSalf, vox: unitsVox } as Record<PartyId, Unit[]>;
-const units = ALL[party.id];
+const files = import.meta.glob<{ default: Unit[] }>("../../content/units/*.json", { eager: true });
+const units = files[`../../content/units/${party.id}.json`].default;
 const byAmbito = Object.entries(AMBITOS).map(([n, name]) => ({ n: Number(n), name, units: units.filter((u) => u.ambito === Number(n)) })).filter((g) => g.units.length);
 const closeness = PARTY_IDS.filter((p) => p !== party.id)
   .map((p) => ({ p, c: partyCloseness(QUESTIONS, party.id, p) }))
@@ -33,6 +27,7 @@ const fmt = (iso: string) => (iso ? new Date(iso + "T12:00:00").toLocaleDateStri
       <p class="kicker">Ficha de partido</p>
       <h1 class="display party-hero__title">{party.name}</h1>
       <p class="lead">Programa: {party.report.programTitle || "programa electoral"}, presentado el {fmt(party.report.programDate)}. Informe de evaluación de {party.report.pages} páginas con {party.report.units} propuestas analizadas. Corte de información: {fmt(party.report.cutoff)}.</p>
+      {districtNote(party.id) && <p class="lead"><strong>{districtNote(party.id)}.</strong> Sus diputados se eligen en esas circunscripciones, y su papel en el Congreso depende de los acuerdos con otros grupos.</p>}
       <a class="btn" href={party.report.pdf} target="_blank" rel="noopener">Leer el informe completo (PDF) <span class="arrow" aria-hidden="true">→</span></a>
     </div>
   </section>

@@ -614,5 +614,174 @@
    "text": "El programa también elimina el régimen especial de SOCIMI; no consta interlocución con SALF. Potencial, como inferencia: Una votación concreta sobre privilegios fiscales podría coincidir. [2, 109] | Límite: La coincidencia no resuelve diferencias sobre redistribución, propiedad, derechos o inmigración."
   }
  ],
- "salf": []
+ "salf": [],
+ "bildu": [
+  {
+   "source_report": "fa",
+   "page": 42,
+   "text": "Podrían ser interlocutores para paquetes sociales o territoriales: es una hipótesis de negociación. | No se asigna apoyo a propuestas concretas sin fuente de cada partido o acuerdo."
+  },
+  {
+   "source_report": "pnv",
+   "page": 81,
+   "text": "EH Bildu | Acuerdo municipal firmado en Ordizia en febrero de 2026 y proposición conjunta sobre plurilingüismo en 2025."
+  },
+  {
+   "source_report": "podemos",
+   "page": 53,
+   "text": "Navarra y Euskadi [58] | ERC mantiene acuerdos con EH Bildu mientras Podemos presenta su candidatura. Las alianzas no son transitivas: ERC-Podemos no equivale a una lista común Podemos-EH Bildu."
+  },
+  {
+   "source_report": "podemos",
+   "page": 56,
+   "text": "EH Bildu | Coincidencia en los decretos de vivienda; competencia con Podemos en Navarra. [46, 58] | Protección residencial. El vínculo con ERC no crea una alianza transitiva."
+  },
+  {
+   "source_report": "pp",
+   "page": 30,
+   "text": "Junts, ERC, EH Bildu, BNG: Terreno potencial: Pueden existir coincidencias parciales en servicios o intereses territoriales. Condiciones y fricciones: No se ha acreditado pacto para este programa. Competencias, amnistía y modelo territorial son fricciones relevantes, no un veto inferido a toda ley."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor; PP, Vox y Junts en contra."
+  },
+  {
+   "source_report": "psoe",
+   "page": 38,
+   "text": "Los votos favorables de vivienda acreditan una coincidencia concreta. La continuidad de apoyo requiere texto y condiciones; no asumir que respaldarían todo paquete fiscal, territorial o exterior."
+  },
+  {
+   "source_report": "salf",
+   "page": 61,
+   "text": "Alvise descartó pactar con esta formación en aquel contexto autonómico. Potencial, como inferencia: No se identifica un paquete de gobierno compartido. [100] | Límite: El rechazo político documentado no autoriza atribuir incompatibilidad técnica a toda iniciativa imaginable."
+  },
+  {
+   "source_report": "vox",
+   "page": 34,
+   "text": "Sin un compromiso vigente sobre la versión concreta, el apoyo de Junts, ERC, EH Bildu, BNG, Coalición Canaria, UPN u otras candidaturas queda sin acreditar en esta matriz."
+  }
+ ],
+ "pnv": [
+  {
+   "source_report": "bildu",
+   "page": 95,
+   "text": "Acuerdo municipal de Ordizia firmado en febrero de 2026; iniciativa conjunta sobre Bardenas con Sumar y Mixto en mayo, rechazada por el Congreso el 11 de junio. Comparten también algunos expedientes sociales, como enmiendas sobre mutualidades."
+  },
+  {
+   "source_report": "bildu",
+   "page": 97,
+   "text": "La cooperación con ERC y BNG, junto con la posibilidad de acuerdos específicos con PNV, permite plantear negociación sobre transferencias, lengua, competencias y financiación de servicios."
+  },
+  {
+   "source_report": "bildu",
+   "page": 97,
+   "text": "La iniciativa compartida con PNV, Sumar e Ione Belarra identifica interlocutores para negociar el cese de actividad militar y la reconversión de Bardenas."
+  },
+  {
+   "source_report": "bildu",
+   "page": 23,
+   "text": "El umbral es al menos 40 años, distinto del superior a 40 años del programa del PNV."
+  },
+  {
+   "source_report": "bildu",
+   "page": 96,
+   "text": "La nota del Congreso sobre mutualidades identifica enmiendas conjuntas con CC, PSOE, Sumar, ERC y PNV."
+  },
+  {
+   "source_report": "fa",
+   "page": 42,
+   "text": "Las decisiones presupuestarias, territoriales y empresariales deben tratarse por separado. El antecedente de jornada muestra un veto concreto de Junts en 2025. [45]"
+  },
+  {
+   "source_report": "podemos",
+   "page": 2,
+   "text": "El precedente de votos diferentes del PNV según el decreto de vivienda ilustra ese carácter selectivo. [46, 64, 65, 66]"
+  },
+  {
+   "source_report": "podemos",
+   "page": 57,
+   "text": "PNV | Apoyó el RDL 29 de vivienda y rechazó el RDL 28. [46] | Protecciones delimitadas. Apoyo selectivo; no aceptación de toda la intervención inmobiliaria."
+  },
+  {
+   "source_report": "podemos",
+   "page": 57,
+   "text": "El PNV apoyó el decreto 29 y rechazó el 28."
+  },
+  {
+   "source_report": "podemos",
+   "page": 58,
+   "text": "El comportamiento del PNV aconseja separar instrumentos temporales, permanentes y expropiatorios. [46, 64, 65]"
+  },
+  {
+   "source_report": "pp",
+   "page": 2,
+   "text": "PNV rechaza un bloque con Vox: no se agregan sus votos como piezas automáticamente compatibles. [33, 35, 50]"
+  },
+  {
+   "source_report": "pp",
+   "page": 14,
+   "text": "No se acredita apoyo de PSOE o PNV al paquete."
+  },
+  {
+   "source_report": "pp",
+   "page": 17,
+   "text": "Vox, PNV y otras fuerzas tienen prioridades territoriales distintas; no se suman como aliados intercambiables. [24-26, 33, 35]"
+  },
+  {
+   "source_report": "pp",
+   "page": 30,
+   "text": "PNV: Terreno potencial: Posibles acuerdos técnicos o económicos, sujetos a autogobierno y agenda vasca. Condiciones y fricciones: Su rechazo a un bloque con Vox impide tratarlo como complemento automático. PP-PNV no se infiere de afinidad económica. [35]"
+  },
+  {
+   "source_report": "psoe",
+   "page": 6,
+   "text": "No se presume que PNV o Junts acepten el paquete por respaldar otras políticas."
+  },
+  {
+   "source_report": "psoe",
+   "page": 10,
+   "text": "El 12 de noviembre se convalidó el RDL 29/2026 y se rechazó el 28/2026, relativo a prórroga de arrendamientos. PNV respaldó el primero, no el segundo."
+  },
+  {
+   "source_report": "psoe",
+   "page": 20,
+   "text": "Los intereses del PNV, ERC o Junts no se agregan como si fueran idénticos."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 29/2026 convalidado en la Diputación Permanente: PSOE, Sumar, ERC, PNV, Bildu y Podemos a favor; PP, Vox y Junts en contra."
+  },
+  {
+   "source_report": "psoe",
+   "page": 37,
+   "text": "RDL 28/2026 rechazado; PNV se sitúa en contra, a diferencia del decreto 29."
+  },
+  {
+   "source_report": "psoe",
+   "page": 38,
+   "text": "El respaldo al decreto 29 y rechazo al 28 muestran selección por instrumento. No presumir acuerdo en fiscalidad general, competencias o controles del alquiler por apoyo a una medida de acceso."
+  },
+  {
+   "source_report": "salf",
+   "page": 6,
+   "text": "No presupone coalición, resultado electoral ni apoyo de PNV u otros partidos."
+  },
+  {
+   "source_report": "salf",
+   "page": 61,
+   "text": "Su programa niega apoyo a gobiernos dependientes de Vox y protege el autogobierno. Potencial, como inferencia: Coordinación técnica en servicios solo con respeto competencial y acuerdo específico. [2, 110] | Límite: No incorporar sus votos automáticamente al escenario PP-Vox-SALF."
+  },
+  {
+   "source_report": "vox",
+   "page": 18,
+   "text": "El PNV declara que no facilitará un gobierno dependiente de Vox y defiende su autogobierno. Sus votos no deben agregarse a una coalición hipotética como si fueran intercambiables."
+  },
+  {
+   "source_report": "vox",
+   "page": 34,
+   "text": "Su programa de 2026 descarta facilitar un gobierno dependiente de Vox. Por tanto, no se suman los votos potenciales del PNV a un bloque PP-Vox como si fueran apoyos compatibles por defecto."
+  }
+ ]
 }

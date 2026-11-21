@@ -1,6 +1,7 @@
 // Validación del algoritmo con el motor de la web (docs/metodologia.md 6.13).
 // Ejecuta: npm run validar. Las cifras son deterministas: la semilla es fija.
 import questionsJson from "../src/content/questions.json";
+import { DISPLAY } from "../src/lib/format";
 import { bootstrap, order, rank, rng, scoreAll } from "../src/lib/scoring";
 import { PARTY_IDS, type Answers, type PartyId, type Question, type Scale } from "../src/lib/types";
 
@@ -8,7 +9,7 @@ const ALL = questionsJson as unknown as Question[];
 const FAST = ALL.filter((q) => q.fast);
 const PER_PARTY = 1000;
 const TIE_PER_PARTY = 300;
-const NAME: Record<PartyId, string> = { fa: "Frente Amplio", podemos: "Podemos", pp: "PP", psoe: "PSOE", salf: "SALF", vox: "Vox" };
+const NAME: Record<PartyId, string> = DISPLAY;
 
 const random = rng(20261129);
 const gauss = () => Math.sqrt(-2 * Math.log(1 - random())) * Math.cos(2 * Math.PI * random());
@@ -78,10 +79,10 @@ const row = (label: string, f: (r: ReturnType<typeof validate>) => string) => `|
 console.log(`| Prueba | Modo completo (${ALL.length}) | Modo rápido (${FAST.length}) |`);
 console.log("|---|---|---|");
 console.log(row("Autotest: cada partido responde sus propias posiciones", (r) =>
-  `${r.autotest.filter((x) => x.ok).length} de 6 en primer puesto; margen mínimo ${Math.min(...r.autotest.map((x) => x.margin)).toFixed(1).replace(".", ",")} puntos`));
+  `${r.autotest.filter((x) => x.ok).length} de ${PARTY_IDS.length} en primer puesto; margen mínimo ${Math.min(...r.autotest.map((x) => x.margin)).toFixed(1).replace(".", ",")} puntos`));
 console.log(row("Recuperación con ruido σ = 0,75", (r) => range(r.r075, dec)));
 console.log(row("Recuperación con ruido σ = 1,25", (r) => range(r.r125, dec)));
-console.log(row("Primer puesto con respuestas al azar (ideal: 16,7% cada uno)", (r) => range(r.firstAtRandom, pct)));
+console.log(row(`Primer puesto con respuestas al azar (ideal: ${pct(1 / PARTY_IDS.length)} cada uno)`, (r) => range(r.firstAtRandom, pct)));
 console.log(row("Empate técnico con el primero, σ = 0,75", (r) => pct(r.tie075)));
 console.log(row("Empate técnico con el primero, σ = 1,25", (r) => pct(r.tie125)));
 console.log(row("Todo «Neutral»: primer puesto", (r) => `${NAME[r.neutral.first]}, ${r.neutral.margin.toFixed(1).replace(".", ",")} puntos por delante`));

@@ -1,12 +1,78 @@
 {
- "version": "1.0",
- "sha256": "79913224958d3fe8c499ab20f2fe792a4acf6ba8495993dcd24fc25768a86fda",
+ "version": "1.1",
+ "sha256": "7510b09631ec2f26ffbcc46eaeaffd5c63f58f5ff6fa61964ccfa5e37a995f82",
  "questions": 39,
  "fast": 24,
- "parties": 6,
- "units": 651,
- "reportPages": 326,
- "cutoff": "2026-11-18",
+ "parties": 8,
+ "units": 937,
+ "reportPages": 538,
+ "cutoff": "2026-11-21",
  "adjudicated": true,
- "electionDate": "2026-11-29"
+ "electionDate": "2026-11-29",
+ "partyInfo": {
+  "bildu": {
+   "display": "EH Bildu",
+   "abbr": "Bildu",
+   "scope": "autonomico",
+   "districts": [
+    "Álava",
+    "Bizkaia",
+    "Gipuzkoa",
+    "Navarra"
+   ]
+  },
+  "fa": {
+   "display": "Frente Amplio",
+   "abbr": "FA",
+   "scope": "estatal",
+   "districts": []
+  },
+  "pnv": {
+   "display": "PNV",
+   "abbr": "PNV",
+   "scope": "autonomico",
+   "districts": [
+    "Álava",
+    "Bizkaia",
+    "Gipuzkoa"
+   ]
+  },
+  "podemos": {
+   "display": "Podemos",
+   "abbr": "Podemos",
+   "scope": "estatal",
+   "districts": []
+  },
+  "pp": {
+   "display": "PP",
+   "abbr": "PP",
+   "scope": "estatal",
+   "districts": []
+  },
+  "psoe": {
+   "display": "PSOE",
+   "abbr": "PSOE",
+   "scope": "estatal",
+   "districts": []
+  },
+  "salf": {
+   "display": "SALF",
+   "abbr": "SALF",
+   "scope": "estatal",
+   "districts": []
+  },
+  "vox": {
+   "display": "Vox",
+   "abbr": "Vox",
+   "scope": "estatal",
+   "districts": []
+  }
+ },
+ "notIncluded": [
+  "Junts",
+  "ERC",
+  "BNG",
+  "Coalición Canaria",
+  "UPN"
+ ]
 }

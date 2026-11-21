@@ -14,22 +14,17 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXT = os.path.join(ROOT, "data", "extracted")
 OUT = os.path.join(ROOT, "src", "content")
 
-DATA_VERSION = "1.0"
-PARTIES = ["fa", "podemos", "pp", "psoe", "salf", "vox"]
-NAMES = {
-    "fa": ("Frente Amplio", "FA"),
-    "podemos": ("Podemos", "Podemos"),
-    "pp": ("Partido Popular", "PP"),
-    "psoe": ("PSOE", "PSOE"),
-    "salf": ("Se Acabó La Fiesta", "SALF"),
-    "vox": ("Vox", "Vox"),
-}
-TXT = {
-    "fa": "Analisis_Frente_Amplio_2026", "podemos": "Analisis_Podemos_2026", "pp": "Analisis_PP_2026",
-    "psoe": "Analisis_PSOE_2026", "salf": "Analisis_SALF_2026", "vox": "Analisis_Vox_2026",
-}
+DATA_VERSION = "1.1"
+# Lista única de partidos, en orden alfabético de su nombre corto (docs/incorporar-partidos.md).
+with open(os.path.join(ROOT, "data", "partidos.json"), encoding="utf-8") as _f:
+    PARTIDOS_FILE = json.load(_f)
+PARTIDOS = PARTIDOS_FILE["partidos"]
+PARTIES = [p["id"] for p in PARTIDOS]
+NAMES = {p["id"]: (p["nombre"], p["corto"]) for p in PARTIDOS}
+TXT = {p["id"]: p["informe"] for p in PARTIDOS}
 # Socios del escenario B de cada informe (docs/metodologia.md 6.21).
-PARTNERS = {"pp": ["vox"], "vox": ["pp"], "salf": ["pp", "vox"], "psoe": ["fa", "podemos"], "fa": ["psoe"], "podemos": ["psoe"]}
+PARTNERS = {p["id"]: p["socios"] for p in PARTIDOS}
+INCORPORATED = {p["id"] for p in PARTIDOS if p["incorporado"]}
 BLOCKS = [
     {"id": 1, "name": "Economía, impuestos y trabajo", "ambitos": [1, 2, 3, 4]},
     {"id": 2, "name": "Vivienda", "ambitos": [5]},
@@ -48,7 +43,7 @@ AMBITOS = {
     15: "Agricultura, pesca y medio rural", 16: "Infraestructuras y movilidad", 17: "Tecnología, IA y datos",
     18: "Unión Europea, exterior y defensa", 19: "Cultura, medios, deporte y consumo",
 }
-FORBIDDEN_NAMES = ["pp", "psoe", "vox", "podemos", "sumar", "frente amplio", "salf", "se acabó la fiesta", "feijóo", "sánchez", "abascal", "alvise", "montero", "díaz"]
+FORBIDDEN_NAMES = sorted({a.lower() for p in PARTIDOS for a in p["alias"] + [p["corto"]]} | {"sumar", "feijóo", "sánchez", "abascal", "alvise", "montero", "díaz", "otegi", "pradales", "esteban"})
 
 errors = []
 
@@ -89,9 +84,7 @@ def quote_found(quote, party, page):
 def unit_text(party, u):
     if party == "salf":
         return u.get("proposal") or u.get("instrument") or "", u.get("instrument") if u.get("proposal") else None
-    if party == "podemos":
-        return u.get("instrument") or "", u.get("condition")
-    return u.get("instrument") or "", None
+    return u.get("instrument") or "", u.get("condition") or None
 
 
 def export_units(party, rep):
@@ -111,13 +104,16 @@ def export_units(party, rep):
 
 def export_party(party):
     rep = jload(os.path.join(EXT, party, "informe.json"))
-    cod = jload(os.path.join(EXT, party, "codificacion.json"), {})
+    cod = jload(os.path.join(EXT, party, "codificacion.json")) or jload(os.path.join(EXT, party, "codificacion_a.json"), {})
     meta = rep["report_meta"]
     sc = rep["scenarios"]
     units = export_units(party, rep)
     name, short = NAMES[party]
+    conf = next(p for p in PARTIDOS if p["id"] == party)
     return {
         "id": party, "name": name, "short": short,
+        "display": conf["mostrar"], "abbr": conf["sigla"],
+        "scope": conf["ambito"], "districts": conf["circunscripciones"], "addedIn": conf["incorporado"],
         "report": {
             "title": meta.get("title", ""), "version": meta.get("version", ""), "cutoff": meta.get("cutoff_date", ""),
             "programDate": meta.get("program_date", ""), "programTitle": meta.get("program_title", ""),
@@ -166,6 +162,7 @@ def export_questions():
     signs_applied = jload(os.path.join(EXT, "polaridad_aplicada.json"), {}).get("signos_ya_invertidos_en_adjudicadas", False)
     ayudas = jload(os.path.join(EXT, "ayudas.json"), {})
     ajustes = jload(os.path.join(EXT, "banco_ajustes.json"), {})
+    incorporated = jload(os.path.join(EXT, "posiciones_incorporadas.json"), {"partidos": {}})["partidos"]
     # Ajustes tras la adjudicación: retirar, añadir, reformular y cambiar el modo rápido (banco_ajustes.json).
     bank = [b for b in bank if b["id"] not in ajustes.get("retirar", {})]
     for extra in ajustes.get("añadir", []):
@@ -188,6 +185,13 @@ def export_questions():
         text = ajustes.get("textos", {}).get(qid, text)
         positions = {}
         for p in PARTIES:
+            if p in INCORPORATED:
+                # Codificados con el texto final (catalogo_banco.json): no se invierten.
+                if qid not in incorporated.get(p, {}):
+                    errors.append(f"{qid}/{p}: falta en posiciones_incorporadas.json")
+                    continue
+                positions[p] = position_out(incorporated[p][qid], p, qid)
+                continue
             cell = dict(cells[p])
             if flip and not (adjudicated and signs_applied) and cell.get("value") is not None:
                 cell["value"] = -cell["value"]
@@ -224,8 +228,8 @@ def main():
         total_units += len(units)
         with open(os.path.join(OUT, "units", f"{p}.json"), "w", encoding="utf-8") as f:
             json.dump(units, f, ensure_ascii=False)
-    if total_units != 651:
-        errors.append(f"unidades exportadas: {total_units}, esperadas 651")
+        if len(units) != next(c["unidades"] for c in PARTIDOS if c["id"] == p):
+            errors.append(f"{p}: {len(units)} unidades exportadas, data/partidos.json declara otra cifra")
     questions, adjudicated = export_questions()
     glossary = jload(os.path.join(EXT, "glosario.json"), [])
     interludes = jload(os.path.join(EXT, "interludios.json"), [])
@@ -234,7 +238,10 @@ def main():
     meta = {
         "version": DATA_VERSION, "sha256": digest, "questions": len(questions), "fast": sum(q["fast"] for q in questions),
         "parties": len(parties), "units": total_units, "reportPages": sum(p["report"]["pages"] for p in parties),
-        "cutoff": "2026-11-18", "adjudicated": adjudicated, "electionDate": "2026-11-29",
+        "cutoff": max(p["report"]["cutoff"] for p in parties), "adjudicated": adjudicated, "electionDate": "2026-11-29",
+        # Nombres y ámbito de cada partido para la interfaz, sin cargar parties.json en el navegador.
+        "partyInfo": {p["id"]: {"display": p["display"], "abbr": p["abbr"], "scope": p["scope"], "districts": p["districts"]} for p in parties},
+        "notIncluded": PARTIDOS_FILE["sin_informe"],
     }
     core = [{k: q[k] for k in ("id", "order", "block", "ambito", "text", "fast", "help")} for q in questions]
     for name, obj in [("parties", parties), ("questions", questions), ("questions_core", core), ("blocks", BLOCKS), ("ambitos", AMBITOS),

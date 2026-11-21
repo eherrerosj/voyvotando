@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { BLOCKS, META, QUESTIONS, QUESTION_BY_ID } from "../../lib/data";
-import { COINCIDENCE_LABEL, DISPLAY, answerLabel, pct } from "../../lib/format";
+import { COINCIDENCE_LABEL, DISPLAY, answerLabel, districtNote, pct } from "../../lib/format";
 import {
   LOW_PRECISION_BELOW, MIN_ANSWERS_RANKING, bootstrap, certainty, coincidenceCounts, order, personAffinity, pivots, questionWeights, rank, scoreAll, sensitivity,
   type Coincidence,
@@ -106,7 +106,7 @@ function ResultsView({ initial }: { initial: SavedState }) {
       <section id="podio" className="section">
         <div className="wrap">
           <p className="kicker">2 · Podio</p>
-          <h2 className="display res-h2">Los 6 partidos</h2>
+          <h2 className="display res-h2">Los {PARTY_IDS.length} partidos</h2>
           <Podium ctx={ctx} setPriorities={setPriorities} answered={answered} />
         </div>
       </section>
@@ -192,6 +192,7 @@ function Hero({ ranked, answered, neutral, priorities, pivots }: { ranked: Retur
             <h1 className="display hero-res__title">Coincides más con</h1>
             <p className="hero-res__names outline">{DISPLAY[top.party]}</p>
             <p className="hero-res__pct display" aria-label={`${pct(top.score.value)} por ciento`}>{pct(shown)}%</p>
+            {districtNote(top.party) && <p className="hero-res__sub"><strong>{districtNote(top.party)}.</strong> El test lo compara igual que al resto, aunque no esté en tu papeleta.</p>}
           </>
         )}
         <p className="hero-res__sub">
@@ -256,6 +257,7 @@ function Podium({ ctx, setPriorities, answered }: { ctx: Ctx; setPriorities: (p:
                   <span className="podium__fill" style={{ width: `${s.value}%` }} />
                   {mode === "base" && <span className="podium__ci" style={{ left: `${r.interval[0]}%`, width: `${Math.max(r.interval[1] - r.interval[0], 0.5)}%` }} />}
                 </div>
+                {districtNote(p) && <p className="small podium__meta">{districtNote(p)}.</p>}
                 <p className="small muted podium__meta">
                   {(["coincidencia", "discrepancia", "parcial", "sin_posicion"] as Coincidence[]).map((k) => `${c[k]} ${COINCIDENCE_LABEL[k]}`).join(" · ")}
                   {" · "}posición documentada en {s.withPosition} de {answered}
@@ -385,5 +387,5 @@ function drawShare(c: HTMLCanvasElement, ctx: Ctx) {
     g.fillText(`${Math.round(r.score.value)}%`, 1040, y + 34);
   });
   g.font = "400 22px 'Inter Variable', sans-serif";
-  g.fillText(`Datos v${META.version} · 6 informes de evaluación · No es una recomendación de voto · ${window.location.host}`, 60, 600);
+  g.fillText(`Datos v${META.version} · ${PARTY_IDS.length} informes de evaluación · No es una recomendación de voto · ${window.location.host}`, 60, 600);
 }

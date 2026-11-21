@@ -1,11 +1,12 @@
 ---
 import Base from "../layouts/Base.astro";
-import { META, PARTIES, minutesFor } from "../lib/data";
+import { META, PARTIES, REGIONAL, minutesFor } from "../lib/data";
+import { joinEs } from "../lib/format";
 
 const fmtDate = (iso: string) => new Date(iso + "T12:00:00").toLocaleDateString("es-ES", { day: "numeric", month: "long" });
 const steps = [
   { n: "01", t: `${META.questions} afirmaciones, escala de 5 puntos`, d: "De «muy en desacuerdo» a «muy de acuerdo», con la opción de no responder. Antes de empezar puedes elegir hasta 3 temas prioritarios, que pesan ×2,0, ×1,5 y ×1,2." },
-  { n: "02", t: "Posiciones sacadas de 6 informes", d: `Cada posición de partido sale de un informe de evaluación de su programa, con cita literal y página. Dos codificaciones hechas por separado con IA coinciden en el 88% de los casos, y una persona revisa las dudosas.` },
+  { n: "02", t: `Posiciones sacadas de ${META.parties} informes`, d: `Cada posición de partido sale de un informe de evaluación de su programa, con cita literal y página. Dos codificaciones hechas por separado con IA coinciden en el 89% de los casos, y una persona revisa las dudosas.` },
   { n: "03", t: "Proximidad y dirección, a partes iguales", d: "Por pregunta, el acuerdo mezcla lo cerca que estáis en la escala y si estáis del mismo lado. Si un partido no se ha pronunciado sobre un tema, ese tema no cuenta para él." },
   { n: "04", t: "Margen de error y empate técnico", d: "Repetimos el cálculo 1.000 veces remuestreando tus respuestas. Si dos partidos no se separan con claridad, lo decimos." },
   { n: "05", t: "Tus respuestas no salen de tu móvil", d: "Sin registro, sin cookies y sin servidor. El cálculo se hace en tu navegador. El código es abierto, así que cualquiera puede comprobarlo." },
@@ -50,8 +51,8 @@ const steps = [
   <section class="section" id="datos">
     <div class="wrap">
       <p class="kicker">De dónde salen los datos</p>
-      <h2 class="display h2">6 informes, {META.reportPages} páginas</h2>
-      <p class="lead">Cada programa tiene un informe de evaluación elaborado para Voy Votando con ayuda de IA, a partir del programa oficial y de fuentes públicas como el BOE o la AIReF. Los 6 usan el mismo marco: 19 ámbitos de política, cada propuesta con su instrumento y una valoración de si podría aprobarse y ejecutarse. Los partidos aparecen por orden alfabético.</p>
+      <h2 class="display h2">{META.parties} informes, {META.reportPages} páginas</h2>
+      <p class="lead">Cada programa tiene un informe de evaluación elaborado para Voy Votando con ayuda de IA, a partir del programa oficial y de fuentes públicas como el BOE o la AIReF. Todos usan el mismo marco: 19 ámbitos de política, cada propuesta con su instrumento y una valoración de si podría aprobarse y ejecutarse. Los partidos aparecen por orden alfabético.</p>
       <ul class="reports">
         {PARTIES.map((p) => (
           <li class="card">
@@ -78,7 +79,7 @@ const steps = [
         <li>Mide coincidencias entre tus respuestas y los programas. La decisión es tuya.</li>
         <li>No usa encuestas ni estima escaños.</li>
         <li>No da una nota de credibilidad a ningún partido. Los informes lo desaconsejan.</li>
-        <li>Incluye 6 partidos de ámbito estatal con informe propio. No incluye PNV, Junts, ERC, EH Bildu, BNG, Coalición Canaria ni UPN, porque no tienen informe.</li>
+        <li>Incluye {META.parties} partidos con informe propio. {joinEs(REGIONAL.map((p) => p.display))} solo se {REGIONAL.length > 1 ? "presentan" : "presenta"} en algunas provincias. Aún no incluye {joinEs(META.notIncluded)}, porque no tienen informe.</li>
       </ul>
     </div>
   </section>

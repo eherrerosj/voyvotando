@@ -7,7 +7,7 @@ interface Props {
   description?: string;
   bodyClass?: string;
 }
-const { title, description = "Compara tus ideas con los programas de 6 partidos para las elecciones generales del 29 de noviembre de 2026. Sin registro. No es una recomendación de voto.", bodyClass = "" } = Astro.props;
+const { title, description = `Compara tus ideas con los programas de ${META.parties} partidos para las elecciones generales del 29 de noviembre de 2026. Sin registro. No es una recomendación de voto.`, bodyClass = "" } = Astro.props;
 const path = Astro.url.pathname;
 const nav = [
   { href: "/test", label: "Hacer el test" },
@@ -29,7 +29,7 @@ const nav = [
     <meta property="og:image" content={new URL("/og.png", Astro.site).toString()} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Voy Votando: compara tus ideas con los programas de 6 partidos para el 29N" />
+    <meta property="og:image:alt" content={`Voy Votando: compara tus ideas con los programas de ${META.parties} partidos para el 29N`} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content="#f3efe3" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
@@ -62,14 +62,14 @@ const nav = [
           <ul>
             <li><a href="/test">Modo completo ({META.questions} preguntas)</a></li>
             <li><a href="/test?modo=rapido">Modo rápido ({META.fast} preguntas)</a></li>
-            <li><a href="/partidos">Los 6 partidos</a></li>
+            <li><a href="/partidos">Los {META.parties} partidos</a></li>
           </ul>
         </div>
         <div>
           <p class="footer-title serif">Transparencia</p>
           <ul>
             <li><a href="/metodologia">Metodología y fórmula</a></li>
-            <li><a href="/metodologia#fuentes">Fuentes: 6 informes</a></li>
+            <li><a href="/metodologia#fuentes">Fuentes: {META.parties} informes</a></li>
             <li><a href="/privacidad">Privacidad</a></li>
             <li><a href="https://github.com/eherrerosj/voyvotando" rel="noopener">Código abierto en GitHub</a></li>
           </ul>

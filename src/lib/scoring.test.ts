@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import fc from "fast-check";
 import questionsJson from "../content/questions.json";
+import partiesJson from "../content/parties.json";
 import {
   affinity, agreement, bootstrap, coincidence, coincidenceCounts, contributions, order, partnerDiscrepancies,
   partyCloseness, personAffinity, pivots, questionWeights, rank, rng, scoreAll, sensitivity, surprisingMatches, userAxis, partyAxis,
@@ -114,6 +115,13 @@ describe("coincidence (6.22)", () => {
     const a = partyAnswers("pp");
     const c = coincidenceCounts(questions, a, "psoe");
     expect(c.coincidencia + c.discrepancia + c.parcial + c.sin_posicion).toBe(Object.keys(a).length);
+  });
+});
+
+describe("datos de partidos", () => {
+  it("PARTY_IDS sigue el orden de data/partidos.json y cada pregunta tiene a todos los partidos", () => {
+    expect(partiesJson.map((p) => p.id)).toEqual([...PARTY_IDS]);
+    for (const q of questions) expect(Object.keys(q.positions).sort()).toEqual([...PARTY_IDS].sort());
   });
 });
 

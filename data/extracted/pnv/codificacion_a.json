@@ -1,0 +1,691 @@
+{
+ "party_id": "pnv",
+ "coder": "a-extraccion",
+ "codings": [
+  {
+   "id": "Q03",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no recoge rebaja general del IRPF; la única medida de IRPF es eximir las indemnizaciones del amianto (PNV-06-08). Alcance del ámbito 2: 'No hay una reforma tributaria estatal integral ni saldo agregado.'"
+  },
+  {
+   "id": "Q02",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Ninguna unidad propone crear o ampliar empresas públicas. PNV-01-02 pide exigir compromisos a empresas con participación pública ya existente y PNV-14-08 crea un regulador, no una empresa."
+  },
+  {
+   "id": "Q01",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-01-06",
+     "page": 10,
+     "quote": "Reducir trámites y duplicidades que dificultan crear o ampliar negocios y eliminar barreras al crecimiento de pymes",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Unidad propia de simplificación para pymes. Se codifica +1 porque se limita a trámites y duplicidades sin inventario de cargas ni recorte general de normas ('No incluye un inventario de trámites a eliminar')."
+  },
+  {
+   "id": "Q04",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre un impuesto al patrimonio. Alcance del ámbito 2: 'No hay una reforma tributaria estatal integral ni saldo agregado.'"
+  },
+  {
+   "id": "Q05",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "No hay propuesta de recorte de gasto ni de supresión de organismos. PNV-02-02 pide flexibilidad inversora, que no equivale a una posición sobre el nivel de gasto."
+  },
+  {
+   "id": "Q08",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la duración legal de la jornada. PNV-03-09 solo analiza productividad y absentismo."
+  },
+  {
+   "id": "Q07",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el impuesto de sociedades. Alcance del ámbito 2: 'No hay una reforma tributaria estatal integral ni saldo agregado.'"
+  },
+  {
+   "id": "Q09",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el coste o las causas del despido."
+  },
+  {
+   "id": "Q11",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-04-02",
+     "page": 17,
+     "quote": "Eliminar reducciones de jubilación anticipada para carreras de más de cuarenta años cotizados",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Jubilación anticipada sin penalización con carreras largas: la nota de la pregunta fija +1. No propone bajar la edad ordinaria."
+  },
+  {
+   "id": "Q12",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "PNV-05-02 regula alquiler temporal y turístico, pero el informe dice: 'No determina límites de renta, cupos turísticos, tributos, sanciones o definición operativa de especulación.'"
+  },
+  {
+   "id": "Q13",
+   "value": 0,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-05-01",
+     "page": 20,
+     "quote": "Acelerar procedimientos urbanísticos con garantías legales y aumentar oferta residencial movilizando vivienda vacía y rehabilitando edificios.",
+     "source_report": "pnv"
+    },
+    {
+     "unit_id": "PNV-05-02",
+     "page": 20,
+     "quote": "regular vivienda temporal y turística para proteger oferta residencial, junto a medidas contra prácticas especulativas",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Combina agilizar trámites y aumentar oferta (PNV-05-01) con regulación del alquiler temporal y turístico y medidas contra la especulación (PNV-05-02). No antepone una vía a la otra: posición intermedia."
+  },
+  {
+   "id": "Q16",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-05-02",
+     "page": 20,
+     "quote": "regular vivienda temporal y turística para proteger oferta residencial",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone regular la vivienda turística para proteger la oferta residencial, sin prohibición ni límites concretos ('No determina límites de renta, cupos turísticos, tributos, sanciones'). Versión parcial: +1."
+  },
+  {
+   "id": "Q14",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre ocupación ilegal ni plazos de desalojo. PNV-05-03 trata garantías del alquiler y realojo de familias vulnerables."
+  },
+  {
+   "id": "Q15",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "PNV-05-01 habla de movilizar vivienda vacía, pero 'No fija plazos máximos, número de viviendas, instrumentos para movilizar pisos'. No hay expropiación, gravamen ni sanción."
+  },
+  {
+   "id": "Q18",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre conciertos sanitarios con centros privados. Alcance del ámbito 6: 'No ofrece un plan operativo completo de Osakidetza, listas de espera o ratios'."
+  },
+  {
+   "id": "Q19",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la atención sanitaria a inmigrantes en situación irregular."
+  },
+  {
+   "id": "Q20",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre conciertos educativos. PNV-07-01 'delimita defensa competencial, sin señalar cada reforma estatal que rechaza'."
+  },
+  {
+   "id": "Q22",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la LOMLOE ni sobre exámenes externos. PNV-07-01 se limita a preservar las decisiones educativas vascas."
+  },
+  {
+   "id": "Q23",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-09-03",
+     "page": 32,
+     "quote": "Proteger acceso a salud sexual y reproductiva y modificar Seguridad Ciudadana para establecer perímetros de al menos 150 metros en clínicas de interrupción del embarazo",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Unidad explícita para proteger el acceso a la interrupción del embarazo con perímetros de 150 metros. La referencia a la sanidad pública se deduce de la protección del acceso, sin cita propia."
+  },
+  {
+   "id": "Q17",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre prioridad por nacionalidad en vivienda o ayudas."
+  },
+  {
+   "id": "Q25",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-09-07",
+     "page": 34,
+     "quote": "para que personas extranjeras trans puedan adecuar a su identidad de género la documentación expedida en España",
+     "source_report": "pnv"
+    },
+    {
+     "unit_id": "PNV-09-06",
+     "page": 33,
+     "quote": "Preservar derechos LGTBIQ+",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Propone preservar derechos LGTBIQ+ y desarrollar el artículo 50 de la Ley 4/2023 para personas extranjeras trans. No menciona de forma expresa la autodeterminación registral: +1."
+  },
+  {
+   "id": "Q24",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el Ingreso Mínimo Vital y las ofertas de empleo. Alcance del ámbito 9: las fichas 'no constituyen un nuevo diseño completo de renta mínima'."
+  },
+  {
+   "id": "Q27",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-10-03",
+     "page": 36,
+     "quote": "procedimientos de regularización ya previstos para quienes cumplan sus requisitos",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Favorece los procedimientos de regularización ya previstos. El informe precisa: 'No propone regularización general nueva ni cuotas concretas'. Versión parcial: +1."
+  },
+  {
+   "id": "Q28",
+   "value": -1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-10-07",
+     "page": 38,
+     "quote": "promover alternativas a internamiento en CIE e investigar posibles vulneraciones de derechos",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Pide reforzar garantías en frontera y alternativas al internamiento en CIE. No habla de expulsiones sistemáticas ni de más retornos: versión parcial de lo contrario, -1. 'No establece una abolición general de CIE'."
+  },
+  {
+   "id": "Q29",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre los requisitos de nacionalidad."
+  },
+  {
+   "id": "Q31",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-11-04",
+     "page": 40,
+     "quote": "Reformar Seguridad Ciudadana para retirar restricciones desproporcionadas de derechos",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Propone reformar la Ley de Seguridad Ciudadana, no sustituirla entera ('No enumera artículos a derogar o modificar'). Versión parcial: +1."
+  },
+  {
+   "id": "Q37",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre asumir deuda autonómica. Las unidades del ámbito 13 tratan Concierto, transferencias y autogobierno."
+  },
+  {
+   "id": "Q33",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la elección del CGPJ. PNV-11-07 propone un Consejo Vasco de Justicia, que no cambia la composición del CGPJ."
+  },
+  {
+   "id": "Q35",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre suprimir o reformar el Senado."
+  },
+  {
+   "id": "Q36",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-13-03",
+     "page": 46,
+     "quote": "Completar transferencias pendientes del Estatuto con recursos para ejercerlas y oponerse a vaciamiento o recentralización",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Pide completar transferencias y se opone a la recentralización. La nota fija más autogobierno como negativo. El autogobierno figura entre las prioridades de las conclusiones ejecutivas."
+  },
+  {
+   "id": "Q40",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el calendario de cierre nuclear."
+  },
+  {
+   "id": "Q41",
+   "value": 0,
+   "confidence": "baja",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-14-01",
+     "page": 49,
+     "quote": "revisar la planificación estatal y el PNIEC según necesidades industriales y de suministro",
+     "source_report": "pnv"
+    },
+    {
+     "unit_id": "PNV-14-11",
+     "page": 52,
+     "quote": "Apoyar la electrificación de movilidad y climatización con ayudas e incentivos fiscales",
+     "source_report": "pnv"
+    },
+    {
+     "unit_id": "PNV-15-08",
+     "page": 57,
+     "quote": "Revisar las restricciones europeas a la pesca de fondo en las 87 zonas del Atlántico nororiental",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Apoya instrumentos de descarbonización (electrificación, renovables cercanas, biometano) y a la vez pide revisar el PNIEC por necesidades industriales y restricciones ambientales europeas a la pesca. No pide frenar el Pacto Verde: posición mixta, confianza baja."
+  },
+  {
+   "id": "Q42",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-14-03",
+     "page": 49,
+     "quote": "Reducir permanentemente el Impuesto Especial sobre la Electricidad al 0,5 %, respetando los límites de la normativa europea.",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Unidad explícita para bajar el impuesto eléctrico al 0,5 % de forma permanente. No propone bajar impuestos a los carburantes; el IVA de suministros energéticos solo se estudia (PNV-02-01)."
+  },
+  {
+   "id": "Q44",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no menciona el acuerdo UE-Mercosur. Pedir condiciones equivalentes a las importaciones (PNV-15-02) no equivale a oponerse al acuerdo."
+  },
+  {
+   "id": "Q45",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta gratuidad ni abonos. PNV-02-01 solo propone revisar el IVA del transporte público, dentro de un estudio."
+  },
+  {
+   "id": "Q47",
+   "value": null,
+   "confidence": "media",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre impuestos a plataformas tecnológicas. PNV-17-02 trata el cumplimiento del DSA."
+  },
+  {
+   "id": "Q49",
+   "value": null,
+   "confidence": "alta",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Alcance del ámbito 18: 'No define una política completa de defensa, gasto militar o posición detallada sobre todos los conflictos internacionales.'"
+  },
+  {
+   "id": "Q50",
+   "value": -1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-18-06",
+     "page": 69,
+     "quote": "Apoyar una UE más democrática, competitiva y social, con mayor autonomía estratégica y capacidad industrial",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "Apoya una UE más democrática y con más capacidad; la nota fija ese tipo de petición como negativa. Es una orientación general sin reformas ('Es una orientación general: no define reformas'), por eso -1 y no -2."
+  },
+  {
+   "id": "Q52",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "PNV-12-03",
+     "page": 44,
+     "quote": "Aplicar memoria histórica y democrática para verdad, justicia y reparación",
+     "source_report": "pnv"
+    },
+    {
+     "unit_id": "PNV-12-03",
+     "page": 44,
+     "quote": "Existe una Ley de Memoria Democrática y el programa propone su aplicación",
+     "source_report": "pnv"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone aplicar la Ley de Memoria Democrática, lo contrario de derogarla."
+  }
+ ],
+ "salience_by_ambito": [
+  {
+   "ambito": 1,
+   "salience": "alta",
+   "reason": "8 unidades; 'actividad económica' figura entre las prioridades de la conclusión ejecutiva 1."
+  },
+  {
+   "ambito": 2,
+   "salience": "alta",
+   "reason": "2 unidades; las 'menores impuestos' y la financiación sin demostrar aparecen en la conclusión ejecutiva 3."
+  },
+  {
+   "ambito": 3,
+   "salience": "alta",
+   "reason": "11 unidades; desempleo a 36 meses, garantías laborales y transparencia salarial aparecen en la conclusión ejecutiva 4."
+  },
+  {
+   "ambito": 4,
+   "salience": "alta",
+   "reason": "6 unidades; la actualización de pensiones aparece en la conclusión ejecutiva 4."
+  },
+  {
+   "ambito": 5,
+   "salience": "media",
+   "reason": "4 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 6,
+   "salience": "alta",
+   "reason": "8 unidades; cannabis medicinal y exención del amianto aparecen en la conclusión ejecutiva 4."
+  },
+  {
+   "ambito": 7,
+   "salience": "media",
+   "reason": "4 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 8,
+   "salience": "media",
+   "reason": "6 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 9,
+   "salience": "alta",
+   "reason": "8 unidades; 'protección social' y 'derechos' aparecen en las conclusiones ejecutivas 1 y 3."
+  },
+  {
+   "ambito": 10,
+   "salience": "alta",
+   "reason": "7 unidades; la transferencia de permisos de trabajo aparece en la conclusión ejecutiva 2."
+  },
+  {
+   "ambito": 11,
+   "salience": "media",
+   "reason": "7 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 12,
+   "salience": "media",
+   "reason": "4 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 13,
+   "salience": "alta",
+   "reason": "7 unidades; el autogobierno es prioridad en la conclusión ejecutiva 1 y la competencia centra la conclusión 2."
+  },
+  {
+   "ambito": 14,
+   "salience": "alta",
+   "reason": "15 unidades; el litoral y las compensaciones industriales aparecen en las conclusiones ejecutivas 2 y 3."
+  },
+  {
+   "ambito": 15,
+   "salience": "media",
+   "reason": "13 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 16,
+   "salience": "alta",
+   "reason": "13 unidades; la transferencia de Cercanías aparece en la conclusión ejecutiva 2."
+  },
+  {
+   "ambito": 17,
+   "salience": "media",
+   "reason": "3 unidades propias; no figura en las conclusiones ejecutivas."
+  },
+  {
+   "ambito": 18,
+   "salience": "media",
+   "reason": "7 unidades propias; solo aparece de pasada como 'negociaciones europeas' en la conclusión ejecutiva 3."
+  },
+  {
+   "ambito": 19,
+   "salience": "media",
+   "reason": "1 unidad propia (IVA cultural); no figura en las conclusiones ejecutivas."
+  }
+ ]
+}

@@ -1,10 +1,10 @@
 # Guía para agentes y contribuyentes
 
-Voy Votando compara las respuestas de cada persona con las posiciones documentadas de 6 partidos. Su valor depende de 3 cosas: neutralidad, privacidad y que cada dato se pueda comprobar. Cualquier cambio, hecho por una persona o por un agente de IA, sigue estas reglas.
+Voy Votando compara las respuestas de cada persona con las posiciones documentadas de los partidos que tienen informe de evaluación. Su valor depende de 3 cosas: neutralidad, privacidad y que cada dato se pueda comprobar. Cualquier cambio, hecho por una persona o por un agente de IA, sigue estas reglas.
 
 ## Neutralidad
 
-- Los 6 partidos pasan por el mismo proceso, la misma escala y las mismas reglas.
+- Todos los partidos pasan por el mismo proceso, la misma escala y las mismas reglas.
 - El silencio no es posición. Si un informe no documenta una postura, la celda queda nula.
 - Nunca se deduce una posición por ideología ni por lo que proponen partidos afines.
 - Cada posición lleva una cita literal de 25 palabras como máximo, con su página.
@@ -24,6 +24,7 @@ Voy Votando compara las respuestas de cada persona con las posiciones documentad
 - La cadena de datos está descrita en `data/README.md` y `docs/adaptar-a-otras-elecciones.md`.
 - Tras cambiar algo en `data/extracted`, ejecuta `npm run data`. El script falla si una cita no aparece en su página.
 - Cada cambio de datos se anota en `docs/historial-de-datos.md`.
+- Para añadir un partido, sigue `docs/incorporar-partidos.md`. El banco de preguntas no cambia y los partidos que ya estaban no se recodifican.
 
 ## Antes de abrir un pull request
 

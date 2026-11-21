@@ -12,8 +12,10 @@ export const PARTIES = partiesJson as unknown as Party[];
 export const BLOCKS = blocksJson as Block[];
 export const META = metaJson as {
   version: string; sha256: string; questions: number; fast: number; parties: number; units: number;
-  reportPages: number; cutoff: string; adjudicated: boolean; electionDate: string;
+  reportPages: number; cutoff: string; adjudicated: boolean; electionDate: string; notIncluded: string[];
 };
+/** Partidos que solo se presentan en algunas provincias. */
+export const REGIONAL = PARTIES.filter((p) => p.scope === "autonomico");
 export const AMBITOS = ambitosJson as Record<string, string>;
 export const GLOSSARY = glossaryJson as { termino: string; definicion: string; norma?: string; fuente?: unknown }[];
 export const INTERLUDES = interludesJson as { bloque: number; dato: string; fuente: unknown }[];

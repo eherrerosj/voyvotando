@@ -1,0 +1,175 @@
+{
+ "nota": "Lista única de partidos. La leen scripts/export.py, data/extracted/menciones_cruzadas.py, data/extracted/fusionar_incorporacion.py y scripts/copy-public-data.mjs. docs/incorporar-partidos.md explica cada campo.",
+ "sin_informe": [
+  "Junts",
+  "ERC",
+  "BNG",
+  "Coalición Canaria",
+  "UPN"
+ ],
+ "partidos": [
+  {
+   "id": "bildu",
+   "nombre": "EH Bildu",
+   "corto": "EH Bildu",
+   "mostrar": "EH Bildu",
+   "sigla": "Bildu",
+   "informe": "Analisis_EH_Bildu_2026",
+   "alias": [
+    "EH Bildu",
+    "Bildu"
+   ],
+   "socios": [
+    "psoe",
+    "fa",
+    "podemos",
+    "pnv"
+   ],
+   "ambito": "autonomico",
+   "circunscripciones": [
+    "Álava",
+    "Bizkaia",
+    "Gipuzkoa",
+    "Navarra"
+   ],
+   "incorporado": "1.1",
+   "unidades": 152
+  },
+  {
+   "id": "fa",
+   "nombre": "Frente Amplio",
+   "corto": "FA",
+   "mostrar": "Frente Amplio",
+   "sigla": "FA",
+   "informe": "Analisis_Frente_Amplio_2026",
+   "alias": [
+    "Frente Amplio"
+   ],
+   "socios": [
+    "psoe"
+   ],
+   "ambito": "estatal",
+   "circunscripciones": [],
+   "incorporado": null,
+   "unidades": 108
+  },
+  {
+   "id": "pnv",
+   "nombre": "EAJ-PNV",
+   "corto": "PNV",
+   "mostrar": "PNV",
+   "sigla": "PNV",
+   "informe": "Analisis_PNV_2026",
+   "alias": [
+    "PNV",
+    "EAJ-PNV",
+    "Partido Nacionalista Vasco"
+   ],
+   "socios": [
+    "psoe"
+   ],
+   "ambito": "autonomico",
+   "circunscripciones": [
+    "Álava",
+    "Bizkaia",
+    "Gipuzkoa"
+   ],
+   "incorporado": "1.1",
+   "unidades": 134
+  },
+  {
+   "id": "podemos",
+   "nombre": "Podemos",
+   "corto": "Podemos",
+   "mostrar": "Podemos",
+   "sigla": "Podemos",
+   "informe": "Analisis_Podemos_2026",
+   "alias": [
+    "Podemos"
+   ],
+   "socios": [
+    "psoe"
+   ],
+   "ambito": "estatal",
+   "circunscripciones": [],
+   "incorporado": null,
+   "unidades": 134
+  },
+  {
+   "id": "pp",
+   "nombre": "Partido Popular",
+   "corto": "PP",
+   "mostrar": "PP",
+   "sigla": "PP",
+   "informe": "Analisis_PP_2026",
+   "alias": [
+    "PP",
+    "Partido Popular"
+   ],
+   "socios": [
+    "vox"
+   ],
+   "ambito": "estatal",
+   "circunscripciones": [],
+   "incorporado": null,
+   "unidades": 76
+  },
+  {
+   "id": "psoe",
+   "nombre": "PSOE",
+   "corto": "PSOE",
+   "mostrar": "PSOE",
+   "sigla": "PSOE",
+   "informe": "Analisis_PSOE_2026",
+   "alias": [
+    "PSOE"
+   ],
+   "socios": [
+    "fa",
+    "podemos"
+   ],
+   "ambito": "estatal",
+   "circunscripciones": [],
+   "incorporado": null,
+   "unidades": 120
+  },
+  {
+   "id": "salf",
+   "nombre": "Se Acabó La Fiesta",
+   "corto": "SALF",
+   "mostrar": "SALF",
+   "sigla": "SALF",
+   "informe": "Analisis_SALF_2026",
+   "alias": [
+    "SALF",
+    "Se Acabó La Fiesta"
+   ],
+   "socios": [
+    "pp",
+    "vox"
+   ],
+   "ambito": "estatal",
+   "circunscripciones": [],
+   "incorporado": null,
+   "unidades": 121
+  },
+  {
+   "id": "vox",
+   "nombre": "Vox",
+   "corto": "Vox",
+   "mostrar": "Vox",
+   "sigla": "Vox",
+   "informe": "Analisis_Vox_2026",
+   "alias": [
+    "Vox"
+   ],
+   "socios": [
+    "pp"
+   ],
+   "ambito": "estatal",
+   "circunscripciones": [],
+   "incorporado": null,
+   "unidades": 92
+  }
+ ]
+}

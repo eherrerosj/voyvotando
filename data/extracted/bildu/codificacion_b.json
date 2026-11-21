@@ -1,0 +1,810 @@
+{
+ "party_id": "bildu",
+ "coder": "b-ciego",
+ "codings": [
+  {
+   "id": "Q03",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no recoge ninguna rebaja del IRPF. Las medidas fiscales suben tributos a banca, grandes patrimonios, energéticas y distribuidoras."
+  },
+  {
+   "id": "Q02",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-06-13",
+     "page": 35,
+     "quote": "Avanzar con las comunidades hacia una farmacia pública para abastecer materiales, medicamentos básicos y productos con roturas de suministro",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-01-01",
+     "page": 8,
+     "quote": "ampliar sectores estratégicos, vinculando recursos públicos a descarbonización, empleo digno, valor industrial y participación pública",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone una farmacia pública y participación pública en sectores estratégicos y renovables. No concreta empresas públicas en energía, banca o alimentación ni participación accionarial: versión parcial."
+  },
+  {
+   "id": "Q01",
+   "value": -1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-03-03",
+     "page": 18,
+     "quote": "Recuperar indemnización por despido improcedente de al menos 45 días, salarios de tramitación y autorización laboral previa en ERE",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-03-04",
+     "page": 18,
+     "quote": "Hacer obligatorio un registro horario digital accesible a Inspección",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-01-04",
+     "page": 9,
+     "quote": "fijar límites de precios de bienes y servicios esenciales, con activadores y revisiones objetivos, inspección y sanciones",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "El informe no trata la simplificación para empresas. Las unidades añaden trámites y obligaciones (autorización previa de ERE, registro horario obligatorio, controles de precios con sanciones): indicio indirecto de lo contrario."
+  },
+  {
+   "id": "Q04",
+   "value": 2,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-02-02",
+     "page": 11,
+     "quote": "Aumentar la contribución tributaria de entidades financieras y grandes patrimonios.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-02-02",
+     "page": 11,
+     "quote": "Ya existen un impuesto sobre margen de intereses y comisiones de entidades financieras y el impuesto de solidaridad de las grandes fortunas",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Unidad propia para aumentar la tributación de los grandes patrimonios sobre el impuesto de grandes fortunas vigente. No fija tipos ni bases, por eso la confianza es media."
+  },
+  {
+   "id": "Q05",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-02-06",
+     "page": 13,
+     "quote": "Oponerse a políticas de austeridad que reduzcan servicios públicos, derechos laborales o pensiones.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "Unidad explícita contra la austeridad que recorte servicios públicos. El informe no trata la supresión de organismos."
+  },
+  {
+   "id": "Q08",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-03-01",
+     "page": 17,
+     "quote": "Reformar el Estatuto de los Trabajadores para llegar a 32 horas semanales o cuatro días sin reducción salarial.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita de 32 horas sin rebaja salarial, citada en la síntesis. Las pymes llegarían en un máximo de tres años desde 35 horas."
+  },
+  {
+   "id": "Q07",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-02-03",
+     "page": 12,
+     "quote": "Crear un impuesto especial sobre beneficios de grandes distribuidoras de alimentos, concertado con las haciendas forales.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-02-03",
+     "page": 12,
+     "quote": "La figura sectorial propuesta sería adicional y requiere definir su articulación.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone gravar más los beneficios de grandes distribuidoras, energéticas y banca, y quitar ventajas a las SOCIMI. No se pronuncia sobre el tipo general de sociedades: versión parcial."
+  },
+  {
+   "id": "Q09",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-03-03",
+     "page": 18,
+     "quote": "Recuperar indemnización por despido improcedente de al menos 45 días, salarios de tramitación y autorización laboral previa en ERE",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone 45 días por despido improcedente, salarios de tramitación y autorización previa de ERE."
+  },
+  {
+   "id": "Q11",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-04-03",
+     "page": 23,
+     "quote": "Culminar la iniciativa legal para reconocer pensión sin penalización a personas con al menos cuarenta años de cotización.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-04-01",
+     "page": 22,
+     "quote": "rechazando recortes, privatización y aumentos de edad o periodo de cálculo",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Jubilación sin penalización con 40 años cotizados y rechazo a subir la edad. No propone bajar la edad ordinaria a 65: según la nota, +1."
+  },
+  {
+   "id": "Q12",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-05-09",
+     "page": 28,
+     "quote": "Limitar al 2% la actualización anual de rentas cuando el IPC interanual aplicable supere ese porcentaje, con carácter permanente.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-05-07",
+     "page": 26,
+     "quote": "condicionar la adquisición de edificios completos a alquiler regulado por índices",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-05-05",
+     "page": 25,
+     "quote": "Crear financiación estatal especial para ayuntamientos vinculada a la declaración y aplicación de zonas tensionadas",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Tope estatal permanente del 2% a la actualización, alquiler regulado por índices y apoyo a zonas tensionadas. La síntesis destaca la intervención en vivienda y precios."
+  },
+  {
+   "id": "Q13",
+   "value": -2,
+   "confidence": "media",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-05-07",
+     "page": 26,
+     "quote": "Prohibir compras especulativas de viviendas por entidades lucrativas, fondos y grandes tenedores",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": null,
+     "page": 2,
+     "quote": "La propuesta combina intervención en vivienda y precios",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Baja",
+    "B": "Baja",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Todas las unidades de vivienda intervienen el mercado (topes, prohibición de compras, prórrogas) y suben impuestos (IVA turístico, SOCIMI). No hay medidas de suelo ni licencias."
+  },
+  {
+   "id": "Q16",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-05-06",
+     "page": 26,
+     "quote": "Volver a presentar una proposición para impedir que las plataformas anuncien y contraten pisos turísticos ilegales.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-02-12",
+     "page": 16,
+     "quote": "Aplicar un IVA del 21% a alojamientos turísticos de corta duración.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Ataca los pisos turísticos ilegales, sube su IVA y excluye el uso turístico en compras de edificios completos. No propone prohibir ni limitar los legales por zona: versión parcial."
+  },
+  {
+   "id": "Q14",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no trata la ocupación ilegal ni plazos de desalojo. EHB-05-04 se refiere a desahucios de hogares vulnerables sin alternativa."
+  },
+  {
+   "id": "Q15",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no trata viviendas vacías ni expropiaciones. Las medidas sobre grandes tenedores limitan compras, no expropian."
+  },
+  {
+   "id": "Q18",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-06-11",
+     "page": 33,
+     "quote": "Derogar la Ley 15/1997 de habilitación de nuevas formas de gestión del Sistema Nacional de Salud para limitar privatización y externalización.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone limitar privatización y externalización. El informe señala que la derogación no extingue conciertos amparados en otras normas: versión parcial."
+  },
+  {
+   "id": "Q19",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-10-03",
+     "page": 49,
+     "quote": "eliminación de barreras en sanidad, educación, vivienda y protección social, con independencia de la situación administrativa.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Unidad explícita de acceso a la sanidad con independencia de la situación administrativa."
+  },
+  {
+   "id": "Q20",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "La ficha de educación trata ratios, personal y financiación del 6%. No documenta posición sobre los conciertos."
+  },
+  {
+   "id": "Q22",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la LOMLOE, exámenes externos ni promoción de curso."
+  },
+  {
+   "id": "Q23",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-09-07",
+     "page": 45,
+     "quote": "Proteger el acceso libre, seguro, confidencial y digno al aborto",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Unidad propia para proteger el acceso al aborto, con perímetros y protocolos frente al acoso."
+  },
+  {
+   "id": "Q17",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-10-03",
+     "page": 49,
+     "quote": "eliminación de barreras en sanidad, educación, vivienda y protección social, con independencia de la situación administrativa.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone acceso a vivienda y protección social sin distinción por situación administrativa. El requisito de EHB-05-08 afecta a compras de multipropietarios extranjeros, no a vivienda pública ni ayudas."
+  },
+  {
+   "id": "Q25",
+   "value": 1,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-09-11",
+     "page": 48,
+     "quote": "Desarrollar el artículo 50 de la Ley 4/2023 sobre adecuación de documentos expedidos en España a personas extranjeras trans.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-09-10",
+     "page": 47,
+     "quote": "Prohibir prácticas de conversión, proteger derechos LGTBIQ+",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Propone desarrollar la Ley 4/2023 para personas extranjeras trans y proteger derechos LGTBIQ+. El informe no menciona la autodeterminación registral de forma expresa."
+  },
+  {
+   "id": "Q24",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe trata el IMV (transferencia, acceso, cuantías, trámites). No documenta posición sobre rechazar ofertas de empleo."
+  },
+  {
+   "id": "Q27",
+   "value": 2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-10-01",
+     "page": 49,
+     "quote": "Facilitar la regularización y las autorizaciones de residencia y trabajo, prevenir la irregularidad sobrevenida",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone facilitar la regularización más allá del RD 316/2026 y prevenir la irregularidad sobrevenida: vía estable, +2 según la nota."
+  },
+  {
+   "id": "Q28",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-10-02",
+     "page": 49,
+     "quote": "Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los centros de internamiento",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Rechaza devoluciones sumarias y centros de internamiento y pide procedimientos individuales, junto a más regularización."
+  },
+  {
+   "id": "Q29",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "Sobre EHB-10-05 el informe dice que no aclara 'si afecta a extranjeros sin nacionalidad española o también a personas ya nacionalizadas'. No hay posición sobre requisitos de nacionalidad."
+  },
+  {
+   "id": "Q31",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-11-01",
+     "page": 53,
+     "quote": "Volver a presentar la proposición de protección de libertades y seguridad ciudadana",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-11-01",
+     "page": 53,
+     "quote": "No se describe como derogación de toda la legislación de seguridad",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Media",
+    "E": "Media"
+   },
+   "rationale": "Propone reformar 4 puntos de la LO 4/2015 (pelotas de goma, sanciones, desobediencia, protección internacional). El informe aclara que no es una derogación completa: versión parcial."
+  },
+  {
+   "id": "Q37",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no trata la deuda autonómica. Sobre Cupo y Aportación dice: 'No puede inferirse ni una rebaja concreta de pagos'."
+  },
+  {
+   "id": "Q33",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre la elección del CGPJ."
+  },
+  {
+   "id": "Q35",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre suprimir o reformar el Senado."
+  },
+  {
+   "id": "Q36",
+   "value": -2,
+   "confidence": "media",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-13-04",
+     "page": 60,
+     "quote": "Exigir todas las transferencias pendientes previstas en el Estatuto vasco y en el Amejoramiento navarro.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-13-13",
+     "page": 65,
+     "quote": "Defender las competencias sanitarias actuales de las instituciones vascas",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-13-03",
+     "page": 59,
+     "quote": "examinar cada nueva norma estatal para corregir invasiones competenciales",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Pide más autogobierno y defiende las competencias sanitarias vascas: negativo según la nota. Las demandas se refieren a Euskadi y Navarra (regla 4), por eso la confianza es media."
+  },
+  {
+   "id": "Q40",
+   "value": -1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-14-03",
+     "page": 66,
+     "quote": "Mantener el calendario de cierre nuclear definido en el PNIEC.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "Mantener el calendario vigente es -1 según la nota. El informe no aclara si implica revertir la prórroga de Almaraz."
+  },
+  {
+   "id": "Q41",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "alta",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-14-01",
+     "page": 66,
+     "quote": "Elevar los objetivos del PNIEC para adelantar la descarbonización al menos a 2045 y reducir el uso de combustibles fósiles en todos los sectores.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Propone objetivos climáticos más exigentes, con descarbonización en 2045, citada en la síntesis."
+  },
+  {
+   "id": "Q42",
+   "value": 0,
+   "confidence": "media",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-02-07",
+     "page": 13,
+     "quote": "Eliminar subvenciones directas e indirectas a combustibles fósiles, incluyendo equiparación de la imposición sobre hidrocarburos y supresión de la exención del queroseno de aviación.",
+     "source_report": "bildu"
+    },
+    {
+     "unit_id": "EHB-02-08",
+     "page": 14,
+     "quote": "Revisar la fiscalidad energética para que favorezca la electricidad respecto a combustibles fósiles.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Media",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Alta"
+   },
+   "rationale": "Sube la fiscalidad de los carburantes y favorece fiscalmente la electricidad frente a los fósiles. Posición mixta entre ambos productos."
+  },
+  {
+   "id": "Q44",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre el acuerdo UE-Mercosur."
+  },
+  {
+   "id": "Q45",
+   "value": 1,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-16-08",
+     "page": 77,
+     "quote": "Mantener y ampliar los descuentos y abonos de uso frecuente, incluida financiación estatal de redes autonómicas, forales y locales.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Alta",
+    "C": "Media",
+    "E": "Alta"
+   },
+   "rationale": "Mantener y ampliar abonos y descuentos sin gratuidad general: +1 según la nota."
+  },
+  {
+   "id": "Q47",
+   "value": null,
+   "confidence": null,
+   "salience": null,
+   "cross": false,
+   "evidence": [],
+   "viability": {},
+   "rationale": "El informe no documenta posición sobre impuestos a plataformas tecnológicas."
+  },
+  {
+   "id": "Q49",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-18-03",
+     "page": 82,
+     "quote": "oponerse al aumento del gasto en defensa exigido por la OTAN",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "NE",
+    "E": "NE"
+   },
+   "rationale": "Unidad explícita contra el aumento del gasto en defensa exigido por la OTAN."
+  },
+  {
+   "id": "Q50",
+   "value": 1,
+   "confidence": "baja",
+   "salience": "baja",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-15-01",
+     "page": 70,
+     "quote": "Avanzar en renacionalización y territorialización de la PAC para diseñar una política agraria propia dentro del marco europeo.",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "NE",
+    "B": "NE",
+    "C": "Baja",
+    "E": "NE"
+   },
+   "rationale": "Pide renacionalizar y territorializar la PAC, dentro del marco europeo y para su territorio (regla 4). No documenta una posición general sobre el poder de la UE."
+  },
+  {
+   "id": "Q52",
+   "value": -2,
+   "confidence": "alta",
+   "salience": "media",
+   "cross": false,
+   "evidence": [
+    {
+     "unit_id": "EHB-12-02",
+     "page": 56,
+     "quote": "Ampliar la Ley de Memoria Democrática para reconocer y reparar colectivos todavía no cubiertos por vulneraciones de derechos humanos",
+     "source_report": "bildu"
+    }
+   ],
+   "viability": {
+    "A": "Alta",
+    "B": "Media",
+    "C": "Baja",
+    "E": "Media"
+   },
+   "rationale": "Propone ampliar la Ley de Memoria Democrática, lo contrario de derogarla."
+  }
+ ]
+}

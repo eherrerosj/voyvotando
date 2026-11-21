@@ -1,0 +1,55 @@
+{
+ "pnv": {
+  "Q05": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "motivo": "A nula y B −1 baja. PNV-02-02 pide flexibilidad para invertir superávits y PNV-14-08 recuperar la CNE (pp. 12 y 50): indicios indirectos. Con confianza baja, la regla de 5.5 deja la celda nula.",
+   "revisar_humano": false
+  },
+  "Q41": {
+   "value": 0,
+   "confidence": "baja",
+   "motivo": "A 0 y B −1, ambas con confianza baja. PNV-14-01 pide revisar el PNIEC por necesidades industriales y PNV-14-11 apoya la electrificación (pp. 49 y 52). Es el mismo tipo de evidencia que el 0 del PP (ajustar el ritmo sin incumplir compromisos europeos).",
+   "revisar_humano": true
+  },
+  "Q42": {
+   "value": 1,
+   "confidence": "alta",
+   "motivo": "A +2 y B +1. PNV-14-03 deja el Impuesto Especial sobre la Electricidad en el 0,5% (p. 49) y no rebaja carburantes: versión parcial. PP y SALF reciben +1 alta por la misma evidencia.",
+   "revisar_humano": false
+  },
+  "Q45": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "motivo": "A nula y B +1 baja. PNV-02-01 solo incluye revisar el IVA del transporte público dentro de un estudio (p. 12). No propone gratuidad, abonos ni ayudas, que es la evidencia del +1 de Frente Amplio y PSOE.",
+   "revisar_humano": false
+  }
+ },
+ "bildu": {
+  "Q01": {
+   "value": null,
+   "confidence": null,
+   "evidence": [],
+   "viability": {},
+   "motivo": "A nula y B −1 baja. El informe no trata la simplificación administrativa. Las obligaciones laborales nuevas (EHB-03-03 y EHB-03-04, p. 18) son otra materia: indicio indirecto. Con confianza baja, la regla de 5.5 deja la celda nula.",
+   "revisar_humano": false
+  },
+  "Q42": {
+   "value": -1,
+   "confidence": "media",
+   "motivo": "A −1 y B 0. EHB-02-07 equipara al alza la imposición sobre hidrocarburos (p. 13) y EHB-02-08 solo pide que la fiscalidad favorezca la electricidad (p. 14), sin rebaja. Subir los carburantes es una versión parcial de lo contrario, simétrica al +1 de PP y SALF por rebajar solo la electricidad.",
+   "revisar_humano": true,
+   "rationale": "EHB-02-07 equipara al alza la imposición sobre hidrocarburos y EHB-02-08 pide que la fiscalidad favorezca la electricidad, sin rebajarla. Subir los carburantes es una versión parcial de lo contrario."
+  },
+  "Q50": {
+   "value": 1,
+   "confidence": "baja",
+   "motivo": "A +1 baja y B +1 baja, sin marca de fusión. EHB-15-01 pide renacionalizar y territorializar la PAC dentro del marco europeo (p. 70). Es una sola política, y el resto del informe defiende posiciones dentro de la UE. Se mantiene +1 baja y se marca para revisión humana por la regla de partidos autonómicos.",
+   "revisar_humano": true
+  }
+ }
+}

@@ -1,0 +1,287 @@
+{
+ "version": "1.0",
+ "uso": "Preguntas publicadas con su texto final. Codifica cada partido nuevo con este texto y este signo.",
+ "escala": {
+  "2": "El partido propone explícitamente esto (unidad/medida identificable o compromiso prioritario).",
+  "1": "El partido apoya una versión parcial, gradual o condicionada de esto.",
+  "0": "El informe documenta una posición intermedia o mixta: ni a favor ni en contra.",
+  "-1": "El partido propone una versión parcial de lo contrario, o vota en contra de una versión más suave.",
+  "-2": "El partido propone explícitamente lo contrario.",
+  "null": "El informe no documenta posición. El silencio NO es posición."
+ },
+ "afirmaciones": [
+  {
+   "id": "Q03",
+   "ambito": 2,
+   "bloque": 1,
+   "texto": "Hay que bajar el IRPF a la mayoría de los contribuyentes.",
+   "nota": ""
+  },
+  {
+   "id": "Q02",
+   "ambito": 1,
+   "bloque": 1,
+   "texto": "El Estado debería crear o ampliar empresas públicas en sectores básicos como la energía, la banca o la alimentación.",
+   "nota": ""
+  },
+  {
+   "id": "Q01",
+   "ambito": 1,
+   "bloque": 1,
+   "texto": "Hay que reducir con fuerza los trámites y normas que deben cumplir las empresas.",
+   "nota": ""
+  },
+  {
+   "id": "Q04",
+   "ambito": 2,
+   "bloque": 1,
+   "texto": "Las personas con patrimonios muy grandes deberían pagar un impuesto anual específico sobre su riqueza.",
+   "nota": ""
+  },
+  {
+   "id": "Q05",
+   "ambito": 2,
+   "bloque": 1,
+   "texto": "Hay que reducir el gasto público y suprimir organismos de la Administración.",
+   "nota": ""
+  },
+  {
+   "id": "Q08",
+   "ambito": 3,
+   "bloque": 1,
+   "texto": "La jornada laboral máxima debería bajar por ley hasta 32 horas semanales o menos, sin reducir el salario.",
+   "nota": "Una reducción por ley a 37,5 h sin ir más allá es -1 o 0 según el texto. Votar contra la reducción a 37,5 h es -2."
+  },
+  {
+   "id": "Q07",
+   "ambito": 2,
+   "bloque": 1,
+   "texto": "El impuesto de sociedades debería mantenerse o subir.",
+   "nota": ""
+  },
+  {
+   "id": "Q09",
+   "ambito": 3,
+   "bloque": 1,
+   "texto": "Despedir a un trabajador debería ser más caro o más difícil para las empresas.",
+   "nota": "Bajar indemnizaciones o contrato único con menos días es negativo."
+  },
+  {
+   "id": "Q11",
+   "ambito": 4,
+   "bloque": 1,
+   "texto": "La edad ordinaria de jubilación debería bajar a los 65 años o menos.",
+   "nota": "Incentivar trabajar más años o retrasar la edad es negativo. Jubilación sin penalización con carreras largas es +1."
+  },
+  {
+   "id": "Q12",
+   "ambito": 5,
+   "bloque": 2,
+   "texto": "El Estado debería poder fijar topes al precio del alquiler en las zonas con precios muy altos.",
+   "nota": "Derogar la Ley de Vivienda de 2023 es -2."
+  },
+  {
+   "id": "Q13",
+   "ambito": 5,
+   "bloque": 2,
+   "texto": "La mejor forma de abaratar la vivienda es liberar suelo, agilizar licencias y bajar impuestos, más que intervenir el mercado.",
+   "nota": ""
+  },
+  {
+   "id": "Q16",
+   "ambito": 5,
+   "bloque": 2,
+   "texto": "Habría que prohibir o limitar mucho los pisos turísticos en las zonas con escasez de vivienda.",
+   "nota": ""
+  },
+  {
+   "id": "Q14",
+   "ambito": 5,
+   "bloque": 2,
+   "texto": "La policía debería poder desalojar una vivienda ocupada ilegalmente en un plazo máximo de 48 horas.",
+   "nota": "Agilizar procedimientos judiciales sin plazo exprés es +1."
+  },
+  {
+   "id": "Q15",
+   "ambito": 5,
+   "bloque": 2,
+   "texto": "El Estado debería poder expropiar, con compensación, viviendas vacías de grandes propietarios para destinarlas a alquiler social.",
+   "nota": "Expropiar el uso cuenta como +2. Gravar o sancionar vacías sin expropiar es +1."
+  },
+  {
+   "id": "Q18",
+   "ambito": 6,
+   "bloque": 3,
+   "texto": "La sanidad pública debería dejar de pagar a centros privados para atender a sus pacientes.",
+   "nota": "Derivar a la privada para cumplir plazos o colaborar con ella en listas de espera es negativo."
+  },
+  {
+   "id": "Q19",
+   "ambito": 6,
+   "bloque": 3,
+   "texto": "Los inmigrantes en situación irregular deberían tener acceso a la sanidad pública igual que el resto de residentes.",
+   "nota": "Limitar a urgencias o exigir residencia legal o cotización es -2."
+  },
+  {
+   "id": "Q20",
+   "ambito": 7,
+   "bloque": 3,
+   "texto": "El dinero público para educación debería ir solo a la escuela pública, reduciendo los conciertos con colegios privados.",
+   "nota": "Cheque escolar o ampliar conciertos es -2."
+  },
+  {
+   "id": "Q22",
+   "ambito": 7,
+   "bloque": 3,
+   "texto": "La ley educativa actual (LOMLOE) debería sustituirse por otra con más exámenes externos y más exigencia para pasar de curso.",
+   "nota": ""
+  },
+  {
+   "id": "Q23",
+   "ambito": 8,
+   "bloque": 4,
+   "texto": "El aborto debería seguir siendo un derecho garantizado en la sanidad pública.",
+   "nota": "Blindarlo en la Constitución es +2. Si el informe dice que no puede inferirse posición, null."
+  },
+  {
+   "id": "Q17",
+   "ambito": 9,
+   "bloque": 4,
+   "texto": "Las personas con nacionalidad española deberían tener prioridad sobre los extranjeros residentes en la vivienda pública y las ayudas sociales.",
+   "nota": "Exigir años de residencia legal o cotización para ayudas es +1."
+  },
+  {
+   "id": "Q25",
+   "ambito": 9,
+   "bloque": 4,
+   "texto": "Las personas trans deberían poder cambiar su sexo en el registro civil con su propia declaración.",
+   "nota": "Revisar o restringir la autodeterminación registral es negativo."
+  },
+  {
+   "id": "Q24",
+   "ambito": 9,
+   "bloque": 4,
+   "texto": "Rechazar ofertas de empleo no debería suponer perder el Ingreso Mínimo Vital.",
+   "nota": ""
+  },
+  {
+   "id": "Q27",
+   "ambito": 10,
+   "bloque": 5,
+   "texto": "Debería aprobarse una regularización extraordinaria de los inmigrantes que ya viven y trabajan en España.",
+   "nota": "Completar la regularización en curso o abrir una vía permanente es +2. Prohibir regularizaciones o suprimir el arraigo es -2."
+  },
+  {
+   "id": "Q28",
+   "ambito": 10,
+   "bloque": 5,
+   "texto": "Los inmigrantes en situación irregular deberían ser expulsados de forma sistemática.",
+   "nota": "Más retornos con garantías y readmisión es +1."
+  },
+  {
+   "id": "Q29",
+   "ambito": 10,
+   "bloque": 5,
+   "texto": "Los requisitos para obtener la nacionalidad española no deberían endurecerse.",
+   "nota": ""
+  },
+  {
+   "id": "Q31",
+   "ambito": 11,
+   "bloque": 5,
+   "texto": "La Ley de Seguridad Ciudadana de 2015 debería sustituirse por otra nueva.",
+   "nota": ""
+  },
+  {
+   "id": "Q37",
+   "ambito": 13,
+   "bloque": 6,
+   "texto": "El Estado debería asumir una parte importante de la deuda de las comunidades autónomas.",
+   "nota": "Rechazar condonaciones es -2. Reestructuración sin quita es +1 o 0 según el texto."
+  },
+  {
+   "id": "Q33",
+   "ambito": 12,
+   "bloque": 6,
+   "texto": "Los jueces deberían elegir a la mayoría de los miembros del Consejo General del Poder Judicial.",
+   "nota": "Mantener o ampliar la elección parlamentaria es negativo."
+  },
+  {
+   "id": "Q35",
+   "ambito": 12,
+   "bloque": 6,
+   "texto": "Habría que suprimir el Senado mediante una reforma de la Constitución.",
+   "nota": "Transformarlo en cámara territorial o federal es -1."
+  },
+  {
+   "id": "Q36",
+   "ambito": 13,
+   "bloque": 6,
+   "texto": "El Estado debería recuperar competencias que hoy tienen las comunidades autónomas, como la educación o la sanidad.",
+   "nota": "Uniformizar o coordinar sin devolver competencias es +1. Federalismo o más autogobierno es negativo."
+  },
+  {
+   "id": "Q40",
+   "ambito": 14,
+   "bloque": 7,
+   "texto": "Las centrales nucleares deberían seguir funcionando más allá del calendario de cierre previsto.",
+   "nota": "Cerrar antes del calendario es -2. Mantener el calendario vigente es -1."
+  },
+  {
+   "id": "Q41",
+   "ambito": 14,
+   "bloque": 7,
+   "texto": "España debería frenar o revertir las normas climáticas del Pacto Verde Europeo.",
+   "nota": "Ajustar el ritmo sin incumplir compromisos europeos es +1 o 0 según el texto."
+  },
+  {
+   "id": "Q42",
+   "ambito": 14,
+   "bloque": 7,
+   "texto": "Habría que bajar los impuestos a la electricidad y los carburantes.",
+   "nota": ""
+  },
+  {
+   "id": "Q44",
+   "ambito": 15,
+   "bloque": 7,
+   "texto": "España debería oponerse al acuerdo comercial entre la Unión Europea y Mercosur.",
+   "nota": ""
+  },
+  {
+   "id": "Q45",
+   "ambito": 16,
+   "bloque": 7,
+   "texto": "El transporte público debería ser gratuito.",
+   "nota": "Abonos baratos o gratuidad para algunos grupos es +1."
+  },
+  {
+   "id": "Q47",
+   "ambito": 17,
+   "bloque": 7,
+   "texto": "Las grandes plataformas tecnológicas deberían pagar más impuestos en España.",
+   "nota": ""
+  },
+  {
+   "id": "Q49",
+   "ambito": 18,
+   "bloque": 8,
+   "texto": "España debería aumentar el gasto en defensa hasta los objetivos de la OTAN.",
+   "nota": "Congelar o revertir el gasto militar es -2. Modernizar sin cifra es 0 o +1 según el texto."
+  },
+  {
+   "id": "Q50",
+   "ambito": 18,
+   "bloque": 8,
+   "texto": "La Unión Europea tiene demasiado poder y España debería recuperar competencias.",
+   "nota": "Pedir más capacidad fiscal o democracia europea común es negativo."
+  },
+  {
+   "id": "Q52",
+   "ambito": 19,
+   "bloque": 8,
+   "texto": "La Ley de Memoria Democrática debería derogarse.",
+   "nota": ""
+  }
+ ]
+}

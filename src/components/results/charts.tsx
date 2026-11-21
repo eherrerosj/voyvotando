@@ -99,9 +99,11 @@ export function AxisMap({ user, parties, ellipse, onPick, picked }: {
         {user && ell && <ellipse cx={sx(user.x)} cy={sy(user.y)} rx={ell.rx} ry={ell.ry} transform={`rotate(${ell.angle} ${sx(user.x)} ${sy(user.y)})`} className="map__ellipse" />}
         {parties.map((p) => {
           // Puntos casi coincidentes: etiquetas apiladas. Si otro punto ocupa el hueco de la etiqueta, va al otro lado o encima.
-          const near = parties.filter((o) => Math.hypot(sx(o.x) - sx(p.x), sy(o.y) - sy(p.y)) < 22);
+          const near = parties.filter((o) => Math.hypot(sx(o.x) - sx(p.x), sy(o.y) - sy(p.y)) < 22).sort((a, b) => sy(a.y) - sy(b.y));
           const k = near.findIndex((o) => o.id === p.id);
-          const dy = 4 + (k - (near.length - 1) / 2) * 15;
+          // La pila se centra en la altura media del grupo, no en la de cada punto.
+          const meanY = near.reduce((s, o) => s + sy(o.y), 0) / near.length;
+          const dy = meanY - sy(p.y) + 4 + (k - (near.length - 1) / 2) * 15;
           const labelW = ABBR[p.id].length * 8 + 14;
           const blocked = (s: 1 | -1) => parties.some((o) => o.id !== p.id && !near.includes(o)
             && Math.abs(sy(o.y) - sy(p.y)) < 16 && (s * (sx(o.x) - sx(p.x))) > 0 && (s * (sx(o.x) - sx(p.x))) < labelW + 10);
@@ -130,7 +132,7 @@ export function AxisMap({ user, parties, ellipse, onPick, picked }: {
   );
 }
 
-/** Barras pequeñas de 6 partidos, para las tarjetas de bloque. */
+/** Barras pequeñas de todos los partidos, para las tarjetas de bloque. */
 export function MiniBars({ values }: { values: { id: PartyId; value: number | null }[] }) {
   const best = Math.max(...values.map((v) => v.value ?? -1));
   return (

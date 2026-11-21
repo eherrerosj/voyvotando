@@ -2,10 +2,12 @@
 import json, os
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 q = json.load(open(os.path.join(ROOT, "src", "content", "questions.json"), encoding="utf-8"))
-P = ["podemos", "fa", "psoe", "pp", "vox", "salf"]
-N = {"podemos": "Podemos", "fa": "FA", "psoe": "PSOE", "pp": "PP", "vox": "Vox", "salf": "SALF"}
+# Todos los partidos de data/partidos.json, en su orden, con su sigla.
+PARTIDOS = json.load(open(os.path.join(ROOT, "data", "partidos.json"), encoding="utf-8"))["partidos"]
+P = [p["id"] for p in PARTIDOS]
+N = {p["id"]: p["sigla"] for p in PARTIDOS}
 M = {"alta": "", "media": "ᵐ", "baja": "ᵇ", None: ""}
-rows = ["| Nº | ID | Bloque | Afirmación | Eje | Pol. | R | " + " | ".join(N[p] for p in P) + " |", "|---|---|---|---|---|---|---|" + "---|" * 6]
+rows = ["| Nº | ID | Bloque | Afirmación | Eje | Pol. | R | " + " | ".join(N[p] for p in P) + " |", "|---|---|---|---|---|---|---|" + "---|" * len(P)]
 for x in q:
     cells = ["·" if x["positions"][p]["value"] is None else f"{x['positions'][p]['value']:+d}{M[x['positions'][p]['confidence']]}" for p in P]
     eje = "" if not x["axis"] else f"{x['axis']}{'+' if x['dir'] > 0 else '−'}"

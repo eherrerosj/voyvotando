@@ -46,6 +46,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "Ninguna ficha propone bajar el IRPF. EHB-02-10 solo retira deducciones a arrendadores que suban la renta; el silencio no es posición."
+   },
    "fa": {
     "value": 1,
     "confidence": "alta",
@@ -71,6 +79,14 @@
      "E": "Media"
     },
     "rationale": "F06 rebaja el IRPF a salarios hasta 27.000 euros y sube el marginal al 52% desde 300.000. Rebaja focalizada en rentas del trabajo bajas, no general: versión parcial."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no recoge rebaja general del IRPF; la única medida de IRPF es eximir las indemnizaciones del amianto (PNV-06-08). Alcance del ámbito 2: 'No hay una reforma tributaria estatal integral ni saldo agregado.'"
    },
    "podemos": {
     "value": -1,
@@ -245,6 +261,38 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-06-13",
+      "page": 35,
+      "quote": "Avanzar con las comunidades hacia una farmacia pública para abastecer materiales, medicamentos básicos y productos con roturas de suministro",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-14-02",
+      "page": 66,
+      "quote": "Acelerar renovables mediante planificación, regulación y apoyos, con participación pública y comunitaria",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-01-01",
+      "page": 8,
+      "quote": "ampliar sectores estratégicos, vinculando recursos públicos a descarbonización, empleo digno, valor industrial y participación pública",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone una farmacia pública con las comunidades y participación pública en renovables. No documenta empresas públicas en banca o alimentación: versión parcial."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -276,6 +324,14 @@
      "E": "Media"
     },
     "rationale": "E02 (empresas públicas estratégicas), E03 (banca pública e ICO) y EN02 (entrada pública del 30% en nuevos proyectos renovables) crean o amplían empresas públicas en energía y banca. No consta alimentación."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "Ninguna unidad propone crear o ampliar empresas públicas. PNV-01-02 pide exigir compromisos a empresas con participación pública ya existente y PNV-14-08 crea un regulador, no una empresa."
    },
    "podemos": {
     "value": 2,
@@ -418,6 +474,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no trata la simplificación para empresas. Las unidades añaden trámites y obligaciones (autorización previa de ERE, registro horario obligatorio, controles de precios con sanciones): indicio indirecto de lo contrario."
+   },
    "fa": {
     "value": 0,
     "confidence": "baja",
@@ -443,6 +507,38 @@
      "E": "Media"
     },
     "rationale": "E05 simplifica IVA y cotización de pymes, pero el informe dice que esas menores cargas coexisten con nuevas obligaciones laborales, ambientales y de participación. No hay propuesta general de menos controles previos: posición mixta."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-01-06",
+      "page": 10,
+      "quote": "Reducir trámites y duplicidades que dificultan crear o ampliar negocios y eliminar barreras al crecimiento de pymes",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-01-06",
+      "page": 10,
+      "quote": "Reducir trámites y duplicidades que",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-01-06",
+      "page": 10,
+      "quote": "eliminar barreras al crecimiento de pymes,",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Unidad propia de simplificación para pymes. Se codifica +1 porque se limita a trámites y duplicidades sin inventario de cargas ni recorte general de normas ('No incluye un inventario de trámites a eliminar')."
    },
    "podemos": {
     "value": 0,
@@ -621,6 +717,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-02-02",
+      "page": 11,
+      "quote": "Aumentar la contribución tributaria de entidades financieras y grandes patrimonios.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-02-02",
+      "page": 11,
+      "quote": "Ya existen un impuesto sobre margen de intereses y comisiones de entidades financieras y el impuesto de solidaridad de las grandes fortunas",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone aumentar la tributación de los grandes patrimonios, que hoy pagan el impuesto de solidaridad de grandes fortunas según el punto de partida. No fija tipo ni figura concreta."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -640,6 +762,14 @@
      "E": "Media"
     },
     "rationale": "F01 fija un suelo del 2% sobre patrimonios de más de un millón y del 3% por encima de 50 millones. La recaudación de 111.000 millones es solo de IU y no se usa como posición común."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre un impuesto al patrimonio. Alcance del ámbito 2: 'No hay una reforma tributaria estatal integral ni saldo agregado.'"
    },
    "podemos": {
     "value": 2,
@@ -748,6 +878,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-02-06",
+      "page": 13,
+      "quote": "Oponerse a políticas de austeridad que reduzcan servicios públicos, derechos laborales o pensiones.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "NE",
+     "E": "NE"
+    },
+    "rationale": "Se opone de forma explícita a la austeridad que reduzca servicios públicos. EHB-02-05 pide además revertir la reforma de 2011 del artículo 135."
+   },
    "fa": {
     "value": -2,
     "confidence": "media",
@@ -779,6 +929,14 @@
      "E": "Media"
     },
     "rationale": "El programa sube los objetivos de gasto (sanidad 8% del PIB, educación 7%) y amplía plantillas (S01, M02, F08, L08). Es lo contrario de reducir gasto y Administración; se deduce de las unidades, sin frase literal."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "PNV-02-02 pide más flexibilidad inversora y usar superávits en prioridades propias. PNV-14-08 propone restablecer la Comisión Nacional de la Energía como organismo separado. Ambas apuntan a lo contrario de recortar gasto y suprimir organismos, de forma indirecta."
    },
    "podemos": {
     "value": -2,
@@ -979,6 +1137,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EHB-03-01",
+      "page": 17,
+      "quote": "Reformar el Estatuto de los Trabajadores para llegar a 32 horas semanales o cuatro días sin reducción salarial.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone por ley 32 horas o cuatro días sin rebaja salarial, con pymes desde 35 horas en un máximo de tres años. La jornada de 32 horas figura en la síntesis del informe."
+   },
    "fa": {
     "value": 1,
     "confidence": "alta",
@@ -998,6 +1176,14 @@
      "E": "Baja"
     },
     "rationale": "L03 fija 37,5 horas en 2026 y un avance posterior hacia 32 sin rebaja salarial, sin plazo: versión gradual."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la duración legal de la jornada. PNV-03-09 solo analiza productividad y absentismo."
    },
    "podemos": {
     "value": 2,
@@ -1138,6 +1324,38 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-02-03",
+      "page": 12,
+      "quote": "Crear un impuesto especial sobre beneficios de grandes distribuidoras de alimentos, concertado con las haciendas forales.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-02-01",
+      "page": 11,
+      "quote": "Recuperar de forma permanente un impuesto a grandes energéticas y gravar rentas extraordinarias eléctricas y fósiles",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-02-03",
+      "page": 12,
+      "quote": "La figura sectorial propuesta sería adicional y requiere definir su articulación.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone gravar más los beneficios de grandes distribuidoras, energéticas y banca. No documenta posición sobre el tipo general del impuesto de sociedades: versión parcial."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -1157,6 +1375,14 @@
      "E": "Media"
     },
     "rationale": "F05 impone un suelo efectivo del 20% a grandes empresas y revisa beneficios fiscales. Sube la tributación efectiva de Sociedades, lo contrario de bajarla."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre el impuesto de sociedades. Alcance del ámbito 2: 'No hay una reforma tributaria estatal integral ni saldo agregado.'"
    },
    "podemos": {
     "value": 2,
@@ -1289,6 +1515,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-03-03",
+      "page": 18,
+      "quote": "Recuperar indemnización por despido improcedente de al menos 45 días, salarios de tramitación y autorización laboral previa en ERE",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone elevar la indemnización por despido improcedente a 45 días, salarios de tramitación y autorización previa de los ERE."
+   },
    "fa": {
     "value": 2,
     "confidence": "media",
@@ -1314,6 +1560,14 @@
      "E": "Media"
     },
     "rationale": "L06 (despido) refuerza reparación, control y derechos laborales, lo que encarece o dificulta despedir. El diseño concreto queda abierto, por eso confianza media."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre el coste o las causas del despido."
    },
    "podemos": {
     "value": 2,
@@ -1454,6 +1708,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-04-03",
+      "page": 23,
+      "quote": "Culminar la iniciativa legal para reconocer pensión sin penalización a personas con al menos cuarenta años de cotización.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-04-01",
+      "page": 22,
+      "quote": "rechazando recortes, privatización y aumentos de edad o periodo de cálculo",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone jubilación sin penalización con 40 años cotizados y rechaza subir la edad. No propone bajar la edad ordinaria a 65; la nota fija +1 para carreras largas."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -1473,6 +1753,38 @@
      "E": "Media"
     },
     "rationale": "P02 generaliza la jubilación a los 65 para todos (hoy 66 y 10 meses sin carrera larga)."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-04-02",
+      "page": 17,
+      "quote": "Eliminar reducciones de jubilación anticipada para carreras de más de cuarenta años cotizados",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-04-02",
+      "page": 17,
+      "quote": "Eliminar reducciones de jubilación",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-04-02",
+      "page": 17,
+      "quote": "anticipada para carreras de más de",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Jubilación anticipada sin penalización con carreras largas: la nota de la pregunta fija +1. No propone bajar la edad ordinaria."
    },
    "podemos": {
     "value": 2,
@@ -1605,6 +1917,38 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EHB-05-09",
+      "page": 28,
+      "quote": "Limitar al 2% la actualización anual de rentas cuando el IPC interanual aplicable supere ese porcentaje, con carácter permanente.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-05-05",
+      "page": 25,
+      "quote": "vinculada a la declaración y aplicación de zonas tensionadas",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-05-07",
+      "page": 26,
+      "quote": "condicionar la adquisición de edificios completos a alquiler regulado por índices",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone un tope estatal permanente a la subida de rentas, alquiler regulado por índices y apoyo a las zonas tensionadas. El tope limita actualizaciones, no la renta inicial."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -1630,6 +1974,14 @@
      "E": "Media"
     },
     "rationale": "V05 propone topes de alquiler por referencia e ingresos y contratos indefinidos. Vivienda es prioridad explícita y aparece en la lectura ejecutiva."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "PNV-05-02 regula alquiler temporal y turístico, pero el informe dice: 'No determina límites de renta, cupos turísticos, tributos, sanciones o definición operativa de especulación.'"
    },
    "podemos": {
     "value": 2,
@@ -1792,6 +2144,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EHB-05-07",
+      "page": 26,
+      "quote": "Prohibir compras especulativas de viviendas por entidades lucrativas, fondos y grandes tenedores",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": null,
+      "page": 2,
+      "quote": "La propuesta combina intervención en vivienda y precios",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Baja",
+     "B": "Baja",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Sus 9 fichas de vivienda intervienen el mercado (prohibiciones de compra, topes, prórrogas, IVA del 21% al alquiler turístico). Ninguna propone liberar suelo o bajar impuestos."
+   },
    "fa": {
     "value": -2,
     "confidence": "media",
@@ -1823,6 +2201,38 @@
      "E": "Media"
     },
     "rationale": "El programa interviene el mercado: topes (V05), gravamen del 10% a la acumulación de vivienda (F03) y expropiación (V02). Es lo contrario de preferir liberar suelo y bajar impuestos; se deduce de las unidades."
+   },
+   "pnv": {
+    "value": 0,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-05-01",
+      "page": 20,
+      "quote": "Acelerar procedimientos urbanísticos con garantías legales y aumentar oferta residencial movilizando vivienda vacía y rehabilitando edificios.",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-05-02",
+      "page": 20,
+      "quote": "regular vivienda temporal y turística para proteger oferta residencial, junto a medidas contra prácticas especulativas",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-05-01",
+      "page": 20,
+      "quote": "Acelerar procedimientos urbanísticos con",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Combina agilizar trámites y aumentar oferta (PNV-05-01) con regulación del alquiler temporal y turístico y medidas contra la especulación (PNV-05-02). No antepone una vía a la otra: posición intermedia."
    },
    "podemos": {
     "value": -2,
@@ -2019,6 +2429,38 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-05-06",
+      "page": 26,
+      "quote": "Volver a presentar una proposición para impedir que las plataformas anuncien y contraten pisos turísticos ilegales.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-02-12",
+      "page": 16,
+      "quote": "Aplicar un IVA del 21% a alojamientos turísticos de corta duración.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-05-07",
+      "page": 26,
+      "quote": "excluyendo su destino turístico o especulativo",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone frenar los pisos turísticos ilegales, gravarlos con IVA del 21% y excluir el uso turístico en edificios comprados. No pide una prohibición general: versión parcial."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -2038,6 +2480,38 @@
      "E": "Media"
     },
     "rationale": "V06 extingue las licencias turísticas en tres años en zonas tensionadas y evita la elusión por temporada o habitaciones."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-05-02",
+      "page": 20,
+      "quote": "regular vivienda temporal y turística para proteger oferta residencial",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-05-02",
+      "page": 20,
+      "quote": "regular vivienda temporal y turística para",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-05-02",
+      "page": 20,
+      "quote": "proteger oferta residencial, junto a medidas",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone regular la vivienda turística para proteger la oferta residencial, sin prohibición ni límites concretos ('No determina límites de renta, cupos turísticos, tributos, sanciones'). Versión parcial: +1."
    },
    "podemos": {
     "value": 2,
@@ -2180,6 +2654,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "No hay ficha sobre ocupación ilegal ni plazos de desalojo. EHB-05-04 trata desahucios de hogares vulnerables sin alternativa, que es otra medida."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -2187,6 +2669,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "V07 trata la protección ante desahucios. El informe no documenta posición sobre desalojar viviendas ocupadas ilegalmente."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre ocupación ilegal ni plazos de desalojo. PNV-05-03 trata garantías del alquiler y realojo de familias vulnerables."
    },
    "podemos": {
     "value": -1,
@@ -2344,6 +2834,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "Ninguna ficha propone expropiar viviendas vacías. EHB-05-07 prohíbe compras especulativas, sin expropiación."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -2369,6 +2867,14 @@
      "E": "Baja"
     },
     "rationale": "V02 propone expropiar con justiprecio el parque corporativo de grandes tenedores, por fases de 1.000, 700 y 50 viviendas. Cubre más que las viviendas vacías."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "PNV-05-01 habla de movilizar vivienda vacía, pero 'No fija plazos máximos, número de viviendas, instrumentos para movilizar pisos'. No hay expropiación, gravamen ni sanción."
    },
    "podemos": {
     "value": 2,
@@ -2491,6 +2997,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-06-11",
+      "page": 33,
+      "quote": "Derogar la Ley 15/1997 de habilitación de nuevas formas de gestión del Sistema Nacional de Salud para limitar privatización y externalización.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone limitar privatización y externalización sanitaria. El informe precisa que derogar la Ley 15/1997 no extinguiría automáticamente conciertos: versión parcial."
+   },
    "fa": {
     "value": 1,
     "confidence": "media",
@@ -2516,6 +3042,14 @@
      "E": "Baja"
     },
     "rationale": "S05 cambia el marco de colaboración con la privada e integra mutualidades, con auditoría y transición. Retirada gradual hacia gestión directa, sin fin inmediato de los pagos: +1."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre conciertos sanitarios con centros privados. Alcance del ámbito 6: 'No ofrece un plan operativo completo de Osakidetza, listas de espera o ratios'."
    },
    "podemos": {
     "value": 2,
@@ -2658,6 +3192,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-10-03",
+      "page": 49,
+      "quote": "eliminación de barreras en sanidad, educación, vivienda y protección social, con independencia de la situación administrativa",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-10-03",
+      "page": 49,
+      "quote": "eliminación de barreras en sanidad, educación, vivienda y protección social, con independencia de la situación administrativa.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone eliminar barreras de acceso a la sanidad con independencia de la situación administrativa."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -2665,6 +3225,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "El informe no menciona el acceso sanitario de inmigrantes en situación irregular."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la atención sanitaria a inmigrantes en situación irregular."
    },
    "podemos": {
     "value": 2,
@@ -2791,6 +3359,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "Las 3 fichas de educación (ratios, personal y financiación hacia el 6%) no tratan los conciertos educativos."
+   },
    "fa": {
     "value": 1,
     "confidence": "alta",
@@ -2810,6 +3386,14 @@
      "E": "Baja"
     },
     "rationale": "ED03 (Red pública y conciertos) reorienta recursos hacia la provisión pública de forma progresiva y mantiene la escolarización durante la transición. No fija el fin de toda financiación concertada: +1."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre conciertos educativos. PNV-07-01 'delimita defensa competencial, sin señalar cada reforma estatal que rechaza'."
    },
    "podemos": {
     "value": 1,
@@ -2946,6 +3530,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la LOMLOE ni sobre exámenes externos o requisitos para pasar de curso."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -2953,6 +3545,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "El informe no menciona la LOMLOE ni exámenes externos. ED01-ED04 tratan financiación, ratios, conciertos y becas."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la LOMLOE ni sobre exámenes externos. PNV-07-01 se limita a preservar las decisiones educativas vascas."
    },
    "podemos": {
     "value": null,
@@ -3105,6 +3705,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-09-07",
+      "page": 45,
+      "quote": "Proteger el acceso libre, seguro, confidencial y digno al aborto",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone proteger el acceso al aborto con perímetros en centros y protocolos frente al acoso."
+   },
    "fa": {
     "value": 2,
     "confidence": "media",
@@ -3124,6 +3744,38 @@
      "E": "Media"
     },
     "rationale": "S08 (Prevención y derechos reproductivos) mejora el acceso efectivo y protege esos derechos. El informe no nombra el aborto literalmente, por eso confianza media."
+   },
+   "pnv": {
+    "value": 2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-09-03",
+      "page": 32,
+      "quote": "Proteger acceso a salud sexual y reproductiva y modificar Seguridad Ciudadana para establecer perímetros de al menos 150 metros en clínicas de interrupción del embarazo",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-09-03",
+      "page": 32,
+      "quote": "Proteger acceso a salud sexual y",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-09-03",
+      "page": 32,
+      "quote": "interrupción del embarazo, con medidas",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Unidad explícita para proteger el acceso a la interrupción del embarazo con perímetros de 150 metros. La referencia a la sanidad pública se deduce de la protección del acceso, sin cita propia."
    },
    "podemos": {
     "value": 2,
@@ -3256,6 +3908,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-10-03",
+      "page": 49,
+      "quote": "eliminación de barreras en sanidad, educación, vivienda y protección social, con independencia de la situación administrativa",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-10-03",
+      "page": 49,
+      "quote": "eliminación de barreras en sanidad, educación, vivienda y protección social, con independencia de la situación administrativa.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone acceso a vivienda y protección social sin depender de la situación administrativa, lo contrario de una prioridad por nacionalidad. EHB-05-08 limita compras privadas de extranjeros multipropietarios, que es otra medida."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -3263,6 +3941,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "M04 'Medidas antirracistas y ampliación de derechos políticos' (p. 20) no trata prioridad por nacionalidad en vivienda o ayudas."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre prioridad por nacionalidad en vivienda o ayudas."
    },
    "podemos": {
     "value": -1,
@@ -3420,6 +4106,38 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-09-11",
+      "page": 48,
+      "quote": "Desarrollar el artículo 50 de la Ley 4/2023 sobre adecuación de documentos expedidos en España a personas extranjeras trans.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-09-10",
+      "page": 47,
+      "quote": "proteger derechos LGTBIQ+",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-09-10",
+      "page": 47,
+      "quote": "Prohibir prácticas de conversión, proteger derechos LGTBIQ+",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone desarrollar la Ley 4/2023 para personas extranjeras trans y proteger derechos LGTBIQ+. No hay frase explícita sobre la autodeterminación registral general."
+   },
    "fa": {
     "value": 1,
     "confidence": "media",
@@ -3439,6 +4157,38 @@
      "E": "Media"
     },
     "rationale": "IG04 extiende el reconocimiento registral a personas no binarias. No menciona el cambio por declaración propia: versión parcial."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-09-07",
+      "page": 34,
+      "quote": "para que personas extranjeras trans puedan adecuar a su identidad de género la documentación expedida en España",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-09-06",
+      "page": 33,
+      "quote": "Preservar derechos LGTBIQ+",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-09-06",
+      "page": 33,
+      "quote": "Preservar derechos LGTBIQ+, reforzar",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone preservar derechos LGTBIQ+ y desarrollar el artículo 50 de la Ley 4/2023 para personas extranjeras trans. No menciona de forma expresa la autodeterminación registral: +1."
    },
    "podemos": {
     "value": 1,
@@ -3541,6 +4291,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "EHB-09-06 pide ampliar acceso, elevar cuantías y simplificar el IMV. No documenta posición sobre rechazar ofertas de empleo."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -3548,6 +4306,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "IG01 amplía y automatiza el IMV (p. 19) sin tratar su retirada por rechazar ofertas de empleo."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre el Ingreso Mínimo Vital y las ofertas de empleo. Alcance del ámbito 9: las fichas 'no constituyen un nuevo diseño completo de renta mínima'."
    },
    "podemos": {
     "value": 2,
@@ -3684,6 +4450,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-10-01",
+      "page": 49,
+      "quote": "Facilitar la regularización y las autorizaciones de residencia y trabajo, prevenir la irregularidad sobrevenida",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone facilitar la regularización y una nueva ley de extranjería. La nota fija +2 para abrir una vía permanente."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -3703,6 +4489,38 @@
      "E": "Media"
     },
     "rationale": "M01 completa los procesos de regularización abiertos y crea cauces permanentes. La nota del catálogo cuenta ambas cosas como +2."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-10-03",
+      "page": 36,
+      "quote": "procedimientos de regularización ya previstos para quienes cumplan sus requisitos",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-10-03",
+      "page": 36,
+      "quote": "procedimientos de regularización ya",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-10-03",
+      "page": 36,
+      "quote": "previstos para quienes cumplan sus",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Favorece los procedimientos de regularización ya previstos. El informe precisa: 'No propone regularización general nueva ni cuotas concretas'. Versión parcial: +1."
    },
    "podemos": {
     "value": 2,
@@ -3863,6 +4681,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-10-02",
+      "page": 49,
+      "quote": "Rechazar las disposiciones restrictivas del Pacto Europeo sobre Migración y Asilo, las devoluciones sumarias, la externalización de fronteras y los centros de internamiento",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Rechaza devoluciones sumarias y centros de internamiento y pide procedimientos individuales con garantías."
+   },
    "fa": {
     "value": -2,
     "confidence": "media",
@@ -3894,6 +4732,38 @@
      "E": "Media"
     },
     "rationale": "M03 revisa retornos y busca alternativas al internamiento, y M01 abre cauces permanentes de regularización. El informe aclara que no elimina toda obligación de retorno, pero la propuesta es contraria a expulsar de forma sistemática."
+   },
+   "pnv": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-10-07",
+      "page": 38,
+      "quote": "promover alternativas a internamiento en CIE e investigar posibles vulneraciones de derechos",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-10-07",
+      "page": 38,
+      "quote": "Reforzar garantías de migrantes y",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-10-07",
+      "page": 38,
+      "quote": "alternativas a internamiento en CIE e",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Pide reforzar garantías en frontera y alternativas al internamiento en CIE. No habla de expulsiones sistemáticas ni de más retornos: versión parcial de lo contrario, -1. 'No establece una abolición general de CIE'."
    },
    "podemos": {
     "value": -2,
@@ -4048,6 +4918,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "EHB-10-05 trata voto y representación de residentes extranjeros. El informe dice que no identifica si afecta a extranjeros sin nacionalidad o a nacionalizados; no hay posición sobre requisitos de nacionalidad."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -4055,6 +4933,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "El informe no documenta posición sobre requisitos de nacionalidad. Dice 'No se equiparan regularización, asilo y nacionalidad' y que la regularización 'no supone ciudadanía automática'."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre los requisitos de nacionalidad."
    },
    "podemos": {
     "value": 2,
@@ -4183,6 +5069,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-11-01",
+      "page": 53,
+      "quote": "Volver a presentar la proposición de protección de libertades y seguridad ciudadana",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-11-01",
+      "page": 53,
+      "quote": "No se describe como derogación de toda la legislación de seguridad",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone reformar 4 medidas de la Ley Orgánica 4/2015. El informe dice: «No se describe como derogación de toda la legislación de seguridad»: versión parcial."
+   },
    "fa": {
     "value": 1,
     "confidence": "alta",
@@ -4202,6 +5114,38 @@
      "E": "Media"
     },
     "rationale": "J01 reforma la ley de seguridad ciudadana y los delitos de expresión. El informe dice reformar, no sustituir por una ley nueva: +1."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-11-04",
+      "page": 40,
+      "quote": "Reformar Seguridad Ciudadana para retirar restricciones desproporcionadas de derechos",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-11-04",
+      "page": 40,
+      "quote": "Reformar Seguridad Ciudadana para retirar",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-11-04",
+      "page": 40,
+      "quote": "restricciones desproporcionadas de",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone reformar la Ley de Seguridad Ciudadana, no sustituirla entera ('No enumera artículos a derogar o modificar'). Versión parcial: +1."
    },
    "podemos": {
     "value": 1,
@@ -4318,6 +5262,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "Ninguna ficha propone que el Estado asuma deuda autonómica. Sobre Cupo y Aportación (EHB-13-06), el informe dice: «No puede inferirse ni una rebaja concreta de pagos»."
+   },
    "fa": {
     "value": 1,
     "confidence": "media",
@@ -4337,6 +5289,14 @@
      "E": "Media"
     },
     "rationale": "T02 reestructura la deuda autonómica con una quita entre administraciones sin cuantificar. No consta que sea una parte importante: +1."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre asumir deuda autonómica. Las unidades del ámbito 13 tratan Concierto, transferencias y autogobierno."
    },
    "podemos": {
     "value": null,
@@ -4451,6 +5411,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la elección del Consejo General del Poder Judicial."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -4458,6 +5426,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "IN02 'Modificar reglas de elección y desbloqueo' (p. 22). El informe advierte: 'El programa distingue la elección de vocales judiciales de otros integrantes del consejo. No se debe resumir como una propuesta para elegir a todos por mayoría absoluta.' No consta quién elegiría a los vocales judiciales."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre la elección del CGPJ. PNV-11-07 propone un Consejo Vasco de Justicia, que no cambia la composición del CGPJ."
    },
    "podemos": {
     "value": -1,
@@ -4594,6 +5570,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre suprimir o reformar el Senado."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -4601,6 +5585,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "El informe no menciona el Senado."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre suprimir o reformar el Senado."
    },
    "podemos": {
     "value": -1,
@@ -4715,6 +5707,38 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "media",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EHB-13-05",
+      "page": 60,
+      "quote": "Asumir competencias plenas en migración, Seguridad Social, protección social y desempleo, puertos y aeropuertos, energía",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-13-04",
+      "page": 60,
+      "quote": "Exigir todas las transferencias pendientes previstas en el Estatuto vasco y en el Amejoramiento navarro.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-13-13",
+      "page": 65,
+      "quote": "Defender las competencias sanitarias actuales de las instituciones vascas",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Pide más competencias para Euskadi y Navarra, lo contrario de recentralizar. La nota fija que más autogobierno es negativo. El autogobierno figura en la síntesis del informe."
+   },
    "fa": {
     "value": -1,
     "confidence": "media",
@@ -4746,6 +5770,38 @@
      "E": "Media"
     },
     "rationale": "Desarrollo federal (T04) y república federal (IN04) van contra recentralizar; los mínimos tributarios comunes (T02) son coordinación (+1 según la nota). Saldo -1."
+   },
+   "pnv": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "PNV-13-03",
+      "page": 46,
+      "quote": "Completar transferencias pendientes del Estatuto con recursos para ejercerlas y oponerse a vaciamiento o recentralización",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-13-03",
+      "page": 46,
+      "quote": "oponerse a vaciamiento o recentralización",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-13-03",
+      "page": 46,
+      "quote": "Completar transferencias pendientes del",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Pide completar transferencias y se opone a la recentralización. La nota fija más autogobierno como negativo. El autogobierno figura entre las prioridades de las conclusiones ejecutivas."
    },
    "podemos": {
     "value": -1,
@@ -4922,6 +5978,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-14-03",
+      "page": 66,
+      "quote": "Mantener el calendario de cierre nuclear definido en el PNIEC.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "Propone mantener el calendario de cierre; la nota fija -1. El informe dice que no aclara si revierte la prórroga de Almaraz, lo que sería -2."
+   },
    "fa": {
     "value": -2,
     "confidence": "media",
@@ -4953,6 +6029,14 @@
      "E": "Baja"
     },
     "rationale": "EN04 cierra Almaraz en 2027-2028, antes de la autorización vigente hasta el 8/06/2030. La nota cuenta cerrar antes del calendario como -2; el informe advierte que el programa usa un calendario anterior."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre el calendario de cierre nuclear."
    },
    "podemos": {
     "value": -1,
@@ -5095,6 +6179,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "alta",
+    "evidence": [
+     {
+      "unitId": "EHB-14-01",
+      "page": 66,
+      "quote": "Elevar los objetivos del PNIEC para adelantar la descarbonización al menos a 2045",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-14-01",
+      "page": 66,
+      "quote": "Elevar los objetivos del PNIEC para adelantar la descarbonización al menos a 2045 y reducir el uso de combustibles fósiles en todos los sectores.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "Propone elevar los objetivos climáticos y adelantar la descarbonización a 2045, lo contrario de frenarlos. La meta de 2045 figura en la síntesis."
+   },
    "fa": {
     "value": -2,
     "confidence": "media",
@@ -5120,6 +6230,38 @@
      "E": "Media"
     },
     "rationale": "EN01 (100% de electricidad renovable en 2040) y EN05 (inversión climática del 3,5% del PIB) refuerzan la política climática: contrario a frenar el Pacto Verde."
+   },
+   "pnv": {
+    "value": 0,
+    "confidence": "baja",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-14-01",
+      "page": 49,
+      "quote": "revisar la planificación estatal y el PNIEC según necesidades industriales y de suministro",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-14-11",
+      "page": 52,
+      "quote": "Apoyar la electrificación de movilidad y climatización con ayudas e incentivos fiscales",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-15-08",
+      "page": 57,
+      "quote": "Revisar las restricciones europeas a la pesca de fondo en las 87 zonas del Atlántico nororiental",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Apoya instrumentos de descarbonización (electrificación, renovables cercanas, biometano) y a la vez pide revisar el PNIEC por necesidades industriales y restricciones ambientales europeas a la pesca. No pide frenar el Pacto Verde: posición mixta, confianza baja."
    },
    "podemos": {
     "value": -2,
@@ -5280,6 +6422,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-02-07",
+      "page": 13,
+      "quote": "Eliminar subvenciones directas e indirectas a combustibles fósiles, incluyendo equiparación de la imposición sobre hidrocarburos y supresión de la exención del queroseno de aviación.",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-02-08",
+      "page": 14,
+      "quote": "Revisar la fiscalidad energética para que favorezca la electricidad respecto a combustibles fósiles.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "EHB-02-07 equipara al alza la imposición sobre hidrocarburos y EHB-02-08 pide que la fiscalidad favorezca la electricidad, sin rebajarla. Subir los carburantes es una versión parcial de lo contrario."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -5287,6 +6455,38 @@
     "evidence": [],
     "viability": {},
     "rationale": "F07 'Reorientar gravamen según objetivos distributivos y ambientales' (p. 8) no nombra electricidad ni carburantes; EN03 abarata la luz por tarifa."
+   },
+   "pnv": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-14-03",
+      "page": 49,
+      "quote": "Se propone convertir el 0,5% en permanente.",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-14-03",
+      "page": 49,
+      "quote": "Reducir permanentemente el Impuesto",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-02-01",
+      "page": 12,
+      "quote": "revisar suministros energéticos y transporte",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Alta"
+    },
+    "rationale": "PNV-14-03 propone dejar el Impuesto Especial sobre la Electricidad en el 0,5 % de forma permanente y PNV-02-01 estudia rebajar el IVA de suministros. No hay rebaja para carburantes, por eso es parcial."
    },
    "podemos": {
     "value": null,
@@ -5409,6 +6609,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona el acuerdo entre la UE y Mercosur."
+   },
    "fa": {
     "value": null,
     "confidence": null,
@@ -5416,6 +6624,14 @@
     "evidence": [],
     "viability": {},
     "rationale": "El informe no menciona Mercosur y dice: 'La afinidad en defensa del campo no acredita identidad en regulación ambiental, agua o política comercial' (p. 26)."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no menciona el acuerdo UE-Mercosur. Pedir condiciones equivalentes a las importaciones (PNV-15-02) no equivale a oponerse al acuerdo."
    },
    "podemos": {
     "value": null,
@@ -5548,6 +6764,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-16-08",
+      "page": 77,
+      "quote": "Mantener y ampliar los descuentos y abonos de uso frecuente",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-16-08",
+      "page": 77,
+      "quote": "Mantener y ampliar los descuentos y abonos de uso frecuente, incluida financiación estatal de redes autonómicas, forales y locales.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Alta",
+     "C": "Media",
+     "E": "Alta"
+    },
+    "rationale": "Propone mantener y ampliar descuentos y abonos, no la gratuidad general. La nota fija +1 para abonos baratos."
+   },
    "fa": {
     "value": 1,
     "confidence": "alta",
@@ -5567,6 +6809,14 @@
      "E": "Media"
     },
     "rationale": "TR01 abarata tarifas y abonos con condiciones por edad, sin gratuidad general. La nota cuenta abonos baratos o gratuidad para grupos como +1."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "PNV-02-01 incluye revisar el IVA del transporte público, un compromiso de estudio que abarataría el billete. No propone gratuidad. Indicio indirecto."
    },
    "podemos": {
     "value": 2,
@@ -5673,6 +6923,14 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre impuestos a las plataformas tecnológicas."
+   },
    "fa": {
     "value": 2,
     "confidence": "alta",
@@ -5698,6 +6956,14 @@
      "E": "NE"
     },
     "rationale": "El programa grava los servicios digitales al 15% y añade un gravamen europeo del 50% en acciones a grandes empresas de IA."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "El informe no documenta posición sobre impuestos a plataformas tecnológicas. PNV-17-02 trata el cumplimiento del DSA."
    },
    "podemos": {
     "value": 1,
@@ -5812,6 +7078,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-18-03",
+      "page": 82,
+      "quote": "oponerse al aumento del gasto en defensa exigido por la OTAN",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "NE",
+     "E": "NE"
+    },
+    "rationale": "Se opone al aumento del gasto en defensa exigido por la OTAN. La nota fija -2 para congelar o revertir el gasto."
+   },
    "fa": {
     "value": -2,
     "confidence": "alta",
@@ -5831,6 +7117,14 @@
      "E": "Media"
     },
     "rationale": "X01 rechaza la senda de aumento del gasto en defensa. La nota cuenta congelar el gasto militar como -2. IU va más allá y pide salir de la OTAN, lo que no se atribuye al conjunto."
+   },
+   "pnv": {
+    "value": null,
+    "confidence": null,
+    "salience": "baja",
+    "evidence": [],
+    "viability": {},
+    "rationale": "Alcance del ámbito 18: 'No define una política completa de defensa, gasto militar o posición detallada sobre todos los conflictos internacionales.'"
    },
    "podemos": {
     "value": -2,
@@ -6003,6 +7297,26 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": 1,
+    "confidence": "baja",
+    "salience": "baja",
+    "evidence": [
+     {
+      "unitId": "EHB-15-01",
+      "page": 70,
+      "quote": "Avanzar en renacionalización y territorialización de la PAC para diseñar una política agraria propia dentro del marco europeo.",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "Baja",
+     "E": "NE"
+    },
+    "rationale": "Pide renacionalizar y territorializar la PAC dentro del marco europeo. Es una sola área y con foco territorial; otras fichas defienden posiciones dentro de la UE."
+   },
    "fa": {
     "value": -1,
     "confidence": "baja",
@@ -6028,6 +7342,38 @@
      "E": "NE"
     },
     "rationale": "X04 cambia la gobernanza fiscal europea y las funciones del BCE, y D08 crea un fondo europeo con un gravamen común. Pide más capacidad fiscal europea, no recuperar competencias; sin frase explícita: -1."
+   },
+   "pnv": {
+    "value": -1,
+    "confidence": "media",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-18-06",
+      "page": 69,
+      "quote": "Apoyar una UE más democrática, competitiva y social, con mayor autonomía estratégica y capacidad industrial",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-18-06",
+      "page": 69,
+      "quote": "Apoyar una UE más democrática,",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-18-06",
+      "page": 69,
+      "quote": "competitiva y social, con mayor autonomía",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "NE",
+     "B": "NE",
+     "C": "NE",
+     "E": "NE"
+    },
+    "rationale": "Apoya una UE más democrática y con más capacidad; la nota fija ese tipo de petición como negativa. Es una orientación general sin reformas ('Es una orientación general: no define reformas'), por eso -1 y no -2."
    },
    "podemos": {
     "value": null,
@@ -6167,6 +7513,32 @@
    ]
   },
   "positions": {
+   "bildu": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "EHB-12-02",
+      "page": 56,
+      "quote": "Ampliar la Ley de Memoria Democrática para reconocer y reparar colectivos todavía no cubiertos",
+      "sourceReport": "bildu"
+     },
+     {
+      "unitId": "EHB-12-02",
+      "page": 56,
+      "quote": "Ampliar la Ley de Memoria Democrática para reconocer y reparar colectivos todavía no cubiertos por vulneraciones de derechos humanos",
+      "sourceReport": "bildu"
+     }
+    ],
+    "viability": {
+     "A": "Alta",
+     "B": "Media",
+     "C": "Baja",
+     "E": "Media"
+    },
+    "rationale": "Propone ampliar la Ley de Memoria Democrática, lo contrario de derogarla."
+   },
    "fa": {
     "value": -2,
     "confidence": "media",
@@ -6186,6 +7558,38 @@
      "E": "Media"
     },
     "rationale": "CU04 (Memoria y protección cultural) amplía archivos y reparación. Es contrario a derogar la Ley de Memoria; el informe no nombra la ley, por eso confianza media."
+   },
+   "pnv": {
+    "value": -2,
+    "confidence": "alta",
+    "salience": "media",
+    "evidence": [
+     {
+      "unitId": "PNV-12-03",
+      "page": 44,
+      "quote": "Aplicar memoria histórica y democrática para verdad, justicia y reparación",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-12-03",
+      "page": 44,
+      "quote": "Existe una Ley de Memoria Democrática y el programa propone su aplicación",
+      "sourceReport": "pnv"
+     },
+     {
+      "unitId": "PNV-12-03",
+      "page": 44,
+      "quote": "Aplicar memoria histórica y democrática",
+      "sourceReport": "pnv"
+     }
+    ],
+    "viability": {
+     "A": "Media",
+     "B": "Media",
+     "C": "Media",
+     "E": "Media"
+    },
+    "rationale": "Propone aplicar la Ley de Memoria Democrática, lo contrario de derogarla."
    },
    "podemos": {
     "value": -2,
